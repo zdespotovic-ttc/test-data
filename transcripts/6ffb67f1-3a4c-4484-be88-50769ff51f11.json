@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4b16c61f835a4e3ca2a09b0f",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-4b16c61f835a4e3ca2a09b0f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 111,
+      "call_id": "4b16c61f835a4e3ca2a09b0f",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "scenario": "A returning patient calls to schedule a follow-up wound care visit for next Tuesday morning. Friendly conversation, the receptionist confirms the appointment for 10 AM. Patient is grateful and looking forward to the visit.\n"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I'm calling to schedule a follow-up visit for my wound care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Charles! It's great to hear from you. When would you like to schedule that visit?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I was hoping for next Tuesday morning, if possible.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me check our schedule... How does 10 AM sound?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds perfect!",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great! I’ll put you down for 10 AM next Tuesday for your wound care visit.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "You're welcome! It's always a pleasure to help you. How have you been feeling since your last visit?",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Well, I’m still on the mend, but the care has really been helping. I’m grateful for that.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m glad to hear that. It's important to stay on top of your recovery.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, and I’ve been keeping track of everything for my records.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That’s a great idea! Would you like me to include a detailed progress report to send to the VA after your next visit?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please! That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure thing, Charles. I’ll make a note for the nurse to prepare that.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thanks, I appreciate it. Also, is it possible to have a male nurse for the visit?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, I’ll make sure to schedule a male nurse for your appointment.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you! That makes me feel more comfortable.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 78,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Not at the moment, just looking forward to the visit.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Wonderful! We’re looking forward to seeing you too.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thanks, Margaret. You've been very helpful as always.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It’s my pleasure, Charles! If you think of anything else, don’t hesitate to call us.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I will, thank you again. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, take care! Goodbye!",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 111,
+          "channel": "right",
+          "id": 25
+        }
+      ],
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Charles Thompson. I'm calling to schedule a follow-up visit for my wound care. Hi Charles! It's great to hear from you. When would you like to schedule that visit? I was hoping for next Tuesday morning, if possible. Let me check our schedule... How does 10 AM sound? That sounds perfect! Great! I’ll put you down for 10 AM next Tuesday for your wound care visit. Thank you so much, Margaret. I really appreciate it. You're welcome! It's always a pleasure to help you. How have you been feeling since your last visit? Well, I’m still on the mend, but the care has really been helping. I’m grateful for that. I’m glad to hear that. It's important to stay on top of your recovery. Yes, and I’ve been keeping track of everything for my records. That’s a great idea! Would you like me to include a detailed progress report to send to the VA after your next visit? Yes, please! That would be very helpful. Sure thing, Charles. I’ll make a note for the nurse to prepare that. Thanks, I appreciate it. Also, is it possible to have a male nurse for the visit? Absolutely, I’ll make sure to schedule a male nurse for your appointment. Thank you! That makes me feel more comfortable. Of course! Is there anything else I can assist you with today? Not at the moment, just looking forward to the visit. Wonderful! We’re looking forward to seeing you too. Thanks, Margaret. You've been very helpful as always. It’s my pleasure, Charles! If you think of anything else, don’t hesitate to call us. I will, thank you again. Have a great day! You too, take care! Goodbye! Goodbye!",
+      "summary": "",
+      "duration": 111,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}
