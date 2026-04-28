@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3b4187d854764a389f0ad88c",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-3b4187d854764a389f0ad88c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 126,
+      "call_id": "3b4187d854764a389f0ad88c",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "scenario": "A first-time caller asks about CareFirst's business hours, service area, and whether their caregivers are licensed and insured. Also asks about the process for getting started. No appointment or quote requested — purely informational.\n"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is William Chen. I'm just looking for some information about your services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, William! What specific information are you looking for?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "First, could you tell me your business hours?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Yes, we are open Monday through Friday from 7 AM to 7 PM, Saturday from 8 AM to 5 PM, and we’re available for on-call emergencies on Sundays.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great, thank you! And what areas do you serve?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We primarily serve the Wichita area and surrounding neighborhoods. If you have a specific location in mind, I can confirm if we cover that.",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I live in the east side of Wichita. Is that covered?",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, we definitely cover the east side.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s good to know. Are your caregivers licensed and insured?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely! All of our caregivers are fully licensed and insured to provide safe and reliable care.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That's reassuring to hear. What’s the process if I decide to get started?",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The process begins with a free consultation. We’ll assess your needs and develop a personalized care plan tailored for you.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "And how long does that typically take?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The consultation usually takes about an hour, and we can get started on the care plan right after.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect! Do I need to provide any specific documents?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Just some basic information about your medical history and any insurance details if applicable.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Got it. I have my insurance details ready.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "That’s great! Once you’re ready, you can call us or visit our website to schedule the consultation.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I might do that. Do you have a referral program or any discounts available?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we offer a referral program where you can receive a discount for every new client you refer to us.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds interesting. I’ll keep that in mind!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Excellent! If you have other questions or need assistance, feel free to call back anytime.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 114,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much for your help, Margaret!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 119,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, William! Have a great day!",
+          "speaker": "local party",
+          "start_time": 119,
+          "end_time": 122,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 124,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 126,
+          "channel": "left",
+          "id": 26
+        }
+      ],
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is William Chen. I'm just looking for some information about your services. Of course, William! What specific information are you looking for? First, could you tell me your business hours? Yes, we are open Monday through Friday from 7 AM to 7 PM, Saturday from 8 AM to 5 PM, and we’re available for on-call emergencies on Sundays. Great, thank you! And what areas do you serve? We primarily serve the Wichita area and surrounding neighborhoods. If you have a specific location in mind, I can confirm if we cover that. I live in the east side of Wichita. Is that covered? Yes, we definitely cover the east side. That’s good to know. Are your caregivers licensed and insured? Absolutely! All of our caregivers are fully licensed and insured to provide safe and reliable care. That's reassuring to hear. What’s the process if I decide to get started? The process begins with a free consultation. We’ll assess your needs and develop a personalized care plan tailored for you. And how long does that typically take? The consultation usually takes about an hour, and we can get started on the care plan right after. Perfect! Do I need to provide any specific documents? Just some basic information about your medical history and any insurance details if applicable. Got it. I have my insurance details ready. That’s great! Once you’re ready, you can call us or visit our website to schedule the consultation. I might do that. Do you have a referral program or any discounts available? Yes, we offer a referral program where you can receive a discount for every new client you refer to us. That sounds interesting. I’ll keep that in mind! Excellent! If you have other questions or need assistance, feel free to call back anytime. Thank you so much for your help, Margaret! You’re very welcome, William! Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "duration": 126,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}
