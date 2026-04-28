@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5c08208b65c74803b504ab59",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-5c08208b65c74803b504ab59",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 165,
+      "call_id": "5c08208b65c74803b504ab59",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "scenario": "An angry family member calls to complain that the caregiver arrived two hours late yesterday and did not complete the full care plan. Says this has happened multiple times. Demands to speak with a supervisor immediately. Threatens to leave a negative review.\n"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Thomas White. I'm really upset because the caregiver you sent for my mother yesterday arrived two hours late.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Thomas. Can you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, not only did she arrive late, but she also didn't complete the full care plan. This is not the first time this has happened!",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be for you and your mother. I sincerely apologize.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Apologies don't fix the issue! I want to speak to a supervisor right now!",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I can certainly escalate this. May I put you on hold for just a moment while I get a supervisor?",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "No! I need to speak to someone immediately!",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand, Thomas. Let me connect you with Angela Martinez, our Client Services Manager.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I don't want to be transferred! I want to discuss this with you!",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I appreciate your concerns, but Angela will be able to assist you more directly.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 51,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Fine, but I'm really considering leaving a negative review if this isn't resolved.",
+          "speaker": "remote party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand, and I want to ensure we address your concerns.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Please hold for one moment while I transfer you to Angela.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "(transferring) Angela, this is Margaret. I have Thomas White on the line regarding his mother's care. He has some serious concerns.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Hello? Is anyone there?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, transferring you now. Thank you for your patience.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "(Angela joins the call) Hi, Thomas, this is Angela Martinez. I understand you're having concerns about your mother's care.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes! The caregiver was late, didn't follow the care plan, and this has happened multiple times!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I'm so sorry to hear that, Thomas. This is unacceptable, and I appreciate you bringing it to my attention.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "What are you going to do about it?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I will personally investigate this matter and ensure it is addressed with our staff immediately.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Additionally, I would like to offer you a free consultation for our specialized dementia care services.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate that, but I just want reliable care for my mother.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, and we will work hard to regain your trust. Can I get your email to follow up?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, it's thomas.white@email.com.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Thomas. I’ll send you an email with updates and my direct number for further communication.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Okay, I’ll wait for your email.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Thank you for your understanding, Thomas. We appreciate your feedback and will work diligently to improve.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Alright, I hope to hear from you soon.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You will. Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 32
+        }
+      ],
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, this is Thomas White. I'm really upset because the caregiver you sent for my mother yesterday arrived two hours late. I'm sorry to hear that, Thomas. Can you tell me more about what happened? Well, not only did she arrive late, but she also didn't complete the full care plan. This is not the first time this has happened! I understand how frustrating that must be for you and your mother. I sincerely apologize. Apologies don't fix the issue! I want to speak to a supervisor right now! I can certainly escalate this. May I put you on hold for just a moment while I get a supervisor? No! I need to speak to someone immediately! I completely understand, Thomas. Let me connect you with Angela Martinez, our Client Services Manager. I don't want to be transferred! I want to discuss this with you! I appreciate your concerns, but Angela will be able to assist you more directly. Fine, but I'm really considering leaving a negative review if this isn't resolved. I understand, and I want to ensure we address your concerns. Please hold for one moment while I transfer you to Angela. (transferring) Angela, this is Margaret. I have Thomas White on the line regarding his mother's care. He has some serious concerns. Hello? Is anyone there? Yes, transferring you now. Thank you for your patience. (Angela joins the call) Hi, Thomas, this is Angela Martinez. I understand you're having concerns about your mother's care. Yes! The caregiver was late, didn't follow the care plan, and this has happened multiple times! I'm so sorry to hear that, Thomas. This is unacceptable, and I appreciate you bringing it to my attention. What are you going to do about it? I will personally investigate this matter and ensure it is addressed with our staff immediately. Additionally, I would like to offer you a free consultation for our specialized dementia care services. I appreciate that, but I just want reliable care for my mother. Absolutely, and we will work hard to regain your trust. Can I get your email to follow up? Yes, it's thomas.white@email.com. Thank you, Thomas. I’ll send you an email with updates and my direct number for further communication. Okay, I’ll wait for your email. Thank you for your understanding, Thomas. We appreciate your feedback and will work diligently to improve. Alright, I hope to hear from you soon. You will. Thank you for calling CareFirst Home Health. Have a great day! Bye. Goodbye.",
+      "summary": "",
+      "duration": 165,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}
