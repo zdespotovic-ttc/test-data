@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-04-28T01:37:54Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1f78568633fd433196153a1c",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63944559474-2d5cde70",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1f78568633fd433196153a1c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63944559474,
+      "call_id": "1f78568633fd433196153a1c",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1f78568633fd433196153a1c",
+      "media_name": "0dbc0f4fb4ac4a8c92ddb1cad3d45199.mp3",
+      "scenario": "A new prospect calls asking about post-surgery home care for their spouse. Asks detailed questions about services and pricing. The receptionist provides a quote for 4 hours of daily care. The caller is pleased with the pricing and says they want to move forward soon. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, this is Karen Lewis. I was referred by my husband’s cardiac surgeon's office. I'm looking for post-operative care for him after his surgery next month. Of course, Karen. I’m glad you called. Can you tell me a bit more about the care your husband will need? Yes, he will need help with daily activities and monitoring after his surgery. We can definitely assist with that. We provide specialized post-surgery recovery care. Great! Can you explain what that involves? Absolutely! Our post-surgery recovery care includes assistance with daily activities, medication management, and health monitoring. It typically ranges from 1 to 3 hours per visit, and it’s tailored to each client’s needs. That sounds good. What’s the pricing for that? Our rates for post-surgery recovery care are between $85 and $110 for each visit, depending on the level of care needed. And how many visits would you recommend for a day? Many families opt for 4 hours of care daily, which can be split into two visits if preferred. Would you be interested in that? Yes, that sounds reasonable. What would be the total cost for that? For 4 hours a day, the cost would be between $340 and $440 per day, depending on the specific services required. Okay, that seems manageable. Can I move forward with scheduling that? Certainly! I’ll need to gather a few details from you to get started. Sure, what do you need? I’ll need your husband’s full name, the date of surgery, and any specific care requests you may have. Also, we can discuss insurance options if you’d like. His name is John Lewis, and surgery is scheduled for May 15th. I’d like to discuss insurance as well. Perfect. I can arrange for our Care Coordinator Lisa Chen to assist you with insurance questions. That would be great. When can we speak with her? Lisa is available Monday through Saturday. I can set up a call for you this week. Would that work? Yes, please. That would be helpful. I’ll schedule that for you. Is there anything else I can assist you with today? No, that’s all for now. Thank you for your help! You’re welcome, Karen! We look forward to helping your husband. Have a great day! Thank you! You too!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Karen Lewis. I was referred by my husband’s cardiac surgeon's office. I'm looking for post-operative care for him after his surgery next month.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Karen. I’m glad you called. Can you tell me a bit more about the care your husband will need?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, he will need help with daily activities and monitoring after his surgery.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely assist with that. We provide specialized post-surgery recovery care.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! Can you explain what that involves?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! Our post-surgery recovery care includes assistance with daily activities, medication management, and health monitoring. It typically ranges from 1 to 3 hours per visit, and it’s tailored to each client’s needs.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds good. What’s the pricing for that?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our rates for post-surgery recovery care are between $85 and $110 for each visit, depending on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "And how many visits would you recommend for a day?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Many families opt for 4 hours of care daily, which can be split into two visits if preferred. Would you be interested in that?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that sounds reasonable. What would be the total cost for that?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "For 4 hours a day, the cost would be between $340 and $440 per day, depending on the specific services required.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, that seems manageable. Can I move forward with scheduling that?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Certainly! I’ll need to gather a few details from you to get started.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, what do you need?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll need your husband’s full name, the date of surgery, and any specific care requests you may have. Also, we can discuss insurance options if you’d like.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "His name is John Lewis, and surgery is scheduled for May 15th. I’d like to discuss insurance as well.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect. I can arrange for our Care Coordinator Lisa Chen to assist you with insurance questions.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be great. When can we speak with her?",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Lisa is available Monday through Saturday. I can set up a call for you this week. Would that work?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll schedule that for you. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s all for now. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Karen! We look forward to helping your husband. Have a great day!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you! You too!",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1f78568633fd433196153a1c",
+  "revision": "",
+  "status": "success"
+}
