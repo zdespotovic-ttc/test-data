@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2a7eb06781d6478b8b7da398",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-2a7eb06781d6478b8b7da398",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "call_id": "2a7eb06781d6478b8b7da398",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "scenario": "A caller asks for pricing on daily home health aide visits. When given the quote, they express strong concern about the cost, saying \"that seems really expensive\" and \"I can't afford that.\" They ask about discounts or payment plans. Frustrated tone throughout.\n"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Jennifer Taylor. I'm looking for some companion care for my elderly grandmother.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Jennifer. I’d be happy to help with that. Can you tell me a bit more about her needs?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, she needs help with daily activities like bathing, dressing, and just some companionship throughout the day.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds important. We offer personal care assistance and companion care services.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! Can you tell me about the pricing for those services?",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure! Our personal care assistance is priced between $28 and $35 per hour, and our companion care is $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Wow, that seems really expensive.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand your concern, Jennifer. It can add up depending on how many hours you need each day.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yeah, I really can't afford that. Is there any way you can offer discounts or payment plans?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Currently, we don’t have specific discounts, but we can discuss options like scheduling fewer hours per day or looking into state assistance programs.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I just need to find a way to make this more affordable. I feel frustrated about the costs.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I completely understand, and I want to help you find a solution that works.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "What if I only need a caregiver for a few hours each day? Would that help with costs?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 84,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, reducing the number of hours can significantly help. We can also consider our respite care, which is $30 to $38 per hour.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 92,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That might work, but I still need to think about it.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, take your time. Would you like me to send you some information about our services and options?",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! Can I confirm your email address to send the details?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sure, it’s jennifer.taylor@example.com.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Jennifer. I’ll send that over right away. Would you like to schedule a follow-up call to discuss further?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, I think that would be best. Maybe next week?",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 128,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "How about I call you Monday at 10 AM?",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That works for me.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect! I’ll talk to you then. Thank you for calling, Jennifer.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. Have a good day.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "left",
+          "id": 26
+        }
+      ],
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Jennifer Taylor. I'm looking for some companion care for my elderly grandmother. Of course, Jennifer. I’d be happy to help with that. Can you tell me a bit more about her needs? Yes, she needs help with daily activities like bathing, dressing, and just some companionship throughout the day. That sounds important. We offer personal care assistance and companion care services. Great! Can you tell me about the pricing for those services? Sure! Our personal care assistance is priced between $28 and $35 per hour, and our companion care is $25 to $30 per hour. Wow, that seems really expensive. I understand your concern, Jennifer. It can add up depending on how many hours you need each day. Yeah, I really can't afford that. Is there any way you can offer discounts or payment plans? Currently, we don’t have specific discounts, but we can discuss options like scheduling fewer hours per day or looking into state assistance programs. I just need to find a way to make this more affordable. I feel frustrated about the costs. I completely understand, and I want to help you find a solution that works. What if I only need a caregiver for a few hours each day? Would that help with costs? Yes, reducing the number of hours can significantly help. We can also consider our respite care, which is $30 to $38 per hour. That might work, but I still need to think about it. Absolutely, take your time. Would you like me to send you some information about our services and options? Yes, please. That would be helpful. Great! Can I confirm your email address to send the details? Sure, it’s jennifer.taylor@example.com. Thank you, Jennifer. I’ll send that over right away. Would you like to schedule a follow-up call to discuss further? Yes, I think that would be best. Maybe next week? How about I call you Monday at 10 AM? That works for me. Perfect! I’ll talk to you then. Thank you for calling, Jennifer. Thank you, Margaret. Have a good day. You too! Goodbye!",
+      "summary": "",
+      "duration": 145,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}
