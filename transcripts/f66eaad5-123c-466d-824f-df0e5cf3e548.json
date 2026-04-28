@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c385fc2159ec44e9b4b4ec15",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-c385fc2159ec44e9b4b4ec15",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 205,
+      "call_id": "c385fc2159ec44e9b4b4ec15",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "scenario": "A new prospect calls asking about post-surgery home care for their spouse. Asks detailed questions about services and pricing. The receptionist provides a quote for 4 hours of daily care. The caller is pleased with the pricing and says they want to move forward soon. First-time caller.\n"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret! My name is Tom Phillips, and I'm looking for home care services for my spouse, who just had surgery.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’d be happy to help you with that, Tom. Can you tell me a bit more about the surgery?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, she had a hip replacement, and I want to ensure she gets the best care during her recovery.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we specialize in post-surgery recovery care. How many hours of care are you considering?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I think we would need about four hours of daily care for her.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds great. Our Post-Surgery Recovery Care is priced between $85 and $110 for 1-3 hour visits.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "So, what would be the total for four hours?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "For four hours of care, it would be approximately $340 to $440 total, depending on the specific services needed.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That seems reasonable, especially for the level of care she needs. What does that include?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It includes assistance with mobility, personal hygiene, medication reminders, and companionship during her recovery.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 90,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds perfect! Can we have female caregivers for her?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we can definitely arrange for female caregivers as per your preference.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great! I’d like to move forward with setting this up. What are the next steps?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll need to gather some information from you, including your spouse’s specific needs, and we can also discuss care plan details.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, I can provide that. Do you also help with insurance authorization?",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we assist with insurance authorization and can help you navigate that process.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be very helpful. Can we schedule a time to talk in more detail?",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely! I can set up a meeting for you with our Care Coordinator, Lisa Chen. Would tomorrow morning work?",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 155,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that sounds good. What time?",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "How about 10 AM?",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect! I'll be available then.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I’ll send you a confirmation email with all the details.",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 185,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Tom! We look forward to assisting you and your spouse.",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks again! Talk to you tomorrow.",
+          "speaker": "remote party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Have a great day! Goodbye!",
+          "speaker": "local party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 200,
+          "end_time": 205,
+          "channel": "right",
+          "id": 27
+        }
+      ],
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret! My name is Tom Phillips, and I'm looking for home care services for my spouse, who just had surgery. I’d be happy to help you with that, Tom. Can you tell me a bit more about the surgery? Sure, she had a hip replacement, and I want to ensure she gets the best care during her recovery. Absolutely, we specialize in post-surgery recovery care. How many hours of care are you considering? I think we would need about four hours of daily care for her. That sounds great. Our Post-Surgery Recovery Care is priced between $85 and $110 for 1-3 hour visits. So, what would be the total for four hours? For four hours of care, it would be approximately $340 to $440 total, depending on the specific services needed. That seems reasonable, especially for the level of care she needs. What does that include? It includes assistance with mobility, personal hygiene, medication reminders, and companionship during her recovery. That sounds perfect! Can we have female caregivers for her? Yes, we can definitely arrange for female caregivers as per your preference. Great! I’d like to move forward with setting this up. What are the next steps? I’ll need to gather some information from you, including your spouse’s specific needs, and we can also discuss care plan details. Okay, I can provide that. Do you also help with insurance authorization? Yes, we assist with insurance authorization and can help you navigate that process. That would be very helpful. Can we schedule a time to talk in more detail? Absolutely! I can set up a meeting for you with our Care Coordinator, Lisa Chen. Would tomorrow morning work? Yes, that sounds good. What time? How about 10 AM? Perfect! I'll be available then. Great! I’ll send you a confirmation email with all the details. Thank you so much, Margaret. I appreciate your help. You're welcome, Tom! We look forward to assisting you and your spouse. Thanks again! Talk to you tomorrow. Have a great day! Goodbye! Goodbye!",
+      "summary": "",
+      "duration": 205,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}
