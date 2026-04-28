@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-719d7bd713ee464fa2da5ea6",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "call_record_id": "202603-719d7bd713ee464fa2da5ea6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "call_id": "719d7bd713ee464fa2da5ea6",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "scenario": "A patient's daughter calls disputing a charge on their latest invoice. Says they were billed for a visit on April 15th that never happened because the caregiver cancelled. Wants a refund and is frustrated about having to call about this.\n"
+    },
+    "transcription": {
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Harold Gonzalez, and I'm calling about an issue with my last invoice.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Harold. I’m sorry to hear that. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed I was charged for a visit on April 15th, but the caregiver cancelled, so we didn’t have the visit.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 19,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration. Let me take a look at that invoice for you.",
+          "speaker": "local party",
+          "start_time": 19,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. It’s really upsetting to see that charge when we didn’t receive the service.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I understand. Can you hold on one moment while I look into this?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Alright, Harold, I see the charge you’re referring to. It looks like it was indeed billed in error since the caregiver cancelled.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 51,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s what I thought! I really need that refund processed.",
+          "speaker": "remote party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can certainly help with that. I’ll initiate the refund for you right away.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How long will it take to process?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Refunds typically take about 3-5 business days to reflect in your account.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, I hope it’s quicker than that. This is just frustrating.",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I completely understand, Harold. I’ll also make a note to ensure this doesn’t happen again.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be appreciated. I don’t want to go through this again.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course. While I have you, would you be interested in adding more frequent vital sign checks?",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perhaps, but I’m primarily focused on resolving this issue right now.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Totally understandable. I’ll put a note in your file regarding that for future follow-up.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thanks, Margaret. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Harold. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that should be it for now.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I’ll process that refund and keep you updated.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Happy to help! Have a great day, Harold.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        }
+      ],
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Harold Gonzalez, and I'm calling about an issue with my last invoice. Hi, Harold. I’m sorry to hear that. What seems to be the problem? Well, I noticed I was charged for a visit on April 15th, but the caregiver cancelled, so we didn’t have the visit. I understand your frustration. Let me take a look at that invoice for you. Thank you. It’s really upsetting to see that charge when we didn’t receive the service. Absolutely, I understand. Can you hold on one moment while I look into this? Sure, take your time. Alright, Harold, I see the charge you’re referring to. It looks like it was indeed billed in error since the caregiver cancelled. That’s what I thought! I really need that refund processed. I can certainly help with that. I’ll initiate the refund for you right away. How long will it take to process? Refunds typically take about 3-5 business days to reflect in your account. Okay, I hope it’s quicker than that. This is just frustrating. I completely understand, Harold. I’ll also make a note to ensure this doesn’t happen again. That would be appreciated. I don’t want to go through this again. Of course. While I have you, would you be interested in adding more frequent vital sign checks? Perhaps, but I’m primarily focused on resolving this issue right now. Totally understandable. I’ll put a note in your file regarding that for future follow-up. Thanks, Margaret. That would be helpful. You’re welcome, Harold. Is there anything else I can assist you with today? No, that should be it for now. Great! I’ll process that refund and keep you updated. Thank you, I appreciate your help. Happy to help! Have a great day, Harold. You too, bye. Goodbye!",
+      "summary": "",
+      "duration": 135,
+      "language": "en"
+    }
+  },
+  "revision": "",
+  "status": "success"
+}
