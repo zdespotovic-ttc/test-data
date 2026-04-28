@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-04-28T01:39:25Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-607f049da5a848ffa5084365",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63944559565-bcb5e8fd",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-607f049da5a848ffa5084365",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63944559565,
+      "call_id": "607f049da5a848ffa5084365",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-607f049da5a848ffa5084365",
+      "media_name": "7e51b56e384246b7ad684d54d23b0a57.mp3",
+      "scenario": "A first-time caller asks about CareFirst's business hours, service area, and whether their caregivers are licensed and insured. Also asks about the process for getting started. No appointment or quote requested — purely informational.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, my name is Mary O'Connor. I'm just gathering some information about your services. Of course, Mary! What would you like to know? First, can you tell me your business hours? We’re open Monday to Friday from 7 AM to 7 PM, and on Saturday from 8 AM to 5 PM. On Sundays, we only handle on-call emergencies. Great, thanks! What about your service area? We primarily serve the Wichita area, but we can also provide services to surrounding communities depending on the specific needs. Good to know. Are your caregivers licensed and insured? Yes, all of our caregivers are licensed and insured to ensure the highest quality of care and safety for our clients. That’s reassuring, thank you. What’s the process for getting started with your services? To get started, we typically conduct an initial consultation to assess needs and develop a care plan. Is that consultation free, or is there a charge? The initial consultation is completely free of charge. That sounds good. How soon can someone come out for the consultation? We usually can schedule it within a week, depending on availability. Okay. I might consider that, but I also have a family member who is looking for personal care. We provide personal care assistance as well! Would you like information on that service too? Yes, I’d appreciate that. What are the rates? Our personal care assistance ranges from $28 to $35 per hour, depending on the specific services needed. That sounds reasonable. Do you have caregivers experienced in dementia care? Yes, we have specialized caregivers trained in dementia and Alzheimer's care, ensuring comfort and safety. Perfect! I’ll share this information with my family. Can I call back in a few days? Absolutely! Feel free to reach out anytime. If you want to set up that consultation, just ask for me. Thank you, Margaret. This has been really helpful. You’re welcome, Mary! Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Mary O'Connor. I'm just gathering some information about your services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Mary! What would you like to know?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "First, can you tell me your business hours?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We’re open Monday to Friday from 7 AM to 7 PM, and on Saturday from 8 AM to 5 PM. On Sundays, we only handle on-call emergencies.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great, thanks! What about your service area?",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We primarily serve the Wichita area, but we can also provide services to surrounding communities depending on the specific needs.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Good to know. Are your caregivers licensed and insured?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, all of our caregivers are licensed and insured to ensure the highest quality of care and safety for our clients.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s reassuring, thank you. What’s the process for getting started with your services?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "To get started, we typically conduct an initial consultation to assess needs and develop a care plan.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Is that consultation free, or is there a charge?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The initial consultation is completely free of charge.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. How soon can someone come out for the consultation?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We usually can schedule it within a week, depending on availability.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay. I might consider that, but I also have a family member who is looking for personal care.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We provide personal care assistance as well! Would you like information on that service too?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I’d appreciate that. What are the rates?",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our personal care assistance ranges from $28 to $35 per hour, depending on the specific services needed.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 97,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds reasonable. Do you have caregivers experienced in dementia care?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we have specialized caregivers trained in dementia and Alzheimer's care, ensuring comfort and safety.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect! I’ll share this information with my family. Can I call back in a few days?",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 114,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! Feel free to reach out anytime. If you want to set up that consultation, just ask for me.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. This has been really helpful.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Mary! Have a great day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-607f049da5a848ffa5084365",
+  "revision": "",
+  "status": "success"
+}
