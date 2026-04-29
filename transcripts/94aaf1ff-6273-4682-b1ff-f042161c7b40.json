@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-04-29T17:09:52Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-97be59d625cd4d6d8106b279",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63944701792-53364571",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-97be59d625cd4d6d8106b279",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 154,
+      "duration_ms": 154000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63944701792,
+      "call_id": "97be59d625cd4d6d8106b279",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-97be59d625cd4d6d8106b279",
+      "media_name": "6c740d5896144d5583558c3cb0f9efde.mp3",
+      "scenario": "A woman calls for the first time asking about in-home physical therapy for her elderly father. She asks about pricing and availability. The receptionist provides a quote for three visits per week. The caller sounds relieved and says she'll call back to confirm. First-time caller, prospect.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 154.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Lisa, and I'm calling about in-home physical therapy for my dad. Of course, Lisa. Can you tell me a bit more about your father's needs? Yes, he recently had a fall and needs help with his mobility and strength. I'm sorry to hear that. We can definitely help with that. Our physical therapy sessions last about 45 to 60 minutes each. That sounds good. What are the prices for the sessions? For in-home physical therapy, it's between $110 to $140 per session, depending on the specific services needed. Okay, and how many sessions would you recommend per week? Typically, we suggest three visits per week for optimal recovery. That makes sense. So, what would the total cost be for three sessions? It would be approximately $330 to $420 per week, depending on the specific needs during each session. That’s quite reasonable. Is there availability for this week? Yes, we do have openings. I can check our schedule for you. Great, I would appreciate that. Just a moment, please. I’ll pull up our schedule now. It looks like we have availability on Monday, Wednesday, and Friday afternoons. Would that work for you? Yes, that works perfectly! Excellent. I can get you set up with Dr. James Rodriguez, our physical therapist. Sounds good. What do I need to do next? I’ll need to take down some information about your father and confirm insurance details if applicable. Sure, I can provide that. Great! I’ll start with his full name and date of birth. His name is Robert Jenkins and he was born on April 14, 1938. Thank you, Lisa. I’ll also need your contact number. It’s 555-0199. Perfect! I’ll follow up with a confirmation call after checking your insurance. Thank you so much for your help today! You’re welcome! I look forward to hearing from you soon. I'll call back to confirm everything. Have a great day! You too, Lisa! Thank you for calling CareFirst Home Health.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Lisa, and I'm calling about in-home physical therapy for my dad.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Lisa. Can you tell me a bit more about your father's needs?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, he recently had a fall and needs help with his mobility and strength.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm sorry to hear that. We can definitely help with that.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Our physical therapy sessions last about 45 to 60 minutes each.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "That sounds good. What are the prices for the sessions?",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "For in-home physical therapy, it's between $110 to $140 per session, depending on the specific services needed.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 39,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Okay, and how many sessions would you recommend per week?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Typically, we suggest three visits per week for optimal recovery.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That makes sense. So, what would the total cost be for three sessions?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "It would be approximately $330 to $420 per week, depending on the specific needs during each session.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That’s quite reasonable. Is there availability for this week?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Yes, we do have openings. I can check our schedule for you.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Great, I would appreciate that.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Just a moment, please. I’ll pull up our schedule now.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "It looks like we have availability on Monday, Wednesday, and Friday afternoons. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that works perfectly!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Excellent. I can get you set up with Dr. James Rodriguez, our physical therapist.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good. What do I need to do next?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll need to take down some information about your father and confirm insurance details if applicable.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sure, I can provide that.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I’ll start with his full name and date of birth.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 119,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "His name is Robert Jenkins and he was born on April 14, 1938.",
+          "speaker": "remote party",
+          "start_time": 119,
+          "end_time": 123,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Lisa. I’ll also need your contact number.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "It’s 555-0199.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 131,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Perfect! I’ll follow up with a confirmation call after checking your insurance.",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 136,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much for your help today!",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 141,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome! I look forward to hearing from you soon.",
+          "speaker": "local party",
+          "start_time": 141,
+          "end_time": 146,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I'll call back to confirm everything. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 146,
+          "end_time": 150,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You too, Lisa! Thank you for calling CareFirst Home Health.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-97be59d625cd4d6d8106b279",
+  "revision": "",
+  "status": "success"
+}
