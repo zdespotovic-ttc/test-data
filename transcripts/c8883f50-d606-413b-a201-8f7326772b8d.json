@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-04-29T00:42:47Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-963085811bd4447f99f7ade8",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63944642567-e854755b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-963085811bd4447f99f7ade8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 97,
+      "duration_ms": 97000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63944642567,
+      "call_id": "963085811bd4447f99f7ade8",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-963085811bd4447f99f7ade8",
+      "media_name": "1a7c86a1433e43ee90626cc2381844ec.mp3",
+      "scenario": "A current patient calls to book their next weekly vitals check. They mention they're feeling much better. The receptionist confirms the appointment for Thursday at 9 AM. Warm conversation.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 97.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, it's Agnes Rodriguez. I'm calling to book my next weekly vitals check. Hi Agnes! It's great to hear from you. How are you feeling today? I'm feeling much better, thank you! The companionship really helps. I'm so glad to hear that! Your well-being is our top priority. Yes, it really is. So, can we schedule that appointment? Absolutely! Let’s see, I have Thursday at 9 AM available. Does that work for you? Yes, that works perfectly! Great! I’ll put you down for Thursday at 9 AM for your vitals check. Thank you! I appreciate it. Of course! Also, I wanted to remind you about the medication management service we offer. Would you be interested in that? Oh, I didn’t know about that. Can you tell me more? Sure! We provide medication reminders, organization, and supervision for $65 to $80. That sounds helpful. I could use some assistance with my meds. Would you like me to set up a consultation for that after your vitals check? Yes, please! That would be great. Perfect! I’ll follow up with you after your appointment on Thursday. Sounds good! Is there anything else I need to do? No, just be ready for your visit. Your caregiver will be looking forward to seeing you! Thank you, Margaret. I always enjoy our visits. You’re very welcome, Agnes. We’ll see you Thursday at 9 AM! Thank you! Bye! Bye! Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it's Agnes Rodriguez. I'm calling to book my next weekly vitals check.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes! It's great to hear from you. How are you feeling today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm feeling much better, thank you! The companionship really helps.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm so glad to hear that! Your well-being is our top priority.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it really is. So, can we schedule that appointment?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! Let’s see, I have Thursday at 9 AM available. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 28,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that works perfectly!",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great! I’ll put you down for Thursday at 9 AM for your vitals check.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you! I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course! Also, I wanted to remind you about the medication management service we offer. Would you be interested in that?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Oh, I didn’t know about that. Can you tell me more?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Sure! We provide medication reminders, organization, and supervision for $65 to $80.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds helpful. I could use some assistance with my meds.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Would you like me to set up a consultation for that after your vitals check?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please! That would be great.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect! I’ll follow up with you after your appointment on Thursday.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sounds good! Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "No, just be ready for your visit. Your caregiver will be looking forward to seeing you!",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I always enjoy our visits.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re very welcome, Agnes. We’ll see you Thursday at 9 AM!",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you! Bye!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Bye! Have a great day!",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 97,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-963085811bd4447f99f7ade8",
+  "revision": "",
+  "status": "success"
+}
