@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-04-29T00:42:35Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0a098ef18d5e4f8c8629e6d1",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63944642555-1b6277ab",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0a098ef18d5e4f8c8629e6d1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63944642555,
+      "call_id": "0a098ef18d5e4f8c8629e6d1",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0a098ef18d5e4f8c8629e6d1",
+      "media_name": "17430dde977640109f019f16455dffa9.mp3",
+      "scenario": "A woman calls for the first time asking about in-home physical therapy for her elderly father. She asks about pricing and availability. The receptionist provides a quote for three visits per week. The caller sounds relieved and says she'll call back to confirm. First-time caller, prospect.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, my name is Agnes Rodriguez. I’m calling to inquire about in-home physical therapy for my father. Of course, Agnes. I’d be happy to assist you with that. Can I ask how old your father is? He’s 78 and has been having some trouble with mobility after his recent surgery. I see. We can definitely help with that. Our physical therapy services are tailored for individuals recovering from surgeries. That’s good to know. What’s the pricing like for those services? Our physical therapy sessions range from $110 to $140 for a 45 to 60-minute visit. Okay, and how often would you recommend? Typically, we recommend three visits per week for the best results. That would total between $330 and $420 per week. Alright, that sounds reasonable. What’s the availability like? Our physical therapist, Dr. James Rodriguez, is available Monday through Friday. We can schedule a time that works for you. That’s great! I’ll need to discuss it with my family first. Absolutely, take your time. Would you like me to hold your information for a follow-up? Yes, please. I want to make sure we can get started soon. Sure! Could I have your father’s full name and any specific days you prefer for the sessions? His name is John Rodriguez, and I think Tuesday and Thursday would work best. Perfect, I’ll note that down. Would you also like information on transportation services if needed? That could be helpful, yes. Great! I can follow up with an email summarizing everything we discussed, including the transportation options. That sounds wonderful. Thank you so much for your help! You’re very welcome, Agnes! Just give us a call back when you’re ready to proceed. I will do that. Have a great day! You too! Thank you for calling CareFirst Home Health.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Agnes Rodriguez. I’m calling to inquire about in-home physical therapy for my father.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Agnes. I’d be happy to assist you with that. Can I ask how old your father is?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "He’s 78 and has been having some trouble with mobility after his recent surgery.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 19,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. We can definitely help with that. Our physical therapy services are tailored for individuals recovering from surgeries.",
+          "speaker": "local party",
+          "start_time": 19,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That’s good to know. What’s the pricing like for those services?",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our physical therapy sessions range from $110 to $140 for a 45 to 60-minute visit.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and how often would you recommend?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Typically, we recommend three visits per week for the best results. That would total between $330 and $420 per week.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Alright, that sounds reasonable. What’s the availability like?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Our physical therapist, Dr. James Rodriguez, is available Monday through Friday. We can schedule a time that works for you.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s great! I’ll need to discuss it with my family first.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, take your time. Would you like me to hold your information for a follow-up?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please. I want to make sure we can get started soon.",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! Could I have your father’s full name and any specific days you prefer for the sessions?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "His name is John Rodriguez, and I think Tuesday and Thursday would work best.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect, I’ll note that down. Would you also like information on transportation services if needed?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That could be helpful, yes.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I can follow up with an email summarizing everything we discussed, including the transportation options.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds wonderful. Thank you so much for your help!",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 107,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re very welcome, Agnes! Just give us a call back when you’re ready to proceed.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I will do that. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too! Thank you for calling CareFirst Home Health.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0a098ef18d5e4f8c8629e6d1",
+  "revision": "",
+  "status": "success"
+}
