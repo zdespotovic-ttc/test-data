@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-04-30T20:23:01Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2a323642f94347eaa786ee0e",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63944799781-b1c3a67a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2a323642f94347eaa786ee0e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63944799781,
+      "call_id": "2a323642f94347eaa786ee0e",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2a323642f94347eaa786ee0e",
+      "media_name": "cc3172d344cb4c27a384a82391a3d8a9.mp3",
+      "scenario": "A daughter calls extremely upset because the home health aide didn't show up this morning. Her mother missed medication. She demands a supervisor callback within the hour or she's switching agencies. Very angry tone throughout.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? This is William Chen! I’m calling because my mother’s home health aide didn’t show up this morning! Oh no, I’m so sorry to hear that. Can I have your mother’s name, please? Her name is Mrs. Chen. This is absolutely unacceptable! She missed her medication! I understand how concerning that is, Mr. Chen. I’ll look into this right away. You need to find out what happened! This has been a nightmare! Absolutely, I’ll escalate this issue immediately. Can I get your contact number in case I need to follow up? My number is +13165554321. But I need a supervisor to call me back within the hour! I will ensure that happens, Mr. Chen. I’ll also make sure your mother’s medication is addressed. She relies on this service, and if you can’t provide it, I will switch to another agency! I completely understand your frustration. Please know we take this seriously and will work to resolve it. You better! She’s been recovering from knee surgery, and this is just too much! Let me assure you, I’ll get the details on the aide’s absence and have a supervisor contact you shortly. I want to know why this happened! Is this how you treat your clients? Not at all, Mr. Chen. We pride ourselves on quality care, and this incident is not reflective of our standards. Well, it certainly feels that way! I expect a call back within the hour. You will receive that call, I assure you. Is there anything else I can assist you with right now? No, just make sure someone calls me back soon! Of course, I’ll prioritize that. Thank you for your patience, Mr. Chen. Yeah, whatever. I’ll take care of this and ensure your mother receives the attention she needs. Thank you for bringing this to my attention. You better fix this. Goodbye. Goodbye, Mr. Chen. (to herself) I need to inform Angela about this situation and ensure immediate follow-up. (on internal phone) Hi Angela, we have an urgent situation with a missed visit for Mrs. Chen. We need to call the family back within the hour. Also, let’s review the caregiver schedule for better matching in the future. Thank you!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "This is William Chen! I’m calling because my mother’s home health aide didn’t show up this morning!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, I’m so sorry to hear that. Can I have your mother’s name, please?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Her name is Mrs. Chen. This is absolutely unacceptable! She missed her medication!",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that is, Mr. Chen. I’ll look into this right away.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "You need to find out what happened! This has been a nightmare!",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I’ll escalate this issue immediately. Can I get your contact number in case I need to follow up?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "My number is +13165554321. But I need a supervisor to call me back within the hour!",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I will ensure that happens, Mr. Chen. I’ll also make sure your mother’s medication is addressed.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "She relies on this service, and if you can’t provide it, I will switch to another agency!",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 47,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand your frustration. Please know we take this seriously and will work to resolve it.",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "You better! She’s been recovering from knee surgery, and this is just too much!",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me assure you, I’ll get the details on the aide’s absence and have a supervisor contact you shortly.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I want to know why this happened! Is this how you treat your clients?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Not at all, Mr. Chen. We pride ourselves on quality care, and this incident is not reflective of our standards.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Well, it certainly feels that way! I expect a call back within the hour.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You will receive that call, I assure you. Is there anything else I can assist you with right now?",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "No, just make sure someone calls me back soon!",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, I’ll prioritize that. Thank you for your patience, Mr. Chen.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yeah, whatever.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll take care of this and ensure your mother receives the attention she needs. Thank you for bringing this to my attention.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 101,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You better fix this. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 107,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye, Mr. Chen.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "(to herself) I need to inform Angela about this situation and ensure immediate follow-up.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "(on internal phone) Hi Angela, we have an urgent situation with a missed visit for Mrs. Chen. We need to call the family back within the hour.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Also, let’s review the caregiver schedule for better matching in the future. Thank you!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2a323642f94347eaa786ee0e",
+  "revision": "",
+  "status": "success"
+}
