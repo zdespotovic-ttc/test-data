@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-01T05:04:58Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-baa70a1541fa440088d37a8b",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63944831098-192c74e4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-baa70a1541fa440088d37a8b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 113,
+      "duration_ms": 113000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63944831098,
+      "call_id": "baa70a1541fa440088d37a8b",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-baa70a1541fa440088d37a8b",
+      "media_name": "e53b298416814bfa97b978d906cd7863.mp3",
+      "scenario": "A woman calls for the first time asking about in-home physical therapy for her elderly father. She asks about pricing and availability. The receptionist provides a quote for three visits per week. The caller sounds relieved and says she'll call back to confirm. First-time caller, prospect.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 113.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. My name is Jennifer Taylor, and I'm looking for in-home physical therapy for my elderly father. I’d be happy to assist you with that, Jennifer. Can you tell me a bit more about your father’s needs? Sure, he's recovering from hip surgery and needs help with mobility and strength training. That sounds important. We have a physical therapist, Dr. James Rodriguez, who specializes in post-surgery rehabilitation. That’s great! What are the rates for his services? The cost for physical therapy ranges from $110 to $140 per session, depending on the duration and services needed. And how often would he need to see the therapist? Typically, we recommend three visits per week for optimal recovery. Okay, so what would the total cost look like for that? If we go with three visits a week, that would be between $330 and $420 weekly, depending on the specific services provided. Thank you, that helps a lot. Is Dr. Rodriguez available for this week? Let me check his schedule… Yes, he has availability starting this Wednesday. Perfect! I’d like to go ahead and schedule those sessions. Great! I’ll just need to confirm a few details. Can I get your father's name and date of birth? His name is Arthur Taylor, and he was born on May 15, 1942. Thank you, Jennifer. I’ll also need your contact information for follow-ups. Of course, my number is +13165554817. Got it. I will follow up with you via email to confirm the schedule and provide any necessary paperwork. Thank you so much, Margaret. I really appreciate your help! You’re welcome! Is there anything else I can assist you with today? Not right now, I'll call back to confirm after I check with my father. Sounds good! I look forward to hearing from you, Jennifer. Have a great day! You too, thanks again! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Jennifer Taylor, and I'm looking for in-home physical therapy for my elderly father.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’d be happy to assist you with that, Jennifer. Can you tell me a bit more about your father’s needs?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, he's recovering from hip surgery and needs help with mobility and strength training.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds important. We have a physical therapist, Dr. James Rodriguez, who specializes in post-surgery rehabilitation.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That’s great! What are the rates for his services?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "The cost for physical therapy ranges from $110 to $140 per session, depending on the duration and services needed.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "And how often would he need to see the therapist?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Typically, we recommend three visits per week for optimal recovery.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, so what would the total cost look like for that?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "If we go with three visits a week, that would be between $330 and $420 weekly, depending on the specific services provided.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, that helps a lot. Is Dr. Rodriguez available for this week?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check his schedule… Yes, he has availability starting this Wednesday.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect! I’d like to go ahead and schedule those sessions.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll just need to confirm a few details. Can I get your father's name and date of birth?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "His name is Arthur Taylor, and he was born on May 15, 1942.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Jennifer. I’ll also need your contact information for follow-ups.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Of course, my number is +13165554817.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Got it. I will follow up with you via email to confirm the schedule and provide any necessary paperwork.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Not right now, I'll call back to confirm after I check with my father.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sounds good! I look forward to hearing from you, Jennifer. Have a great day!",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, thanks again!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-baa70a1541fa440088d37a8b",
+  "revision": "",
+  "status": "success"
+}
