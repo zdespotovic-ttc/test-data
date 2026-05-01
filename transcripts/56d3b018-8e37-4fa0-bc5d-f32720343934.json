@@ -1,0 +1,229 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-01T05:05:30Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ae04e411e8a34a6cb841bb37",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63944831130-43ca4ec2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ae04e411e8a34a6cb841bb37",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63944831130,
+      "call_id": "ae04e411e8a34a6cb841bb37",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ae04e411e8a34a6cb841bb37",
+      "media_name": "23864c2cd0124262a17030973e6f5f0c.mp3",
+      "scenario": "A daughter calls extremely upset because the home health aide didn't show up this morning. Her mother missed medication. She demands a supervisor callback within the hour or she's switching agencies. Very angry tone throughout.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Margaret, this is Charles Thompson. I'm extremely upset right now—my mother’s aide didn’t show up this morning! I’m really sorry to hear that, Charles. Let me get some details. Can you confirm your mother’s name? It's Betty Thompson. She missed her medication because of this! I understand how serious that is. Please hold on for just a moment while I look up her information. Thank you for your patience. I see here that your mother is a post-surgical wound care client. When was the last time a caregiver visited? Two days ago! We had a visit for her wound care, but today was supposed to be a regular aide visit. I apologize for the inconvenience, Charles. This is not typical of our service. I will escalate this to a supervisor immediately. I want a supervisor to call me back within the hour! This is unacceptable! Absolutely, I will ensure that happens. Can I get the best number to reach you at? It’s the same number I called from: +13165557890. Thank you, Charles. I’ll make sure someone reaches out to you shortly. And if this isn’t resolved, I’m switching agencies. I understand your frustration, and I’ll do everything I can to resolve this. Would you like me to check in with you in an hour? Yes, please. And if you don’t call me, I will take my business elsewhere. Understood, I’ll make a note of that. Just to clarify, are there any additional services you might need for your mother? Right now, I just need this situation fixed. I completely understand. I will also check if any additional support can be provided. Alright, I’m going to hang up now, but I expect that call back soon! Thank you for your understanding, Charles. I’ll make sure to expedite this. Talk to you soon. Bye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Margaret, this is Charles Thompson. I'm extremely upset right now—my mother’s aide didn’t show up this morning!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m really sorry to hear that, Charles. Let me get some details. Can you confirm your mother’s name?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's Betty Thompson. She missed her medication because of this!",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how serious that is. Please hold on for just a moment while I look up her information.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you for your patience. I see here that your mother is a post-surgical wound care client. When was the last time a caregiver visited?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 42,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Two days ago! We had a visit for her wound care, but today was supposed to be a regular aide visit.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I apologize for the inconvenience, Charles. This is not typical of our service. I will escalate this to a supervisor immediately.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 53,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I want a supervisor to call me back within the hour! This is unacceptable!",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Absolutely, I will ensure that happens. Can I get the best number to reach you at?",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "It’s the same number I called from: +13165557890.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Thank you, Charles. I’ll make sure someone reaches out to you shortly.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "And if this isn’t resolved, I’m switching agencies.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I understand your frustration, and I’ll do everything I can to resolve this. Would you like me to check in with you in an hour?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, please. And if you don’t call me, I will take my business elsewhere.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Understood, I’ll make a note of that. Just to clarify, are there any additional services you might need for your mother?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Right now, I just need this situation fixed.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I completely understand. I will also check if any additional support can be provided.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Alright, I’m going to hang up now, but I expect that call back soon!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Thank you for your understanding, Charles. I’ll make sure to expedite this. Talk to you soon.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 21
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ae04e411e8a34a6cb841bb37",
+  "revision": "",
+  "status": "success"
+}
