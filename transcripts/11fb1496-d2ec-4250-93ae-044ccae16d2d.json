@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-01T05:05:14Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-95bc14411c97483592505c61",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63944831114-ec323b18",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-95bc14411c97483592505c61",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 128,
+      "duration_ms": 128000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63944831114,
+      "call_id": "95bc14411c97483592505c61",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-95bc14411c97483592505c61",
+      "media_name": "0a9423fddb454cad93c715fbffa723c9.mp3",
+      "scenario": "A current patient calls to book their next weekly vitals check. They mention they're feeling much better. The receptionist confirms the appointment for Thursday at 9 AM. Warm conversation.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 128.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret! This is Michael Brown. I'm calling about my father’s care. Hi, Michael! It's great to hear from you. How is your father doing? He’s actually feeling much better, thank you for asking! That’s wonderful news! Did you want to schedule his next vitals check? Yes, I’d like to set that up for Thursday at 9 AM, if possible. Let me check... Yes, we have that slot available! I'll book it for you. Perfect, thank you! I really appreciate it. No problem at all! Is there anything else you’d like us to address during the visit? Actually, yes. Can we discuss his wound care and medication management? Absolutely! I can have our Director of Nursing, Margaret Thompson, go over that with you. That would be great. I think he needs a bit of assistance with that. I can arrange a follow-up appointment with her. Would you prefer a call or in-person? A call would be best, just to go over everything quickly. Okay, I’ll schedule that. Is there a specific time that works for you? Maybe Wednesday afternoon? Perfect! I’ll have Margaret call you on Wednesday between 2 PM and 4 PM. Sounds good. Thank you for being so accommodating! It’s my pleasure! We are here to help you and your father. I also heard about your personal care assistance services. Can you tell me more about that? Sure! We offer assistance with bathing, dressing, and personal hygiene for $28 to $35 per hour. That sounds reasonable. I’ll keep that in mind. Great! Let me confirm your appointment for Thursday at 9 AM and the call from Margaret on Wednesday. Yes, please confirm that. All set! Is there anything else I can help you with today? No, that’s all for now. Thank you so much! You’re welcome, Michael! Have a great day, and we look forward to seeing your father! Thanks! You too. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret! This is Michael Brown. I'm calling about my father’s care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Michael! It's great to hear from you. How is your father doing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "He’s actually feeling much better, thank you for asking!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s wonderful news! Did you want to schedule his next vitals check?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I’d like to set that up for Thursday at 9 AM, if possible.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check... Yes, we have that slot available! I'll book it for you.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Perfect, thank you! I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "No problem at all! Is there anything else you’d like us to address during the visit?",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Actually, yes. Can we discuss his wound care and medication management?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely! I can have our Director of Nursing, Margaret Thompson, go over that with you.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great. I think he needs a bit of assistance with that.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can arrange a follow-up appointment with her. Would you prefer a call or in-person?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "A call would be best, just to go over everything quickly.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Okay, I’ll schedule that. Is there a specific time that works for you?",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Maybe Wednesday afternoon?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect! I’ll have Margaret call you on Wednesday between 2 PM and 4 PM.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sounds good. Thank you for being so accommodating!",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It’s my pleasure! We are here to help you and your father.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I also heard about your personal care assistance services. Can you tell me more about that?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Sure! We offer assistance with bathing, dressing, and personal hygiene for $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds reasonable. I’ll keep that in mind.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! Let me confirm your appointment for Thursday at 9 AM and the call from Margaret on Wednesday.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, please confirm that.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "All set! Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s all for now. Thank you so much!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Michael! Have a great day, and we look forward to seeing your father!",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thanks! You too. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-95bc14411c97483592505c61",
+  "revision": "",
+  "status": "success"
+}
