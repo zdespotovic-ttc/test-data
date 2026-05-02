@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-02T00:25:15Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-80200ec7de274298840fb429",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63944900715-b8f3d5eb",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-80200ec7de274298840fb429",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 111,
+      "duration_ms": 111000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63944900715,
+      "call_id": "80200ec7de274298840fb429",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-80200ec7de274298840fb429",
+      "media_name": "c2ba32c324d94b45b91be6c95747ffcb.mp3",
+      "scenario": "A woman calls for the first time asking about in-home physical therapy for her elderly father. She asks about pricing and availability. The receptionist provides a quote for three visits per week. The caller sounds relieved and says she'll call back to confirm. First-time caller, prospect.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 111.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. My name is Lisa, and I’m calling about in-home physical therapy for my father. Of course, Lisa. Can you tell me a bit about your father’s situation? He’s recovering from a hip replacement surgery and needs help with mobility and strength. I understand. We can definitely help with that. Great! What are your prices for physical therapy? Our physical therapy sessions are priced between $110 and $140 per visit. Okay, and how often do you recommend? For optimal recovery, we typically recommend three visits a week, depending on his specific needs. So that would be around $330 to $420 a week then? Yes, that’s correct. Would you like to schedule a consultation? I’d like to think it over first. What’s the availability like? We have openings throughout the week, typically between 9 AM and 4 PM. That sounds good. Can I call back later to confirm? Absolutely, Lisa. Just let me know what works best for you. Thanks, Margaret. I’ll also check with my father’s schedule. Good idea. And if you’d like, I could provide you with a detailed outline of the therapy plan we would recommend. That would be really helpful, yes. Perfect! I can email you that information once you’re ready to proceed. Sounds great! Thank you so much for your help today. You’re very welcome, Lisa. I look forward to hearing from you soon! Will do! Have a great day. You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Lisa, and I’m calling about in-home physical therapy for my father.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Lisa. Can you tell me a bit about your father’s situation?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "He’s recovering from a hip replacement surgery and needs help with mobility and strength.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. We can definitely help with that.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! What are your prices for physical therapy?",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our physical therapy sessions are priced between $110 and $140 per visit.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and how often do you recommend?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "For optimal recovery, we typically recommend three visits a week, depending on his specific needs.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "So that would be around $330 to $420 a week then?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, that’s correct. Would you like to schedule a consultation?",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I’d like to think it over first. What’s the availability like?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We have openings throughout the week, typically between 9 AM and 4 PM.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 69,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. Can I call back later to confirm?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, Lisa. Just let me know what works best for you.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thanks, Margaret. I’ll also check with my father’s schedule.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Good idea. And if you’d like, I could provide you with a detailed outline of the therapy plan we would recommend.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be really helpful, yes.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I can email you that information once you’re ready to proceed.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds great! Thank you so much for your help today.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re very welcome, Lisa. I look forward to hearing from you soon!",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Will do! Have a great day.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 111,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-80200ec7de274298840fb429",
+  "revision": "",
+  "status": "success"
+}
