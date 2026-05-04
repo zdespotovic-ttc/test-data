@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-04T18:10:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b5d21f7486024febb1bec018",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945137400-22fb4c37",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b5d21f7486024febb1bec018",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945137400,
+      "call_id": "b5d21f7486024febb1bec018",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b5d21f7486024febb1bec018",
+      "media_name": "ea25c8f6963d4eda9d6b629d8821caf6.mp3",
+      "scenario": "A daughter calls extremely upset because the home health aide didn't show up this morning. Her mother missed medication. She demands a supervisor callback within the hour or she's switching agencies. Very angry tone throughout.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Margaret, this is Mary O'Connor! I’m really upset. The aide was supposed to come this morning and they didn’t show up! I’m so sorry to hear that, Mary. Let’s get this sorted out right away. Can I have your mother's name, please? It’s Helen O'Connor. She missed her IV medication this morning because of this! I understand how concerning that is, Mary. I apologize for the inconvenience. Let me check the schedule. Check the schedule? This isn’t just about scheduling! My mom needs her medication! What am I supposed to do? I completely understand, and I assure you we take this very seriously. I’ll look into this immediately. You better do it fast! If I don’t hear back from a supervisor within the hour, I’m switching agencies! I appreciate your patience, Mary. I’ll ensure a supervisor calls you back within the hour. Who would you like me to have call you? I want to speak to someone who can actually fix this! Not just anyone! I can escalate this to Angela Martinez, our Client Services Manager. She is available to address your concerns. Fine, just make sure she calls me! This is really unacceptable! I’ll make sure Angela is aware of the urgency of your situation. And what about my mom’s medication? She needs it right away! I can also arrange for a nurse to come out today to administer the IV medication if needed. Yes, please! That would be helpful. I will coordinate that right away and ensure the nurse is dispatched as soon as possible. Thank you, but I’m still really upset about this whole situation. I completely understand, Mary. Your mother’s care is our priority, and we’ll work to regain your trust. I just want to feel secure that she’s getting the care she needs! Absolutely. I’ll ensure that the nurse’s visit is prioritized and that Angela contacts you shortly. Alright, I’ll be waiting for that call. Thank you for your understanding, Mary. We’ll be in touch very soon. You’d better. We will. Have a good day.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Margaret, this is Mary O'Connor! I’m really upset. The aide was supposed to come this morning and they didn’t show up!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m so sorry to hear that, Mary. Let’s get this sorted out right away. Can I have your mother's name, please?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It’s Helen O'Connor. She missed her IV medication this morning because of this!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that is, Mary. I apologize for the inconvenience. Let me check the schedule.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Check the schedule? This isn’t just about scheduling! My mom needs her medication! What am I supposed to do?",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand, and I assure you we take this very seriously. I’ll look into this immediately.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "You better do it fast! If I don’t hear back from a supervisor within the hour, I’m switching agencies!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I appreciate your patience, Mary. I’ll ensure a supervisor calls you back within the hour. Who would you like me to have call you?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I want to speak to someone who can actually fix this! Not just anyone!",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can escalate this to Angela Martinez, our Client Services Manager. She is available to address your concerns.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Fine, just make sure she calls me! This is really unacceptable!",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll make sure Angela is aware of the urgency of your situation.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "And what about my mom’s medication? She needs it right away!",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can also arrange for a nurse to come out today to administer the IV medication if needed.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please! That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I will coordinate that right away and ensure the nurse is dispatched as soon as possible.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, but I’m still really upset about this whole situation.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I completely understand, Mary. Your mother’s care is our priority, and we’ll work to regain your trust.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I just want to feel secure that she’s getting the care she needs!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely. I’ll ensure that the nurse’s visit is prioritized and that Angela contacts you shortly.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Alright, I’ll be waiting for that call.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for your understanding, Mary. We’ll be in touch very soon.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You’d better.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "We will. Have a good day.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b5d21f7486024febb1bec018",
+  "revision": "",
+  "status": "success"
+}
