@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-04T18:09:43Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c6975aa46fec4a6caa774ca5",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945137383-73332cb9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c6975aa46fec4a6caa774ca5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945137383,
+      "call_id": "c6975aa46fec4a6caa774ca5",
+      "caller_id_number": "+13165559012",
+      "caller_id_name": "Lucille Davis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c6975aa46fec4a6caa774ca5",
+      "media_name": "3bb69fb57b7a44fd8145fc5b555a18ad.mp3",
+      "scenario": "A current patient calls to book their next weekly vitals check. They mention they're feeling much better. The receptionist confirms the appointment for Thursday at 9 AM. Warm conversation.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, it's Lucille Davis. I'm calling to book my next weekly vitals check. Hi Lucille! It's great to hear from you. How have you been feeling? I'm feeling much better, actually! The personal care assistance has really helped. That's wonderful news! I'm glad to hear it. Let's get your appointment scheduled. Thank you! I was hoping for Thursday, if that works. Let me check... Yes, I have an opening on Thursday at 9 AM. Does that sound good? Yes, that’s perfect! Great! I’ll put you down for Thursday at 9 AM for your vitals check. Awesome, thank you! I really appreciate the care I've been receiving. It’s our pleasure, Lucille. We’re here to help! Just a quick reminder, if you need any additional services, let us know. Actually, I might be interested in some additional companion care next week. That’s a great idea! Would you like me to provide you with the details for that service? Yes, please! I think it would be nice to have someone to chat with while I’m at home. Absolutely. Companion care is $25 to $30 per hour, and we can match you with someone who shares your interests. That sounds lovely! Can I book that for next week as well? Yes, let me check availability for you. Do you have a specific day in mind? Maybe Wednesday or Friday? Okay, I'll check... We have availability on Wednesday. Would a time around 1 PM work for you? Yes, that works! Perfect! I’ll go ahead and schedule companion care for Wednesday at 1 PM. Thank you so much, Margaret. You’ve made this so easy! I’m happy to help, Lucille. So to confirm, you have your vitals check on Thursday at 9 AM and companion care on Wednesday at 1 PM. Yes, that’s correct! Great! If you have any questions or need to make changes, don’t hesitate to call. I will, thank you again! You’re welcome, Lucille. Have a wonderful day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it's Lucille Davis. I'm calling to book my next weekly vitals check.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Lucille! It's great to hear from you. How have you been feeling?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm feeling much better, actually! The personal care assistance has really helped.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That's wonderful news! I'm glad to hear it. Let's get your appointment scheduled.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you! I was hoping for Thursday, if that works.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check... Yes, I have an opening on Thursday at 9 AM. Does that sound good?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that’s perfect!",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great! I’ll put you down for Thursday at 9 AM for your vitals check.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Awesome, thank you! I really appreciate the care I've been receiving.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It’s our pleasure, Lucille. We’re here to help! Just a quick reminder, if you need any additional services, let us know.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Actually, I might be interested in some additional companion care next week.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That’s a great idea! Would you like me to provide you with the details for that service?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please! I think it would be nice to have someone to chat with while I’m at home.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely. Companion care is $25 to $30 per hour, and we can match you with someone who shares your interests.",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 64,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds lovely! Can I book that for next week as well?",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, let me check availability for you. Do you have a specific day in mind?",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 73,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Maybe Wednesday or Friday?",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Okay, I'll check... We have availability on Wednesday. Would a time around 1 PM work for you?",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that works!",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 85,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I’ll go ahead and schedule companion care for Wednesday at 1 PM.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you so much, Margaret. You’ve made this so easy!",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’m happy to help, Lucille. So to confirm, you have your vitals check on Thursday at 9 AM and companion care on Wednesday at 1 PM.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that’s correct!",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! If you have any questions or need to make changes, don’t hesitate to call.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will, thank you again!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Lucille. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 116,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559012",
+    "ooma_remote_name": "Lucille Davis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c6975aa46fec4a6caa774ca5",
+  "revision": "",
+  "status": "success"
+}
