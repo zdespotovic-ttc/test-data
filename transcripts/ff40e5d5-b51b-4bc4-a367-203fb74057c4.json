@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-06T22:40:10Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0fa0d50c5aab4eb89ce7a500",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945326410-d83c6b0a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0fa0d50c5aab4eb89ce7a500",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 122,
+      "duration_ms": 122000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945326410,
+      "call_id": "0fa0d50c5aab4eb89ce7a500",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0fa0d50c5aab4eb89ce7a500",
+      "media_name": "cbc30fa847ee464f80c93550af9733cc.mp3",
+      "scenario": "A current patient calls to book their next weekly vitals check. They mention they're feeling much better. The receptionist confirms the appointment for Thursday at 9 AM. Warm conversation.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 122.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Edward Martinez. I'm calling to book my next weekly vitals check. Hi Edward! It’s great to hear from you. How have you been feeling? I’ve been feeling much better, thank you! The care has really helped. That’s wonderful to hear! I’m glad the care is making a difference. Yes, it really has. I’d like to schedule the check for this week. Absolutely, let me check our schedule for you. One moment please. How about Thursday at 9 AM? Does that work for you? Thursday at 9 AM sounds perfect. Great! I'll confirm your appointment for Thursday at 9 AM. Thank you, Margaret. I really appreciate it. You're very welcome! It’s my pleasure to assist you. Also, I wanted to check if respite care is available next week for my wife. Yes, we can definitely arrange that. What days do you need the care for? I think Wednesday and Friday would work best. Let me put that down. Would you like me to book a caregiver for those days? Yes, please! That would be a big help. Perfect! I’ll take care of that for you and confirm the details. Thank you so much, Margaret. Of course, Edward! Is there anything else you’d like assistance with today? No, that covers everything for now. Great! I’ll ensure your appointment and respite care are set up. That sounds good. I look forward to seeing the nurse on Thursday. We look forward to seeing you too! Have a wonderful day, Edward. Thanks, you too! Bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I'm calling to book my next weekly vitals check.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward! It’s great to hear from you. How have you been feeling?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’ve been feeling much better, thank you! The care has really helped.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s wonderful to hear! I’m glad the care is making a difference.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it really has. I’d like to schedule the check for this week.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, let me check our schedule for you. One moment please.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "How about Thursday at 9 AM? Does that work for you?",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 44,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Thursday at 9 AM sounds perfect.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Great! I'll confirm your appointment for Thursday at 9 AM.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "You're very welcome! It’s my pleasure to assist you.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 61,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Also, I wanted to check if respite care is available next week for my wife.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Yes, we can definitely arrange that. What days do you need the care for?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I think Wednesday and Friday would work best.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Let me put that down. Would you like me to book a caregiver for those days?",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 79,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, please! That would be a big help.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Perfect! I’ll take care of that for you and confirm the details.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thank you so much, Margaret.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Of course, Edward! Is there anything else you’d like assistance with today?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "No, that covers everything for now.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 103,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Great! I’ll ensure your appointment and respite care are set up.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That sounds good. I look forward to seeing the nurse on Thursday.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "We look forward to seeing you too! Have a wonderful day, Edward.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thanks, you too! Bye.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 122,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0fa0d50c5aab4eb89ce7a500",
+  "revision": "",
+  "status": "success"
+}
