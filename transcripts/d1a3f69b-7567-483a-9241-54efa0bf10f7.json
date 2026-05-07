@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-07T23:17:40Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1f0ae14f99ae4fd6b657a297",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945415060-ffeb821c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1f0ae14f99ae4fd6b657a297",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 114,
+      "duration_ms": 114000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945415060,
+      "call_id": "1f0ae14f99ae4fd6b657a297",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1f0ae14f99ae4fd6b657a297",
+      "media_name": "8968de91f798438da9b70c36babab2a8.mp3",
+      "scenario": "A current patient calls to book their next weekly vitals check. They mention feeling much better since starting the program. The receptionist confirms Thursday at 9 AM with Nurse Maria. Warm, upbeat conversation.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 114.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Charles Thompson. I'm calling to book my next weekly vitals check. Hi Charles! It’s great to hear from you. How have you been feeling? I’ve been feeling much better, actually! The care has made a real difference. That’s wonderful to hear! We’re really glad you’re on the mend. Thank you! So, can we schedule that vitals check? Absolutely! Let me check the schedule. How does Thursday at 9 AM sound? Nurse Maria will be available then. Thursday at 9 AM works perfectly. Great! I’ll get that booked for you. Also, could you send a detailed progress report to the VA after the visit? Of course, we can do that. I’ll make a note to send the report over right after your appointment. Thanks! I really appreciate it. No problem at all! Is there anything else you’d like to discuss today? Actually, I’ve been thinking about adding some personal care assistance, too. That's a great option! We offer personal care assistance for $28 to $35 per hour. That sounds reasonable. Can you tell me more about what that includes? Sure! It covers help with bathing, dressing, grooming, and personal hygiene. That sounds perfect. I might want to start that next week. Absolutely, we can assist you with that. I’ll connect you with our Care Coordinator, Lisa, to get that set up. That would be great. Thank you for all your help! You're welcome, Charles! I’ll have Lisa give you a call after our appointment on Thursday. Sounds good! Looking forward to my check-up. Can't wait to hear how you're doing then! Have a great day! You too, Margaret! Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I'm calling to book my next weekly vitals check.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Charles! It’s great to hear from you. How have you been feeling?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’ve been feeling much better, actually! The care has made a real difference.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s wonderful to hear! We’re really glad you’re on the mend.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you! So, can we schedule that vitals check?",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! Let me check the schedule.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 28,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "How does Thursday at 9 AM sound? Nurse Maria will be available then.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 38,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Thursday at 9 AM works perfectly.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Great! I’ll get that booked for you.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Also, could you send a detailed progress report to the VA after the visit?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Of course, we can do that. I’ll make a note to send the report over right after your appointment.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thanks! I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "No problem at all! Is there anything else you’d like to discuss today?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Actually, I’ve been thinking about adding some personal care assistance, too.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "That's a great option! We offer personal care assistance for $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 73,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That sounds reasonable. Can you tell me more about what that includes?",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Sure! It covers help with bathing, dressing, grooming, and personal hygiene.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That sounds perfect. I might want to start that next week.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely, we can assist you with that. I’ll connect you with our Care Coordinator, Lisa, to get that set up.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That would be great. Thank you for all your help!",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're welcome, Charles! I’ll have Lisa give you a call after our appointment on Thursday.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Sounds good! Looking forward to my check-up.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Can't wait to hear how you're doing then! Have a great day!",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, Margaret! Bye!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 114,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1f0ae14f99ae4fd6b657a297",
+  "revision": "",
+  "status": "success"
+}
