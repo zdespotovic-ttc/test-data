@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-07T23:19:09Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ffbe3bc487a54c0db5a09ffd",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945415149-a009f4ed",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ffbe3bc487a54c0db5a09ffd",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945415149,
+      "call_id": "ffbe3bc487a54c0db5a09ffd",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ffbe3bc487a54c0db5a09ffd",
+      "media_name": "aadaa71f16734a7bbab20b58e1fbb326.mp3",
+      "scenario": "A patient calls to praise the new wound care nurse who visited yesterday. She says the nurse was thorough and the wound is already looking better. She asks if the same nurse can be assigned going forward. Very positive, grateful tone.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Susan Garcia. I just wanted to take a moment to praise the wound care nurse who visited my father yesterday. Oh, that's wonderful to hear, Susan! I'm glad to know the visit went well. Can you tell me more about your experience? Yes, she was incredibly thorough. She explained everything and the wound is already looking better today. That’s fantastic news! Our nurses work hard to provide quality care. Would you like to request the same nurse for future visits? Yes, absolutely. I’d love for her to continue working with my father. I can certainly arrange that. Can you give me your father's name and the specific days you would like the visits? His name is John Garcia, and I would prefer visits on Tuesdays and Thursdays, if that's possible. Let me check that for you. One moment, please. Thank you for holding, Susan. I see that we can assign the same nurse on those days. I’ll make sure to note that in our system. Great! Thank you so much. Is there anything else I can assist you with today? Yes, actually, my father has COPD and needs some respiratory care and assistance with breathing treatments. We can help with that too. We offer specialized care that includes medication management and breathing treatment assistance. That sounds perfect! What are the prices for those services? For skilled nursing care, it ranges from $95 to $125 for a 1-2 hour visit, which would include the respiratory assistance. Okay, that's manageable. Can we set this up for next week? Absolutely! Let me take down your preferred day and time for those visits. How about Tuesday and Thursday mornings? Perfect. I will schedule those visits and confirm them via email. May I have your email address, please? Yes, it’s susan.garcia@email.com. Thank you, Susan. I’ll send you a confirmation for the appointments. I really appreciate all your help today, Margaret. It’s my pleasure! Thank you for trusting us with your father’s care. Is there anything else I can assist you with? No, that’ll be all for now. Thank you again! You’re welcome! Have a great day, Susan. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Susan Garcia. I just wanted to take a moment to praise the wound care nurse who visited my father yesterday.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, that's wonderful to hear, Susan! I'm glad to know the visit went well. Can you tell me more about your experience?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, she was incredibly thorough. She explained everything and the wound is already looking better today.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s fantastic news! Our nurses work hard to provide quality care. Would you like to request the same nurse for future visits?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, absolutely. I’d love for her to continue working with my father.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I can certainly arrange that. Can you give me your father's name and the specific days you would like the visits?",
+          "speaker": "local party",
+          "start_time": 33,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "His name is John Garcia, and I would prefer visits on Tuesdays and Thursdays, if that's possible.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check that for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you for holding, Susan. I see that we can assign the same nurse on those days. I’ll make sure to note that in our system.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 70,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Great! Thank you so much.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, actually, my father has COPD and needs some respiratory care and assistance with breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "We can help with that too. We offer specialized care that includes medication management and breathing treatment assistance.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 92,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That sounds perfect! What are the prices for those services?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 100,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "For skilled nursing care, it ranges from $95 to $125 for a 1-2 hour visit, which would include the respiratory assistance.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Okay, that's manageable. Can we set this up for next week?",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely! Let me take down your preferred day and time for those visits.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "How about Tuesday and Thursday mornings?",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect. I will schedule those visits and confirm them via email. May I have your email address, please?",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 128,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, it’s susan.garcia@email.com.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 134,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Susan. I’ll send you a confirmation for the appointments.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "I really appreciate all your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 145,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "It’s my pleasure! Thank you for trusting us with your father’s care. Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 152,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "No, that’ll be all for now. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 152,
+          "end_time": 157,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome! Have a great day, Susan.",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 161,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 161,
+          "end_time": 165,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ffbe3bc487a54c0db5a09ffd",
+  "revision": "",
+  "status": "success"
+}
