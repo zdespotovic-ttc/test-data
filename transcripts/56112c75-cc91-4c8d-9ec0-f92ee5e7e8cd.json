@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-07T23:18:55Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e98d444c422f4703ac42978e",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945415135-dcf44b28",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e98d444c422f4703ac42978e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945415135,
+      "call_id": "e98d444c422f4703ac42978e",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e98d444c422f4703ac42978e",
+      "media_name": "0969f23e74ea489a88e3bd7c5945a8d1.mp3",
+      "scenario": "A hospital discharge planner calls for the first time asking about CareFirst's service area, whether they accept Medicare Part A, and what documentation is needed for a referral. Purely informational, no appointment or quote. Professional tone. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, my name is Thomas White. I’m calling for some information about your services. Of course, Thomas! What specific information are you looking for? I’m a hospital discharge planner, and I need to know about your service area. We serve the Wichita area and surrounding regions. Do you have a specific location in mind? Yes, it’s for a client in North Wichita. Also, do you accept Medicare Part A? Yes, we do accept Medicare Part A for eligible services. This includes skilled nursing and therapy services. That's great to hear. What documentation do you need for a referral? We typically need a physician's order, a recent medical history, and any specific care plan details. This ensures we provide tailored services. Understood. I’ll make sure to have that ready. Perfect! Is there a particular service you’re interested in for your client? Yes, my client has Alzheimer's and might need specialized dementia care and respite services. We offer specialized Dementia and Alzheimer's care, and Respite Care as well. What’s the cost for those services? Dementia care is priced at $32 to $40 per hour, and Respite Care ranges from $30 to $38 per hour. That sounds reasonable. How do I go about setting it up? You can call back or email us with the required documentation, and our Care Coordinator, Lisa Chen, will assist you with the setup. Great, I’ll do that. Is there a specific time I should reach out? Lisa is available Monday through Saturday, from 7 AM to 7 PM. Thank you for the information, Margaret. You’re welcome, Thomas! Is there anything else I can assist you with today? No, that's all for now. Thanks again for your help! My pleasure! Have a great day, and feel free to call back if you have more questions. Will do, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Thomas White. I’m calling for some information about your services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Thomas! What specific information are you looking for?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m a hospital discharge planner, and I need to know about your service area.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We serve the Wichita area and surrounding regions. Do you have a specific location in mind?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it’s for a client in North Wichita. Also, do you accept Medicare Part A?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, we do accept Medicare Part A for eligible services. This includes skilled nursing and therapy services.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That's great to hear. What documentation do you need for a referral?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We typically need a physician's order, a recent medical history, and any specific care plan details. This ensures we provide tailored services.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Understood. I’ll make sure to have that ready.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Perfect! Is there a particular service you’re interested in for your client?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, my client has Alzheimer's and might need specialized dementia care and respite services.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We offer specialized Dementia and Alzheimer's care, and Respite Care as well.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "What’s the cost for those services?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Dementia care is priced at $32 to $40 per hour, and Respite Care ranges from $30 to $38 per hour.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reasonable. How do I go about setting it up?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You can call back or email us with the required documentation, and our Care Coordinator, Lisa Chen, will assist you with the setup.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great, I’ll do that. Is there a specific time I should reach out?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Lisa is available Monday through Saturday, from 7 AM to 7 PM.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you for the information, Margaret.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Thomas! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that's all for now. Thanks again for your help!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "My pleasure! Have a great day, and feel free to call back if you have more questions.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Will do, bye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e98d444c422f4703ac42978e",
+  "revision": "",
+  "status": "success"
+}
