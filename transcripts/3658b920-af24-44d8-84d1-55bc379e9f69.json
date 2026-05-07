@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-07T23:18:42Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bced6658d7464c5e97a38f00",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945415122-d713245c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bced6658d7464c5e97a38f00",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945415122,
+      "call_id": "bced6658d7464c5e97a38f00",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bced6658d7464c5e97a38f00",
+      "media_name": "47097cd9b43740749c63e69864e591e2.mp3",
+      "scenario": "A man calls for the first time asking about overnight companion care pricing for his mother with early-stage dementia. He's comparing CareFirst with another agency. The receptionist provides a detailed quote for 10-hour overnight shifts. He says he needs to discuss with siblings. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, my name is Jennifer Taylor. I'm looking into companion care for my grandmother. Hi, Jennifer! I'd be happy to help you with that. Can you tell me a bit more about her needs? Sure, she has early-stage dementia and needs some help with daily activities and companionship, especially overnight. Of course, we can provide overnight companion care. How many hours are you considering? I was thinking about a ten-hour overnight shift. What would that cost? For a ten-hour overnight companion care shift, our rates are between $250 to $300. This covers personal hygiene assistance and social interaction. That's a bit more than I expected. Is there flexibility in the pricing? I understand your concern. We can discuss potential adjustments depending on your specific needs, such as frequency of visits. Okay, that makes sense. I am also comparing with another agency. That's completely reasonable. What other services are they offering that caught your attention? They mentioned something about 24/7 live-in care, but I think we just need overnight help for now. Our 24/7 live-in care starts at $280 to $350 a day, but overnight shifts might be a better fit for your needs. Yes, I think so too. I’ll need to discuss this with my siblings before making a decision. Absolutely, take your time. Would you like me to send more information via email? Yes, that would be great. My email is jennifer.taylor@email.com. Perfect, I’ll send over details about our services and pricing right after this call. Thank you, Margaret. How soon can I expect that? You should receive it within the next hour. Is there anything else I can help you with today? Not right now, but I might have more questions after discussing with my siblings. No problem at all! Feel free to call back anytime, and I can assist further. Thanks again for your help. I appreciate it. You're welcome, Jennifer! Have a great day and talk to you soon. You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Jennifer Taylor. I'm looking into companion care for my grandmother.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Jennifer! I'd be happy to help you with that. Can you tell me a bit more about her needs?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, she has early-stage dementia and needs some help with daily activities and companionship, especially overnight.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course, we can provide overnight companion care. How many hours are you considering?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I was thinking about a ten-hour overnight shift. What would that cost?",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "For a ten-hour overnight companion care shift, our rates are between $250 to $300. This covers personal hygiene assistance and social interaction.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That's a bit more than I expected. Is there flexibility in the pricing?",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand your concern. We can discuss potential adjustments depending on your specific needs, such as frequency of visits.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, that makes sense. I am also comparing with another agency.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 51,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That's completely reasonable. What other services are they offering that caught your attention?",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "They mentioned something about 24/7 live-in care, but I think we just need overnight help for now.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Our 24/7 live-in care starts at $280 to $350 a day, but overnight shifts might be a better fit for your needs.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I think so too. I’ll need to discuss this with my siblings before making a decision.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, take your time. Would you like me to send more information via email?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be great. My email is jennifer.taylor@email.com.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect, I’ll send over details about our services and pricing right after this call.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. How soon can I expect that?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You should receive it within the next hour. Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Not right now, but I might have more questions after discussing with my siblings.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "No problem at all! Feel free to call back anytime, and I can assist further.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thanks again for your help. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Jennifer! Have a great day and talk to you soon.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 119,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 119,
+          "end_time": 123,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bced6658d7464c5e97a38f00",
+  "revision": "",
+  "status": "success"
+}
