@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-07T23:19:33Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6440a49052e441b3917cc2f7",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945415173-0f30a12d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6440a49052e441b3917cc2f7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 157,
+      "duration_ms": 157000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945415173,
+      "call_id": "6440a49052e441b3917cc2f7",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6440a49052e441b3917cc2f7",
+      "media_name": "f49bc71b07da4d9ebca18a28eecb1caf.mp3",
+      "scenario": "A long-time client calls furious about two issues: the caregiver has been arriving 30 minutes late for two weeks, and there's an unexpected supplies fee on the latest invoice. They're considering cancelling service entirely and want a manager to call them.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 157.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi Margaret, this is Thomas White. I'm really upset and need to talk to someone about some issues we're having. I’m sorry to hear that, Thomas. Can you tell me what’s been going on? Well, my mother’s caregiver has been arriving 30 minutes late for the past two weeks, and now there’s an unexpected supplies fee on the latest invoice. I understand how frustrating that must be. I’ll do my best to help you with both of these issues. Can you provide me with your mother’s name? Yes, her name is Helen White. Thank you, Thomas. Let me look up her account quickly. One moment, please. Sure, take your time. Alright, I see Helen’s account here. Regarding the caregiver arriving late, that’s certainly not the level of service we aim for. It’s unacceptable! We rely on her schedule. If this doesn’t improve, I’m considering canceling our service entirely. I completely understand your concern. I will escalate this issue to our Client Services Manager, Angela Martinez, immediately. And what about this unexpected supplies fee? It wasn’t mentioned to us beforehand. Let me check the details of that fee for you. It may have been related to additional supplies used during care. I understand, but we should have been informed about it. It feels like a surprise charge. Absolutely, and I agree that transparency is crucial. I will ensure Angela reviews this alongside your caregiver's tardiness. I really hope this gets resolved. I’m not sure how much longer I can deal with these issues. I appreciate your patience, Thomas. I will personally follow up with you once I have more information. Thank you, but I expect a call back soon. You can expect a call from Angela within the next 24 hours. Is there anything else I can assist you with today? No, that's it for now. Just that call back is crucial. I’ll ensure that it happens. Thank you for bringing this to our attention, Thomas. Thanks, Margaret. I appreciate your help. You're welcome! Have a great day, and we’ll be in touch soon. You too, goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Thomas White. I'm really upset and need to talk to someone about some issues we're having.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Thomas. Can you tell me what’s been going on?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my mother’s caregiver has been arriving 30 minutes late for the past two weeks, and now there’s an unexpected supplies fee on the latest invoice.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be. I’ll do my best to help you with both of these issues. Can you provide me with your mother’s name?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, her name is Helen White.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you, Thomas. Let me look up her account quickly. One moment, please.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Alright, I see Helen’s account here. Regarding the caregiver arriving late, that’s certainly not the level of service we aim for.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It’s unacceptable! We rely on her schedule. If this doesn’t improve, I’m considering canceling our service entirely.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand your concern. I will escalate this issue to our Client Services Manager, Angela Martinez, immediately.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "And what about this unexpected supplies fee? It wasn’t mentioned to us beforehand.",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check the details of that fee for you. It may have been related to additional supplies used during care.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I understand, but we should have been informed about it. It feels like a surprise charge.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 93,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, and I agree that transparency is crucial. I will ensure Angela reviews this alongside your caregiver's tardiness.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 99,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I really hope this gets resolved. I’m not sure how much longer I can deal with these issues.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 109,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I appreciate your patience, Thomas. I will personally follow up with you once I have more information.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 116,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, but I expect a call back soon.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You can expect a call from Angela within the next 24 hours. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No, that's it for now. Just that call back is crucial.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 135,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll ensure that it happens. Thank you for bringing this to our attention, Thomas.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thanks, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome! Have a great day, and we’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 157,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6440a49052e441b3917cc2f7",
+  "revision": "",
+  "status": "success"
+}
