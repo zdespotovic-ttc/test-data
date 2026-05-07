@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-07T23:18:15Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9ffae5caa6c242cbb93dcc17",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945415095-3c637480",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9ffae5caa6c242cbb93dcc17",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 156,
+      "duration_ms": 156000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945415095,
+      "call_id": "9ffae5caa6c242cbb93dcc17",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9ffae5caa6c242cbb93dcc17",
+      "media_name": "0321fdf9da4c4d7dba54bd46265eab69.mp3",
+      "scenario": "A patient's son calls about a double charge on their April statement. He says two visits show identical amounts and believes one is a duplicate. He's frustrated because he emailed last week with no response. Wants it resolved today.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 156.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Robert Jackson. I'm calling about a double charge on my April statement. I'm sorry to hear that, Robert. Could you give me more details about the charges? Sure, I noticed two visits that have identical amounts. It seems like one of them might be a duplicate. I understand your frustration. Let me pull up your account and take a look at those charges right now. One moment, please. Okay, I have your account here. I see that you were charged for two visits at $85 each for personal care assistance. Is that correct? Yes, that's right. But we only had one visit that day! Thank you for confirming that. I’ll investigate this further and see what happened. I emailed about this last week but didn’t get a response, which is why I'm frustrated. I apologize for that oversight, Robert. I will make sure to follow up on your email after our call. I appreciate that, but I really want this resolved today. Absolutely, I’ll prioritize this for you. I will also request a refund for the duplicate charge if that is confirmed. Thank you. Can you also check if we have the right equipment on file? I remember specifying some needs. Of course, let me check your records for any specific equipment requirements. One moment, please. It looks like you’ve specified some equipment. I’ll ensure we review this with your caregiver during the next visit. That sounds good. Can you give me a timeline for both the charge resolution and equipment check? I’ll aim to have the billing issue resolved by the end of the day. The equipment review can be discussed during your next visit. Great, I’d like that. I just want to ensure everything is clear moving forward. I completely understand, Robert. I’ll take care of this and make the necessary follow-ups. Thanks, Margaret. I appreciate your help. You're welcome! If you have any other concerns, feel free to reach out. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I'm calling about a double charge on my April statement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Robert. Could you give me more details about the charges?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, I noticed two visits that have identical amounts. It seems like one of them might be a duplicate.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 23,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration. Let me pull up your account and take a look at those charges right now. One moment, please.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, I have your account here. I see that you were charged for two visits at $85 each for personal care assistance. Is that correct?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, that's right. But we only had one visit that day!",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Thank you for confirming that. I’ll investigate this further and see what happened.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I emailed about this last week but didn’t get a response, which is why I'm frustrated.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 64,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I apologize for that oversight, Robert. I will make sure to follow up on your email after our call.",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 70,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I appreciate that, but I really want this resolved today.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, I’ll prioritize this for you. I will also request a refund for the duplicate charge if that is confirmed.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you. Can you also check if we have the right equipment on file? I remember specifying some needs.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 90,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Of course, let me check your records for any specific equipment requirements. One moment, please.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 98,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "It looks like you’ve specified some equipment. I’ll ensure we review this with your caregiver during the next visit.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 112,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good. Can you give me a timeline for both the charge resolution and equipment check?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll aim to have the billing issue resolved by the end of the day. The equipment review can be discussed during your next visit.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 124,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great, I’d like that. I just want to ensure everything is clear moving forward.",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 132,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I completely understand, Robert. I’ll take care of this and make the necessary follow-ups.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 139,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thanks, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 139,
+          "end_time": 144,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome! If you have any other concerns, feel free to reach out. Have a great day!",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 150,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 156,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9ffae5caa6c242cbb93dcc17",
+  "revision": "",
+  "status": "success"
+}
