@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T16:54:04Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-aa6f7411ef1248b78d4c0b64",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945564844-280a3ecc",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-aa6f7411ef1248b78d4c0b64",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945564844,
+      "call_id": "aa6f7411ef1248b78d4c0b64",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-aa6f7411ef1248b78d4c0b64",
+      "media_name": "5e2da3069ed146dfb9f968b3e80e8fd3.mp3",
+      "scenario": "An automated robocall about extending the office's car warranty. The receptionist listens for a few seconds, realizes it's spam, and hangs up. Very short call.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "CareFirst Home Health, this is Margaret. How can I help you today? Hi, this is George Williams. I just got a call about extending my car warranty. Oh, I see. Just to clarify, we are a home healthcare agency. Right, right—sorry about that! No problem at all! Is there anything healthcare-related I can assist you with? No, I just thought I’d check in. I had a nurse visit last week. How has everything been since then? Good, I just wish the calls would stop. I understand. Those robocalls can be really annoying! Yeah, it’s frustrating. Anyway, I might need to schedule another nursing visit soon. Sure! Would you like to speak with Robert about scheduling that? Yes, please. He was great last time! I’ll note that down. Just a moment while I check his availability. No problem! Oh, actually, it looks like he's booked today. Would you like to book for tomorrow? Tomorrow works for me! Great! I'll add you to his schedule. Thanks! And can I also ask about the medication management service? Absolutely! That service is $65 to $80 for about 30-45 minutes. Okay, I may need that, too—I'm getting confused with my meds. I can connect you with Margaret for that service if you’d like. She's our Director of Nursing. Yes, please! Alright, I’ll make sure to have her follow up with you. Thanks for your help, Margaret. I appreciate it. You're welcome, George! Have a great day. You too! Oh, and I’m hanging up now—those robocalls are really the worst! Agreed! Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is George Williams. I just got a call about extending my car warranty.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I see. Just to clarify, we are a home healthcare agency.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Right, right—sorry about that!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "No problem at all! Is there anything healthcare-related I can assist you with?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "No, I just thought I’d check in. I had a nurse visit last week.",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "How has everything been since then?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Good, I just wish the calls would stop.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand. Those robocalls can be really annoying!",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yeah, it’s frustrating. Anyway, I might need to schedule another nursing visit soon.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sure! Would you like to speak with Robert about scheduling that?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please. He was great last time!",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll note that down. Just a moment while I check his availability.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 53,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "No problem!",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Oh, actually, it looks like he's booked today. Would you like to book for tomorrow?",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Tomorrow works for me!",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 65,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I'll add you to his schedule.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thanks! And can I also ask about the medication management service?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely! That service is $65 to $80 for about 30-45 minutes.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, I may need that, too—I'm getting confused with my meds.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I can connect you with Margaret for that service if you’d like. She's our Director of Nursing.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please!",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Alright, I’ll make sure to have her follow up with you.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 95,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks for your help, Margaret. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, George! Have a great day.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 108,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Oh, and I’m hanging up now—those robocalls are really the worst!",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Agreed!",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 115,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 118,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 120,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-aa6f7411ef1248b78d4c0b64",
+  "revision": "",
+  "status": "success"
+}
