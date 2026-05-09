@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T16:53:05Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-94ffafc0837f4cecbd7cc07c",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945564785-286609b8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-94ffafc0837f4cecbd7cc07c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945564785,
+      "call_id": "94ffafc0837f4cecbd7cc07c",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-94ffafc0837f4cecbd7cc07c",
+      "media_name": "4d2f49d2dd754e299c16889ede2bd652.mp3",
+      "scenario": "A social worker from a local hospital calls asking about CareFirst's pediatric home health services. She wants to know age ranges served, types of conditions handled, and the referral process. Purely informational. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Karen Lewis. I'm calling for information about your pediatric home health services. Of course, Karen! We primarily serve children from newborns up to 18 years old. That’s good to know. What types of conditions do you handle for pediatric patients? We handle a variety of conditions, including post-surgical care, chronic illnesses, and developmental disorders. Great! I’m particularly interested in post-surgical care. We provide specialized care for children recovering from surgeries, including monitoring and assistance with daily activities. That sounds like what I need. What is the referral process for families? Typically, we accept referrals from healthcare providers or family members. They can contact us directly to discuss the needs. Do you have any paperwork that needs to be filled out? Yes, we have an intake form that we can send you, along with a care agreement. That would be helpful. Can I get that via email? Absolutely! What’s your email address? It’s karen.lewis@email.com. Great! I’ll send the paperwork right after our call. Thank you! How soon can services start once the referral is made? Once we receive the referral, we can usually start services within a week, depending on availability. And what are your hours for providing care? We provide services Monday through Saturday, with on-call support available on Sundays for emergencies. That’s reassuring. Do you have any specific caregivers who specialize in pediatric care? Yes, we have trained caregivers and nurses who specialize in pediatric care, including post-surgical recovery. Perfect! I’ll definitely need that for my son’s recovery. I’m glad to hear that. Would you like to schedule a meeting to discuss the care plan in detail? Yes, that sounds like a good idea. How about next week? I can have our Care Coordinator, Lisa, join us. Next week works for me. Can you give me Lisa’s contact information too? Sure! Lisa’s direct number is +13165559203. Thank you, Margaret. This has been very helpful! You’re welcome, Karen! I’ll follow up with the email and set up that meeting. I appreciate it! Looking forward to hearing from you. Thank you for calling CareFirst, have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Karen Lewis. I'm calling for information about your pediatric home health services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Karen! We primarily serve children from newborns up to 18 years old.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "That’s good to know. What types of conditions do you handle for pediatric patients?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We handle a variety of conditions, including post-surgical care, chronic illnesses, and developmental disorders.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! I’m particularly interested in post-surgical care.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We provide specialized care for children recovering from surgeries, including monitoring and assistance with daily activities.",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds like what I need. What is the referral process for families?",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Typically, we accept referrals from healthcare providers or family members. They can contact us directly to discuss the needs.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Do you have any paperwork that needs to be filled out?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, we have an intake form that we can send you, along with a care agreement.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be helpful. Can I get that via email?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! What’s your email address?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "It’s karen.lewis@email.com.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll send the paperwork right after our call.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! How soon can services start once the referral is made?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Once we receive the referral, we can usually start services within a week, depending on availability.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "And what are your hours for providing care?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We provide services Monday through Saturday, with on-call support available on Sundays for emergencies.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That’s reassuring. Do you have any specific caregivers who specialize in pediatric care?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we have trained caregivers and nurses who specialize in pediatric care, including post-surgical recovery.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect! I’ll definitely need that for my son’s recovery.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’m glad to hear that. Would you like to schedule a meeting to discuss the care plan in detail?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that sounds like a good idea.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "How about next week? I can have our Care Coordinator, Lisa, join us.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Next week works for me. Can you give me Lisa’s contact information too?",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Sure! Lisa’s direct number is +13165559203.",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 134,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret. This has been very helpful!",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Karen! I’ll follow up with the email and set up that meeting.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I appreciate it! Looking forward to hearing from you.",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 147,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Thank you for calling CareFirst, have a great day!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-94ffafc0837f4cecbd7cc07c",
+  "revision": "",
+  "status": "success"
+}
