@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T16:53:24Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4cf39bd969674ebe97571c57",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945564804-ec3dbe2a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4cf39bd969674ebe97571c57",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 117,
+      "duration_ms": 117000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945564804,
+      "call_id": "4cf39bd969674ebe97571c57",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4cf39bd969674ebe97571c57",
+      "media_name": "4a9d7051553f4f79929a081d71aac178.mp3",
+      "scenario": "A home health aide calls the office in a panic because an elderly patient fell and hit their head. The patient is conscious but confused and has a bump forming. The aide asks what to do. The receptionist instructs her to call 911 immediately and stay with the patient.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 117.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you? Hi, Margaret, it’s Dorothy Henderson. I need help right away! Oh no, what’s happened, Dorothy? My caregiver just called me in a panic. One of our clients fell and hit their head! I see, is the patient conscious? Yes, but they’re confused and there’s a bump forming. Okay, the first thing you need to do is call 911 immediately. Right, I’ll do that right now. Stay with the patient and reassure them while you’re on the line with emergency services. Yes, I’m doing that. What else should I do? Make sure they’re sitting or lying down comfortably and avoid moving them unless absolutely necessary. Okay, I’ll make sure of that. Also, gather any information about their medications or medical history for the paramedics. Alright, I’ll prepare that. After this, I recommend we schedule a follow-up visit with our nurse for a health assessment. Yes, please do that. Can I get a female caregiver again? Absolutely, we can prioritize that. Thank you, Margaret. I’m feeling a bit overwhelmed. It’s okay, Dorothy. You’re doing the right thing. Just focus on the patient for now. I will. I’ll call 911 and gather the info. Thank you for your help. You’re welcome! I’ll make sure to follow up on the nurse visit once this is handled. Sounds good. I’ll stay on the line while I make the call. Do that, and let me know if you need anything else. We’re here for you. I appreciate it so much. I’ll keep you posted. Perfect, talk soon, Dorothy. Stay calm! I will, thank you!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, it’s Dorothy Henderson. I need help right away!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, what’s happened, Dorothy?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My caregiver just called me in a panic. One of our clients fell and hit their head!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see, is the patient conscious?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, but they’re confused and there’s a bump forming.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Okay, the first thing you need to do is call 911 immediately.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Right, I’ll do that right now.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Stay with the patient and reassure them while you’re on the line with emergency services.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I’m doing that. What else should I do?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Make sure they’re sitting or lying down comfortably and avoid moving them unless absolutely necessary.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, I’ll make sure of that.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Also, gather any information about their medications or medical history for the paramedics.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Alright, I’ll prepare that.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "After this, I recommend we schedule a follow-up visit with our nurse for a health assessment.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please do that. Can I get a female caregiver again?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, we can prioritize that.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I’m feeling a bit overwhelmed.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It’s okay, Dorothy. You’re doing the right thing. Just focus on the patient for now.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I will. I’ll call 911 and gather the info. Thank you for your help.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! I’ll make sure to follow up on the nurse visit once this is handled.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good. I’ll stay on the line while I make the call.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Do that, and let me know if you need anything else. We’re here for you.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate it so much. I’ll keep you posted.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect, talk soon, Dorothy. Stay calm!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will, thank you!",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4cf39bd969674ebe97571c57",
+  "revision": "",
+  "status": "success"
+}
