@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T05:56:24Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2a0c046f66874aecb46aafad",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945525384-9c37a6c7",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2a0c046f66874aecb46aafad",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945525384,
+      "call_id": "2a0c046f66874aecb46aafad",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2a0c046f66874aecb46aafad",
+      "media_name": "3940bd0ac5484f148be51912007968e9.mp3",
+      "scenario": "A current patient calls to book their next weekly vitals check. They mention feeling much better since starting the program. The receptionist confirms Thursday at 9 AM with Nurse Maria. Warm, upbeat conversation.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Frank Miller. I’d like to schedule my next weekly vitals check. Hi Frank! It’s great to hear from you. How have you been feeling? Oh, much better actually! Since starting the program, I feel like I’m really managing my diabetes well. That’s wonderful to hear! I’m so glad the program is working for you. Thank you! I just need to get my vitals checked again. Absolutely! Let me check our schedule. Would you prefer Thursday at 9 AM? Yes, that works perfectly for me. Great! I’ll book you with Nurse Maria. She's excellent, and I know you like her. Yes, she’s fantastic. I always feel comfortable with her. Perfect! So, I have you down for Thursday at 9 AM with Nurse Maria. Sounds good! I also wanted to ask if I could get help with transportation again. Of course! We can schedule transportation for your endocrinologist appointment next month. Yes, that would be great. I have that appointment on the 15th. Let me note that down. Would you like transportation for both ways? Yes, please. That would be really helpful. Okay, I’ll arrange round-trip transportation for the 15th. Thank you! I really appreciate it. No problem at all, Frank! Is there anything else I can assist you with today? No, that should be everything for now. Alright, just to recap—Thursday at 9 AM with Nurse Maria for your vitals check, and round-trip transportation for the 15th. Yes, exactly! Wonderful! I’ll send you a confirmation email shortly. Thank you, Margaret! I look forward to seeing Nurse Maria. You’re welcome, Frank! Have a great day, and we’ll see you soon! Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I’d like to schedule my next weekly vitals check.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Frank! It’s great to hear from you. How have you been feeling?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, much better actually! Since starting the program, I feel like I’m really managing my diabetes well.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s wonderful to hear! I’m so glad the program is working for you.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you! I just need to get my vitals checked again.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! Let me check our schedule. Would you prefer Thursday at 9 AM?",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that works perfectly for me.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great! I’ll book you with Nurse Maria. She's excellent, and I know you like her.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, she’s fantastic. I always feel comfortable with her.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Perfect! So, I have you down for Thursday at 9 AM with Nurse Maria.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sounds good! I also wanted to ask if I could get help with transportation again.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! We can schedule transportation for your endocrinologist appointment next month.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great. I have that appointment on the 15th.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me note that down. Would you like transportation for both ways?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please. That would be really helpful.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 71,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Okay, I’ll arrange round-trip transportation for the 15th.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you! I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "No problem at all, Frank! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No, that should be everything for now.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Alright, just to recap—Thursday at 9 AM with Nurse Maria for your vitals check, and round-trip transportation for the 15th.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, exactly!",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Wonderful! I’ll send you a confirmation email shortly.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret! I look forward to seeing Nurse Maria.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Frank! Have a great day, and we’ll see you soon!",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2a0c046f66874aecb46aafad",
+  "revision": "",
+  "status": "success"
+}
