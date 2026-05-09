@@ -1,0 +1,333 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T05:57:12Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0204b29f7bc9427dae440639",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945525432-6b43e231",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0204b29f7bc9427dae440639",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945525432,
+      "call_id": "0204b29f7bc9427dae440639",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0204b29f7bc9427dae440639",
+      "media_name": "b82a5af1a11e4a1a8ed456b85713d4ab.mp3",
+      "scenario": "A caregiver at a patient's home calls saying the patient is having difficulty breathing with oxygen saturation at 88. She asks if a nurse can come immediately. The receptionist tells her to call 911 first and dispatches a nurse. Tense, urgent call.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "CareFirst Home Health, this is Margaret, how can I help you? Hi, Margaret, this is Susan Garcia. I’m calling about my father. Hi, Susan. What seems to be the issue with your father? He has COPD, and right now he’s having difficulty breathing. I’m so sorry to hear that. Is he using his oxygen? Yes, but his oxygen saturation is only 88. It’s really low! Okay, Susan. That sounds urgent. Have you called 911 yet? No, I was hoping you could send a nurse right away. I understand, but it’s critical that you call 911 first. They can respond faster in emergencies. But I really need someone here! He’s really struggling! I get that, and I’ll dispatch a nurse immediately after you call 911. How long will it take for a nurse to arrive? It can take about 30 minutes, but that depends on the area and traffic. Okay, I’ll call 911 now. Please do, and stay on the line with me if you can. I’m calling now… (pause) Okay, I’ve called them. Great, I’m dispatching our registered nurse, Robert Davis, to your location. Thank you! Can he handle breathing treatments? Yes, Robert can administer treatments and monitor his condition. Will he be able to stay with my dad until help arrives? Yes, once he arrives, he will stay until medical help gets there. Thank you so much. I’m really worried. I understand, Susan. Your dad is in good hands. Are there any other concerns? Just that he’s been needing regular respiratory care. We can definitely help with that after this situation. What kind of services do you offer? We provide skilled nursing care, including medication management and respiratory treatments. How much does that cost? Our skilled nursing care ranges from $95 to $125 per visit. Okay, I’ll think about it once this is over. Sure, Susan. I’ll follow up with you after we resolve this. Thank you, Margaret. I really appreciate your help. You’re welcome. Stay calm, help is on the way. I will. Goodbye. Goodbye, Susan.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "CareFirst Home Health, this is Margaret, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Susan Garcia. I’m calling about my father.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 5,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Susan. What seems to be the issue with your father?",
+          "speaker": "local party",
+          "start_time": 5,
+          "end_time": 8,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "He has COPD, and right now he’s having difficulty breathing.",
+          "speaker": "remote party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m so sorry to hear that. Is he using his oxygen?",
+          "speaker": "local party",
+          "start_time": 12,
+          "end_time": 15,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, but his oxygen saturation is only 88. It’s really low!",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 18,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Okay, Susan. That sounds urgent. Have you called 911 yet?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "No, I was hoping you could send a nurse right away.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand, but it’s critical that you call 911 first. They can respond faster in emergencies.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "But I really need someone here! He’s really struggling!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I get that, and I’ll dispatch a nurse immediately after you call 911.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 38,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How long will it take for a nurse to arrive?",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 40,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "It can take about 30 minutes, but that depends on the area and traffic.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, I’ll call 911 now.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 47,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Please do, and stay on the line with me if you can.",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 50,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I’m calling now… (pause) Okay, I’ve called them.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great, I’m dispatching our registered nurse, Robert Davis, to your location.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 57,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you! Can he handle breathing treatments?",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 61,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, Robert can administer treatments and monitor his condition.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 64,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Will he be able to stay with my dad until help arrives?",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 68,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, once he arrives, he will stay until medical help gets there.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you so much. I’m really worried.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I understand, Susan. Your dad is in good hands. Are there any other concerns?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Just that he’s been needing regular respiratory care.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "We can definitely help with that after this situation.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 86,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "What kind of services do you offer?",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "We provide skilled nursing care, including medication management and respiratory treatments.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "How much does that cost?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 97,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Our skilled nursing care ranges from $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 100,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Okay, I’ll think about it once this is over.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 103,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Sure, Susan. I’ll follow up with you after we resolve this.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 106,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "You’re welcome. Stay calm, help is on the way.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 112,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "I will. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "right",
+          "id": 33
+        },
+        {
+          "text": "Goodbye, Susan.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 34
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0204b29f7bc9427dae440639",
+  "revision": "",
+  "status": "success"
+}
