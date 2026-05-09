@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T16:52:53Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d8075b7b901746a7bfe5f1f0",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945564773-2721f34d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d8075b7b901746a7bfe5f1f0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 175,
+      "duration_ms": 175000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945564773,
+      "call_id": "d8075b7b901746a7bfe5f1f0",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d8075b7b901746a7bfe5f1f0",
+      "media_name": "8d03a44209394f4f91085ec49817ca06.mp3",
+      "scenario": "A patient's wife calls saying they received a bill for a visit that was supposed to be covered by insurance. She says the office told her it would be fully covered when she scheduled. She wants the charge removed or an explanation of why insurance denied it.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 175.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Robert Jackson. I'm calling because we received a bill for a visit that was supposed to be covered by insurance. I’m sorry to hear that, Robert. Can you tell me more about the visit in question? Yes, it was for comprehensive personal care just three days ago. When I scheduled it, I was told it would be fully covered by insurance. I understand your concern. Let me take a moment to look up that visit in our system. Sure, I appreciate that. I just don’t understand why we’re being charged when I was assured it would be covered. I completely understand. It’s important we clarify this. Can I have your insurance details to help expedite the review? Yes, it’s with Blue Cross Blue Shield. My wife manages the insurance, but I can provide the details. Thank you, Robert. I’ll need to verify that with our billing department. Please hold for just a moment. Okay, I’m holding. (pause) Thank you for your patience. I see that the billing report indicates a denial from your insurance for that specific service. A denial? But I was told when I scheduled it that it would be fully covered. I understand how frustrating that must be. Sometimes, there are specific criteria that need to be met for coverage. Can you explain what those criteria are? I want to ensure we’re not being unfairly charged. I can review that with the billing department and see if there’s been any misunderstanding. I’ll follow up on this right away. That would be great. I just want clarity on why this happened. Absolutely. Also, if you’re open to it, I can have a nurse check in with you to go over your care plan again. That sounds helpful. Maybe there are adjustments needed for insurance coverage. I’ll add that to my follow-up. Let me summarize: I’ll check on the billing issue and arrange a nurse visit for you. Thank you, Margaret. I appreciate your assistance with this. Of course, Robert. I will call you back by tomorrow with updates. Is there a good time for you? Anytime in the afternoon works for me. Great! I’ll make a note of that. Thank you for your understanding, Robert. Thank you, Margaret. I’ll be waiting for your call. Have a good day, Robert! You too, goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I'm calling because we received a bill for a visit that was supposed to be covered by insurance.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Robert. Can you tell me more about the visit in question?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it was for comprehensive personal care just three days ago. When I scheduled it, I was told it would be fully covered by insurance.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me take a moment to look up that visit in our system.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, I appreciate that. I just don’t understand why we’re being charged when I was assured it would be covered.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 38,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand. It’s important we clarify this. Can I have your insurance details to help expedite the review?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, it’s with Blue Cross Blue Shield. My wife manages the insurance, but I can provide the details.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you, Robert. I’ll need to verify that with our billing department. Please hold for just a moment.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, I’m holding.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 68,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "(pause) Thank you for your patience. I see that the billing report indicates a denial from your insurance for that specific service.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "A denial? But I was told when I scheduled it that it would be fully covered.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand how frustrating that must be. Sometimes, there are specific criteria that need to be met for coverage.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 89,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Can you explain what those criteria are? I want to ensure we’re not being unfairly charged.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 96,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can review that with the billing department and see if there’s been any misunderstanding. I’ll follow up on this right away.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 105,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be great. I just want clarity on why this happened.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely. Also, if you’re open to it, I can have a nurse check in with you to go over your care plan again.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds helpful. Maybe there are adjustments needed for insurance coverage.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll add that to my follow-up. Let me summarize: I’ll check on the billing issue and arrange a nurse visit for you.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 132,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your assistance with this.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 140,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course, Robert. I will call you back by tomorrow with updates. Is there a good time for you?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 147,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Anytime in the afternoon works for me.",
+          "speaker": "remote party",
+          "start_time": 147,
+          "end_time": 154,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I’ll make a note of that. Thank you for your understanding, Robert.",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 159,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I’ll be waiting for your call.",
+          "speaker": "remote party",
+          "start_time": 159,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Have a good day, Robert!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d8075b7b901746a7bfe5f1f0",
+  "revision": "",
+  "status": "success"
+}
