@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T16:55:04Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c1b5fc8b92e64304a847cde8",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945564904-c25083b2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c1b5fc8b92e64304a847cde8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945564904,
+      "call_id": "c1b5fc8b92e64304a847cde8",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c1b5fc8b92e64304a847cde8",
+      "media_name": "08604a50425548019d6e9ab223ad936f.mp3",
+      "scenario": "A patient calls frustrated because she left two voicemails last week about getting her care plan updated and nobody called back. She says this isn't the first time she's been ignored. The receptionist apologizes and promises to have the care coordinator call her today.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is William Chen. I’m calling because I’m really frustrated. I’m sorry to hear that, William. What seems to be the problem? I left two voicemails last week about updating my care plan, and nobody has called me back. This isn’t the first time I’ve been ignored. I sincerely apologize for the lack of response, that’s not our usual standard. I understand, but I really need to get this care plan updated for my recovery. It’s been over a week. I completely understand your frustration, and I’ll make sure to get this resolved for you right away. I hope so, I felt like I was just left hanging. It’s really important for my recovery after the knee surgery. Your recovery is our top priority, William. Let me assure you that I will have our Care Coordinator call you today. That would be great, thank you. Can you guarantee that will happen? Yes, I will personally follow up to ensure Lisa, our Care Coordinator, reaches out to you. Perfect, I appreciate that. I want to make sure we’re on track with my physical therapy as well. Absolutely, I’ll make a note for Lisa to discuss your physical therapy and any updates necessary. Also, if I’m getting additional help, I might be interested in some companion care during my recovery. That’s a great idea, William. Companion care can really help with daily activities while you focus on recovery. Yes, I’d like to explore that option. I’ll make sure Lisa provides you with all the details during her call. Thank you, Margaret. I feel a bit better knowing it’s being addressed. You’re very welcome. I appreciate your patience, and we’ll make this right. Alright, I’ll look forward to Lisa’s call today. Thank you, William. Have a good day, and we’ll be in touch shortly. Bye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I’m calling because I’m really frustrated.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, William. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I left two voicemails last week about updating my care plan, and nobody has called me back. This isn’t the first time I’ve been ignored.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I sincerely apologize for the lack of response, that’s not our usual standard.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I understand, but I really need to get this care plan updated for my recovery. It’s been over a week.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your frustration, and I’ll make sure to get this resolved for you right away.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I hope so, I felt like I was just left hanging. It’s really important for my recovery after the knee surgery.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Your recovery is our top priority, William. Let me assure you that I will have our Care Coordinator call you today.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great, thank you. Can you guarantee that will happen?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, I will personally follow up to ensure Lisa, our Care Coordinator, reaches out to you.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Perfect, I appreciate that. I want to make sure we’re on track with my physical therapy as well.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, I’ll make a note for Lisa to discuss your physical therapy and any updates necessary.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Also, if I’m getting additional help, I might be interested in some companion care during my recovery.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That’s a great idea, William. Companion care can really help with daily activities while you focus on recovery.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I’d like to explore that option.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll make sure Lisa provides you with all the details during her call.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I feel a bit better knowing it’s being addressed.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re very welcome. I appreciate your patience, and we’ll make this right.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Alright, I’ll look forward to Lisa’s call today.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you, William. Have a good day, and we’ll be in touch shortly.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c1b5fc8b92e64304a847cde8",
+  "revision": "",
+  "status": "success"
+}
