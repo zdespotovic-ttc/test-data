@@ -1,0 +1,333 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T16:52:09Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6fac77a1c6144cb7b1d80b60",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945564729-c59c37e1",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6fac77a1c6144cb7b1d80b60",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 176,
+      "duration_ms": 176000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945564729,
+      "call_id": "6fac77a1c6144cb7b1d80b60",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6fac77a1c6144cb7b1d80b60",
+      "media_name": "9b04b555ea744cc4bde1d0791b07bf92.mp3",
+      "scenario": "A woman calls for the first time asking about post-surgery rehabilitation services for her husband who had a knee replacement last week. She wants to know what types of therapy are available and how quickly they can start. The receptionist explains the intake process. Caller is optimistic. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 176.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. My name is Sarah, and I’m calling for my husband. He just had a knee replacement last week. Hi, Sarah! I’m glad you called. How is he doing so far? He’s recovering, but I know he’ll need some help with rehabilitation. What types of therapy do you offer? We offer physical therapy, which focuses on mobility, strength, and balance improvement. That sounds good. How quickly can we start with the sessions? We can typically get a therapist to start as soon as the intake process is completed. What does the intake process involve? It includes gathering basic information about your husband’s medical history and current condition, and it helps us match him with the right therapist. That makes sense. How long does the intake usually take? It usually takes about 15 to 20 minutes, and we can do it over the phone or in person. Let’s do it over the phone. I’m ready when you are! Great! Let’s start with your husband’s full name and date of birth. His name is John Smith, and he was born on June 15, 1955. Thank you, Sarah. And does John have any other medical conditions we should know about? He has high blood pressure, but it’s well managed. Perfect. And who is his primary care physician? Dr. Michael Lee at the Main Street Clinic. Thank you. I’ll include that in the record. Can I also get your contact number? Yes, it’s +13165557890. Great, thank you! After we finish this, I’ll send you an email with details about the therapy sessions. That would be wonderful! How much do the sessions cost? Our physical therapy sessions range from $110 to $140, depending on the specific services provided. Okay, that’s reasonable. Can we also get a caregiver to help him at home? Yes, we offer personal care assistance as well. It’s $28 to $35 per hour. That would be really helpful! I’d like to know more about that too. Absolutely! I can provide more information during our intake. Thank you so much, Margaret. I appreciate your help! You’re welcome, Sarah! Let’s get started with the intake. Sure! What's the first question? First, could you tell me about John’s current mobility and any specific challenges he’s facing? He needs help getting up from the couch and walking without pain. Thank you for sharing that. We’ll tailor the therapy sessions to address those issues directly. That sounds perfect! I feel much better knowing I can get help for him. I’m glad to hear that! Let’s continue with the rest of the details.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Sarah, and I’m calling for my husband. He just had a knee replacement last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Sarah! I’m glad you called. How is he doing so far?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "He’s recovering, but I know he’ll need some help with rehabilitation. What types of therapy do you offer?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We offer physical therapy, which focuses on mobility, strength, and balance improvement.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. How quickly can we start with the sessions?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We can typically get a therapist to start as soon as the intake process is completed.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "What does the intake process involve?",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It includes gathering basic information about your husband’s medical history and current condition, and it helps us match him with the right therapist.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That makes sense. How long does the intake usually take?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It usually takes about 15 to 20 minutes, and we can do it over the phone or in person.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Let’s do it over the phone. I’m ready when you are!",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! Let’s start with your husband’s full name and date of birth.",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "His name is John Smith, and he was born on June 15, 1955.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you, Sarah. And does John have any other medical conditions we should know about?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "He has high blood pressure, but it’s well managed.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect. And who is his primary care physician?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Dr. Michael Lee at the Main Street Clinic.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you. I’ll include that in the record. Can I also get your contact number?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, it’s +13165557890.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great, thank you! After we finish this, I’ll send you an email with details about the therapy sessions.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That would be wonderful! How much do the sessions cost?",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Our physical therapy sessions range from $110 to $140, depending on the specific services provided.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 114,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Okay, that’s reasonable. Can we also get a caregiver to help him at home?",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Yes, we offer personal care assistance as well. It’s $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That would be really helpful! I’d like to know more about that too.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Absolutely! I can provide more information during our intake.",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Sarah! Let’s get started with the intake.",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 142,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Sure! What's the first question?",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 150,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "First, could you tell me about John’s current mobility and any specific challenges he’s facing?",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "He needs help getting up from the couch and walking without pain.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Thank you for sharing that. We’ll tailor the therapy sessions to address those issues directly.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "That sounds perfect! I feel much better knowing I can get help for him.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 171,
+          "channel": "right",
+          "id": 33
+        },
+        {
+          "text": "I’m glad to hear that! Let’s continue with the rest of the details.",
+          "speaker": "local party",
+          "start_time": 171,
+          "end_time": 176,
+          "channel": "left",
+          "id": 34
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6fac77a1c6144cb7b1d80b60",
+  "revision": "",
+  "status": "success"
+}
