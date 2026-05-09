@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T05:58:01Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a517a5ee6dc34c2faed0256c",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945525481-ff657a7d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a517a5ee6dc34c2faed0256c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945525481,
+      "call_id": "a517a5ee6dc34c2faed0256c",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a517a5ee6dc34c2faed0256c",
+      "media_name": "31257d5b5a6b4bf2be5560ca3ba6d1ba.mp3",
+      "scenario": "A patient calls to reschedule their cancelled appointment due to a conflicting doctor's visit. The receptionist rebooks for next Wednesday at 2 PM. Polite, straightforward call.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Michael Brown. I need to reschedule my father's appointment. Of course, Michael. I can help with that. What day was the original appointment? It was for last Wednesday, but he had a conflicting doctor's visit. No problem. Let's find a new time for him. When would you like to reschedule? How about next Wednesday at 2 PM? Let me check… Yes, we have availability then. Great! Can you confirm that for me, please? Absolutely. I’ll book your father for next Wednesday at 2 PM. Thank you! I really appreciate it. You're welcome! Is there anything else I can assist you with today? Well, I'm also looking for help with his wound care and medication management. We can certainly assist with that. For wound care management, it typically runs between $75 and $95. And for medication management? That service is priced between $65 and $80. Okay, that sounds reasonable. Can I schedule those services too? Yes, we can set those up. Would you like to discuss a specific day for those services? Maybe start with the wound care for next week too? Sure! Would you prefer to have that done on the same day as the appointment at 2 PM? Yes, that would be perfect. Alright, I will schedule the wound care for next Wednesday at 2 PM as well. Thank you so much for your help! You’re very welcome! Just to confirm, your father's appointment is set for next Wednesday at 2 PM for both services. That’s right. Should I expect someone to call me before the appointment? Yes, our care coordinator will reach out to you a day before to confirm everything. Perfect. I appreciate your assistance today, Margaret. No problem at all, Michael! If you have any more questions, feel free to call us anytime. I will. Thank you again! Thank you for choosing CareFirst Home Health! Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I need to reschedule my father's appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Michael. I can help with that. What day was the original appointment?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It was for last Wednesday, but he had a conflicting doctor's visit.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "No problem. Let's find a new time for him. When would you like to reschedule?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "How about next Wednesday at 2 PM?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check… Yes, we have availability then.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 28,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great! Can you confirm that for me, please?",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely. I’ll book your father for next Wednesday at 2 PM.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you! I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "You're welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Well, I'm also looking for help with his wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can certainly assist with that. For wound care management, it typically runs between $75 and $95.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "And for medication management?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That service is priced between $65 and $80.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, that sounds reasonable. Can I schedule those services too?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we can set those up. Would you like to discuss a specific day for those services?",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 73,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Maybe start with the wound care for next week too?",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Sure! Would you prefer to have that done on the same day as the appointment at 2 PM?",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that would be perfect.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 85,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Alright, I will schedule the wound care for next Wednesday at 2 PM as well.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you so much for your help!",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome! Just to confirm, your father's appointment is set for next Wednesday at 2 PM for both services.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That’s right. Should I expect someone to call me before the appointment?",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Yes, our care coordinator will reach out to you a day before to confirm everything.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect. I appreciate your assistance today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "No problem at all, Michael! If you have any more questions, feel free to call us anytime.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Thank you for choosing CareFirst Home Health! Have a great day!",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a517a5ee6dc34c2faed0256c",
+  "revision": "",
+  "status": "success"
+}
