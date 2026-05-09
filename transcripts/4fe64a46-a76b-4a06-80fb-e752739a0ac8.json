@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T16:53:15Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-22cc5d6130484c049a6dbecf",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945564795-97948858",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-22cc5d6130484c049a6dbecf",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 105,
+      "duration_ms": 105000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945564795,
+      "call_id": "22cc5d6130484c049a6dbecf",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-22cc5d6130484c049a6dbecf",
+      "media_name": "266df1f95c0447bd857c46f7a60e8c4e.mp3",
+      "scenario": "A patient calls to cancel tomorrow's physical therapy session because they have a family emergency. They don't want to reschedule yet and will call back next week. Polite but brief.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 105.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Susan Garcia. I'm calling about my father’s physical therapy session tomorrow. Hi Susan, it's nice to hear from you. What can I help you with regarding the session? Well, unfortunately, I need to cancel it. There’s been a family emergency. I’m sorry to hear that, Susan. Family emergencies can be very stressful. Yes, thank you. I don’t want to reschedule right now; I’ll call back next week. That sounds perfectly fine. I’ll make a note to cancel the appointment for tomorrow. Thank you, I appreciate that. Is there anything else I can help you with in the meantime? Actually, yes. My father has COPD, and I’m looking for some respiratory care options and assistance with his treatments. We do offer personal care assistance, which includes medication management and support with breathing treatments. That sounds good. What are the costs associated with that service? Our personal care assistance ranges from $28 to $35 per hour, depending on the level of care needed. Okay, that sounds reasonable. Would you like me to have a care coordinator reach out to you next week? Yes, that would be helpful. I’ll be in a better position to discuss details then. Great! I’ll make sure Lisa Chen, our Care Coordinator, contacts you next week. Thank you so much, Margaret. I really appreciate your help. You’re very welcome, Susan. I hope everything settles down for you and your family soon. Thank you, I hope so too. Have a good day, and we look forward to hearing from you next week! You too, bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Susan Garcia. I'm calling about my father’s physical therapy session tomorrow.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Susan, it's nice to hear from you. What can I help you with regarding the session?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, unfortunately, I need to cancel it. There’s been a family emergency.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that, Susan. Family emergencies can be very stressful.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, thank you. I don’t want to reschedule right now; I’ll call back next week.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds perfectly fine. I’ll make a note to cancel the appointment for tomorrow.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you, I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Is there anything else I can help you with in the meantime?",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Actually, yes. My father has COPD, and I’m looking for some respiratory care options and assistance with his treatments.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We do offer personal care assistance, which includes medication management and support with breathing treatments.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good. What are the costs associated with that service?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Our personal care assistance ranges from $28 to $35 per hour, depending on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, that sounds reasonable.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Would you like me to have a care coordinator reach out to you next week?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be helpful. I’ll be in a better position to discuss details then.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll make sure Lisa Chen, our Care Coordinator, contacts you next week.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re very welcome, Susan. I hope everything settles down for you and your family soon.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, I hope so too.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Have a good day, and we look forward to hearing from you next week!",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 102,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-22cc5d6130484c049a6dbecf",
+  "revision": "",
+  "status": "success"
+}
