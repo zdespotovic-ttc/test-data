@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T16:53:54Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d6fd72362c2845ada0395a16",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945564834-ad78c11b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d6fd72362c2845ada0395a16",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 103,
+      "duration_ms": 103000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945564834,
+      "call_id": "d6fd72362c2845ada0395a16",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d6fd72362c2845ada0395a16",
+      "media_name": "4f0f1792670d49a38cfaad669a656f91.mp3",
+      "scenario": "A medical supply company calls to confirm a delivery of wound care supplies scheduled for Thursday. They need to verify the delivery address and contact person. Straightforward business call between the vendor and the office coordinator.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 103.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi Margaret, this is Rose Patterson. I’m calling to confirm a delivery of wound care supplies scheduled for Thursday. Hi Rose! Yes, I can help with that. Can you please provide the delivery address? Sure, it’s 2847 North Ridge Road, Suite 205, Wichita, KS 67205. Thank you for that. And who should we contact upon delivery? You can contact me directly at my number, +13165559876. Got it. Just to confirm, that’s for wound care supplies, correct? Yes, that’s right. We’re expecting those supplies for my mother’s care. Understandable. I will make a note. Is there anything else you need while I have you on the line? Actually, yes. I wanted to check if you have any updates on the companion care schedule. Let me pull that up quickly. Last I checked, everything was on track for your usual caregivers. Oh, that’s great to hear! Familiar caregivers are essential for my mom’s comfort. I completely understand. It’s important to maintain consistency in care. By the way, I also wanted to ask about the possibility of adding personal care assistance hours. Absolutely! We can arrange that. Would you like to set up a specific number of hours per week? Yes, I’d like to add an additional 10 hours per week. Perfect, I’ll make a note of that. We’ll get back to you with the updated care plan and pricing. Thank you, Margaret! I really appreciate all your help. You’re welcome, Rose! I’m here to help. Just to recap, I have the delivery confirmed for Thursday, with you as the contact person. Updating the care plan for an additional 10 hours of personal care assistance. That sounds perfect. I’ll await your follow-up call. We’ll be in touch soon. If you need anything else, don’t hesitate to call. Thank you again! Have a great day, Margaret. You too, Rose! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I’m calling to confirm a delivery of wound care supplies scheduled for Thursday.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose! Yes, I can help with that. Can you please provide the delivery address?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, it’s 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you for that. And who should we contact upon delivery?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "You can contact me directly at my number, +13165559876.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Got it. Just to confirm, that’s for wound care supplies, correct?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that’s right. We’re expecting those supplies for my mother’s care.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 33,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Understandable. I will make a note. Is there anything else you need while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 33,
+          "end_time": 37,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Actually, yes. I wanted to check if you have any updates on the companion care schedule.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me pull that up quickly. Last I checked, everything was on track for your usual caregivers.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Oh, that’s great to hear! Familiar caregivers are essential for my mom’s comfort.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I completely understand. It’s important to maintain consistency in care.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "By the way, I also wanted to ask about the possibility of adding personal care assistance hours.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely! We can arrange that. Would you like to set up a specific number of hours per week?",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 63,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I’d like to add an additional 10 hours per week.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect, I’ll make a note of that. We’ll get back to you with the updated care plan and pricing.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret! I really appreciate all your help.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome, Rose! I’m here to help. Just to recap, I have the delivery confirmed for Thursday,",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "with you as the contact person. Updating the care plan for an additional 10 hours of personal care assistance.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That sounds perfect. I’ll await your follow-up call.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "We’ll be in touch soon. If you need anything else, don’t hesitate to call.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you again! Have a great day, Margaret.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You too, Rose! Take care.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d6fd72362c2845ada0395a16",
+  "revision": "",
+  "status": "success"
+}
