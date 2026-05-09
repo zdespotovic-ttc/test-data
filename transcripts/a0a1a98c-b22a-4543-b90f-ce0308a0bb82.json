@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T05:56:56Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-fc1a104ed1fe47a5a33d1212",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945525416-e7e540d4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-fc1a104ed1fe47a5a33d1212",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 210,
+      "duration_ms": 210000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945525416,
+      "call_id": "fc1a104ed1fe47a5a33d1212",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-fc1a104ed1fe47a5a33d1212",
+      "media_name": "0e75ed1aedd54a648dc59ebb2b129995.mp3",
+      "scenario": "A patient's son calls about a double charge on their April statement. He says two visits show identical amounts and believes one is a duplicate. He's frustrated because he emailed last week with no response. Wants it resolved today.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 210.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Michael Brown. I’m calling about the statement for my father’s care. Hi, Michael. I’m happy to help. What seems to be the issue? I noticed a double charge for two visits in April that have identical amounts. I believe one is a duplicate. I understand your frustration. Let me take a look at that for you. I emailed last week and haven’t received a response, so I’m really hoping we can get this resolved today. I apologize for the delay. Let me pull up your father’s account to review the charges. One moment, please. Sure, take your time. It’s just that I'm worried about the extra charge, especially with everything else going on. I completely understand, Michael. It’s important to clarify any billing issues. I see the two charges here. They are for skilled nursing visits. Yes, that’s right. But they look exactly the same. Let me check the visit notes to see if there’s a reason for the two charges. One moment. Okay, I appreciate that. I just want to make sure I’m not being overcharged. I see here that both visits were indeed for medication management and wound care, but one was extended due to additional care provided. So you’re saying it’s not a duplicate? Correct. However, I can provide a detailed breakdown of both visits to clarify the extra time spent during one of them. Would that help? Yes, that would be great. I really just want transparency about the charges. I can email you that detailed information today. Would you like me to send it to the email you used last week? Yes, please do. I’ll make sure to follow up on that. Is there anything else I can assist you with? Actually, yes. My father also needs regular wound care and medication management. Can you help with that? Absolutely. We offer skilled nursing care for that. Would you like to discuss scheduling? Yes, I’d like to know about the pricing and availability. For skilled nursing care, our prices range from $95 to $125 per visit. And what’s the usual duration for those visits? Typically, they last between one to two hours. That sounds good. Let’s proceed with scheduling. Great! I’ll connect you with our Care Coordinator to set that up. Thank you, Margaret. I appreciate your help today. You’re welcome, Michael. I’ll ensure you receive that email and assist with scheduling. Sounds good. Have a great day! You too! Thank you for calling CareFirst Home Health. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Michael Brown. I’m calling about the statement for my father’s care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Michael. I’m happy to help. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I noticed a double charge for two visits in April that have identical amounts. I believe one is a duplicate.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 21,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration. Let me take a look at that for you.",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I emailed last week and haven’t received a response, so I’m really hoping we can get this resolved today.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I apologize for the delay. Let me pull up your father’s account to review the charges. One moment, please.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time. It’s just that I'm worried about the extra charge, especially with everything else going on.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand, Michael. It’s important to clarify any billing issues. I see the two charges here. They are for skilled nursing visits.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that’s right. But they look exactly the same.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check the visit notes to see if there’s a reason for the two charges. One moment.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, I appreciate that. I just want to make sure I’m not being overcharged.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I see here that both visits were indeed for medication management and wound care, but one was extended due to additional care provided.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 105,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "So you’re saying it’s not a duplicate?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Correct. However, I can provide a detailed breakdown of both visits to clarify the extra time spent during one of them. Would that help?",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 121,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be great. I really just want transparency about the charges.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 128,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can email you that detailed information today. Would you like me to send it to the email you used last week?",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 134,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please do.",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 137,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll make sure to follow up on that. Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 143,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Actually, yes. My father also needs regular wound care and medication management. Can you help with that?",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely. We offer skilled nursing care for that. Would you like to discuss scheduling?",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, I’d like to know about the pricing and availability.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "For skilled nursing care, our prices range from $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "And what’s the usual duration for those visits?",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 175,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Typically, they last between one to two hours.",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 181,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That sounds good. Let’s proceed with scheduling.",
+          "speaker": "remote party",
+          "start_time": 181,
+          "end_time": 187,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Great! I’ll connect you with our Care Coordinator to set that up.",
+          "speaker": "local party",
+          "start_time": 187,
+          "end_time": 192,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 192,
+          "end_time": 197,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Michael. I’ll ensure you receive that email and assist with scheduling.",
+          "speaker": "local party",
+          "start_time": 197,
+          "end_time": 200,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Sounds good. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 200,
+          "end_time": 205,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You too! Thank you for calling CareFirst Home Health. Goodbye.",
+          "speaker": "local party",
+          "start_time": 205,
+          "end_time": 210,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-fc1a104ed1fe47a5a33d1212",
+  "revision": "",
+  "status": "success"
+}
