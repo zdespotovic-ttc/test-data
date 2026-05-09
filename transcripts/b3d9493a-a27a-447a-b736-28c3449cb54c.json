@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-09T16:54:37Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dc3139319b294661b44ada7e",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945564877-251f1033",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dc3139319b294661b44ada7e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 185,
+      "duration_ms": 185000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945564877,
+      "call_id": "dc3139319b294661b44ada7e",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dc3139319b294661b44ada7e",
+      "media_name": "ce5dd34e4dba4a92a38bd0d2395b4778.mp3",
+      "scenario": "A patient calls furious because the wrong medication was administered during yesterday's visit. He says the nurse gave him his wife's medication by mistake. He's demanding to speak with the clinical director immediately and says he's considering legal action. Extremely angry and scared.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 185.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Margaret, this is David Anderson. I'm furious right now! A nurse gave me my wife's medication yesterday by mistake! I'm so sorry to hear that, David. I understand how serious this is. Can you tell me more about what happened? My wife's recovering from a stroke, and I need to speak to someone in charge. This could have put her in danger! I’m considering legal action! I completely understand your concern, and I assure you we take this very seriously. I'll get you the right support. I need to talk to the clinical director immediately! This isn’t acceptable! Let me help you with that. I am the Director of Nursing, and I can address your concerns. Please, share your details. Well, the nurse said she was here for my care, but she mixed up the medications. My wife shouldn't be put at risk like this! I truly apologize for the mistake, David. Can you tell me which medications were involved? It was my wife's blood thinner! I take my meds regularly, and I don’t mix them up. This was an honest mistake, but it’s serious! That's indeed very serious, and I appreciate you bringing this to my attention. We need to investigate this immediately. What are you going to do about it? I want assurance this won't happen again! First, I'll ensure our team reviews the situation, and I'll personally oversee the investigation. You deserve better care, and we will make this right. This is also affecting my wife’s recovery. How can you assure me she will be safe moving forward? We’ll revisit her care plan and ensure that all staff are reminded of proper medication management procedures. Additionally, I can arrange for a skilled nursing visit to help manage her care effectively. That sounds good, but I still want to know how this happened! I promise you, we will investigate thoroughly and keep you updated. Can I take your contact information to follow up once we have answers? Sure, it’s David Anderson, and my number is +13165556203. Thank you, David. I will call you within 24 hours with an update. Okay, but I'm still very worried about my wife’s health. I understand, and we take your concerns very seriously. We'll ensure she has the proper care moving forward. I appreciate that, but I want to see more training for the staff involved in this. Absolutely. We will review our training protocols and reinforce them to prevent future errors. Good, that’s what I expect! Thank you for your understanding, David. Is there anything else I can assist you with today? No, just please follow up as quickly as possible. I will do that. Thank you for calling CareFirst, and again, I apologize for the distress this has caused. Thank you, Margaret. You’re welcome, David. Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Margaret, this is David Anderson. I'm furious right now! A nurse gave me my wife's medication yesterday by mistake!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm so sorry to hear that, David. I understand how serious this is. Can you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My wife's recovering from a stroke, and I need to speak to someone in charge. This could have put her in danger! I’m considering legal action!",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand your concern, and I assure you we take this very seriously. I'll get you the right support.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I need to talk to the clinical director immediately! This isn’t acceptable!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me help you with that. I am the Director of Nursing, and I can address your concerns. Please, share your details.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Well, the nurse said she was here for my care, but she mixed up the medications. My wife shouldn't be put at risk like this!",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I truly apologize for the mistake, David. Can you tell me which medications were involved?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It was my wife's blood thinner! I take my meds regularly, and I don’t mix them up. This was an honest mistake, but it’s serious!",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That's indeed very serious, and I appreciate you bringing this to my attention. We need to investigate this immediately.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "What are you going to do about it? I want assurance this won't happen again!",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "First, I'll ensure our team reviews the situation, and I'll personally oversee the investigation. You deserve better care, and we will make this right.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "This is also affecting my wife’s recovery. How can you assure me she will be safe moving forward?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We’ll revisit her care plan and ensure that all staff are reminded of proper medication management procedures. Additionally, I can arrange for a skilled nursing visit to help manage her care effectively.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good, but I still want to know how this happened!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I promise you, we will investigate thoroughly and keep you updated. Can I take your contact information to follow up once we have answers?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sure, it’s David Anderson, and my number is +13165556203.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you, David. I will call you within 24 hours with an update.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, but I'm still very worried about my wife’s health.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I understand, and we take your concerns very seriously. We'll ensure she has the proper care moving forward.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I appreciate that, but I want to see more training for the staff involved in this.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely. We will review our training protocols and reinforce them to prevent future errors.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Good, that’s what I expect!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your understanding, David. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, just please follow up as quickly as possible.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I will do that. Thank you for calling CareFirst, and again, I apologize for the distress this has caused.",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, David. Take care.",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dc3139319b294661b44ada7e",
+  "revision": "",
+  "status": "success"
+}
