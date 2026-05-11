@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:57:40Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-815a5ace0cf248b68e97cc91",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694660-247a32d0",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-815a5ace0cf248b68e97cc91",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694660,
+      "call_id": "815a5ace0cf248b68e97cc91",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-815a5ace0cf248b68e97cc91",
+      "media_name": "de120d2e144d452ca0828fe86cbb29ce.mp3",
+      "scenario": "A home health aide calls the office in a panic because an elderly patient fell and hit their head. The patient is conscious but confused and has a bump forming. The aide asks what to do. The receptionist instructs her to call 911 immediately and stay with the patient.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you? Hi, Margaret, it's Edward Martinez. I need help right away! Edward! What’s going on? Are you okay? No, it’s not me. It’s my mother-in-law! She fell and hit her head. Oh no, I’m so sorry to hear that. Is she conscious? Yes, but she’s confused and there's a bump forming. What should I do? You need to call 911 immediately. Can you do that? Yes, I can do that. Should I stay with her? Absolutely, stay with her. Talk to her, keep her calm. Okay. I’m calling right now. I’m so scared! I understand. You're doing the right thing. Just stay on the line with me until help arrives. Alright, I've called 911. They’re on the way. Good. How is she doing now? Is she responsive? A little. She keeps asking where she is. That’s normal after a fall. Just reassure her that help is coming. I hope they get here soon. Should I do anything else? Just keep her comfortable. If she starts to lose consciousness, let me know right away. Okay, I’ll keep you updated. What else should I do after? Once she’s stable, we can discuss follow-up care. We might need a nurse to assess her. That makes sense. I definitely want someone to check on her. Of course. After this, I can set up an appointment for skilled nursing care if needed. Yes, please. I want to make sure she gets proper care. I’ll handle that for you. Just focus on taking care of her for now. Thank you, Margaret, I really appreciate it. You're welcome, Edward. Just stay on the line with me until help arrives. I will. I can hear the sirens now. That’s great news! They’ll take good care of her. Thank you again. I’ll keep in touch. Please do. I’ll be here for you. Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, it's Edward Martinez. I need help right away!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 6,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Edward! What’s going on? Are you okay?",
+          "speaker": "local party",
+          "start_time": 6,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "No, it’s not me. It’s my mother-in-law! She fell and hit her head.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no, I’m so sorry to hear that. Is she conscious?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, but she’s confused and there's a bump forming. What should I do?",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "You need to call 911 immediately. Can you do that?",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, I can do that. Should I stay with her?",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, stay with her. Talk to her, keep her calm.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 35,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay. I’m calling right now. I’m so scared!",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand. You're doing the right thing. Just stay on the line with me until help arrives.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Alright, I've called 911. They’re on the way.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Good. How is she doing now? Is she responsive?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "A little. She keeps asking where she is.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That’s normal after a fall. Just reassure her that help is coming.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 60,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I hope they get here soon. Should I do anything else?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Just keep her comfortable. If she starts to lose consciousness, let me know right away.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, I’ll keep you updated. What else should I do after?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Once she’s stable, we can discuss follow-up care. We might need a nurse to assess her.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That makes sense. I definitely want someone to check on her.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course. After this, I can set up an appointment for skilled nursing care if needed.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. I want to make sure she gets proper care.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll handle that for you. Just focus on taking care of her for now.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 97,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret, I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Edward. Just stay on the line with me until help arrives.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will. I can hear the sirens now.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "That’s great news! They’ll take good care of her.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you again. I’ll keep in touch.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Please do. I’ll be here for you. Take care.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-815a5ace0cf248b68e97cc91",
+  "revision": "",
+  "status": "success"
+}
