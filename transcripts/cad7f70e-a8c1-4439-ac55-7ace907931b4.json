@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:58:29Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-af2c5f58713b4ee9864a51c4",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694709-7ef37227",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-af2c5f58713b4ee9864a51c4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 70,
+      "duration_ms": 70000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694709,
+      "call_id": "af2c5f58713b4ee9864a51c4",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-af2c5f58713b4ee9864a51c4",
+      "media_name": "8a556cf9f56b4573b09681f2d01fb757.mp3",
+      "scenario": "An automated robocall about extending the office's car warranty. The receptionist listens for a few seconds, realizes it's spam, and hangs up. Very short call.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 70.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Uh, hi, this is William Chen. I’m just checking in on my car warranty extension. Sir, this is CareFirst Home Health, not a car warranty service. Oh, I think I got a robocall or something. Yes, it seems like a spam call. We don’t handle that here. Right, right. Sorry about that. No problem! Is there anything healthcare-related I can assist you with? Actually, I did want to ask about my physical therapy schedule. Sure, let me pull up your information. I had a visit just two days ago, and I’m wondering when the next one is. Your next physical therapy appointment is scheduled for this Friday at 10 AM. Great! I was also thinking about adding some more personal care assistance. We can certainly help with that. Would you like to schedule a caregiver? Yes, maybe for two hours a few times a week? I can connect you with Lisa Chen, our Care Coordinator, for that. Sounds good, thank you! Let me transfer you to her. What’s your best contact number? It’s still the same, +13165554321. Perfect, I’ll have Lisa reach out shortly to discuss your needs. Thanks, Margaret! I appreciate your help. You’re welcome, William. Have a great day! You too! Bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Uh, hi, this is William Chen. I’m just checking in on my car warranty extension.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Sir, this is CareFirst Home Health, not a car warranty service.",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I think I got a robocall or something.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 12,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Yes, it seems like a spam call. We don’t handle that here.",
+          "speaker": "local party",
+          "start_time": 12,
+          "end_time": 15,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Right, right. Sorry about that.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 18,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "No problem! Is there anything healthcare-related I can assist you with?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 20,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Actually, I did want to ask about my physical therapy schedule.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 23,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Sure, let me pull up your information.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 26,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I had a visit just two days ago, and I’m wondering when the next one is.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 31,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Your next physical therapy appointment is scheduled for this Friday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 34,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great! I was also thinking about adding some more personal care assistance.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 37,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can certainly help with that. Would you like to schedule a caregiver?",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, maybe for two hours a few times a week?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can connect you with Lisa Chen, our Care Coordinator, for that.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 48,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds good, thank you!",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 51,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me transfer you to her. What’s your best contact number?",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 54,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "It’s still the same, +13165554321.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 56,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect, I’ll have Lisa reach out shortly to discuss your needs.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 60,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thanks, Margaret! I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 63,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, William. Have a great day!",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 65,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too! Bye.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 68,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 70,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-af2c5f58713b4ee9864a51c4",
+  "revision": "",
+  "status": "success"
+}
