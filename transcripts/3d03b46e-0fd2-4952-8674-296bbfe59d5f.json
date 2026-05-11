@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:56:27Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e10b59b07f3e41eba1bf2040",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694587-69a6ccd0",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e10b59b07f3e41eba1bf2040",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694587,
+      "call_id": "e10b59b07f3e41eba1bf2040",
+      "caller_id_number": "+13165559012",
+      "caller_id_name": "Lucille Davis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e10b59b07f3e41eba1bf2040",
+      "media_name": "eb25b1a47c494870aeaa2ee966a63a3f.mp3",
+      "scenario": "A son calls for the first time asking about 24-hour live-in care for his father who has Parkinson's disease. He wants a detailed price breakdown for weekday vs weekend rates. The receptionist provides quotes for both options. He says he'll compare with other agencies. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I assist you today? Hi, my name is David, and I'm looking for information about 24-hour live-in care for my father. Of course, I’d be happy to help you with that. Can you tell me a bit about your father’s situation? Sure, he has Parkinson's disease and needs assistance with daily activities. I understand. Our 24-hour live-in care includes personal care, companionship, and help with daily tasks. That sounds good. Can you give me the price breakdown for weekdays vs weekends? Absolutely. For weekdays, the cost is between $280 to $350 per day. On weekends, the rate is the same, $280 to $350 per day. Okay, so it’s the same for both. What does the service include exactly? The service includes around-the-clock personal care, companionship, meal preparation, and assistance with medications. Great! I want to ensure he feels comfortable and safe. Absolutely, we prioritize the comfort and safety of all our clients. I’ll need to compare this with a few other agencies. That’s completely understandable. We encourage you to consider your options. If you have any questions after your comparisons, feel free to call us back. Will do. If I decide to go with you, what’s the next step? If you choose us, we’ll set up an initial consultation to assess your father’s needs. We can also assist with insurance authorization if needed. That would be helpful. I might need some guidance on that. Absolutely, our Care Coordinator can assist you with the insurance process. Would you like me to have them reach out to you? Yes, that would be great. Can I get your phone number and the best time for them to call? Sure, my number is +13165559012, and any time after 3 PM works for me. Perfect, I’ve noted that down. You’ll receive a call from our Care Coordinator. Thank you for your help. I appreciate it. You’re welcome! Thank you for considering CareFirst Home Health. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is David, and I'm looking for information about 24-hour live-in care for my father.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, I’d be happy to help you with that. Can you tell me a bit about your father’s situation?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, he has Parkinson's disease and needs assistance with daily activities.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Our 24-hour live-in care includes personal care, companionship, and help with daily tasks.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. Can you give me the price breakdown for weekdays vs weekends?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely. For weekdays, the cost is between $280 to $350 per day.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "On weekends, the rate is the same, $280 to $350 per day.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Okay, so it’s the same for both. What does the service include exactly?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "The service includes around-the-clock personal care, companionship, meal preparation, and assistance with medications.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Great! I want to ensure he feels comfortable and safe.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, we prioritize the comfort and safety of all our clients.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "I’ll need to compare this with a few other agencies.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "That’s completely understandable. We encourage you to consider your options.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "If you have any questions after your comparisons, feel free to call us back.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Will do. If I decide to go with you, what’s the next step?",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "If you choose us, we’ll set up an initial consultation to assess your father’s needs.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "We can also assist with insurance authorization if needed.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That would be helpful. I might need some guidance on that.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely, our Care Coordinator can assist you with the insurance process.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Would you like me to have them reach out to you?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that would be great.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Can I get your phone number and the best time for them to call?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sure, my number is +13165559012, and any time after 3 PM works for me.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect, I’ve noted that down. You’ll receive a call from our Care Coordinator.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you for your help. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Thank you for considering CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559012",
+    "ooma_remote_name": "Lucille Davis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e10b59b07f3e41eba1bf2040",
+  "revision": "",
+  "status": "success"
+}
