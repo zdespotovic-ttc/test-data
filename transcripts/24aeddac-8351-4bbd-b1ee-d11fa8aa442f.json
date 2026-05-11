@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T02:31:58Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b3c9e9e7ffce46f7b14bb25d",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945685918-66cedfbe",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b3c9e9e7ffce46f7b14bb25d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 153,
+      "duration_ms": 153000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945685918,
+      "call_id": "b3c9e9e7ffce46f7b14bb25d",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b3c9e9e7ffce46f7b14bb25d",
+      "media_name": "63bd4f72195748e2a5ca41052e1de540.mp3",
+      "scenario": "A patient calls to complain that the physical therapist rushed through yesterday's session in 25 minutes instead of the full 45 minutes. She says she's paying for a full session and expects the full time. She wants a credit or a makeup session.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 153.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Eleanor Watson. I'm calling about my physical therapy session yesterday. Hi, Eleanor! How are you? What seems to be the issue? I'm not too happy. The physical therapist rushed through the session. It only lasted 25 minutes instead of the full 45. I’m really sorry to hear that. That’s certainly not the experience we want our clients to have. I understand, but I’m paying for a full session, and I expect the full time. Absolutely, I completely understand your frustration, Eleanor. Let me look into this for you. Thank you. I would appreciate that. I just want to know if I can get a credit for the missed time or perhaps schedule a makeup session. I can definitely help you with that. First, let me check the therapist's schedule and see what available slots we have. That would be great. Ideally, I'd like to keep appointments between 10 AM and 2 PM. Noted. I’ll prioritize those hours for you. One moment, please. (pause) It appears we have an opening tomorrow at 10 AM. Would that work for you? Yes, that works perfectly! Thank you. Excellent! I’ll confirm that appointment for you. Now, about the credit... Right, I still want to know how that works. Given the situation, I’ll speak with our billing department to see if we can apply a credit for the 20 minutes missed. I’ll follow up with you on that. I appreciate that. Thank you for addressing my concerns. Of course, it’s important to us that you feel satisfied with our services. Can I also ask if there are any additional services that may help with my recovery? Absolutely! We offer skilled nursing care and medication management, which may be beneficial. That sounds interesting. Can you send me more information about those services? Yes, I can send you a detailed overview via email. What’s the best email address for you? It's eleanor.watson@email.com. Thank you, Eleanor! I’ll get that sent over right away. I really appreciate all your help today, Margaret. You’re very welcome! I’ll confirm your appointment and follow up on the billing issue soon. Thank you again. Have a great day! You too, Eleanor! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I'm calling about my physical therapy session yesterday.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Eleanor! How are you? What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm not too happy. The physical therapist rushed through the session. It only lasted 25 minutes instead of the full 45.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that. That’s certainly not the experience we want our clients to have.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I understand, but I’m paying for a full session, and I expect the full time.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I completely understand your frustration, Eleanor. Let me look into this for you.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you. I would appreciate that. I just want to know if I can get a credit for the missed time or perhaps schedule a makeup session.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I can definitely help you with that. First, let me check the therapist's schedule and see what available slots we have.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great. Ideally, I'd like to keep appointments between 10 AM and 2 PM.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Noted. I’ll prioritize those hours for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "(pause) It appears we have an opening tomorrow at 10 AM. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 70,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, that works perfectly! Thank you.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Excellent! I’ll confirm that appointment for you. Now, about the credit...",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Right, I still want to know how that works.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Given the situation, I’ll speak with our billing department to see if we can apply a credit for the 20 minutes missed. I’ll follow up with you on that.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I appreciate that. Thank you for addressing my concerns.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Of course, it’s important to us that you feel satisfied with our services.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Can I also ask if there are any additional services that may help with my recovery?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely! We offer skilled nursing care and medication management, which may be beneficial.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That sounds interesting. Can you send me more information about those services?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Yes, I can send you a detailed overview via email. What’s the best email address for you?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 126,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "It's eleanor.watson@email.com.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Eleanor! I’ll get that sent over right away.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "I really appreciate all your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re very welcome! I’ll confirm your appointment and follow up on the billing issue soon.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you again. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You too, Eleanor! Take care.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b3c9e9e7ffce46f7b14bb25d",
+  "revision": "",
+  "status": "success"
+}
