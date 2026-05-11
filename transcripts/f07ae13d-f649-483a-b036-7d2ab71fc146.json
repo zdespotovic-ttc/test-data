@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:59:40Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dfe0740ebb4044d59e2284ca",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694780-4c389f8d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dfe0740ebb4044d59e2284ca",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 142,
+      "duration_ms": 142000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694780,
+      "call_id": "dfe0740ebb4044d59e2284ca",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dfe0740ebb4044d59e2284ca",
+      "media_name": "29ef4ec522e04da5bade24149ff79180.mp3",
+      "scenario": "A patient calls to ask about their outstanding balance and whether they can set up a payment plan. They're not upset, just want to understand their options. The receptionist explains the monthly payment plan and the caller agrees to it.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 142.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Betty Lou Smith. I’m calling to check on my outstanding balance and see if I can set up a payment plan. Hi Betty, it’s great to hear from you! Let me pull up your account details. One moment, please. Sure, take your time. Okay, I see here that you have a remaining balance of $320 from the last few visits. Yes, that sounds about right. I was hoping to see if there’s a way to break that down into smaller payments. Absolutely, Betty. We do offer a monthly payment plan that divides your balance into manageable installments. That sounds helpful. How does the monthly payment plan work? It’s quite simple. We can set you up to pay $80 a month, which would cover your balance over four months. That works for me. Is there anything I need to do to get that set up? I can set it up for you right now if you’d like. Just confirm that you want to proceed with the $80 monthly payments. Yes, please go ahead. I’d like to proceed. Great! I’ll set that up right away. Just give me a moment. No problem, Margaret. Okay, you’re all set! You’ll receive a confirmation email shortly, and the first payment will be processed at the end of this month. Thank you! I appreciate your help with this. You’re welcome! Is there anything else I can assist you with today? Actually, I was wondering if I could get some more information about your companion care services. Certainly! Our companion care services provide social interaction, light housekeeping, and meal preparation for $25 to $30 per hour. That sounds like something I might need. Can you tell me about scheduling? Yes, we can work to create a consistent schedule based on your preferences. Would you like me to connect you with Lisa, our Care Coordinator? Yes, please. That would be great. I’ll have Lisa give you a call later today to discuss the details. Thank you, Margaret. I really appreciate it. No problem at all, Betty! Thank you for calling CareFirst Home Health. Have a great day! You too! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I’m calling to check on my outstanding balance and see if I can set up a payment plan.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty, it’s great to hear from you! Let me pull up your account details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Okay, I see here that you have a remaining balance of $320 from the last few visits.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, that sounds about right. I was hoping to see if there’s a way to break that down into smaller payments.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, Betty. We do offer a monthly payment plan that divides your balance into manageable installments.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds helpful. How does the monthly payment plan work?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It’s quite simple. We can set you up to pay $80 a month, which would cover your balance over four months.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That works for me. Is there anything I need to do to get that set up?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can set it up for you right now if you’d like. Just confirm that you want to proceed with the $80 monthly payments.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please go ahead. I’d like to proceed.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! I’ll set that up right away. Just give me a moment.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "No problem, Margaret.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Okay, you’re all set! You’ll receive a confirmation email shortly, and the first payment will be processed at the end of this month.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Actually, I was wondering if I could get some more information about your companion care services.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Certainly! Our companion care services provide social interaction, light housekeeping, and meal preparation for $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds like something I might need. Can you tell me about scheduling?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we can work to create a consistent schedule based on your preferences. Would you like me to connect you with Lisa, our Care Coordinator?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. That would be great.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll have Lisa give you a call later today to discuss the details.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "No problem at all, Betty! Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 139,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 139,
+          "end_time": 142,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dfe0740ebb4044d59e2284ca",
+  "revision": "",
+  "status": "success"
+}
