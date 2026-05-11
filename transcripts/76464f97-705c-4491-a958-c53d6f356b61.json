@@ -1,0 +1,205 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:57:23Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9f54162c073a4b939d019153",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694643-4d2f8db9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9f54162c073a4b939d019153",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 75,
+      "duration_ms": 75000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694643,
+      "call_id": "9f54162c073a4b939d019153",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9f54162c073a4b939d019153",
+      "media_name": "fb54bbe640c248a7ab91de7d89187a4c.mp3",
+      "scenario": "A patient calls to cancel tomorrow's physical therapy session because they have a family emergency. They don't want to reschedule yet and will call back next week. Polite but brief.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 75.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Mary O'Connor. I’m calling to cancel my physical therapy session scheduled for tomorrow. Hi, Mary. I'm sorry to hear that. Is everything okay? Yes, it’s just a family emergency that I need to attend to. I understand. Family comes first. Would you like me to note that you don't want to reschedule at this time? Yes, please. I’ll call back next week to reschedule. That sounds good. Just to confirm, you’re cancelling Dr. Rodriguez's session for tomorrow? Yes, that’s correct. I’ll take care of that right away. Is there anything else I can assist you with? No, that’s all for now. I just wanted to make sure I didn’t forget to cancel. No worries at all, Mary. We appreciate you letting us know. Thank you for understanding. Of course. Also, if you’re feeling overwhelmed with your IV therapy, we could discuss some additional support options when you call back. That might be helpful. I’ll keep that in mind. Great! Just let us know whenever you’re ready. I appreciate it. Thank you, Margaret. You’re welcome, Mary. Take care and we’ll talk soon. Bye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Mary O'Connor. I’m calling to cancel my physical therapy session scheduled for tomorrow.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Mary. I'm sorry to hear that. Is everything okay?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it’s just a family emergency that I need to attend to.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Family comes first. Would you like me to note that you don't want to reschedule at this time?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, please. I’ll call back next week to reschedule.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds good. Just to confirm, you’re cancelling Dr. Rodriguez's session for tomorrow?",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’ll take care of that right away. Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "No, that’s all for now. I just wanted to make sure I didn’t forget to cancel.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "No worries at all, Mary. We appreciate you letting us know.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you for understanding.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 51,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course. Also, if you’re feeling overwhelmed with your IV therapy, we could discuss some additional support options when you call back.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 55,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That might be helpful. I’ll keep that in mind.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! Just let us know whenever you’re ready.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 63,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I appreciate it. Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome, Mary. Take care and we’ll talk soon.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 70,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 73,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 75,
+          "channel": "left",
+          "id": 18
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9f54162c073a4b939d019153",
+  "revision": "",
+  "status": "success"
+}
