@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T02:35:57Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-38cc4be9a9d64ea180feab6f",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945686157-654dff16",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-38cc4be9a9d64ea180feab6f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 148,
+      "duration_ms": 148000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945686157,
+      "call_id": "38cc4be9a9d64ea180feab6f",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-38cc4be9a9d64ea180feab6f",
+      "media_name": "77e60f8e6da845039148e177f6c8873e.mp3",
+      "scenario": "A retired teacher calls for the first time asking about companion care for herself. She lives alone and wants someone to check on her a few times a week. She asks about pricing and mentions she's on a fixed income so cost is a concern. The receptionist explains their most affordable options. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 148.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. My name is Michael Brown, and I'm calling to inquire about companion care services. Hi, Michael! I’d be happy to help you with that. Can you tell me a bit about your needs? Sure! I’m a retired teacher living alone, and I’d like someone to check on me a few times a week. I understand. That sounds like a great option for you. Yes, and I’m on a fixed income, so cost is a concern for me. I completely understand, Michael. Our companion care services are priced at $25 to $30 per hour. Okay, that sounds reasonable. How many hours would you recommend? Typically, clients choose 2 to 4 hours per visit, depending on their needs. Would that work for you? Yes, I think starting with 2 hours a couple of times a week would be good. Great choice! That would be about $50 to $60 per visit. Hm, I see. Can you tell me more about what services are included? Of course! Our companion care includes social interaction, light housekeeping, meal preparation, and transportation assistance. That sounds helpful. Can I also get medication reminders? Yes, we can include that as part of the overall care plan. What would the cost be for medication management? Medication management is priced at $65 to $80 per visit, for about 30 to 45 minutes. That’s a bit high for me. Is there a way to combine services for a better rate? We can definitely work on a care plan that fits your budget, Michael. That would be great. What are the next steps? I can schedule an assessment visit where we’ll go over your needs in detail. Sounds good. When can we do that? How about this week? I have openings on Wednesday or Friday. Let’s go with Friday, please. Perfect! I’ll note that down. What time works for you? How about 10 AM? 10 AM on Friday it is! I’ll send you a confirmation. Thank you, Margaret. I appreciate your help! You’re very welcome, Michael! Looking forward to seeing you on Friday. I will see you then. Goodbye! Goodbye! Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Michael Brown, and I'm calling to inquire about companion care services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Michael! I’d be happy to help you with that. Can you tell me a bit about your needs?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure! I’m a retired teacher living alone, and I’d like someone to check on me a few times a week.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. That sounds like a great option for you.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, and I’m on a fixed income, so cost is a concern for me.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand, Michael. Our companion care services are priced at $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that sounds reasonable. How many hours would you recommend?",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Typically, clients choose 2 to 4 hours per visit, depending on their needs. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I think starting with 2 hours a couple of times a week would be good.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great choice! That would be about $50 to $60 per visit.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Hm, I see. Can you tell me more about what services are included?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! Our companion care includes social interaction, light housekeeping, meal preparation, and transportation assistance.",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds helpful. Can I also get medication reminders?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we can include that as part of the overall care plan.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "What would the cost be for medication management?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Medication management is priced at $65 to $80 per visit, for about 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That’s a bit high for me. Is there a way to combine services for a better rate?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can definitely work on a care plan that fits your budget, Michael.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be great. What are the next steps?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I can schedule an assessment visit where we’ll go over your needs in detail.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good. When can we do that?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "How about this week? I have openings on Wednesday or Friday.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Let’s go with Friday, please.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect! I’ll note that down. What time works for you?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "How about 10 AM?",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "10 AM on Friday it is! I’ll send you a confirmation.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re very welcome, Michael! Looking forward to seeing you on Friday.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 141,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I will see you then. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 141,
+          "end_time": 145,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye! Have a great day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 148,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-38cc4be9a9d64ea180feab6f",
+  "revision": "",
+  "status": "success"
+}
