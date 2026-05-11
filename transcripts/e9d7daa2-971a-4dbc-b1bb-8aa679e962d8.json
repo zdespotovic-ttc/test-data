@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T02:36:11Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3f6fb009459f427da858dfe4",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945686171-2b3df7ff",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3f6fb009459f427da858dfe4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945686171,
+      "call_id": "3f6fb009459f427da858dfe4",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3f6fb009459f427da858dfe4",
+      "media_name": "80e2957e772d4271b45de771fefc0286.mp3",
+      "scenario": "A patient calls to reschedule for the third time this month. She says the scheduling keeps conflicting with her work and she's not sure the service is worth the hassle anymore. The receptionist accommodates her new time but the caller sounds like she might cancel altogether soon.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, it's Agnes Rodriguez. I'm calling to reschedule my companion care again. Hi Agnes! I hope you’re doing well. What day and time do you have in mind? Well, my work schedule keeps changing, and I keep having to move the appointment around. I understand, that can be really frustrating. Let’s see what we can do to accommodate you. I just feel like it’s a hassle at this point. Is it even worth it? I can assure you that our services are designed to support you, especially with your needs in mind. I know, but I’m worried that if I keep rescheduling, it won't be worth the effort anymore. I completely understand your concern. Can you tell me what specific days and times would work better for you? How about next Tuesday at 4 PM? That should work for me. Let me check… Yes, we can schedule you for Tuesday at 4 PM. Okay, thank you. I appreciate you fitting me in. Of course! Your care is important to us, Agnes. I do enjoy the company, especially with my gardening. It helps me feel less isolated. Gardening is a wonderful activity! We can look into scheduling more visits focused on those activities in the future. That would be nice, but I just need to make sure it fits into my routine. Absolutely, I can check with our caregivers and see what they recommend. That could help a lot. I don’t want to cancel if it can work. I will follow up with you right after this call to provide you with some options. Okay, that sounds good. I just want to make sure it’s manageable. Of course, I completely understand. We want to make this process as easy as possible for you. Thank you, Margaret. I just don’t want to be a burden. You’re not a burden at all, Agnes. We’re here to support you. I appreciate that. I’ll look forward to hearing from you. Thank you for calling, Agnes. I’ll be in touch shortly with those details. Alright, take care. You too! Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it's Agnes Rodriguez. I'm calling to reschedule my companion care again.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes! I hope you’re doing well. What day and time do you have in mind?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my work schedule keeps changing, and I keep having to move the appointment around.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, that can be really frustrating. Let’s see what we can do to accommodate you.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I just feel like it’s a hassle at this point. Is it even worth it?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I can assure you that our services are designed to support you, especially with your needs in mind.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I know, but I’m worried that if I keep rescheduling, it won't be worth the effort anymore.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand your concern. Can you tell me what specific days and times would work better for you?",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "How about next Tuesday at 4 PM? That should work for me.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check… Yes, we can schedule you for Tuesday at 4 PM.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, thank you. I appreciate you fitting me in.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! Your care is important to us, Agnes.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I do enjoy the company, especially with my gardening. It helps me feel less isolated.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Gardening is a wonderful activity! We can look into scheduling more visits focused on those activities in the future.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be nice, but I just need to make sure it fits into my routine.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, I can check with our caregivers and see what they recommend.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 86,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That could help a lot. I don’t want to cancel if it can work.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 92,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I will follow up with you right after this call to provide you with some options.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, that sounds good. I just want to make sure it’s manageable.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course, I completely understand. We want to make this process as easy as possible for you.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 107,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I just don’t want to be a burden.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re not a burden at all, Agnes. We’re here to support you.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate that. I’ll look forward to hearing from you.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for calling, Agnes. I’ll be in touch shortly with those details.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Alright, take care.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Have a great day!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3f6fb009459f427da858dfe4",
+  "revision": "",
+  "status": "success"
+}
