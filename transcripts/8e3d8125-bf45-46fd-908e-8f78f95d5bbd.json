@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:56:13Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a05c4499b6c14a3ebbe5c143",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694573-45689d13",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a05c4499b6c14a3ebbe5c143",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 122,
+      "duration_ms": 122000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694573,
+      "call_id": "a05c4499b6c14a3ebbe5c143",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a05c4499b6c14a3ebbe5c143",
+      "media_name": "dc938209f3474c4380e83ee6e8c0466d.mp3",
+      "scenario": "A returning patient calls to schedule their bi-weekly wound care visit. They request Tuesday morning if possible. The receptionist books them for Tuesday at 10 AM. Quick, friendly call.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 122.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Michael Brown. I need to schedule a bi-weekly wound care visit for my father. Hi Michael! Great to hear from you. When would you like to schedule the visit? I was hoping for Tuesday morning if possible. Let me check our schedule for Tuesday morning. One moment please. Sure, thanks! My father is really in need of this care, so I appreciate it. Absolutely, I understand how important this is. Okay, I have availability at 10 AM on Tuesday. Does that work for you? Yes, that works perfectly. Thank you! Great! I’ll book that for you. Can I confirm your father’s name? Yes, it's Robert Brown. Thank you, Michael. Just to confirm, we have Robert Brown scheduled for wound care at 10 AM on Tuesday. That's right. Is there anything else we can assist you with during this call? Actually, yes. My father also needs help with medication management. We can certainly help with that! Would you like to schedule a separate appointment for medication management? Yeah, that would be great. Can we do that on Tuesday as well? We can fit that in after the wound care visit. Would you like to schedule it for 11 AM? Yes, that sounds good. Perfect! So we have Robert scheduled for wound care at 10 AM and medication management at 11 AM. Thank you so much for your help, Margaret. You’re welcome, Michael! We’ll be sure to take great care of him. Is there anything else I can assist you with today? No, that's everything for now. Alright, you’re all set. If you think of anything else, just give us a call back. Will do. Thanks again! Thank you, Michael! Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I need to schedule a bi-weekly wound care visit for my father.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Michael! Great to hear from you. When would you like to schedule the visit?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I was hoping for Tuesday morning if possible.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me check our schedule for Tuesday morning. One moment please.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, thanks! My father is really in need of this care, so I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I understand how important this is.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I have availability at 10 AM on Tuesday. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Yes, that works perfectly. Thank you!",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 43,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Great! I’ll book that for you. Can I confirm your father’s name?",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 47,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, it's Robert Brown.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 51,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Thank you, Michael. Just to confirm, we have Robert Brown scheduled for wound care at 10 AM on Tuesday.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 54,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That's right.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Is there anything else we can assist you with during this call?",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Actually, yes. My father also needs help with medication management.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "We can certainly help with that! Would you like to schedule a separate appointment for medication management?",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 71,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yeah, that would be great. Can we do that on Tuesday as well?",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 76,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "We can fit that in after the wound care visit. Would you like to schedule it for 11 AM?",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, that sounds good.",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 85,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect! So we have Robert scheduled for wound care at 10 AM and medication management at 11 AM.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you so much for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome, Michael! We’ll be sure to take great care of him.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 97,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that's everything for now.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Alright, you’re all set. If you think of anything else, just give us a call back.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 109,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Will do. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 114,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Michael! Have a great day!",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 122,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a05c4499b6c14a3ebbe5c143",
+  "revision": "",
+  "status": "success"
+}
