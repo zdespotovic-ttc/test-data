@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:59:25Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-82e64e8d958248209724bf3e",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694765-40f2d26a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-82e64e8d958248209724bf3e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694765,
+      "call_id": "82e64e8d958248209724bf3e",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-82e64e8d958248209724bf3e",
+      "media_name": "0c3da760d53343a1b8f7c3087f5ba783.mp3",
+      "scenario": "A woman calls comparing home health agencies for her elderly aunt. She mentions that Visiting Angels quoted her $28/hour and asks what CareFirst charges. The receptionist provides their rate of $32/hour and explains what's included. The caller says she'll think about it. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, my name is Mark Johnson. I'm looking for some help for my elderly parents. Nice to meet you, Mark! What specific services are you looking for? They need help with medication management and transportation to their appointments. We can definitely assist with that. We offer medication management and transportation services. Great! I’ve been comparing agencies and got a quote from Visiting Angels for $28 per hour for similar services. Our rate for personal care assistance is $32 per hour, which includes help with medication reminders and transportation. What exactly does that $32 cover? It covers assistance with personal hygiene, medication management, and we can also help with light housekeeping and meal prep if needed. That sounds good. Do you have any availability for next week? Yes, we can schedule an assessment to discuss your parents' needs in more detail. That would be helpful. How does the assessment work? One of our care coordinators will visit to evaluate their specific needs and develop a personalized care plan. Okay, I’ll definitely consider it. I just want to compare a bit more before deciding. Absolutely, it’s a big decision. Please don’t hesitate to reach out if you have more questions. I will, thank you. Do you accept insurance? We do work with various insurance providers. I can help you with the authorization process during the assessment. That sounds good. Do you have any other services that might be beneficial? We also offer companion care, which can provide additional support and social interaction. I’ll keep that in mind. Can I get your website or some materials to review? Of course! I can send you a brochure via email, and our website is carefirsthomehealth.com for more details. Perfect, thank you for your help, Margaret. I’ll think about it and get back to you. You’re welcome, Mark! Feel free to call us at +13165559200 if you have any more questions. Will do. Have a great day! Thank you, you too! Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Mark Johnson. I'm looking for some help for my elderly parents.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Mark! What specific services are you looking for?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "They need help with medication management and transportation to their appointments.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely assist with that. We offer medication management and transportation services.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! I’ve been comparing agencies and got a quote from Visiting Angels for $28 per hour for similar services.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our rate for personal care assistance is $32 per hour, which includes help with medication reminders and transportation.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "What exactly does that $32 cover?",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It covers assistance with personal hygiene, medication management, and we can also help with light housekeeping and meal prep if needed.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds good. Do you have any availability for next week?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 51,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, we can schedule an assessment to discuss your parents' needs in more detail.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be helpful. How does the assessment work?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "One of our care coordinators will visit to evaluate their specific needs and develop a personalized care plan.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, I’ll definitely consider it. I just want to compare a bit more before deciding.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 73,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, it’s a big decision. Please don’t hesitate to reach out if you have more questions.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I will, thank you. Do you accept insurance?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We do work with various insurance providers. I can help you with the authorization process during the assessment.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good. Do you have any other services that might be beneficial?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We also offer companion care, which can provide additional support and social interaction.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I’ll keep that in mind. Can I get your website or some materials to review?",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course! I can send you a brochure via email, and our website is carefirsthomehealth.com for more details.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect, thank you for your help, Margaret. I’ll think about it and get back to you.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Mark! Feel free to call us at +13165559200 if you have any more questions.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Will do. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you, you too! Goodbye.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-82e64e8d958248209724bf3e",
+  "revision": "",
+  "status": "success"
+}
