@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T02:33:20Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9f4f38eb87c2448bbd7c9306",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945686000-08f66a6b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9f4f38eb87c2448bbd7c9306",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 127,
+      "duration_ms": 127000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945686000,
+      "call_id": "9f4f38eb87c2448bbd7c9306",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9f4f38eb87c2448bbd7c9306",
+      "media_name": "7d417b2fa0da4d1bb749f8c38dcc767b.mp3",
+      "scenario": "A man calls for the first time asking about speech therapy services for his mother who had a stroke. He asks about frequency, duration of sessions, and cost. The receptionist provides a quote for twice-weekly sessions at $95 each. He sounds hopeful and wants to start next week. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 127.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, my name is Frank Miller. I'm calling about speech therapy services for my mother. She recently had a stroke. I'm sorry to hear about your mother, Frank. We can definitely help with that. Great! Can you tell me about the frequency and duration of the sessions? Certainly! We typically recommend twice-weekly sessions for about 45 minutes each. Okay, that sounds good. What’s the cost for those sessions? Each session is priced at $95. So, for twice a week, it would be $190 weekly. That’s manageable. When could we start? We can schedule your mother's first session as early as next week. Would you like to book a specific day? How about Monday? That works for me. Let me check our availability... Yes, we have an opening on Monday at 10 AM. Does that suit you? Yes, that’s perfect! Great! I’ll go ahead and reserve that slot. Can I have your mother's name, please? Her name is Martha Miller. Thank you, Frank. Do you have any specific goals for her speech therapy? Yes, we want to focus on improving her clarity of speech and maybe some basic conversation skills. That sounds like a solid plan. I can pass this information along to our therapist. Perfect, thank you. Is there anything else I need to do? Just to confirm, I'll need your contact number for our records. Sure, it’s +13165552891. Got it. Now, would you be interested in discussing additional services like personal care or transportation? Maybe later, but I’d like to focus on the speech therapy for now. Absolutely, Frank. I’ll have our therapist reach out before the first session to discuss everything. That sounds great, thank you so much, Margaret. You’re welcome, Frank! Looking forward to helping your mother. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Frank Miller. I'm calling about speech therapy services for my mother. She recently had a stroke.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear about your mother, Frank. We can definitely help with that.",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Great! Can you tell me about the frequency and duration of the sessions?",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Certainly! We typically recommend twice-weekly sessions for about 45 minutes each.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, that sounds good. What’s the cost for those sessions?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Each session is priced at $95. So, for twice a week, it would be $190 weekly.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That’s manageable. When could we start?",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We can schedule your mother's first session as early as next week. Would you like to book a specific day?",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "How about Monday? That works for me.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check our availability... Yes, we have an opening on Monday at 10 AM. Does that suit you?",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that’s perfect!",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! I’ll go ahead and reserve that slot. Can I have your mother's name, please?",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 64,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Her name is Martha Miller.",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you, Frank. Do you have any specific goals for her speech therapy?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, we want to focus on improving her clarity of speech and maybe some basic conversation skills.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "That sounds like a solid plan. I can pass this information along to our therapist.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect, thank you. Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Just to confirm, I'll need your contact number for our records.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sure, it’s +13165552891.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Got it. Now, would you be interested in discussing additional services like personal care or transportation?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Maybe later, but I’d like to focus on the speech therapy for now.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, Frank. I’ll have our therapist reach out before the first session to discuss everything.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds great, thank you so much, Margaret.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Frank! Looking forward to helping your mother. Have a great day!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 126,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 127,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9f4f38eb87c2448bbd7c9306",
+  "revision": "",
+  "status": "success"
+}
