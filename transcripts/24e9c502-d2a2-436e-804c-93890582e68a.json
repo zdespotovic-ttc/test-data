@@ -1,0 +1,229 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T02:34:53Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-85fc5af87bf447dc8177c7b1",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945686093-b8a8bf2d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-85fc5af87bf447dc8177c7b1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 95,
+      "duration_ms": 95000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945686093,
+      "call_id": "85fc5af87bf447dc8177c7b1",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-85fc5af87bf447dc8177c7b1",
+      "media_name": "9ff3f21eaed2486689276f413a9a7bd6.mp3",
+      "scenario": "A long-time patient calls to book a follow-up assessment after completing their 6-week rehab program. They're excited about their progress and want to discuss next steps with the therapist. Receptionist books them for Friday at 3 PM.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 95.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, it’s Frank Miller. I completed my rehab program last week, and I’m really excited about my progress! That’s wonderful to hear, Frank! Congratulations on finishing your program. How can I assist you with your next steps? I’d like to book a follow-up assessment with Dr. Rodriguez. I want to discuss my progress and what comes next. Absolutely, let me check Dr. Rodriguez's schedule for you. He is available on Friday at 3 PM. Does that work for you? Yes, that works perfectly! Great! I’ll get that booked for you. Is there anything else you would like to discuss while I have you on the line? Actually, yes. I was wondering if you could help me with transportation to my endocrinologist appointment next week? Of course! We can arrange transportation for you. What day and time is your appointment? It’s on Thursday at 10 AM. Got it. I’ll schedule transportation for you at 9 AM. Perfect, thank you! You’re welcome! Just to confirm, you have a follow-up with Dr. Rodriguez on Friday at 3 PM, and transportation to your endocrinologist on Thursday at 9 AM. Yes, that sounds right! Is there anything else we can assist you with today, Frank? No, that’s everything for now. Thank you for your help! You’re very welcome! I’m glad to assist. Have a great day, Frank! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it’s Frank Miller. I completed my rehab program last week, and I’m really excited about my progress!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "That’s wonderful to hear, Frank! Congratulations on finishing your program. How can I assist you with your next steps?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’d like to book a follow-up assessment with Dr. Rodriguez. I want to discuss my progress and what comes next.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, let me check Dr. Rodriguez's schedule for you.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "He is available on Friday at 3 PM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, that works perfectly!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Great! I’ll get that booked for you.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 37,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Is there anything else you would like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Actually, yes. I was wondering if you could help me with transportation to my endocrinologist appointment next week?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course! We can arrange transportation for you. What day and time is your appointment?",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It’s on Thursday at 10 AM.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Got it. I’ll schedule transportation for you at 9 AM.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 64,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You’re welcome! Just to confirm, you have a follow-up with Dr. Rodriguez on Friday at 3 PM, and",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "transportation to your endocrinologist on Thursday at 9 AM.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, that sounds right!",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Is there anything else we can assist you with today, Frank?",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "No, that’s everything for now. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You’re very welcome! I’m glad to assist. Have a great day, Frank!",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 92,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 95,
+          "channel": "left",
+          "id": 21
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-85fc5af87bf447dc8177c7b1",
+  "revision": "",
+  "status": "success"
+}
