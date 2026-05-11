@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:58:07Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-01339921db72460c97277d5e",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694687-e80d5f2b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-01339921db72460c97277d5e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694687,
+      "call_id": "01339921db72460c97277d5e",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-01339921db72460c97277d5e",
+      "media_name": "138abeaba06243079461224d6a2e8ea6.mp3",
+      "scenario": "A man calls for the first time asking about speech therapy services for his mother who had a stroke. He asks about frequency, duration of sessions, and cost. The receptionist provides a quote for twice-weekly sessions at $95 each. He sounds hopeful and wants to start next week. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, my name is William Chen. I'm calling about speech therapy services for my mother. Of course, William. Can you tell me a little more about her situation? She had a stroke recently and needs help with her speech. I'm sorry to hear that. We can definitely assist with speech therapy. Great! What does that entail? How often would she need sessions? Typically, we recommend sessions twice a week for optimal progress. Each session lasts about 45 minutes. And what would the cost be for that? Each session is priced at $95, so that would be $190 per week for two sessions. That sounds reasonable. When can we start? We can begin as soon as next week. What day works best for you? How about Monday and Thursday? Perfect! I’ll check our therapist's availability for those days. That would be great. Do you have someone in mind? Yes, we have a skilled therapist who specializes in post-stroke recovery. Excellent! I really hope this helps my mother. I believe it will. I’ll also need to gather some information for the care plan. Sure, what do you need from me? Just some basic details about your mother’s medical history and insurance information. I can provide that. Should I email it or give it to you now? If you’re comfortable, you can share it over the phone, or I can send you an email. Let’s do it over email. I prefer to have it documented. Sounds good! I’ll send you the email right after this call. Thank you, Margaret. I appreciate your help. Absolutely, William. I’ll follow up with you once I have everything confirmed. Perfect! I look forward to hearing from you. Great! Have a wonderful day. You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is William Chen. I'm calling about speech therapy services for my mother.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, William. Can you tell me a little more about her situation?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She had a stroke recently and needs help with her speech.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm sorry to hear that. We can definitely assist with speech therapy.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! What does that entail? How often would she need sessions?",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Typically, we recommend sessions twice a week for optimal progress. Each session lasts about 45 minutes.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "And what would the cost be for that?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Each session is priced at $95, so that would be $190 per week for two sessions.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds reasonable. When can we start?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 47,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can begin as soon as next week. What day works best for you?",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How about Monday and Thursday?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! I’ll check our therapist's availability for those days.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 61,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be great. Do you have someone in mind?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we have a skilled therapist who specializes in post-stroke recovery.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Excellent! I really hope this helps my mother.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I believe it will. I’ll also need to gather some information for the care plan.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sure, what do you need from me?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Just some basic details about your mother’s medical history and insurance information.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I can provide that. Should I email it or give it to you now?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "If you’re comfortable, you can share it over the phone, or I can send you an email.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Let’s do it over email. I prefer to have it documented.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sounds good! I’ll send you the email right after this call.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, William. I’ll follow up with you once I have everything confirmed.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect! I look forward to hearing from you.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Great! Have a wonderful day.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-01339921db72460c97277d5e",
+  "revision": "",
+  "status": "success"
+}
