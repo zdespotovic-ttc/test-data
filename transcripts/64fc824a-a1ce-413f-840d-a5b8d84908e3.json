@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:56:57Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bd7d00f32d404adf9c389bd9",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694617-ea90be59",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bd7d00f32d404adf9c389bd9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 255,
+      "duration_ms": 255000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694617,
+      "call_id": "bd7d00f32d404adf9c389bd9",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bd7d00f32d404adf9c389bd9",
+      "media_name": "9c987136901f4864a97cc271103a1490.mp3",
+      "scenario": "A patient's wife calls saying they received a bill for a visit that was supposed to be covered by insurance. She says the office told her it would be fully covered when she scheduled. She wants the charge removed or an explanation of why insurance denied it.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 255.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Michael Brown. I'm calling regarding a bill we received for my father's care. I'm sorry to hear that, Michael. Can you please provide me with more details about the bill? Sure, we were told when we scheduled the visit that it would be covered fully by insurance, but we got charged anyway. I understand. That sounds frustrating. Can you tell me the date of the visit? It was last Tuesday, and it was for medication management and wound care. Thank you for that information. Let me pull up your father's account to check the billing details. Okay, I appreciate it. It just seems unfair, especially since we were assured it would be covered. I completely understand your concern, Michael. I’ll look into whether there was a coding error or if the insurance company denied the claim for some reason. Alright, I hope it’s just a misunderstanding. Yes, that’s likely. I’ll have to check the specifics. Can you hold for just a moment while I gather that information? Sure, take your time. Thank you for waiting. I see that the visit was coded under skilled nursing care, which can sometimes face coverage issues. So, is there a way we can appeal or get this resolved? Yes, we can certainly appeal the denial. I can help you with that process. It might also be helpful to confirm your insurance benefits with them. That sounds good. I want to make sure we don’t have to pay for this out of pocket. Understood. I can also assist with a follow-up visit for your father for continued care, which may help prevent issues going forward. Yes, that would be great. What kind of follow-up services do you provide? We offer skilled nursing care, medication management, and wound care. Those visits usually range from $95 to $125. That sounds reasonable. I'd like to get that scheduled, especially since his care is important. Absolutely, let’s set that up. In the meantime, let’s also ensure we get that billing issue resolved. Thank you, Margaret. What do I need to do next? I’ll initiate the insurance appeal today, and I’ll need your contact information for follow-up. Can I have your email? Yes, it’s mbrown@email.com. Perfect, Michael. I’ll send you an update on the appeal and the follow-up appointment details within 48 hours. That sounds great. Thank you for your help! You’re welcome! If you have any other questions, feel free to reach out. Will do. Have a great day! You too, Michael. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I'm calling regarding a bill we received for my father's care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Michael. Can you please provide me with more details about the bill?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, we were told when we scheduled the visit that it would be covered fully by insurance, but we got charged anyway.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. That sounds frustrating. Can you tell me the date of the visit?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was last Tuesday, and it was for medication management and wound care.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for that information. Let me pull up your father's account to check the billing details.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I appreciate it. It just seems unfair, especially since we were assured it would be covered.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand your concern, Michael. I’ll look into whether there was a coding error or if the insurance company denied the claim for some reason.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 70,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Alright, I hope it’s just a misunderstanding.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, that’s likely. I’ll have to check the specifics. Can you hold for just a moment while I gather that information?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 90,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you for waiting. I see that the visit was coded under skilled nursing care, which can sometimes face coverage issues.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 110,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "So, is there a way we can appeal or get this resolved?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we can certainly appeal the denial. I can help you with that process. It might also be helpful to confirm your insurance benefits with them.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good. I want to make sure we don’t have to pay for this out of pocket.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Understood. I can also assist with a follow-up visit for your father for continued care, which may help prevent issues going forward.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that would be great. What kind of follow-up services do you provide?",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We offer skilled nursing care, medication management, and wound care. Those visits usually range from $95 to $125.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 175,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds reasonable. I'd like to get that scheduled, especially since his care is important.",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 185,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, let’s set that up. In the meantime, let’s also ensure we get that billing issue resolved.",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 195,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. What do I need to do next?",
+          "speaker": "remote party",
+          "start_time": 195,
+          "end_time": 205,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll initiate the insurance appeal today, and I’ll need your contact information for follow-up. Can I have your email?",
+          "speaker": "local party",
+          "start_time": 205,
+          "end_time": 215,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, it’s mbrown@email.com.",
+          "speaker": "remote party",
+          "start_time": 215,
+          "end_time": 220,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect, Michael. I’ll send you an update on the appeal and the follow-up appointment details within 48 hours.",
+          "speaker": "local party",
+          "start_time": 220,
+          "end_time": 230,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That sounds great. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 230,
+          "end_time": 240,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! If you have any other questions, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 240,
+          "end_time": 245,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Will do. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 245,
+          "end_time": 250,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, Michael. Goodbye!",
+          "speaker": "local party",
+          "start_time": 250,
+          "end_time": 255,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bd7d00f32d404adf9c389bd9",
+  "revision": "",
+  "status": "success"
+}
