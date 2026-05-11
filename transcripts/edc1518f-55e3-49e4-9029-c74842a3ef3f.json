@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T02:34:43Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-01dc033c61474633a7cf38f2",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945686083-8d24395c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-01dc033c61474633a7cf38f2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 128,
+      "duration_ms": 128000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945686083,
+      "call_id": "01dc033c61474633a7cf38f2",
+      "caller_id_number": "+13165559012",
+      "caller_id_name": "Lucille Davis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-01dc033c61474633a7cf38f2",
+      "media_name": "88ddb8ddf70a442386bf18f638532a06.mp3",
+      "scenario": "A nurse calls the office from a patient's home to report that she completed the morning visit and the patient's vitals are stable. She asks if there are any schedule changes for the afternoon. Quick staff coordination call.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 128.0,
+      "text": "CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Lucille Davis. I just had a nurse here for my morning visit. Hi Lucille! I hope everything went well. What did the nurse report? She said my vitals are stable, which is good. I wanted to check if there are any changes to my afternoon schedule. Let me look that up for you. One moment please. Okay, I see that your afternoon visit is scheduled as usual. Is there anything specific you need to discuss? Not really, but I wanted to confirm if the same nurse will be coming back. I can check that for you. If you give me a moment... Yes, it looks like Sarah will be coming back this afternoon. She’s familiar with your care routine. That’s great! I feel comfortable with her. I’m glad to hear that. Just a reminder, if you have any changes to your condition, please let her know. Absolutely, I will. And Lucille, have you thought about getting some physical therapy sessions? Hmm, I haven’t really considered it. What does that involve? Our physical therapy service focuses on mobility training and improving strength. It’s $110 to $140 per session. That sounds interesting, but I’m not sure I can afford that right now. I understand, but we can help with insurance authorization if you’d like. Oh, that would be helpful! I’d like to explore that option. Great! I’ll have Lisa, our Care Coordinator, give you a call to discuss the details. Thank you, I appreciate that. You’re welcome! Is there anything else I can assist you with today? No, that covers it. I’ll look forward to hearing from Lisa. Perfect! Thank you for calling, Lucille. Have a great day! You too, Margaret! Bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Lucille Davis. I just had a nurse here for my morning visit.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Lucille! I hope everything went well. What did the nurse report?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She said my vitals are stable, which is good. I wanted to check if there are any changes to my afternoon schedule.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me look that up for you. One moment please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, I see that your afternoon visit is scheduled as usual. Is there anything specific you need to discuss?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Not really, but I wanted to confirm if the same nurse will be coming back.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I can check that for you. If you give me a moment...",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Yes, it looks like Sarah will be coming back this afternoon. She’s familiar with your care routine.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s great! I feel comfortable with her.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m glad to hear that. Just a reminder, if you have any changes to your condition, please let her know.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, I will.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "And Lucille, have you thought about getting some physical therapy sessions?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Hmm, I haven’t really considered it. What does that involve?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Our physical therapy service focuses on mobility training and improving strength. It’s $110 to $140 per session.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds interesting, but I’m not sure I can afford that right now.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand, but we can help with insurance authorization if you’d like.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Oh, that would be helpful! I’d like to explore that option.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll have Lisa, our Care Coordinator, give you a call to discuss the details.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 112,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers it. I’ll look forward to hearing from Lisa.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! Thank you for calling, Lucille. Have a great day!",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, Margaret! Bye.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559012",
+    "ooma_remote_name": "Lucille Davis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-01dc033c61474633a7cf38f2",
+  "revision": "",
+  "status": "success"
+}
