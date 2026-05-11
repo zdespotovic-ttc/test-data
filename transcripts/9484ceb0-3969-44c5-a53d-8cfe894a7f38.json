@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:58:41Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-cc425b59e79a4d93a40b8e35",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694721-fd405065",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-cc425b59e79a4d93a40b8e35",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 126,
+      "duration_ms": 126000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694721,
+      "call_id": "cc425b59e79a4d93a40b8e35",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-cc425b59e79a4d93a40b8e35",
+      "media_name": "19ffdc99759c4621aa52cc5ec3d1f5fc.mp3",
+      "scenario": "A nurse calls the office from a patient's home to report that she completed the morning visit and the patient's vitals are stable. She asks if there are any schedule changes for the afternoon. Quick staff coordination call.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 126.0,
+      "text": "Thank you for calling CareFirst Home Health, Margaret speaking. Hi Margaret, this is Sarah from Mrs. Henderson's home. Hi Sarah! How did the morning visit go? It went well! I just completed her vitals, and they are stable. That's great to hear. Are there any changes for her afternoon schedule? Not that I know of, but I wanted to confirm if we still have her physical therapy at 1 PM. Let me check that for you. One moment. (pause) Yes, her appointment with Dr. Rodriguez is still set for 1 PM. Perfect! And just to let you know, she prefers morning visits. Understood. We’ll keep that in mind for future scheduling. Thanks! She also mentioned needing a female caregiver for next week. I’ll make a note of that. Would you like me to arrange for her usual caregiver? Yes, that would be great. Okay, I’ll reach out to her and confirm. By the way, how’s her progress looking? She's improving well; we've seen better mobility since starting therapy. That's wonderful to hear! If you think she needs additional personal care hours, we can arrange that too. That could be helpful; she struggles in the evenings some days. I can set up additional evening hours for personal care assistance. Yes, please do! Great! I’ll follow up with you after I coordinate with the scheduling team. Thank you, Margaret! You're welcome, Sarah. Is there anything else you need right now? No, that covers everything for now. Okay, have a great day! Thanks, you too! Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, Margaret speaking.",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Sarah from Mrs. Henderson's home.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Sarah! How did the morning visit go?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It went well! I just completed her vitals, and they are stable.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That's great to hear. Are there any changes for her afternoon schedule?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Not that I know of, but I wanted to confirm if we still have her physical therapy at 1 PM.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check that for you. One moment.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "(pause) Yes, her appointment with Dr. Rodriguez is still set for 1 PM.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 37,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Perfect! And just to let you know, she prefers morning visits.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Understood. We’ll keep that in mind for future scheduling.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thanks! She also mentioned needing a female caregiver for next week.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I’ll make a note of that. Would you like me to arrange for her usual caregiver?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, that would be great.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Okay, I’ll reach out to her and confirm.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 64,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "By the way, how’s her progress looking?",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "She's improving well; we've seen better mobility since starting therapy.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That's wonderful to hear!",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "If you think she needs additional personal care hours, we can arrange that too.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That could be helpful; she struggles in the evenings some days.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I can set up additional evening hours for personal care assistance.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, please do!",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Great! I’ll follow up with you after I coordinate with the scheduling team.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Margaret!",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You're welcome, Sarah. Is there anything else you need right now?",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "No, that covers everything for now.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Okay, have a great day!",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thanks, you too!",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 124,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 125,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 126,
+          "channel": "right",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-cc425b59e79a4d93a40b8e35",
+  "revision": "",
+  "status": "success"
+}
