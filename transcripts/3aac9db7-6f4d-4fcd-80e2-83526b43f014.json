@@ -1,0 +1,341 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T04:59:11Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3cf787100cab4fdc94c51027",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945694751-b08ae3d5",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3cf787100cab4fdc94c51027",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 175,
+      "duration_ms": 175000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945694751,
+      "call_id": "3cf787100cab4fdc94c51027",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3cf787100cab4fdc94c51027",
+      "media_name": "80fea2598e1c4275a07fa46a213ffaa0.mp3",
+      "scenario": "A patient calls furious because the wrong medication was administered during yesterday's visit. He says the nurse gave him his wife's medication by mistake. He's demanding to speak with the clinical director immediately and says he's considering legal action. Extremely angry and scared.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 175.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today? I need to speak to someone right now! Yesterday, a nurse gave me the wrong medication! I’m very sorry to hear that. I understand this is urgent. Can I have your name, please? It’s Mark Johnson! This is absolutely unacceptable! Thank you, Mark. I’m here to help you. Can you tell me more about what happened? The nurse gave me my wife's medication instead of mine. I can't believe this happened! I’m furious! I completely understand your frustration, Mark. Your safety is our top priority. Safety? This could have serious consequences! I want to speak to the clinical director immediately! I will connect you with our Director of Nursing, Margaret Thompson, right away. I need answers, and I need them now! I’m transferring your call to Margaret, but first, let me document your concerns. Fine, but hurry! Thank you for your patience, Mark. One moment please. (transferring) Margaret, I have Mark Johnson on the line. He’s very upset about a medication error. Mark, here is Margaret, our Director of Nursing. Hello, Mark. This is Margaret. I’m really sorry to hear about the medication mix-up. I want to know how this happened! This is serious! Absolutely, I’m going to investigate this immediately. Can you share which medications were involved? It was a pill for my diabetes, but I got a heart medication instead! Thank you for telling me. I’ll ensure our nursing staff reviews this incident thoroughly. I’m considering legal action if this isn’t handled properly! I understand your concerns, and I assure you we take this very seriously. I’ll need to document your account and follow up with you. And what about my parents’ medication management? I can help with that too. We provide medication management services that might be beneficial. I’ll think about it, but I want this resolved first. Of course, I’ll prioritize this incident and update you within 24 hours. I expect nothing less! Thank you for your understanding, Mark. I’ll make sure you are informed every step of the way. I appreciate that, but I’m still very upset. That’s completely understandable. I’ll ensure we resolve this as soon as possible. Can I have your best contact number for updates? Yes, it’s +13165555832. Thank you, Mark. I’ll be in touch shortly. I hope so. Goodbye. Goodbye, Mark. Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "I need to speak to someone right now! Yesterday, a nurse gave me the wrong medication!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m very sorry to hear that. I understand this is urgent. Can I have your name, please?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It’s Mark Johnson! This is absolutely unacceptable!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you, Mark. I’m here to help you. Can you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 18,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The nurse gave me my wife's medication instead of mine. I can't believe this happened! I’m furious!",
+          "speaker": "remote party",
+          "start_time": 18,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your frustration, Mark. Your safety is our top priority.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Safety? This could have serious consequences! I want to speak to the clinical director immediately!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I will connect you with our Director of Nursing, Margaret Thompson, right away.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I need answers, and I need them now!",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m transferring your call to Margaret, but first, let me document your concerns.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Fine, but hurry!",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you for your patience, Mark. One moment please.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "(transferring) Margaret, I have Mark Johnson on the line. He’s very upset about a medication error.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Mark, here is Margaret, our Director of Nursing.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Hello, Mark. This is Margaret. I’m really sorry to hear about the medication mix-up.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I want to know how this happened! This is serious!",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely, I’m going to investigate this immediately. Can you share which medications were involved?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "It was a pill for my diabetes, but I got a heart medication instead!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Thank you for telling me. I’ll ensure our nursing staff reviews this incident thoroughly.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I’m considering legal action if this isn’t handled properly!",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I understand your concerns, and I assure you we take this very seriously.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "I’ll need to document your account and follow up with you.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "And what about my parents’ medication management?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I can help with that too. We provide medication management services that might be beneficial.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I’ll think about it, but I want this resolved first.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Of course, I’ll prioritize this incident and update you within 24 hours.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I expect nothing less!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Thank you for your understanding, Mark. I’ll make sure you are informed every step of the way.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I appreciate that, but I’m still very upset.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "That’s completely understandable. I’ll ensure we resolve this as soon as possible.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Can I have your best contact number for updates?",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 31
+        },
+        {
+          "text": "Yes, it’s +13165555832.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 32
+        },
+        {
+          "text": "Thank you, Mark. I’ll be in touch shortly.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 33
+        },
+        {
+          "text": "I hope so. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 34
+        },
+        {
+          "text": "Goodbye, Mark. Take care.",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 35
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3cf787100cab4fdc94c51027",
+  "revision": "",
+  "status": "success"
+}
