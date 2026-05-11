@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-11T02:33:35Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ccc2d01bfcf646c7b0934839",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945686015-4c27ed09",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ccc2d01bfcf646c7b0934839",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945686015,
+      "call_id": "ccc2d01bfcf646c7b0934839",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ccc2d01bfcf646c7b0934839",
+      "media_name": "736ab73328a24f4bab2f0306e6895926.mp3",
+      "scenario": "A medical supply company calls to confirm a delivery of wound care supplies scheduled for Thursday. They need to verify the delivery address and contact person. Straightforward business call between the vendor and the office coordinator.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you? Hi, Margaret, this is Thomas White. I'm calling to confirm a delivery of wound care supplies for this Thursday. Hi, Thomas! Yes, I can assist you with that. Can you please verify the delivery address? Sure, it's 2847 North Ridge Road, Suite 205, Wichita, KS 67205. Perfect, I have that down. And who should the delivery driver contact upon arrival? That would be Robert Davis, our Registered Nurse. Great, I’ll note that. Just to confirm, is Robert available on Thursday? Yes, he will be in the office that day. Excellent. Is there a specific time you expect the delivery? They mentioned it would be between 10 AM and noon. Got it. I’ll make sure we have everything ready for them. Thank you! And if there are any issues, can I give them your contact number? Yes, you can provide them my direct line, which is +13165559201. Perfect, thanks for that. While I have you on the line... Sure, what else can I help you with? I'm looking into specialized dementia care for my mother. Do you offer that? Yes, we do offer Dementia and Alzheimer's Care. It’s $32 to $40 per hour. That sounds reasonable. Can you tell me more about the services included? Our caregivers are trained to provide companionship, personal care assistance, and activities of daily living tailored for clients with cognitive impairments. That’s very helpful. Is there a way to set up an assessment? Yes, I can have our Care Coordinator, Lisa Chen, reach out to you to discuss a care plan. That would be great! Can I get her direct number? Sure, it's +13165559203. Thanks, I appreciate all this information. You’re welcome, Thomas. I’ll make a note for Lisa to contact you. Perfect! Have a great day, Margaret. You too, Thomas. Thank you for calling! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Thomas White. I'm calling to confirm a delivery of wound care supplies for this Thursday.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Thomas! Yes, I can assist you with that. Can you please verify the delivery address?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, it's 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Perfect, I have that down. And who should the delivery driver contact upon arrival?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That would be Robert Davis, our Registered Nurse.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great, I’ll note that. Just to confirm, is Robert available on Thursday?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, he will be in the office that day.",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Excellent. Is there a specific time you expect the delivery?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "They mentioned it would be between 10 AM and noon.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Got it. I’ll make sure we have everything ready for them.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you! And if there are any issues, can I give them your contact number?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, you can provide them my direct line, which is +13165559201.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect, thanks for that. While I have you on the line...",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 61,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure, what else can I help you with?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I'm looking into specialized dementia care for my mother. Do you offer that?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we do offer Dementia and Alzheimer's Care. It’s $32 to $40 per hour.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds reasonable. Can you tell me more about the services included?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our caregivers are trained to provide companionship, personal care assistance, and activities of daily living tailored for clients with cognitive impairments.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That’s very helpful. Is there a way to set up an assessment?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, I can have our Care Coordinator, Lisa Chen, reach out to you to discuss a care plan.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That would be great! Can I get her direct number?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sure, it's +13165559203.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks, I appreciate all this information.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 106,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Thomas. I’ll make a note for Lisa to contact you.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect! Have a great day, Margaret.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too, Thomas. Thank you for calling!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 118,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 120,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ccc2d01bfcf646c7b0934839",
+  "revision": "",
+  "status": "success"
+}
