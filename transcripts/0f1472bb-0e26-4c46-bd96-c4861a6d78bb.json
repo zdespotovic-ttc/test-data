@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-12T01:10:11Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ae33e58d134243ddadfeae6e",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945767411-c7c9ad0b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ae33e58d134243ddadfeae6e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945767411,
+      "call_id": "ae33e58d134243ddadfeae6e",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ae33e58d134243ddadfeae6e",
+      "media_name": "cddfccbe8f194b58a7e6ef901a4d9052.mp3",
+      "scenario": "A patient calls to ask about their outstanding balance and whether they can set up a payment plan. They're not upset, just want to understand their options. The receptionist explains the monthly payment plan and the caller agrees to it.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Frank Miller. I'm calling to check on my outstanding balance and see if I can set up a payment plan. Hi Frank! I can definitely assist you with that. Let me pull up your account. So, I see here that your current outstanding balance is $250. Would you like me to go over the payment options available? Yes, please. I want to make sure I stay on top of this. Great! We offer a monthly payment plan that allows you to break up your balance into smaller, manageable payments. The plan is set at $85 per month for three months. Does that sound like it would work for you? That sounds reasonable. I can manage that. Perfect! I’ll go ahead and set that up for you. Just to confirm, would you like the payments to be automatically deducted from your account? Yes, that would be easiest for me. Alright, I’ll need to verify the banking information we have on file. Is it still the same? Yes, it should be the same. Thank you, Frank. Also, while I have you on the line, I noticed you have a transportation request for your endocrinologist appointment coming up. Yes, I do. I need to get to that appointment monthly. Would you like me to schedule the transportation for you now? Yes, that would be great. Okay, I’ll arrange for our transportation services to take you to your endocrinologist appointment. Just to confirm, is it the same time as before? Yes, the same time works. Got it! So, I have you set for transportation and the payment plan of $85 per month. I’ll send you a confirmation email with all the details. That sounds perfect, thank you! You're welcome, Frank! Is there anything else I can assist you with today? No, that covers everything. I appreciate your help. My pleasure! Thank you for calling CareFirst Home Health. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I'm calling to check on my outstanding balance and see if I can set up a payment plan.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Frank! I can definitely assist you with that. Let me pull up your account.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "So, I see here that your current outstanding balance is $250. Would you like me to go over the payment options available?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Yes, please. I want to make sure I stay on top of this.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Great! We offer a monthly payment plan that allows you to break up your balance into smaller, manageable payments.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "The plan is set at $85 per month for three months. Does that sound like it would work for you?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds reasonable. I can manage that.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Perfect! I’ll go ahead and set that up for you. Just to confirm, would you like the payments to be automatically deducted from your account?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be easiest for me.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Alright, I’ll need to verify the banking information we have on file. Is it still the same?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, it should be the same.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you, Frank. Also, while I have you on the line, I noticed you have a transportation request for your endocrinologist appointment coming up.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I do. I need to get to that appointment monthly.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Would you like me to schedule the transportation for you now?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be great.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Okay, I’ll arrange for our transportation services to take you to your endocrinologist appointment. Just to confirm, is it the same time as before?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, the same time works.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Got it! So, I have you set for transportation and the payment plan of $85 per month. I’ll send you a confirmation email with all the details.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, Frank! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers everything. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "My pleasure! Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ae33e58d134243ddadfeae6e",
+  "revision": "",
+  "status": "success"
+}
