@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-12T01:03:59Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-57ac8d8c536d4c68bb2ff9bd",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945767039-d98d49dc",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-57ac8d8c536d4c68bb2ff9bd",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 137,
+      "duration_ms": 137000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945767039,
+      "call_id": "57ac8d8c536d4c68bb2ff9bd",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-57ac8d8c536d4c68bb2ff9bd",
+      "media_name": "7b437c528c314db6879966782d5f95fe.mp3",
+      "scenario": "A woman calls for the first time asking about post-surgery rehabilitation services for her husband who had a knee replacement last week. She wants to know what types of therapy are available and how quickly they can start. The receptionist explains the intake process. Caller is optimistic. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 137.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you? Hi, Margaret. My name is David Anderson, and I'm calling about my wife. She just had a stroke and needs some rehabilitation. I’m sorry to hear about your wife, David. We can definitely assist with that. Thank you. Can you tell me what types of physical therapy you offer? Yes, we provide post-surgery rehabilitation, fall prevention, mobility training, and stroke recovery therapy. That sounds great. How long does the rehabilitation typically last, and how soon can we start? Our sessions last about 45 to 60 minutes, and we can usually start within a few days, depending on availability. That would be perfect. What do I need to do to get the process started? I’ll need to gather some basic information about your wife and her condition to create a care plan. Okay, what kind of information do you need? We’ll need her medical history, any current medications, and details about her rehabilitation goals. I can provide that. How long does the intake process take? The intake process typically takes about 15 to 30 minutes over the phone. That sounds manageable. When is a good time to call back for the intake? I’m available Monday through Friday from 7 AM to 7 PM. Would you prefer a specific day? How about tomorrow at 10 AM? Tomorrow at 10 AM works perfectly. I’ll be here to assist you. Great! Also, can you tell me about the pricing for the physical therapy sessions? Our physical therapy sessions range from $110 to $140 per visit. That’s reasonable. Is there insurance support available? Yes, we can assist with insurance authorization. Lisa, our Care Coordinator, can help you with that. Perfect! I’ll be sure to discuss that during the intake call. Sounds good! Is there anything else I can assist you with today? No, I think that covers it. Thank you so much for your help, Margaret. You’re very welcome, David. I look forward to speaking with you tomorrow! Thanks again. Have a great day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is David Anderson, and I'm calling about my wife. She just had a stroke and needs some rehabilitation.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear about your wife, David. We can definitely assist with that.",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Thank you. Can you tell me what types of physical therapy you offer?",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Yes, we provide post-surgery rehabilitation, fall prevention, mobility training, and stroke recovery therapy.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds great. How long does the rehabilitation typically last, and how soon can we start?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our sessions last about 45 to 60 minutes, and we can usually start within a few days, depending on availability.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That would be perfect. What do I need to do to get the process started?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’ll need to gather some basic information about your wife and her condition to create a care plan.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, what kind of information do you need?",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We’ll need her medical history, any current medications, and details about her rehabilitation goals.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I can provide that. How long does the intake process take?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The intake process typically takes about 15 to 30 minutes over the phone.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds manageable. When is a good time to call back for the intake?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’m available Monday through Friday from 7 AM to 7 PM. Would you prefer a specific day?",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "How about tomorrow at 10 AM?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Tomorrow at 10 AM works perfectly. I’ll be here to assist you.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great! Also, can you tell me about the pricing for the physical therapy sessions?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our physical therapy sessions range from $110 to $140 per visit.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That’s reasonable. Is there insurance support available?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we can assist with insurance authorization. Lisa, our Care Coordinator, can help you with that.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect! I’ll be sure to discuss that during the intake call.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sounds good! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, I think that covers it. Thank you so much for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, David. I look forward to speaking with you tomorrow!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks again. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 137,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-57ac8d8c536d4c68bb2ff9bd",
+  "revision": "",
+  "status": "success"
+}
