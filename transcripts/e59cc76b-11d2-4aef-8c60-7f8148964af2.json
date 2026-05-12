@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-12T01:08:33Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-fffc94c5a30f44738453c5e1",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945767313-96c6ae08",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-fffc94c5a30f44738453c5e1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945767313,
+      "call_id": "fffc94c5a30f44738453c5e1",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-fffc94c5a30f44738453c5e1",
+      "media_name": "5a2f34e954774e4790bed3cf2534ac09.mp3",
+      "scenario": "A nurse calls the office from a patient's home to report that she completed the morning visit and the patient's vitals are stable. She asks if there are any schedule changes for the afternoon. Quick staff coordination call.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I assist you today? Hi Margaret, this is William Chen. I just had a nurse visit this morning for my knee recovery. Hi, William! How did the visit go? It went well! The nurse said my vitals are stable. That’s great to hear! Were there any concerns or anything specific she mentioned? No, everything seemed fine, but she asked me to check in about the afternoon schedule. Sure, let me check that for you. One moment, please. *[typing sounds]* Alright, it looks like you have physical therapy scheduled for 2 PM today with Dr. Rodriguez. Perfect! Is there any change to that? No changes, everything is as planned. Good, just wanted to confirm. I really appreciate the consistent care. It’s our pleasure, William. We want to make sure you’re recovering comfortably. That’s reassuring to hear. Is there anything I should do before the therapy? Just make sure to stay hydrated and maybe do some gentle stretching if you feel up to it. Sounds good. Oh, by the way, do you think I should also look into additional personal care assistance? That could be beneficial, especially for daily activities post-surgery. What’s the cost for that? Our personal care assistance is $28 to $35 per hour. That’s reasonable. I might need that for a few hours a week. I can have Lisa, our Care Coordinator, reach out to you to discuss a care plan. Yes, that would be great! I’ll note that down. Anything else you’d like to ask? No, that covers it. Thank you for your help, Margaret! You’re welcome, William! I’ll have Lisa contact you shortly. I appreciate it. Have a great day! You too! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I just had a nurse visit this morning for my knee recovery.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, William! How did the visit go?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It went well! The nurse said my vitals are stable.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s great to hear! Were there any concerns or anything specific she mentioned?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "No, everything seemed fine, but she asked me to check in about the afternoon schedule.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure, let me check that for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "*[typing sounds]* Alright, it looks like you have physical therapy scheduled for 2 PM today with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Perfect! Is there any change to that?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "No changes, everything is as planned.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Good, just wanted to confirm. I really appreciate the consistent care.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "It’s our pleasure, William. We want to make sure you’re recovering comfortably.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That’s reassuring to hear. Is there anything I should do before the therapy?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Just make sure to stay hydrated and maybe do some gentle stretching if you feel up to it.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 76,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Sounds good. Oh, by the way, do you think I should also look into additional personal care assistance?",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "That could be beneficial, especially for daily activities post-surgery.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "What’s the cost for that?",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 91,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Our personal care assistance is $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That’s reasonable. I might need that for a few hours a week.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I can have Lisa, our Care Coordinator, reach out to you to discuss a care plan.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, that would be great!",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I’ll note that down. Anything else you’d like to ask?",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that covers it. Thank you for your help, Margaret!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re welcome, William! I’ll have Lisa contact you shortly.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "I appreciate it. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 129,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-fffc94c5a30f44738453c5e1",
+  "revision": "",
+  "status": "success"
+}
