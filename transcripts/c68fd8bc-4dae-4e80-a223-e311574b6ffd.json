@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-12T01:11:08Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-274594467ee64d249bce029a",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945767468-c96e5f25",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-274594467ee64d249bce029a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945767468,
+      "call_id": "274594467ee64d249bce029a",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-274594467ee64d249bce029a",
+      "media_name": "86f5621408b546c393519a2e66d95f52.mp3",
+      "scenario": "A patient calls to reschedule for the third time this month. She says the scheduling keeps conflicting with her work and she's not sure the service is worth the hassle anymore. The receptionist accommodates her new time but the caller sounds like she might cancel altogether soon.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Harold Gonzalez. I need to reschedule my nursing visit again. Hi Harold, I’m here to help. I see this is the third time this month. What seems to be the conflict? My work schedule keeps changing, and I’m really struggling to find a time that works for both of us. I understand that can be frustrating. Let’s find a time that suits you better. I just don’t know if it’s worth all this hassle anymore. I completely get that, Harold. Your care and convenience are our priorities. What day and time are you thinking? I was hoping to get someone in on Saturday around 2 PM, but I doubt that will work either. Let me check the schedule for you. One moment please. *[pauses briefly]* Okay, I can fit you in on Saturday at 2 PM for your vital sign checks. Does that work? Yes, that could work. But what if I have to change it again? We’re flexible, Harold. Just give us a call as soon as you know, and we’ll accommodate. I appreciate that, but it feels like I’m always having to chase things around. I hear you. Would it help if we set up a recurring schedule? Maybe every other Saturday? That could be a good option, but I’d still want to confirm each time. Absolutely! I can set it up as a tentative plan and we can adjust as needed. Okay, let’s do that for now. I really want to make sure I’m getting the care I need. That’s great to hear. We’re committed to your care, especially with your COPD and cardiac issues. Thanks, I just want to feel secure in my health management. Understood, Harold. I’ll also note that you prefer a Spanish-speaking caregiver for future visits. Yes, that would help a lot. I’ll make sure to prioritize that for you. Are there any other concerns you’d like to discuss today? No, just that I hope it gets easier from here. I’m confident it will. I’ll confirm your Saturday appointment for 2 PM, and we’ll take it from there. Thank you, Margaret. I appreciate your help. You’re welcome, Harold. We’re here for you! Have a great day. You too. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I need to reschedule my nursing visit again.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Harold, I’m here to help. I see this is the third time this month. What seems to be the conflict?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My work schedule keeps changing, and I’m really struggling to find a time that works for both of us.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand that can be frustrating. Let’s find a time that suits you better.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I just don’t know if it’s worth all this hassle anymore.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely get that, Harold. Your care and convenience are our priorities. What day and time are you thinking?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I was hoping to get someone in on Saturday around 2 PM, but I doubt that will work either.",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check the schedule for you. One moment please.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "*[pauses briefly]* Okay, I can fit you in on Saturday at 2 PM for your vital sign checks. Does that work?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that could work. But what if I have to change it again?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 53,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "We’re flexible, Harold. Just give us a call as soon as you know, and we’ll accommodate.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "I appreciate that, but it feels like I’m always having to chase things around.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 64,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I hear you. Would it help if we set up a recurring schedule? Maybe every other Saturday?",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That could be a good option, but I’d still want to confirm each time.",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Absolutely! I can set it up as a tentative plan and we can adjust as needed.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Okay, let’s do that for now. I really want to make sure I’m getting the care I need.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "That’s great to hear. We’re committed to your care, especially with your COPD and cardiac issues.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thanks, I just want to feel secure in my health management.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Understood, Harold. I’ll also note that you prefer a Spanish-speaking caregiver for future visits.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, that would help a lot.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I’ll make sure to prioritize that for you. Are there any other concerns you’d like to discuss today?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, just that I hope it gets easier from here.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I’m confident it will. I’ll confirm your Saturday appointment for 2 PM, and we’ll take it from there.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 119,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome, Harold. We’re here for you! Have a great day.",
+          "speaker": "local party",
+          "start_time": 119,
+          "end_time": 123,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "You too. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 125,
+          "channel": "right",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-274594467ee64d249bce029a",
+  "revision": "",
+  "status": "success"
+}
