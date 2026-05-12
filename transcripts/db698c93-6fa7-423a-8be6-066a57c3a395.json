@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-12T01:06:11Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a8d3cbac42e1424cbfd7c9f5",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945767171-622640f9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a8d3cbac42e1424cbfd7c9f5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 129,
+      "duration_ms": 129000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945767171,
+      "call_id": "a8d3cbac42e1424cbfd7c9f5",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a8d3cbac42e1424cbfd7c9f5",
+      "media_name": "cf63675da5734e6e8100158c6fc98a31.mp3",
+      "scenario": "A social worker from a local hospital calls asking about CareFirst's pediatric home health services. She wants to know age ranges served, types of conditions handled, and the referral process. Purely informational. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 129.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, my name is Michael Brown. I was referred to your agency by the hospital discharge planning department. Nice to meet you, Michael! How can I assist you regarding your father? I'm looking for information on your pediatric home health services. Do you provide care for children? I’m sorry, Michael, we primarily focus on adult home health services. Oh, I see. What age ranges do you serve then? We serve adults aged 18 and older, including elderly patients with various health needs. That makes sense. What types of conditions do you typically handle? We cover a wide range including diabetes management, wound care, post-surgical recovery, and chronic disease management. That’s helpful to know. What’s the referral process like for new patients? The referral process usually involves a physician's order, which we can help facilitate. Family members can also reach out directly. Great, so it sounds like I could reach out without a referral too. Exactly! We also conduct a comprehensive assessment to tailor the care plan to the patient's needs. That sounds reassuring. Do you work with insurance for coverage? Yes, we handle insurance authorization and can assist with that process. Wonderful. I’ll be sure to gather that information. Is there anything else you’d like to know about our services? Not at the moment, but I may need your pricing details to discuss with my family. Of course, I can email you our service pricing. Would that work for you? Yes, that would be perfect! Can I confirm your email address to send the information? Sure, it's michael.brown@email.com. Thank you, Michael. I’ll send over the details shortly. I appreciate your help, Margaret. You're welcome! If you have any more questions, don’t hesitate to call back. I will. Thanks again! Have a great day, Michael!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Michael Brown. I was referred to your agency by the hospital discharge planning department.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Michael! How can I assist you regarding your father?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm looking for information on your pediatric home health services. Do you provide care for children?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry, Michael, we primarily focus on adult home health services.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Oh, I see. What age ranges do you serve then?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We serve adults aged 18 and older, including elderly patients with various health needs.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That makes sense. What types of conditions do you typically handle?",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We cover a wide range including diabetes management, wound care, post-surgical recovery, and chronic disease management.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s helpful to know. What’s the referral process like for new patients?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "The referral process usually involves a physician's order, which we can help facilitate. Family members can also reach out directly.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great, so it sounds like I could reach out without a referral too.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Exactly! We also conduct a comprehensive assessment to tailor the care plan to the patient's needs.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds reassuring. Do you work with insurance for coverage?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we handle insurance authorization and can assist with that process.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Wonderful. I’ll be sure to gather that information.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Is there anything else you’d like to know about our services?",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Not at the moment, but I may need your pricing details to discuss with my family.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, I can email you our service pricing. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that would be perfect!",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Can I confirm your email address to send the information?",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sure, it's michael.brown@email.com.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Michael. I’ll send over the details shortly.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome! If you have any more questions, don’t hesitate to call back.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Have a great day, Michael!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 129,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a8d3cbac42e1424cbfd7c9f5",
+  "revision": "",
+  "status": "success"
+}
