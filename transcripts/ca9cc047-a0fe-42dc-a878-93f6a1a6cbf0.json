@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-12T01:07:08Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-901ca14f10e542e6990a76ed",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945767228-07a55605",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-901ca14f10e542e6990a76ed",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945767228,
+      "call_id": "901ca14f10e542e6990a76ed",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-901ca14f10e542e6990a76ed",
+      "media_name": "0b76f01fd1cb40d6a1a71e2915d0d1b4.mp3",
+      "scenario": "A patient's daughter calls to check on the status of her mother's care plan review. She was told it would be updated last week. The receptionist confirms it was completed and offers to email a copy. The daughter is pleased and thanks them.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Michael Brown. I'm calling about my father’s care plan review. I was told it would be updated last week. Hi, Michael! Let me check the status of that for you. One moment please. Okay, I've found the information. The care plan review for your father was completed last week. Oh, that's great to hear! Can you send me a copy of the updated care plan? Absolutely! I can email that to you right away. What’s the best email address for you? It’s michael.brown@email.com. Thank you! Got it, Michael. I’ll send that over shortly. Is there anything else you need assistance with today? Actually, yes. My father also needs wound care and medication management. Can you help with that? Yes, we definitely provide that service. Our skilled nursing care includes wound care management and medication supervision. What are the costs associated with those services? For wound care management, the price ranges from $75 to $95 for a session. Medication management is $65 to $80. That sounds reasonable. How often would those visits typically be scheduled? Typically, we would recommend at least once a week for consistent monitoring, but we can adjust based on your father's needs. Okay, I think that makes sense. Can we set up a consultation to discuss it further? Absolutely! I can have our Care Coordinator, Lisa Chen, reach out to you to discuss the care plan and schedule a consultation. That would be perfect. Thank you for your help! You're welcome, Michael! I’ll ensure that she contacts you soon. Great. I really appreciate your assistance today! Of course! And just to confirm, I’ll email the care plan and have Lisa follow up with you. Yes, that’s right. Thank you again! Thank you for calling, Michael! Have a wonderful day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Michael Brown. I'm calling about my father’s care plan review. I was told it would be updated last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Michael! Let me check the status of that for you. One moment please.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Okay, I've found the information. The care plan review for your father was completed last week.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Oh, that's great to hear! Can you send me a copy of the updated care plan?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Absolutely! I can email that to you right away. What’s the best email address for you?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "It’s michael.brown@email.com. Thank you!",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Got it, Michael. I’ll send that over shortly. Is there anything else you need assistance with today?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Actually, yes. My father also needs wound care and medication management. Can you help with that?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Yes, we definitely provide that service. Our skilled nursing care includes wound care management and medication supervision.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "What are the costs associated with those services?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "For wound care management, the price ranges from $75 to $95 for a session. Medication management is $65 to $80.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That sounds reasonable. How often would those visits typically be scheduled?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Typically, we would recommend at least once a week for consistent monitoring, but we can adjust based on your father's needs.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Okay, I think that makes sense. Can we set up a consultation to discuss it further?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Absolutely! I can have our Care Coordinator, Lisa Chen, reach out to you to discuss the care plan and schedule a consultation.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That would be perfect. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "You're welcome, Michael! I’ll ensure that she contacts you soon.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Great. I really appreciate your assistance today!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Of course! And just to confirm, I’ll email the care plan and have Lisa follow up with you.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, that’s right. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Thank you for calling, Michael! Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-901ca14f10e542e6990a76ed",
+  "revision": "",
+  "status": "success"
+}
