@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-12T01:07:50Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6d9e8cb524ff4b61aa5f01b9",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945767270-4ff3516b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6d9e8cb524ff4b61aa5f01b9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 118,
+      "duration_ms": 118000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945767270,
+      "call_id": "6d9e8cb524ff4b61aa5f01b9",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6d9e8cb524ff4b61aa5f01b9",
+      "media_name": "eb722c6071e344c198d31b32fe3c27a2.mp3",
+      "scenario": "A medical supply company calls to confirm a delivery of wound care supplies scheduled for Thursday. They need to verify the delivery address and contact person. Straightforward business call between the vendor and the office coordinator.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 118.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Patricia Wilson. I'm calling about a delivery of wound care supplies. Hi Patricia! Yes, I see that scheduled for Thursday. Can I confirm the delivery address? Yes, it should be 2847 North Ridge Road, Suite 205, Wichita, KS 67205. That’s correct! And who should we contact upon delivery? It will be my mother, Ellen Wilson. She'll be home to receive the supplies. Great! I’ll note that down. Is there anything specific you’d like us to prepare for her care? Well, she’ll need post-surgery care after her hip replacement. Are you able to help with that? Yes, we provide post-surgical recovery care. It’s priced between $85 and $110 per visit, depending on the level of care needed. That sounds good. Can I get more details on what that includes? Absolutely! Our post-surgery care includes specialized monitoring, assistance with daily activities, and wound care if needed. Perfect! I’d like to set that up for her. Sure! Let me connect you with our Care Coordinator, Lisa. She can assist with scheduling. That would be great, thanks! And just to confirm, would you like Lisa to call you back, or should I transfer you now? I can hold for a few moments, that’s fine. Perfect! I’ll transfer you to Lisa shortly. Just to recap— We have the wound care supplies scheduled for Thursday, and we’ll set up post-surgery care for your mother, Ellen. Yes, that sounds right. If you think of anything else while you wait for Lisa, feel free to ask. I will, thank you! You're welcome! Transferring you now. One moment please. (Transfer sound) (to another line) Lisa, I have a call for you regarding post-surgery care for Ellen Wilson. (to Patricia) Here you go, Patricia. You’re now speaking with Lisa. Hi Lisa! Hi, Patricia! How can I assist you today? I’m interested in setting up post-surgery care for my mother…",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Patricia Wilson. I'm calling about a delivery of wound care supplies.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 6,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Patricia! Yes, I see that scheduled for Thursday. Can I confirm the delivery address?",
+          "speaker": "local party",
+          "start_time": 6,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it should be 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s correct! And who should we contact upon delivery?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It will be my mother, Ellen Wilson. She'll be home to receive the supplies.",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great! I’ll note that down. Is there anything specific you’d like us to prepare for her care?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Well, she’ll need post-surgery care after her hip replacement. Are you able to help with that?",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, we provide post-surgical recovery care. It’s priced between $85 and $110 per visit, depending on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds good. Can I get more details on what that includes?",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely! Our post-surgery care includes specialized monitoring, assistance with daily activities, and wound care if needed.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Perfect! I’d like to set that up for her.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Sure! Let me connect you with our Care Coordinator, Lisa. She can assist with scheduling.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be great, thanks!",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 61,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "And just to confirm, would you like Lisa to call you back, or should I transfer you now?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I can hold for a few moments, that’s fine.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect! I’ll transfer you to Lisa shortly. Just to recap—",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 73,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "We have the wound care supplies scheduled for Thursday, and we’ll set up post-surgery care for your mother, Ellen.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, that sounds right.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "If you think of anything else while you wait for Lisa, feel free to ask.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I will, thank you!",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're welcome! Transferring you now. One moment please.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "(Transfer sound)",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "(to another line) Lisa, I have a call for you regarding post-surgery care for Ellen Wilson.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "(to Patricia) Here you go, Patricia.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 106,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You’re now speaking with Lisa.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Hi Lisa!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Hi, Patricia! How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 115,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "I’m interested in setting up post-surgery care for my mother…",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 118,
+          "channel": "right",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6d9e8cb524ff4b61aa5f01b9",
+  "revision": "",
+  "status": "success"
+}
