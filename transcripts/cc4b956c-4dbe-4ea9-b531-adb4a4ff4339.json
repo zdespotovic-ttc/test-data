@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-12T01:05:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-fcd21932f83d473fbd0c1ab1",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945767100-2b1f8622",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-fcd21932f83d473fbd0c1ab1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945767100,
+      "call_id": "fcd21932f83d473fbd0c1ab1",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-fcd21932f83d473fbd0c1ab1",
+      "media_name": "b6f1220ab0284ccb80ebd1338d4f4241.mp3",
+      "scenario": "A son calls for the first time asking about 24-hour live-in care for his father who has Parkinson's disease. He wants a detailed price breakdown for weekday vs weekend rates. The receptionist provides quotes for both options. He says he'll compare with other agencies. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, my name is David Carter. I'm calling to inquire about 24-hour live-in care for my father. Of course, David. Could you tell me a bit about your father's condition? He has Parkinson's disease and needs assistance with daily activities, medication management, and companionship. I understand. We offer 24/7 live-in care, which could be a great fit for him. Yes, I’d like to know the pricing details for that service, particularly for weekdays and weekends. Certainly! The rate for 24/7 live-in care ranges from $280 to $350 per day, depending on the caregiver's experience. Okay, and how does that break down for weekdays versus weekends? For weekdays, it typically falls between $280 and $320 daily, while weekends generally range from $320 to $350 due to additional staffing needs. I see. That’s helpful. How soon could services start if I decide to move forward? We can usually arrange services to start within a few days after the initial assessment and care plan are developed. Great! I need to compare these rates with other agencies before making a decision. That’s completely understandable, David. I can provide you with more information if you need it. Yes, could you send me some written information about your services and pricing? Absolutely! I can email you a detailed brochure. What’s your email address? It’s david.carter@email.com. Can you also include the care coordination details? Sure thing! I’ll include information on how we handle care coordination and family communication. Thanks, that would be really helpful. I’ll discuss it with my family. You're welcome! Please feel free to call back if you have any questions or need further assistance. I will do that. Thank you for your help, Margaret. Thank you, David. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is David Carter. I'm calling to inquire about 24-hour live-in care for my father.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, David. Could you tell me a bit about your father's condition?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "He has Parkinson's disease and needs assistance with daily activities, medication management, and companionship.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. We offer 24/7 live-in care, which could be a great fit for him.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I’d like to know the pricing details for that service, particularly for weekdays and weekends.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Certainly! The rate for 24/7 live-in care ranges from $280 to $350 per day, depending on the caregiver's experience.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and how does that break down for weekdays versus weekends?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 43,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "For weekdays, it typically falls between $280 and $320 daily, while weekends generally range from $320 to $350 due to additional staffing needs.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I see. That’s helpful. How soon could services start if I decide to move forward?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can usually arrange services to start within a few days after the initial assessment and care plan are developed.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great! I need to compare these rates with other agencies before making a decision.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That’s completely understandable, David. I can provide you with more information if you need it.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, could you send me some written information about your services and pricing?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely! I can email you a detailed brochure. What’s your email address?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "It’s david.carter@email.com. Can you also include the care coordination details?",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 93,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure thing! I’ll include information on how we handle care coordination and family communication.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 101,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thanks, that would be really helpful. I’ll discuss it with my family.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 107,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You're welcome! Please feel free to call back if you have any questions or need further assistance.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I will do that. Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you, David. Have a great day!",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-fcd21932f83d473fbd0c1ab1",
+  "revision": "",
+  "status": "success"
+}
