@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-12T01:09:04Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b17f0945c5084d63b40b8a50",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945767344-93a123d8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b17f0945c5084d63b40b8a50",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945767344,
+      "call_id": "b17f0945c5084d63b40b8a50",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b17f0945c5084d63b40b8a50",
+      "media_name": "2e666cf8ccec4ef4abb04eb391e5cf82.mp3",
+      "scenario": "A long-time patient calls to book a follow-up assessment after completing their 6-week rehab program. They're excited about their progress and want to discuss next steps with the therapist. Receptionist books them for Friday at 3 PM.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, it’s Dorothy Henderson. I hope you’re doing well! Hi Dorothy! I'm doing great, thanks for asking. How about you? I’m really excited! I just finished my 6-week rehab program after my hip replacement, and I feel great! That’s wonderful to hear! You’ve made fantastic progress. What can I assist you with today? I’d like to schedule a follow-up assessment with Dr. Rodriguez to discuss my next steps. Absolutely, let me check Dr. Rodriguez's schedule for you. I’m hoping for a morning appointment, if possible. Let’s see... He’s available this Friday at 3 PM. Would that work for you? Oh, 3 PM is actually a little late for me. Is there any chance he has an earlier slot? I’m sorry, but it looks like all the morning slots are booked for this week. Would you like to take the Friday slot? Yes, that will work. I’ll take it! Great! I’ll put you down for Friday at 3 PM with Dr. Rodriguez. Thank you! I’m really looking forward to it. You’re welcome! Is there anything else you need help with today? Actually, I was wondering if I could also increase my personal care visits. Sure! How many additional hours are you considering? Maybe two more hours a week? Just for some help with daily activities. I can get you set up for that. Do you prefer the same caregiver as before? Yes, please! I would like to keep the same female caregiver. Perfect! I’ll make a note of that. Thank you, Margaret. I really appreciate your help. It’s my pleasure! I’ll follow up with you after Friday’s appointment to confirm the new schedule. Sounds good! Thanks again for everything. You’re very welcome, Dorothy. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it’s Dorothy Henderson. I hope you’re doing well!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Dorothy! I'm doing great, thanks for asking. How about you?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m really excited! I just finished my 6-week rehab program after my hip replacement, and I feel great!",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s wonderful to hear! You’ve made fantastic progress. What can I assist you with today?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I’d like to schedule a follow-up assessment with Dr. Rodriguez to discuss my next steps.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, let me check Dr. Rodriguez's schedule for you.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I’m hoping for a morning appointment, if possible.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let’s see... He’s available this Friday at 3 PM. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Oh, 3 PM is actually a little late for me. Is there any chance he has an earlier slot?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m sorry, but it looks like all the morning slots are booked for this week. Would you like to take the Friday slot?",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that will work. I’ll take it!",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! I’ll put you down for Friday at 3 PM with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! I’m really looking forward to it.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You’re welcome! Is there anything else you need help with today?",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, I was wondering if I could also increase my personal care visits.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure! How many additional hours are you considering?",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Maybe two more hours a week? Just for some help with daily activities.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I can get you set up for that. Do you prefer the same caregiver as before?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please! I would like to keep the same female caregiver.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I’ll make a note of that.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 102,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It’s my pleasure! I’ll follow up with you after Friday’s appointment to confirm the new schedule.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good! Thanks again for everything.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, Dorothy. Have a great day!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 118,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 121,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b17f0945c5084d63b40b8a50",
+  "revision": "",
+  "status": "success"
+}
