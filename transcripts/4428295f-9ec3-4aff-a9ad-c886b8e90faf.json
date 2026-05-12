@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-12T01:09:51Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a5bd4c4b3b3a4ddd8ac77b52",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945767391-e0f8c70a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a5bd4c4b3b3a4ddd8ac77b52",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945767391,
+      "call_id": "a5bd4c4b3b3a4ddd8ac77b52",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a5bd4c4b3b3a4ddd8ac77b52",
+      "media_name": "64c6d49807264deabcd53f36c55f854c.mp3",
+      "scenario": "A woman calls comparing home health agencies for her elderly aunt. She mentions that Visiting Angels quoted her $28/hour and asks what CareFirst charges. The receptionist provides their rate of $32/hour and explains what's included. The caller says she'll think about it. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, my name is Betty Lou Smith. I'm looking for home care options for my elderly aunt. Of course, Betty. Can you tell me a bit more about her needs? Well, she needs help with daily activities like bathing and dressing, and she also has some mobility issues. I understand. We offer personal care assistance that includes those services. That sounds good. I got a quote from Visiting Angels for $28 an hour. What do you charge? Our rate for personal care assistance is $32 per hour. Oh, that's a bit higher. What does that include? Our services include help with bathing, grooming, meal preparation, and companionship. We ensure our caregivers are well-trained and matched to your aunt's needs. I see. That does sound comprehensive. But I'm still considering my options. I completely understand. It's important to find the right fit. If you’d like, I can send you a brochure with more details. Yes, that would be helpful. Can you also tell me about your caregiver schedule? We aim for consistency in caregiver assignments to build rapport. Would you prefer a specific schedule for your aunt? Yes, I’d like someone who can come regularly. Great! We can certainly accommodate that. I’ll note that in your file. Thank you, Margaret. I’ll think about it and get back to you. Of course, take your time. Just so you know, we also offer a free consultation if you’d like to meet with a caregiver first. That sounds interesting. I might take you up on that. Wonderful! If you have any questions or need more information, feel free to call us anytime. Will do. Thank you for your help today! You’re welcome, Betty! Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Betty Lou Smith. I'm looking for home care options for my elderly aunt.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Betty. Can you tell me a bit more about her needs?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, she needs help with daily activities like bathing and dressing, and she also has some mobility issues.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. We offer personal care assistance that includes those services.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. I got a quote from Visiting Angels for $28 an hour. What do you charge?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our rate for personal care assistance is $32 per hour.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh, that's a bit higher. What does that include?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our services include help with bathing, grooming, meal preparation, and companionship. We ensure our caregivers are well-trained and matched to your aunt's needs.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I see. That does sound comprehensive. But I'm still considering my options.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand. It's important to find the right fit. If you’d like, I can send you a brochure with more details.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be helpful. Can you also tell me about your caregiver schedule?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We aim for consistency in caregiver assignments to build rapport. Would you prefer a specific schedule for your aunt?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I’d like someone who can come regularly.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! We can certainly accommodate that. I’ll note that in your file.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. I’ll think about it and get back to you.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course, take your time. Just so you know, we also offer a free consultation if you’d like to meet with a caregiver first.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds interesting. I might take you up on that.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Wonderful! If you have any questions or need more information, feel free to call us anytime.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Will do. Thank you for your help today!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Betty! Have a great day!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a5bd4c4b3b3a4ddd8ac77b52",
+  "revision": "",
+  "status": "success"
+}
