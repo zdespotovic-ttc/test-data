@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:27:21Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-601f1d84ce8241fa80046474",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851241-9ef0c74f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-601f1d84ce8241fa80046474",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851241,
+      "call_id": "601f1d84ce8241fa80046474",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-601f1d84ce8241fa80046474",
+      "media_name": "b49ef94297f54a1ebf09f8ae12d7e172.mp3",
+      "scenario": "A retired firefighter calls for the first time asking about physical therapy for chronic back pain. He wants to know if they do in-home sessions and what it costs. The receptionist quotes $110 per session and explains the assessment process. He's interested and asks to schedule an evaluation. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, my name is Tom. I'm looking for some information about physical therapy for chronic back pain. Absolutely, Tom! We do offer physical therapy services. Are you interested in in-home sessions? Yes, I’d prefer that. I’ve had trouble getting out lately. Can you tell me what it costs? The cost for our in-home physical therapy sessions ranges from $110 to $140 per session. Okay, and how does the assessment process work? Initially, a physical therapist will come to your home for an evaluation. They’ll assess your condition and develop a personalized treatment plan. That sounds good. How long does the evaluation typically take? The evaluation usually lasts about 45 to 60 minutes. It’s thorough to ensure we address all your needs. Great! I’d like to schedule that evaluation. What’s the next step? I can help you with that! Can I get your address and preferred days for the session? Sure, I live at 123 Elm Street, and I’m available on Tuesdays and Thursdays. Perfect! I’ll check our therapist’s availability for those days. Thank you! I really appreciate it. Absolutely! Would you also like information on other services, like pain management or in-home care? I might be interested in that, but let’s focus on the therapy first. Sure thing, Tom. Let me confirm the therapist's availability for you. Sounds good! I’ve been struggling with this back pain for a while, so I’m hopeful this will help. I understand, and we’re here to support you. Just a moment while I check. It looks like we can schedule your evaluation for next Tuesday at 10 AM. Does that work for you? Yes, that works perfectly. Great! I’ll send you a confirmation email with the details. Thank you! What’s your email address? It’s info@carefirsthomehealth.com. Got it. I’ll keep an eye out for that. Is there anything else I can assist you with today? Nope, that’s everything for now. Thank you for your help! You’re very welcome, Tom. We look forward to helping you with your therapy! Thanks! Have a great day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Tom. I'm looking for some information about physical therapy for chronic back pain.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Absolutely, Tom! We do offer physical therapy services. Are you interested in in-home sessions?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I’d prefer that. I’ve had trouble getting out lately. Can you tell me what it costs?",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "The cost for our in-home physical therapy sessions ranges from $110 to $140 per session.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, and how does the assessment process work?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Initially, a physical therapist will come to your home for an evaluation. They’ll assess your condition and develop a personalized treatment plan.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds good. How long does the evaluation typically take?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "The evaluation usually lasts about 45 to 60 minutes. It’s thorough to ensure we address all your needs.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Great! I’d like to schedule that evaluation. What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can help you with that! Can I get your address and preferred days for the session?",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 59,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, I live at 123 Elm Street, and I’m available on Tuesdays and Thursdays.",
+          "speaker": "remote party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! I’ll check our therapist’s availability for those days.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely! Would you also like information on other services, like pain management or in-home care?",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I might be interested in that, but let’s focus on the therapy first.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure thing, Tom. Let me confirm the therapist's availability for you.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sounds good! I’ve been struggling with this back pain for a while, so I’m hopeful this will help.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I understand, and we’re here to support you. Just a moment while I check.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "It looks like we can schedule your evaluation for next Tuesday at 10 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 118,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, that works perfectly.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Great! I’ll send you a confirmation email with the details.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you! What’s your email address?",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "It’s info@carefirsthomehealth.com.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Got it. I’ll keep an eye out for that.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Nope, that’s everything for now. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You’re very welcome, Tom. We look forward to helping you with your therapy!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Thanks! Have a great day!",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 160,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 163,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-601f1d84ce8241fa80046474",
+  "revision": "",
+  "status": "success"
+}
