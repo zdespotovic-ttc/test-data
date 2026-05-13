@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:29:39Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-74dbc4bff2174f19b89965f9",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851379-7a56e6dc",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-74dbc4bff2174f19b89965f9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 180,
+      "duration_ms": 180000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851379,
+      "call_id": "74dbc4bff2174f19b89965f9",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-74dbc4bff2174f19b89965f9",
+      "media_name": "aa183ab4b50a4378914d99e7bbbd6bc8.mp3",
+      "scenario": "A daughter calls for the first time asking about memory care services for her mother with Alzheimer's. She wants to know about specialized dementia caregivers and pricing for daily visits. The receptionist provides a quote for 4-hour daily visits at $35/hour. The daughter says the pricing is better than she expected. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 180.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is Michael Brown. I'm calling about my father who has diabetes and needs wound care and medication management. Of course, Michael. We can certainly help with that. Can you tell me more about his specific needs? Yes, he recently had a wound that needs regular attention and also requires help with his medication schedule. Got it. We offer skilled nursing care, including wound care management and medication supervision. What are the prices for those services? Our skilled nursing care ranges from $95 to $125 for a visit lasting 1 to 2 hours, depending on the specific services required. Okay, that sounds reasonable. How do you coordinate the care? We develop a care plan tailored to your father's needs, coordinating between our nurses and family members for seamless support. That’s reassuring. I want to make sure he gets the best care possible. Absolutely, Michael. It’s our priority. Would you like to set up a consultation with one of our nurses? Yes, that would be great. What’s the next step? I can schedule a visit for you. Would you prefer weekdays or weekends for the consultation? Weekdays would be better. Perfect. I’ll check our availability and get back to you shortly with a date and time. Thank you, Margaret. I appreciate your help. You’re welcome, Michael! Is there anything else you’d like to know while you have me on the line? Actually, I just remembered my mother has Alzheimer's. Do you offer any services for that? Yes, we specialize in dementia and Alzheimer’s care, providing trained caregivers for daily visits. That sounds promising. What are the rates for those services? For 4-hour daily visits, it’s $35 per hour. Would that be something you’re interested in? That’s better than I expected! I might consider that for her as well. Great! If you're interested, we can also develop a care plan for her similar to your father’s. Yes, that would be helpful. Can you send me information? I can definitely do that. I’ll include details on both services in my follow-up email. Perfect, thank you so much for your assistance, Margaret. It’s my pleasure, Michael! I’ll follow up with the consultation details and additional information soon. I appreciate it. Have a great day! You too! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Michael Brown. I'm calling about my father who has diabetes and needs wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Michael. We can certainly help with that. Can you tell me more about his specific needs?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, he recently had a wound that needs regular attention and also requires help with his medication schedule.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 23,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Got it. We offer skilled nursing care, including wound care management and medication supervision.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "What are the prices for those services?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our skilled nursing care ranges from $95 to $125 for a visit lasting 1 to 2 hours, depending on the specific services required.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that sounds reasonable. How do you coordinate the care?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We develop a care plan tailored to your father's needs, coordinating between our nurses and family members for seamless support.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 56,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s reassuring. I want to make sure he gets the best care possible.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, Michael. It’s our priority. Would you like to set up a consultation with one of our nurses?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 69,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be great. What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can schedule a visit for you. Would you prefer weekdays or weekends for the consultation?",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Weekdays would be better.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect. I’ll check our availability and get back to you shortly with a date and time.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome, Michael! Is there anything else you’d like to know while you have me on the line?",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 103,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Actually, I just remembered my mother has Alzheimer's. Do you offer any services for that?",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 111,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we specialize in dementia and Alzheimer’s care, providing trained caregivers for daily visits.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 118,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds promising. What are the rates for those services?",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 124,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "For 4-hour daily visits, it’s $35 per hour. Would that be something you’re interested in?",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 132,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That’s better than I expected! I might consider that for her as well.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 139,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! If you're interested, we can also develop a care plan for her similar to your father’s.",
+          "speaker": "local party",
+          "start_time": 139,
+          "end_time": 144,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that would be helpful. Can you send me information?",
+          "speaker": "remote party",
+          "start_time": 144,
+          "end_time": 151,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I can definitely do that. I’ll include details on both services in my follow-up email.",
+          "speaker": "local party",
+          "start_time": 151,
+          "end_time": 157,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect, thank you so much for your assistance, Margaret.",
+          "speaker": "remote party",
+          "start_time": 157,
+          "end_time": 165,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "It’s my pleasure, Michael! I’ll follow up with the consultation details and additional information soon.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 171,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I appreciate it. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 171,
+          "end_time": 176,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too! Take care.",
+          "speaker": "local party",
+          "start_time": 176,
+          "end_time": 180,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-74dbc4bff2174f19b89965f9",
+  "revision": "",
+  "status": "success"
+}
