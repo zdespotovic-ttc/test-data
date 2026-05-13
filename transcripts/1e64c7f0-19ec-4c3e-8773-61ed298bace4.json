@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:25:57Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-62fb164d9e26499da2577ff2",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851157-e19f4676",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-62fb164d9e26499da2577ff2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851157,
+      "call_id": "62fb164d9e26499da2577ff2",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-62fb164d9e26499da2577ff2",
+      "media_name": "d11adc42b2de43b3b7cc6edabce86f5e.mp3",
+      "scenario": "A woman calls for the first time asking about palliative care services for her terminally ill husband. She wants to understand what comfort care includes and how often a nurse would visit. The receptionist explains the program compassionately. The caller feels reassured. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, my name is Michael Brown. I’m calling about my father. He has diabetes and needs wound care and medication management. I’m so sorry to hear that, Michael. We can certainly help with those services. Thank you. I want to make sure he gets the right care. How often would a nurse visit? For wound care and medication management, our skilled nursing services typically involve visits 1-2 times a week, depending on the specific needs. That sounds manageable. And what does the wound care entail? Our wound care includes professional assessment, cleaning, dressing changes, and monitoring for any signs of infection. Great, and what about medication management? How does that work? Medication management involves reminders, organizing medications, and supervision of administration to ensure your father takes them safely. That’s reassuring. Can you tell me about the costs for these services? Sure! Our skilled nursing care ranges from $95 to $125 per visit, and medication management is between $65 and $80 per session. Okay, that’s understandable. Are there any other costs I should be aware of? There may be additional costs depending on the frequency of visits or if any additional services are required, like diabetes management. I see. I might need to look into that. Can I schedule an initial assessment? Absolutely! We usually recommend a care plan development meeting first. Would you like me to schedule that? Yes, please. What days do you have available? We have availability Monday through Saturday. What day works best for you? How about Tuesday morning? Let me check. Yes, we can do Tuesday at 10 AM. Does that work for you? Yes, that’s perfect. Great! I’ll schedule you for Tuesday at 10 AM. Thank you, Margaret. I really appreciate your help. You’re very welcome, Michael. If you have any questions before then, feel free to call us back. I will. Thanks again for your assistance. It’s my pleasure. Have a great day, Michael! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Michael Brown. I’m calling about my father. He has diabetes and needs wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m so sorry to hear that, Michael. We can certainly help with those services.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Thank you. I want to make sure he gets the right care. How often would a nurse visit?",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "For wound care and medication management, our skilled nursing services typically involve visits 1-2 times a week, depending on the specific needs.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds manageable. And what does the wound care entail?",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our wound care includes professional assessment, cleaning, dressing changes, and monitoring for any signs of infection.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great, and what about medication management? How does that work?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Medication management involves reminders, organizing medications, and supervision of administration to ensure your father takes them safely.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s reassuring. Can you tell me about the costs for these services?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sure! Our skilled nursing care ranges from $95 to $125 per visit, and medication management is between $65 and $80 per session.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, that’s understandable. Are there any other costs I should be aware of?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "There may be additional costs depending on the frequency of visits or if any additional services are required, like diabetes management.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 83,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I see. I might need to look into that. Can I schedule an initial assessment?",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely! We usually recommend a care plan development meeting first. Would you like me to schedule that?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please. What days do you have available?",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We have availability Monday through Saturday. What day works best for you?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 110,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "How about Tuesday morning?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Let me check. Yes, we can do Tuesday at 10 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 124,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that’s perfect.",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 127,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll schedule you for Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome, Michael. If you have any questions before then, feel free to call us back.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 145,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I will. Thanks again for your assistance.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 153,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure. Have a great day, Michael!",
+          "speaker": "local party",
+          "start_time": 153,
+          "end_time": 158,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 158,
+          "end_time": 160,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 163,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-62fb164d9e26499da2577ff2",
+  "revision": "",
+  "status": "success"
+}
