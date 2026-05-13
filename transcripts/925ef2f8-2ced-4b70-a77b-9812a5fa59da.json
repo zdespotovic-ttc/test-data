@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T17:55:17Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7199e7c9528d4458b5376c14",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945914117-ad16510d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7199e7c9528d4458b5376c14",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 168,
+      "duration_ms": 168000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945914117,
+      "call_id": "7199e7c9528d4458b5376c14",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7199e7c9528d4458b5376c14",
+      "media_name": "9752991976414ebe94d0a6a602d2e645.mp3",
+      "scenario": "A patient calls to ask why their insurance was billed $1,200 when they were told the visit would be $800. They're not angry yet but want an explanation. The receptionist says she'll check with billing and call back within 24 hours.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 168.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Betty Lou Smith. I'm calling about a billing issue. Hi Betty! It's great to hear from you. What seems to be the problem? Well, I noticed my insurance was billed $1,200 for my last visit, but I was told it would be $800. I see. That definitely sounds concerning. Let me gather some details on that. Yes, I’d really appreciate that. I’ve been a client for a while now, and I just want to understand. Of course, Betty. When was your last visit? It was just four days ago. Got it. And just to confirm, you received personal care assistance during that visit, correct? Yes, I did. Thank you for clarifying. I will check with our billing department regarding the discrepancy. That would be great, thank you. I’m a bit worried about this charge. I understand, Betty. I’ll make sure to follow up on this as quickly as possible. How long will it take to get an update? I will get back to you within 24 hours, if not sooner. Okay, that sounds fair. Thank you for your help. You're welcome! Is there anything else I can assist you with today? Actually, I was wondering if you offer any fall prevention classes? Yes, we do! We have programs focused on mobility training and fall prevention. That sounds interesting. Can you tell me more about it? Absolutely! Our physical therapist, Dr. James Rodriguez, conducts these sessions. What’s the cost for those sessions? The sessions range from $110 to $140 per visit, lasting about 45 to 60 minutes. That’s a bit steep, but I think it could really help me. I can arrange an initial consultation with Dr. Rodriguez if you're interested. Yes, please do that. I’d like to explore it further. Great! I’ll make a note to follow up regarding both the billing issue and the consultation. Thank you so much, Margaret. I appreciate your help. You’re welcome, Betty! I’ll be in touch soon. Have a wonderful day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I'm calling about a billing issue.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty! It's great to hear from you. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed my insurance was billed $1,200 for my last visit, but I was told it would be $800.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. That definitely sounds concerning. Let me gather some details on that.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I’d really appreciate that. I’ve been a client for a while now, and I just want to understand.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course, Betty. When was your last visit?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It was just four days ago.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Got it. And just to confirm, you received personal care assistance during that visit, correct?",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I did.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for clarifying. I will check with our billing department regarding the discrepancy.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great, thank you. I’m a bit worried about this charge.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand, Betty. I’ll make sure to follow up on this as quickly as possible.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 69,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "How long will it take to get an update?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I will get back to you within 24 hours, if not sooner.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, that sounds fair. Thank you for your help.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You're welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 91,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Actually, I was wondering if you offer any fall prevention classes?",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 97,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we do! We have programs focused on mobility training and fall prevention.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 104,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds interesting. Can you tell me more about it?",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely! Our physical therapist, Dr. James Rodriguez, conducts these sessions.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "What’s the cost for those sessions?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "The sessions range from $110 to $140 per visit, lasting about 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 128,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That’s a bit steep, but I think it could really help me.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 133,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I can arrange an initial consultation with Dr. Rodriguez if you're interested.",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 139,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, please do that. I’d like to explore it further.",
+          "speaker": "remote party",
+          "start_time": 139,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Great! I’ll make a note to follow up regarding both the billing issue and the consultation.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 151,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 151,
+          "end_time": 157,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Betty! I’ll be in touch soon. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 162,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 165,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 168,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7199e7c9528d4458b5376c14",
+  "revision": "",
+  "status": "success"
+}
