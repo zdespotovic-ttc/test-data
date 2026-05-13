@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:29:03Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c18672002af44f61b560a568",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851343-e7e9eb63",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c18672002af44f61b560a568",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851343,
+      "call_id": "c18672002af44f61b560a568",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c18672002af44f61b560a568",
+      "media_name": "d2732276f37342208d58097198dce119.mp3",
+      "scenario": "A patient calls to update their credit card on file because the old one expired. Quick, routine call. The receptionist processes the update and confirms the next auto-payment date.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Harold Gonzalez. I need to update my credit card on file. Hi, Harold! Of course, I can help you with that. Could you please provide the new card details? Yes, it’s a Visa card, number 4111 1111 1111 1111, expiration date 12/25. Thank you for that. Just to confirm, can you also provide the name on the card? It's Harold Gonzalez. Great! And the billing address associated with the card? It’s the same as before, 123 Elm Street, Wichita, KS 67205. Thank you for confirming that, Harold. I’ll process the update now. Sure, take your time. Alright, I’ve updated your credit card information. Your next auto-payment will be processed on the 1st of next month. Okay, that sounds good. Thanks for taking care of that. You're welcome! Is there anything else I can assist you with today? Actually, yes. I wanted to check if I can get more frequent vital sign checks. Absolutely, we can arrange for additional visits. Would you like to discuss a specific schedule? Yes, maybe twice a week instead of once? Let me check our schedule. I can assign a nurse to visit you on Mondays and Thursdays at 10 AM. That works perfectly. Great! I’ll set that up for you. And just a reminder, I’d prefer Spanish-speaking caregivers if possible. Noted! I’ll ensure a Spanish-speaking nurse is assigned for your visits. Thank you so much, Margaret. You’re very welcome, Harold. I appreciate the call. Have a great day! You too! Bye now. Bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Harold Gonzalez. I need to update my credit card on file.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Harold! Of course, I can help you with that. Could you please provide the new card details?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it’s a Visa card, number 4111 1111 1111 1111, expiration date 12/25.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you for that. Just to confirm, can you also provide the name on the card?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It's Harold Gonzalez.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great! And the billing address associated with the card?",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 28,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It’s the same as before, 123 Elm Street, Wichita, KS 67205.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for confirming that, Harold. I’ll process the update now.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 35,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Alright, I’ve updated your credit card information. Your next auto-payment will be processed on the 1st of next month.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, that sounds good. Thanks for taking care of that.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You're welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Actually, yes. I wanted to check if I can get more frequent vital sign checks.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, we can arrange for additional visits. Would you like to discuss a specific schedule?",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, maybe twice a week instead of once?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check our schedule. I can assign a nurse to visit you on Mondays and Thursdays at 10 AM.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That works perfectly.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll set that up for you.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 83,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "And just a reminder, I’d prefer Spanish-speaking caregivers if possible.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Noted! I’ll ensure a Spanish-speaking nurse is assigned for your visits.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you so much, Margaret.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome, Harold. I appreciate the call.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Have a great day!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too! Bye now.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 107,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 110,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c18672002af44f61b560a568",
+  "revision": "",
+  "status": "success"
+}
