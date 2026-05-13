@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T17:55:52Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-cfbf88de37484e508028a0ba",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945914152-b0133a02",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-cfbf88de37484e508028a0ba",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 115,
+      "duration_ms": 115000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945914152,
+      "call_id": "cfbf88de37484e508028a0ba",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-cfbf88de37484e508028a0ba",
+      "media_name": "4a1d32ef495b49649d2b834a84d84b99.mp3",
+      "scenario": "A man calls asking what areas CareFirst serves and whether they have any openings for new patients. The receptionist confirms they serve the metro area and currently have availability. He says he'll call back when he's ready. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 115.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi Margaret, my name is John. I'm wondering what areas you serve. Hi John! We serve the entire metro area, including Wichita and the surrounding communities. That’s great to hear. Do you currently have any openings for new patients? Yes, we do have availability for new patients at the moment. Oh, that’s good to know. I might be interested in companion care. Fantastic! Our companion care service includes social interaction, light housekeeping, and transportation assistance. Sounds perfect. I just need to think it over and discuss it with my family. Of course! Take your time. Would you like me to send you some information via email? Yes, that would be helpful. My email is john.doe@email.com. Got it. I’ll send you our service details and pricing, along with how to start the process. Thank you! I appreciate that. Are there any specific requirements for your services? We typically start with a care assessment to understand the client's needs, then we develop a care plan. That makes sense. How long does the assessment usually take? The assessment usually takes about 1-2 hours, depending on the individual's needs. Okay, I’ll keep that in mind. I’ll call back when I’m ready to move forward. Sounds good, John! Just give us a call at +13165559200 whenever you're ready. Will do! Thanks for your help today, Margaret. You’re welcome! Have a great day, and I look forward to hearing from you. You too, bye! Bye! (to self) I’ll make sure to follow up with the email to John. (to self) I should also mention the companion care service to Lisa, she might find a match for him. (to self) And I’ll note the assessment process for our records.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is John. I'm wondering what areas you serve.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi John! We serve the entire metro area, including Wichita and the surrounding communities.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "That’s great to hear. Do you currently have any openings for new patients?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Yes, we do have availability for new patients at the moment.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Oh, that’s good to know. I might be interested in companion care.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Fantastic! Our companion care service includes social interaction, light housekeeping, and transportation assistance.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sounds perfect. I just need to think it over and discuss it with my family.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course! Take your time. Would you like me to send you some information via email?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be helpful. My email is john.doe@email.com.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Got it. I’ll send you our service details and pricing, along with how to start the process.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you! I appreciate that. Are there any specific requirements for your services?",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We typically start with a care assessment to understand the client's needs, then we develop a care plan.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That makes sense. How long does the assessment usually take?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The assessment usually takes about 1-2 hours, depending on the individual's needs.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, I’ll keep that in mind. I’ll call back when I’m ready to move forward.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sounds good, John! Just give us a call at +13165559200 whenever you're ready.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Will do! Thanks for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome! Have a great day, and I look forward to hearing from you.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "(to self) I’ll make sure to follow up with the email to John.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "(to self) I should also mention the companion care service to Lisa, she might find a match for him.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "(to self) And I’ll note the assessment process for our records.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-cfbf88de37484e508028a0ba",
+  "revision": "",
+  "status": "success"
+}
