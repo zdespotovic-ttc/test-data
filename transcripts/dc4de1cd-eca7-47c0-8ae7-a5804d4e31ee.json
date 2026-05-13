@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:26:42Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4e68765f9b8349788b3fc74b",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851202-a7f69cad",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4e68765f9b8349788b3fc74b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 117,
+      "duration_ms": 117000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851202,
+      "call_id": "4e68765f9b8349788b3fc74b",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4e68765f9b8349788b3fc74b",
+      "media_name": "3479e4e6649542b4b06368fd3c40163d.mp3",
+      "scenario": "A patient's husband calls in a panic because his wife, who has diabetes, is showing signs of severe hypoglycemia — she's sweating, confused, and shaking. He asks if a nurse can come right away. The receptionist tells him to give her orange juice immediately and call 911, then dispatches a nurse.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 117.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Margaret, it's Harold Gonzalez. I need help right away! Harold, what seems to be the problem? My wife is showing signs of severe hypoglycemia! She's sweating, confused, and shaking! Okay, stay calm. Has she had anything to eat or drink? No, I just noticed it. What should I do? Quickly, give her some orange juice if you have it. It will help raise her blood sugar. I have some. Should I call 911 too? Yes, please call 911 immediately after giving her the juice. Okay, I'm doing that now. Can a nurse come right away? Yes, I’ll dispatch a nurse to your location right away. What is your address? We're at 123 Elm Street, Wichita. Got it. A nurse will be there shortly. Thank you, Margaret. I’m really worried. I understand, Harold. Just keep her calm and stay with her until help arrives. I will. Do you have someone who speaks Spanish? She would feel more comfortable. Yes, we can send a Spanish-speaking nurse. That would be great, thank you. You're welcome. I’ll make sure we do that. What about her regular check-ups for diabetes? We can set up more frequent visits if needed. Would you like me to arrange that? Yes, please. I think she needs more monitoring. Okay, I’ll follow up with you after this emergency to discuss those arrangements. Thank you, Margaret. I appreciate your help. You're welcome, Harold. Just focus on your wife right now. Help is on the way. Alright, I will. Thank you again! Take care, Harold. We'll talk soon.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Margaret, it's Harold Gonzalez. I need help right away!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Harold, what seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My wife is showing signs of severe hypoglycemia! She's sweating, confused, and shaking!",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Okay, stay calm. Has she had anything to eat or drink?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "No, I just noticed it. What should I do?",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Quickly, give her some orange juice if you have it. It will help raise her blood sugar.",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I have some. Should I call 911 too?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, please call 911 immediately after giving her the juice.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, I'm doing that now. Can a nurse come right away?",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, I’ll dispatch a nurse to your location right away. What is your address?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "We're at 123 Elm Street, Wichita.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Got it. A nurse will be there shortly.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, Margaret. I’m really worried.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I understand, Harold. Just keep her calm and stay with her until help arrives.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I will. Do you have someone who speaks Spanish? She would feel more comfortable.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we can send a Spanish-speaking nurse.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be great, thank you.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You're welcome. I’ll make sure we do that.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "What about her regular check-ups for diabetes?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We can set up more frequent visits if needed. Would you like me to arrange that?",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. I think she needs more monitoring.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Okay, I’ll follow up with you after this emergency to discuss those arrangements.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Harold. Just focus on your wife right now. Help is on the way.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Alright, I will. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Take care, Harold. We'll talk soon.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4e68765f9b8349788b3fc74b",
+  "revision": "",
+  "status": "success"
+}
