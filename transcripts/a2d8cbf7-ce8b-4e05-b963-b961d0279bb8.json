@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:28:35Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ba8cfaece71847a2a985ce50",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851315-f8817edc",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ba8cfaece71847a2a985ce50",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851315,
+      "call_id": "ba8cfaece71847a2a985ce50",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ba8cfaece71847a2a985ce50",
+      "media_name": "f209214cda5d4e69a1bee6cdaf093139.mp3",
+      "scenario": "A patient calls for the third time this week asking about the results of her care plan review. She was told someone would call her back Monday and it's now Thursday. She's frustrated and says she feels like nobody cares about her case.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is William Chen. I'm calling for the third time this week about my care plan review results. Hi, William. I remember you. I’m sorry to hear you haven’t received an update yet. It’s really frustrating. I was told someone would call me back on Monday, and it’s now Thursday! I completely understand your frustration. Let me look into this for you right away. Thank you. I just feel like nobody cares about my case. I assure you, we do care. Let me check the status of your care plan review and see what happened. Okay, I hope there’s a reason for the delay. It looks like your review was scheduled, but there was a mix-up in our scheduling system. I apologize for that. I will personally ensure that someone from our team gets back to you today. I really hope so. I’m worried about my recovery. I understand that. Just to confirm, are you still experiencing any pain with your knee? Yes, it’s been bothering me more than I thought it would. That’s important information. Would you like me to schedule an additional physical therapy session to help with that? Yes, I think that would be helpful. Great! I can set that up for you. When would you like to have that session? Is there availability tomorrow? Let me check... Yes, we have a slot available with Dr. Rodriguez at 10:00 AM. That works for me. Please book it. I’ll confirm that appointment for you, and also check on your care plan review status. I appreciate that. I just want to make sure I’m on track for my recovery. Absolutely, William. Your health is our priority. I’ll make sure someone reaches out by the end of the day. Thank you. That makes me feel a bit better. You’re welcome! Is there anything else I can assist you with today? No, that’s all for now. Thank you, Margaret. Thank you for your understanding, William. Have a great day! You too. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I'm calling for the third time this week about my care plan review results.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, William. I remember you. I’m sorry to hear you haven’t received an update yet.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It’s really frustrating. I was told someone would call me back on Monday, and it’s now Thursday!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand your frustration. Let me look into this for you right away.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I just feel like nobody cares about my case.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I assure you, we do care. Let me check the status of your care plan review and see what happened.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I hope there’s a reason for the delay.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It looks like your review was scheduled, but there was a mix-up in our scheduling system. I apologize for that. I will personally ensure that someone from our team gets back to you today.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I really hope so. I’m worried about my recovery.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand that. Just to confirm, are you still experiencing any pain with your knee?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, it’s been bothering me more than I thought it would.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That’s important information. Would you like me to schedule an additional physical therapy session to help with that?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I think that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I can set that up for you. When would you like to have that session?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Is there availability tomorrow?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check... Yes, we have a slot available with Dr. Rodriguez at 10:00 AM.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That works for me. Please book it.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll confirm that appointment for you, and also check on your care plan review status.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I appreciate that. I just want to make sure I’m on track for my recovery.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, William. Your health is our priority. I’ll make sure someone reaches out by the end of the day.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you. That makes me feel a bit better.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s all for now. Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your understanding, William. Have a great day!",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ba8cfaece71847a2a985ce50",
+  "revision": "",
+  "status": "success"
+}
