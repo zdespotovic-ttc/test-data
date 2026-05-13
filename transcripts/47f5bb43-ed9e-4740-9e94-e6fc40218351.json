@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:30:35Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9f24c1bf82c64328a9cc2603",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851435-d1eebe47",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9f24c1bf82c64328a9cc2603",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 177,
+      "duration_ms": 177000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851435,
+      "call_id": "9f24c1bf82c64328a9cc2603",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9f24c1bf82c64328a9cc2603",
+      "media_name": "b73e4104a1d2418f96bb5c62d400080a.mp3",
+      "scenario": "A patient's daughter calls absolutely furious. She says the agency charged her mother's credit card without authorization for three extra visits that were never scheduled or performed. She's demanding a full refund, wants to speak with the billing director, and says she's contacting her bank to dispute the charges. She also mentions contacting the Better Business Bureau.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 177.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Mary O'Connor, and I am furious! I’m sorry to hear that, Mary. Can you tell me what’s going on? My mom's credit card was charged for three extra visits that were never scheduled or performed! That sounds very frustrating, Mary. Let’s get to the bottom of this. I demand a full refund! I want to speak to the billing director immediately! I understand your concern. The billing director isn’t available right now, but I can take your information and escalate this issue. Well, I’m also contacting my bank to dispute the charges and the Better Business Bureau! I completely understand, and we want to resolve this quickly for you. Can I have your contact number for follow-up? It’s +13165556789. But honestly, I don’t know if I can trust this agency anymore! I appreciate your honesty, Mary. I assure you we take these matters seriously. It’s just so wrong! I don't understand how this happened. Let me pull up your record. You mentioned your mother is receiving IV therapy, correct? Yes, she’s been a long-term client due to a bone infection. Thank you for that information. I see your last visit was yesterday. Were there any discussions about additional visits? No! Nothing was said about extra visits, and now we’re being charged! I understand. I will review the scheduling notes and billing records right away. Well, I expect a call back today with answers! Absolutely, I will prioritize this and ensure you receive a call back today. And I want to know who is responsible for this. I will find out and get that information for you. Please hold on just a moment. Ugh, fine, but I’m really upset about this whole situation! I completely understand, Mary. In the meantime, I’d like to discuss your mother’s ongoing care to ensure everything else is going smoothly. I guess that’s fine, but I’m still mad! That's totally understandable. We value your trust, and we want to support your mother’s needs. What do you mean by support? We can also discuss any additional services she might benefit from, like medication management or companionship care. I’ll think about that, but first, I want to resolve this billing issue! Of course, I will focus on that first. Thank you for your patience, Mary. Alright, I’ll wait for your call back. Thank you, Mary. I appreciate your understanding and will be in touch shortly. Bye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mary O'Connor, and I am furious!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Mary. Can you tell me what’s going on?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My mom's credit card was charged for three extra visits that were never scheduled or performed!",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds very frustrating, Mary. Let’s get to the bottom of this.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I demand a full refund! I want to speak to the billing director immediately!",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. The billing director isn’t available right now, but I can take your information and escalate this issue.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Well, I’m also contacting my bank to dispute the charges and the Better Business Bureau!",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 43,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand, and we want to resolve this quickly for you. Can I have your contact number for follow-up?",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It’s +13165556789. But honestly, I don’t know if I can trust this agency anymore!",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I appreciate your honesty, Mary. I assure you we take these matters seriously.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It’s just so wrong! I don't understand how this happened.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me pull up your record. You mentioned your mother is receiving IV therapy, correct?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, she’s been a long-term client due to a bone infection.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you for that information. I see your last visit was yesterday. Were there any discussions about additional visits?",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "No! Nothing was said about extra visits, and now we’re being charged!",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 89,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand. I will review the scheduling notes and billing records right away.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Well, I expect a call back today with answers!",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I will prioritize this and ensure you receive a call back today.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "And I want to know who is responsible for this.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I will find out and get that information for you. Please hold on just a moment.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 117,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Ugh, fine, but I’m really upset about this whole situation!",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 123,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I completely understand, Mary. In the meantime, I’d like to discuss your mother’s ongoing care to ensure everything else is going smoothly.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 129,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I guess that’s fine, but I’m still mad!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 134,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "That's totally understandable. We value your trust, and we want to support your mother’s needs.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 139,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "What do you mean by support?",
+          "speaker": "remote party",
+          "start_time": 139,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "We can also discuss any additional services she might benefit from, like medication management or companionship care.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I’ll think about that, but first, I want to resolve this billing issue!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 156,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Of course, I will focus on that first. Thank you for your patience, Mary.",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 162,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Alright, I’ll wait for your call back.",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 168,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Thank you, Mary. I appreciate your understanding and will be in touch shortly.",
+          "speaker": "local party",
+          "start_time": 168,
+          "end_time": 172,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 172,
+          "end_time": 175,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 177,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9f24c1bf82c64328a9cc2603",
+  "revision": "",
+  "status": "success"
+}
