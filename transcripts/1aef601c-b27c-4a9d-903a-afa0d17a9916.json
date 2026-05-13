@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T17:55:08Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c9d39b33af2a4877bd69b019",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945914108-8c2c5978",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c9d39b33af2a4877bd69b019",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 137,
+      "duration_ms": 137000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945914108,
+      "call_id": "c9d39b33af2a4877bd69b019",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c9d39b33af2a4877bd69b019",
+      "media_name": "47d186b23afd4b90bcb12809dc71e10e.mp3",
+      "scenario": "A patient's husband calls specifically to thank the team. He says the night nurse who stayed with his wife last week was exceptional — she was calm, professional, and made his wife feel safe. He wants to write a formal thank-you letter and asks where to send it. Very warm, grateful tone.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 137.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Agnes Rodriguez. I’m calling to thank you and the team for the wonderful care my husband received last week. Oh, it’s so nice to hear from you, Agnes! I'm glad you’re reaching out. What specifically stood out to you? The night nurse who stayed with my husband was exceptional. She was calm, professional, and really made him feel safe. That’s wonderful to hear! We pride ourselves on providing compassionate care. What was her name? I believe her name was Sarah. I’d love to send a formal thank-you letter to her and the agency. Where should I send it? You can send your letter to our office address. It’s 2847 North Ridge Road, Suite 205, Wichita, KS 67205. Great! I’ll make sure to do that. I know how hard everyone works, especially with the challenges we face. Thank you, Agnes. We truly appreciate your kind words. It means a lot to the team. I just wanted to express my gratitude. My husband is doing better, and I can see the positive impact of the care. That’s fantastic news! If there's anything specific you need moving forward, please don’t hesitate to ask. Well, actually, we might need some additional companion care soon. How do we go about scheduling that? I can help with that! Our companion care services are $25 to $30 per hour, depending on the specific needs. Perfect! I’d like to arrange for a few hours next week, if possible. Absolutely. Can you let me know which days work best for you? How about Tuesday and Thursday afternoons? Let me check the availability for those days. One moment, please. Sure, thank you! It looks like we have availability on both days. I can schedule two hours of companion care for each day. Does that work for you? Yes, that sounds perfect! Great! I’ll get that arranged and send you a confirmation. Is there anything else you need today? No, that’s all. Thank you again for your help! You’re very welcome, Agnes. Thank you for your kind words, and have a wonderful day! You too, Margaret! Bye now. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I’m calling to thank you and the team for the wonderful care my husband received last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, it’s so nice to hear from you, Agnes! I'm glad you’re reaching out. What specifically stood out to you?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "The night nurse who stayed with my husband was exceptional. She was calm, professional, and really made him feel safe.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s wonderful to hear! We pride ourselves on providing compassionate care. What was her name?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I believe her name was Sarah. I’d love to send a formal thank-you letter to her and the agency. Where should I send it?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "You can send your letter to our office address. It’s 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great! I’ll make sure to do that. I know how hard everyone works, especially with the challenges we face.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you, Agnes. We truly appreciate your kind words. It means a lot to the team.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I just wanted to express my gratitude. My husband is doing better, and I can see the positive impact of the care.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That’s fantastic news! If there's anything specific you need moving forward, please don’t hesitate to ask.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Well, actually, we might need some additional companion care soon. How do we go about scheduling that?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can help with that! Our companion care services are $25 to $30 per hour, depending on the specific needs.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect! I’d like to arrange for a few hours next week, if possible.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely. Can you let me know which days work best for you?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "How about Tuesday and Thursday afternoons?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check the availability for those days. One moment, please.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sure, thank you!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It looks like we have availability on both days. I can schedule two hours of companion care for each day. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that sounds perfect!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll get that arranged and send you a confirmation. Is there anything else you need today?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s all. Thank you again for your help!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome, Agnes. Thank you for your kind words, and have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, Margaret! Bye now.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 137,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c9d39b33af2a4877bd69b019",
+  "revision": "",
+  "status": "success"
+}
