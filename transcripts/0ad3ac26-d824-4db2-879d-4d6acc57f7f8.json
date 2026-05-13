@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T17:55:45Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-8040b88ec9794040b7f8ce93",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945914145-73943e8b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-8040b88ec9794040b7f8ce93",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 106,
+      "duration_ms": 106000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945914145,
+      "call_id": "8040b88ec9794040b7f8ce93",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-8040b88ec9794040b7f8ce93",
+      "media_name": "7ea90a8d07504e02af443919f465a7c0.mp3",
+      "scenario": "A caregiver calls saying the patient just had a seizure and is now unconscious. She's panicking and asking what to do. The receptionist tells her to call 911 immediately and stay with the patient. A nurse is being dispatched.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 106.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Margaret, it’s Mary O’Connor. I need help—there’s a serious situation! Mary, calm down. What’s happening? My caregiver just called me, and she said my mom had a seizure and is unconscious! Oh no, I’m so sorry to hear that. Has she called 911? No, she’s panicking! I don’t think she knows what to do! Mary, please tell her to call 911 immediately. It’s critical. Okay, okay! I’ll tell her. What else should she do? She needs to stay with your mom and monitor her until help arrives. Right, I’ll make sure she does that. I’m dispatching one of our nurses to your location right now. Thank you, Margaret. I’m really worried—she’s been through so much already. I understand, Mary. This is a lot to handle. Is there someone nearby who can be with the caregiver? Yes, my brother lives just a few blocks away. I’ll call him too. Good idea. He can provide support until the ambulance arrives. Thank you for being so reassuring. I just feel so helpless. You're doing the right thing by staying calm. Just keep communicating with your caregiver. I will. Do we need to change her care plan after this? It might be wise. I can have Lisa Chen, our Care Coordinator, contact you later to discuss options. Yes, please do. I want to make sure she’s safe. Also, once your mom is stable, we can discuss setting up more frequent nursing visits if needed. That sounds like a good plan. Thank you for your help, Margaret. You're welcome, Mary. Just hang in there; help is on the way. Okay, I’ll stay on the line until my brother gets here. That’s a good idea. I’ll be here if you need anything else. Thank you, Margaret. I really appreciate it. No problem, Mary. I’m here for you. Alright, I’ll keep you updated. Please do. Take care for now. Bye. Bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Margaret, it’s Mary O’Connor. I need help—there’s a serious situation!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 6,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Mary, calm down. What’s happening?",
+          "speaker": "local party",
+          "start_time": 6,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My caregiver just called me, and she said my mom had a seizure and is unconscious!",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no, I’m so sorry to hear that. Has she called 911?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 18,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "No, she’s panicking! I don’t think she knows what to do!",
+          "speaker": "remote party",
+          "start_time": 18,
+          "end_time": 21,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Mary, please tell her to call 911 immediately. It’s critical.",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 24,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, okay! I’ll tell her. What else should she do?",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 27,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "She needs to stay with your mom and monitor her until help arrives.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Right, I’ll make sure she does that.",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 34,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m dispatching one of our nurses to your location right now.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 37,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, Margaret. I’m really worried—she’s been through so much already.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand, Mary. This is a lot to handle. Is there someone nearby who can be with the caregiver?",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, my brother lives just a few blocks away. I’ll call him too.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Good idea. He can provide support until the ambulance arrives.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 52,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you for being so reassuring. I just feel so helpless.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You're doing the right thing by staying calm. Just keep communicating with your caregiver.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 60,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I will. Do we need to change her care plan after this?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 63,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It might be wise. I can have Lisa Chen, our Care Coordinator, contact you later to discuss options.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please do. I want to make sure she’s safe.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 71,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Also, once your mom is stable, we can discuss setting up more frequent nursing visits if needed.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds like a good plan. Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 78,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Mary. Just hang in there; help is on the way.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Okay, I’ll stay on the line until my brother gets here.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 85,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "That’s a good idea. I’ll be here if you need anything else.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "No problem, Mary. I’m here for you.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 97,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Alright, I’ll keep you updated.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 100,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Please do. Take care for now.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 103,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 105,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Bye.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 106,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-8040b88ec9794040b7f8ce93",
+  "revision": "",
+  "status": "success"
+}
