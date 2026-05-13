@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T17:54:39Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-90327ab76c974600bb6b80d8",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945914079-e887baad",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-90327ab76c974600bb6b80d8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945914079,
+      "call_id": "90327ab76c974600bb6b80d8",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-90327ab76c974600bb6b80d8",
+      "media_name": "a78237e5c641484781ed0f5c48d5b19c.mp3",
+      "scenario": "A man calls asking about the cost of overnight care for his father. The receptionist quotes $250 per night for a 10-hour shift and $320 for a 12-hour shift. He asks if insurance covers any of it. The receptionist says they can help with insurance verification. He says the pricing is higher than expected but he'll consider it. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret Thompson. How can I help you today? Hi, Margaret, my name is Thomas White. I was referred by a support group. Nice to meet you, Thomas! How can I assist you? I'm looking for some care options for my mother. She has Alzheimer's. I’m sorry to hear that. We offer specialized dementia care that could help. Yes, I’m specifically interested in overnight care. Absolutely, we provide overnight care. For a 10-hour shift, it’s $250, and for a 12-hour shift, it’s $320. Oh, that’s a bit higher than I was expecting. Is insurance able to cover any of that? We can assist with insurance verification to see what's covered under your policy. That would be helpful. I just want to make sure I’m getting the best care for her. Of course, it’s important to have support. Would you like me to start the insurance verification process? Yes, please. What do you need from me? I’ll need your insurance information and your mother’s details to get started. Alright, I can gather that. What about caregiver matching? Yes, we tailor the caregiver to fit your mother’s specific needs and preferences. That sounds good. I want to ensure it’s someone experienced with dementia care. All our caregivers are trained in dementia care, so you’re in good hands. Great to hear. I’ll consider the pricing, but it is higher than I expected. I understand; it’s an investment in quality care. Definitely. I’ll reach out once I have the insurance info together. Perfect! Would you like me to follow up with you later in the week? Yes, that would be helpful. Maybe Wednesday? Sounds good! I’ll set a reminder to call you then. Thank you, Margaret. I appreciate your help. You’re welcome, Thomas! Don’t hesitate to call back if you have more questions. I will. Have a great day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret Thompson. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, my name is Thomas White. I was referred by a support group.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Thomas! How can I assist you?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm looking for some care options for my mother. She has Alzheimer's.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. We offer specialized dementia care that could help.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I’m specifically interested in overnight care.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, we provide overnight care. For a 10-hour shift, it’s $250, and for a 12-hour shift, it’s $320.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh, that’s a bit higher than I was expecting. Is insurance able to cover any of that?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We can assist with insurance verification to see what's covered under your policy.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be helpful. I just want to make sure I’m getting the best care for her.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course, it’s important to have support. Would you like me to start the insurance verification process?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please. What do you need from me?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll need your insurance information and your mother’s details to get started.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Alright, I can gather that. What about caregiver matching?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we tailor the caregiver to fit your mother’s specific needs and preferences.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good. I want to ensure it’s someone experienced with dementia care.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "All our caregivers are trained in dementia care, so you’re in good hands.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great to hear. I’ll consider the pricing, but it is higher than I expected.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I understand; it’s an investment in quality care.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Definitely. I’ll reach out once I have the insurance info together.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 91,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! Would you like me to follow up with you later in the week?",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that would be helpful. Maybe Wednesday?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sounds good! I’ll set a reminder to call you then.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Thomas! Don’t hesitate to call back if you have more questions.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-90327ab76c974600bb6b80d8",
+  "revision": "",
+  "status": "success"
+}
