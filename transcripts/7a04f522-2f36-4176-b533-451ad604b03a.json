@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:26:06Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1a3ec0e7cd4a44599a98fbdf",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851166-0f5505c4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1a3ec0e7cd4a44599a98fbdf",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 109,
+      "duration_ms": 109000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851166,
+      "call_id": "1a3ec0e7cd4a44599a98fbdf",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1a3ec0e7cd4a44599a98fbdf",
+      "media_name": "77b7c1e48e114cd791e8d4717aa8168c.mp3",
+      "scenario": "A returning patient calls to schedule a blood draw at home for next Monday. She has mobility issues and can't get to the lab. The receptionist books Monday at 8 AM and confirms the nurse will bring all supplies. Friendly, quick call.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 109.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, it’s Dorothy Henderson. I need to schedule a blood draw at home for next Monday. Hi Dorothy! It's great to hear from you. Let me get that set up for you. What time were you thinking? I would prefer 8 AM, if that’s available. Let me check our schedule... Yes, I can book you for 8 AM on Monday. That sounds good. Will someone bring all the supplies? Absolutely! Our nurse will bring everything needed for the blood draw. Perfect. I just want to make sure I won’t have to worry about anything. No worries at all, Dorothy. We’ll take care of everything for you. Thank you, Margaret. I really appreciate it. It's just hard for me to get to the lab. I completely understand. This is why we’re here, to make things easier for you. Is there anything else I should prepare for the nurse’s visit? Just make sure to have a comfortable space ready for the blood draw, and we'll handle the rest. Got it! Oh, and can you remind me about the physical therapy schedule? Your physical therapy sessions are still on Wednesdays at 10 AM, just as before. Thank you! I do have a question about possibly adding a personal care assistant. Of course! We can certainly discuss personal care assistance. What specific help do you need? I could use some assistance with bathing and dressing, especially on therapy days. That sounds reasonable. I can connect you with Lisa, our Care Coordinator, to discuss this further. Yes, please do! I’d like to get that sorted out soon. I’ll have Lisa give you a call this week. Is there anything else I can assist you with? No, that’s everything for now. Thanks again, Margaret! You’re welcome, Dorothy! I’ll confirm your appointment for Monday at 8 AM. Have a great day! You too! Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it’s Dorothy Henderson. I need to schedule a blood draw at home for next Monday.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Dorothy! It's great to hear from you. Let me get that set up for you. What time were you thinking?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I would prefer 8 AM, if that’s available.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me check our schedule... Yes, I can book you for 8 AM on Monday.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. Will someone bring all the supplies?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! Our nurse will bring everything needed for the blood draw.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Perfect. I just want to make sure I won’t have to worry about anything.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "No worries at all, Dorothy. We’ll take care of everything for you.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate it. It's just hard for me to get to the lab.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand. This is why we’re here, to make things easier for you.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Is there anything else I should prepare for the nurse’s visit?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Just make sure to have a comfortable space ready for the blood draw, and we'll handle the rest.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Got it! Oh, and can you remind me about the physical therapy schedule?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Your physical therapy sessions are still on Wednesdays at 10 AM, just as before.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! I do have a question about possibly adding a personal care assistant.",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course! We can certainly discuss personal care assistance. What specific help do you need?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I could use some assistance with bathing and dressing, especially on therapy days.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "That sounds reasonable. I can connect you with Lisa, our Care Coordinator, to discuss this further.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please do! I’d like to get that sorted out soon.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll have Lisa give you a call this week. Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s everything for now. Thanks again, Margaret!",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Dorothy! I’ll confirm your appointment for Monday at 8 AM. Have a great day!",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too! Bye!",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 107,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 109,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1a3ec0e7cd4a44599a98fbdf",
+  "revision": "",
+  "status": "success"
+}
