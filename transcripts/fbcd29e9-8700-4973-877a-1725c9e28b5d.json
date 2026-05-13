@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:28:26Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-86dfdda9135845b8becf8af6",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851306-8e3b624f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-86dfdda9135845b8becf8af6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 128,
+      "duration_ms": 128000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851306,
+      "call_id": "86dfdda9135845b8becf8af6",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-86dfdda9135845b8becf8af6",
+      "media_name": "6cb2d73323ae47149875cfa27fafef45.mp3",
+      "scenario": "A pharmacy calls to verify a patient's medication order before shipping. They need to confirm the dosage and delivery address. The receptionist checks the file and confirms. Routine business call.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 128.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret, this is Rose Patterson. I’m calling to verify a medication order for my mother, who’s an Alzheimer’s client. Of course, Rose. Let me pull up her file. One moment, please. Alright, I have her information here. Can you please confirm the medication name and dosage? Yes, it’s donepezil, 10 mg. Thank you. And the pharmacy needs to confirm the delivery address as well. Yes, it’s the same as before: 2847 North Ridge Road, Suite 205, Wichita, KS 67205. Perfect, that address is confirmed. I’ll note it down for the pharmacy. Great! I wanted to ask if we could possibly add a personal care assistant for additional support? Absolutely, we can arrange that. We're currently offering personal care assistance at $28 to $35 per hour. That sounds reasonable. I’d like to go ahead and schedule someone for the next few weeks. How many hours per week were you thinking? I think about 3 hours a day, at least five days a week. Let me check our availability. We’ll need to match you with familiar caregivers for her comfort. Yes, it’s essential that she feels comfortable. Her regular caregivers have been wonderful. I completely understand. Let me put that request in, and I will follow up with you shortly. Thank you, Margaret. I appreciate all the help you and your team give us. It’s our pleasure, Rose. Let’s make sure your mother gets the best care possible. I’ll also check in with Dr. James Rodriguez about her physical therapy needs. That would be helpful. She’s been a bit more unsteady lately. I noted that. We can arrange an assessment to ensure she gets the right support. Thank you, Margaret. I’ll wait for your call back. You’re welcome, Rose. I’ll follow up once I have everything sorted out. Perfect, talk to you soon. Bye-bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Rose Patterson. I’m calling to verify a medication order for my mother, who’s an Alzheimer’s client.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Rose. Let me pull up her file. One moment, please.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Alright, I have her information here. Can you please confirm the medication name and dosage?",
+          "speaker": "local party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Yes, it’s donepezil, 10 mg.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Thank you. And the pharmacy needs to confirm the delivery address as well.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, it’s the same as before: 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Perfect, that address is confirmed. I’ll note it down for the pharmacy.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Great! I wanted to ask if we could possibly add a personal care assistant for additional support?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Absolutely, we can arrange that. We're currently offering personal care assistance at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That sounds reasonable. I’d like to go ahead and schedule someone for the next few weeks.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "How many hours per week were you thinking?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "I think about 3 hours a day, at least five days a week.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Let me check our availability. We’ll need to match you with familiar caregivers for her comfort.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, it’s essential that she feels comfortable. Her regular caregivers have been wonderful.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 77,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I completely understand. Let me put that request in, and I will follow up with you shortly.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate all the help you and your team give us.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 89,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "It’s our pleasure, Rose. Let’s make sure your mother gets the best care possible.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "I’ll also check in with Dr. James Rodriguez about her physical therapy needs.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be helpful. She’s been a bit more unsteady lately.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I noted that. We can arrange an assessment to ensure she gets the right support.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I’ll wait for your call back.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Rose. I’ll follow up once I have everything sorted out.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect, talk to you soon.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Bye-bye!",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-86dfdda9135845b8becf8af6",
+  "revision": "",
+  "status": "success"
+}
