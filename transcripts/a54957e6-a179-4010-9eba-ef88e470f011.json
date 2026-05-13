@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:27:41Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d609865cb7ac47d7971606a9",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851261-2ed02eb8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d609865cb7ac47d7971606a9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 210,
+      "duration_ms": 210000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851261,
+      "call_id": "d609865cb7ac47d7971606a9",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d609865cb7ac47d7971606a9",
+      "media_name": "963f2f2f0b264080a09f9ff7fb52e15f.mp3",
+      "scenario": "A patient's son calls livid because he found his mother sitting in a soiled diaper when he visited. The aide was supposed to help with hygiene but apparently didn't. He's demanding to speak with the owner of the company and says he's filing a complaint with the state health department.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 210.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, this is Edward Martinez. I'm absolutely furious right now! I'm sorry to hear that, Mr. Martinez. Can you tell me what happened? I just visited my mother, and she was sitting in a soiled diaper! The aide was supposed to help her with hygiene, but clearly, they didn’t do their job! I truly apologize for this situation, Mr. Martinez. That’s completely unacceptable. You bet it is! I demand to speak to the owner right now! I understand your concern, and I can assist you. May I get your mother's name and the aide's name? Her name is Helen Martinez, and the aide is Sarah Williams. Thank you for that information. I will escalate this issue immediately. You better! I’m also contacting the state health department to file a complaint. I understand your frustration, and I appreciate you bringing this to our attention. I assure you we take these matters seriously. This isn’t the first time I’ve had issues. How can I trust you will fix this? I can assure you, Mr. Martinez, I will personally investigate this matter and follow up with you. I hope you do! Please allow me to gather more details. When was the last visit from Sarah? It was just yesterday. Thank you. I’ll contact Sarah and the rest of our team for a full review. You do that! This is outrageous! Additionally, if your mother needs extra support, we can discuss increasing her personal care assistance hours. I don’t care about that right now! I want assurance that this won’t happen again. Absolutely, I understand. I’ll ensure our protocols are reviewed, and we’ll enhance staff training if needed. Thank you, but I want this resolved immediately. Please keep me in the loop. I will follow up with you within 24 hours with an update. Is that okay? Fine. Just make sure you do. Thank you for your understanding, Mr. Martinez. We’ll work hard to resolve this issue. I expect nothing less. Thank you for calling, and take care. Yeah, you too.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Edward Martinez. I'm absolutely furious right now!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Mr. Martinez. Can you tell me what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I just visited my mother, and she was sitting in a soiled diaper! The aide was supposed to help her with hygiene, but clearly, they didn’t do their job!",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I truly apologize for this situation, Mr. Martinez. That’s completely unacceptable.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "You bet it is! I demand to speak to the owner right now!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern, and I can assist you. May I get your mother's name and the aide's name?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Her name is Helen Martinez, and the aide is Sarah Williams.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for that information. I will escalate this issue immediately.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "You better! I’m also contacting the state health department to file a complaint.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand your frustration, and I appreciate you bringing this to our attention. I assure you we take these matters seriously.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "This isn’t the first time I’ve had issues. How can I trust you will fix this?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can assure you, Mr. Martinez, I will personally investigate this matter and follow up with you.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I hope you do!",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Please allow me to gather more details. When was the last visit from Sarah?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "It was just yesterday.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you. I’ll contact Sarah and the rest of our team for a full review.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "You do that! This is outrageous!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Additionally, if your mother needs extra support, we can discuss increasing her personal care assistance hours.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I don’t care about that right now! I want assurance that this won’t happen again.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, I understand. I’ll ensure our protocols are reviewed, and we’ll enhance staff training if needed.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, but I want this resolved immediately. Please keep me in the loop.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 175,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I will follow up with you within 24 hours with an update. Is that okay?",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 185,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Fine. Just make sure you do.",
+          "speaker": "remote party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your understanding, Mr. Martinez. We’ll work hard to resolve this issue.",
+          "speaker": "local party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I expect nothing less.",
+          "speaker": "remote party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for calling, and take care.",
+          "speaker": "local party",
+          "start_time": 200,
+          "end_time": 205,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Yeah, you too.",
+          "speaker": "remote party",
+          "start_time": 205,
+          "end_time": 210,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d609865cb7ac47d7971606a9",
+  "revision": "",
+  "status": "success"
+}
