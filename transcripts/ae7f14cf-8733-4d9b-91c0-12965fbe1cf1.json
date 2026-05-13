@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:26:51Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7d022c9dfd474b2fbc18bd6a",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851211-8893396f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7d022c9dfd474b2fbc18bd6a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 157,
+      "duration_ms": 157000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851211,
+      "call_id": "7d022c9dfd474b2fbc18bd6a",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7d022c9dfd474b2fbc18bd6a",
+      "media_name": "4be19f000016416aa07e2f9f6ccdb5e0.mp3",
+      "scenario": "A woman calls for the first time asking if CareFirst provides services in the Riverside area. She also asks about their hours of operation and whether they have weekend availability. Purely informational, no commitment. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 157.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I assist you today? Hi, my name is Karen Lewis. I was referred by my husband's cardiac surgeon's office. Nice to meet you, Karen. How can I help regarding your husband? I wanted to know if you provide services in the Riverside area. Yes, we do offer services in Riverside! Great! And what are your hours of operation? Our hours are Monday to Friday from 7:00 AM to 7:00 PM, and Saturday from 8:00 AM to 5:00 PM. And do you have any weekend availability? Yes, we operate on Saturdays, and we also have on-call emergency services on Sundays. That’s good to know. What kind of post-operative care do you offer? We provide Post-Surgery Recovery Care, which includes specialized support for recovering clients. Can you tell me more about that service? Of course! It's $85 to $110 for 1 to 3 hours of care, focusing on helping clients with mobility, medication management, and personal care needs. That sounds helpful. How do I go about scheduling that? I can assist you with that once you're ready. We’ll also need to coordinate a care plan. Sure, I’d like to think it over first. What information do you need from me? I’ll need your husband's details and specific care requirements when you’re ready. Sounds good. I also have some questions regarding insurance coverage. We can help with insurance authorization too. Lisa Chen, our Care Coordinator, can assist with that. Perfect! What’s her contact information? You can reach her at +13165559203, extension 203. Thank you for that.  And will I be able to meet with the nurse before starting the service? Yes, we can arrange an initial consultation with our nursing staff to discuss your husband’s care. That would be great. I appreciate all your help! You’re welcome, Karen. If you have any other questions, just give us a call! I will. Thank you again! Have a wonderful day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Karen Lewis. I was referred by my husband's cardiac surgeon's office.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Karen. How can I help regarding your husband?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I wanted to know if you provide services in the Riverside area.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Yes, we do offer services in Riverside!",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! And what are your hours of operation?",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our hours are Monday to Friday from 7:00 AM to 7:00 PM, and Saturday from 8:00 AM to 5:00 PM.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "And do you have any weekend availability?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, we operate on Saturdays, and we also have on-call emergency services on Sundays.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s good to know. What kind of post-operative care do you offer?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We provide Post-Surgery Recovery Care, which includes specialized support for recovering clients.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Can you tell me more about that service?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! It's $85 to $110 for 1 to 3 hours of care, focusing on helping clients with mobility, medication management, and personal care needs.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds helpful. How do I go about scheduling that?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can assist you with that once you're ready. We’ll also need to coordinate a care plan.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, I’d like to think it over first. What information do you need from me?",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll need your husband's details and specific care requirements when you’re ready.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sounds good. I also have some questions regarding insurance coverage.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 107,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can help with insurance authorization too. Lisa Chen, our Care Coordinator, can assist with that.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect! What’s her contact information?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You can reach her at +13165559203, extension 203.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you for that.  And will I be able to meet with the nurse before starting the service?",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 127,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, we can arrange an initial consultation with our nursing staff to discuss your husband’s care.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 133,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That would be great. I appreciate all your help!",
+          "speaker": "remote party",
+          "start_time": 133,
+          "end_time": 139,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Karen. If you have any other questions, just give us a call!",
+          "speaker": "local party",
+          "start_time": 139,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 157,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7d022c9dfd474b2fbc18bd6a",
+  "revision": "",
+  "status": "success"
+}
