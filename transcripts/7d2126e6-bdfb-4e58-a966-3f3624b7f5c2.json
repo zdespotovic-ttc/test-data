@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:26:24Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-cb599df7e1ba47bbba1e317b",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851184-94736d2c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-cb599df7e1ba47bbba1e317b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851184,
+      "call_id": "cb599df7e1ba47bbba1e317b",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-cb599df7e1ba47bbba1e317b",
+      "media_name": "776af604881c4799868f5fda7213bbc3.mp3",
+      "scenario": "A patient calls upset because the aide who came yesterday didn't follow the care plan. She was supposed to help with bathing and meal prep but only stayed for 30 minutes and left without preparing lunch. The patient is elderly and couldn't make food herself. She wants a different aide assigned.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret, this is Charles Thompson. I'm calling because I'm really upset about the aide who came yesterday. I'm sorry to hear that, Charles. Can you please tell me what happened? Well, she was supposed to help me with bathing and meal prep, but she only stayed for 30 minutes and left without preparing lunch! I couldn’t make food myself. That sounds very frustrating, Charles. I sincerely apologize for this oversight. I really need someone who can follow the care plan properly. Absolutely, I understand. We want to ensure you receive the care you need. Would you like me to assign a different aide for your next visit? Yes, please! I prefer male nurses when possible, too. I can take note of that preference. Let me assure you, we will address this issue right away. Thank you. It's especially important for me to have someone reliable, given my recovery. I completely understand, Charles. I’ll personally ensure your next aide is properly briefed on your care plan. I just really need to feel taken care of during this recovery. Of course, and I'll also follow up with you after the next visit to ensure everything goes smoothly. That would be great, thanks. While I have you on the line, have you considered our meal preparation service as an additional support? I hadn't thought about it, but that sounds helpful. It’s $25 to $30 per hour, and we can match you with someone to handle meal prep regularly. That might be a good idea, especially if I’m struggling. Great! I can set up a care plan for that as well if you'd like. Yes, please do that. Perfect. I’ll arrange for a different aide and start the meal prep service. I’ll follow up with you after the next visit, and I’ll check in on the meal prep schedule as well. Thank you, Margaret. I appreciate your help. You’re welcome, Charles. Thank you for your understanding. We’re here for you. Talk to you soon. Talk to you soon. Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Charles Thompson. I'm calling because I'm really upset about the aide who came yesterday.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Charles. Can you please tell me what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, she was supposed to help me with bathing and meal prep, but she only stayed for 30 minutes and left without preparing lunch! I couldn’t make food myself.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds very frustrating, Charles. I sincerely apologize for this oversight.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I really need someone who can follow the care plan properly.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I understand. We want to ensure you receive the care you need. Would you like me to assign a different aide for your next visit?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please! I prefer male nurses when possible, too.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I can take note of that preference. Let me assure you, we will address this issue right away.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you. It's especially important for me to have someone reliable, given my recovery.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand, Charles. I’ll personally ensure your next aide is properly briefed on your care plan.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I just really need to feel taken care of during this recovery.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course, and I'll also follow up with you after the next visit to ensure everything goes smoothly.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be great, thanks.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "While I have you on the line, have you considered our meal preparation service as an additional support?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I hadn't thought about it, but that sounds helpful.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "It’s $25 to $30 per hour, and we can match you with someone to handle meal prep regularly.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That might be a good idea, especially if I’m struggling.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I can set up a care plan for that as well if you'd like.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please do that.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect. I’ll arrange for a different aide and start the meal prep service. I’ll follow up with you after the next visit, and I’ll check in on the meal prep schedule as well.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Charles. Thank you for your understanding. We’re here for you.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Talk to you soon.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Talk to you soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-cb599df7e1ba47bbba1e317b",
+  "revision": "",
+  "status": "success"
+}
