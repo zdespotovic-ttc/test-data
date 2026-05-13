@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:29:21Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f6addc93075e45198c115fcb",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851361-7178e899",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f6addc93075e45198c115fcb",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 124,
+      "duration_ms": 124000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851361,
+      "call_id": "f6addc93075e45198c115fcb",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f6addc93075e45198c115fcb",
+      "media_name": "1848ee79e58d4ba7b902b17e582127f3.mp3",
+      "scenario": "A patient's neighbor calls saying she found the elderly patient on the floor and he can't get up. He's been there for an unknown amount of time. She asks if someone can come help. The receptionist tells her to call 911 and dispatches a nurse immediately.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 124.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Dorothy Henderson. I’m calling because my neighbor just found my friend on the floor, and he can’t get up. Oh no, that sounds serious. How long has he been there? I'm not sure; he was just lying there when she found him. Can someone come help him? We need to act quickly. Please call 911 immediately for emergency assistance. Okay, I’ll do that. But can you send someone over as well? Yes, I will dispatch one of our nurses right away. Can you tell me his name and address? His name is Mr. Johnson, and he lives at 123 Elm Street. Thank you, Dorothy. I’m sending a nurse immediately. I’ll also inform the team to stay on standby. Thank you so much. I’m really worried about him. I just don’t know how long he’s been there. I understand. It’s a stressful situation, but help is on the way. Okay, I called 911. What’s the nurse's name? The nurse en route is Robert Davis. He’s skilled in patient assessment. Thank you, Margaret. I really appreciate your help. You’re welcome. Is there anything else you need while we wait? No, just hoping Mr. Johnson will be okay. I understand, Dorothy. We will follow up with you once the nurse arrives at the scene. Great, thank you. Will the nurse be able to assess him for further care needs? Yes, if Mr. Johnson requires ongoing care, we can help set up a care plan. That sounds good. He might need some assistance after this incident. Absolutely. I recommend that if he needs further support, we can discuss options like personal care assistance or skilled nursing care. Yes, please keep that in mind. I’ll talk to him about it once he’s okay. Definitely. We’ll be here for you and Mr. Johnson every step of the way. Thank you, Margaret. I really appreciate your prompt response. You’re welcome, Dorothy. Take care, and we’ll keep you updated. Thanks again. Bye. Bye, Dorothy.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Dorothy Henderson. I’m calling because my neighbor just found my friend on the floor, and he can’t get up.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, that sounds serious. How long has he been there?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm not sure; he was just lying there when she found him. Can someone come help him?",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We need to act quickly. Please call 911 immediately for emergency assistance.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, I’ll do that. But can you send someone over as well?",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, I will dispatch one of our nurses right away. Can you tell me his name and address?",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "His name is Mr. Johnson, and he lives at 123 Elm Street.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you, Dorothy. I’m sending a nurse immediately. I’ll also inform the team to stay on standby.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you so much. I’m really worried about him. I just don’t know how long he’s been there.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand. It’s a stressful situation, but help is on the way.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, I called 911. What’s the nurse's name?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The nurse en route is Robert Davis. He’s skilled in patient assessment.",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 63,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You’re welcome. Is there anything else you need while we wait?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "No, just hoping Mr. Johnson will be okay.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand, Dorothy. We will follow up with you once the nurse arrives at the scene.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great, thank you. Will the nurse be able to assess him for further care needs?",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, if Mr. Johnson requires ongoing care, we can help set up a care plan.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. He might need some assistance after this incident.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely. I recommend that if he needs further support, we can discuss options like personal care assistance or skilled nursing care.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please keep that in mind. I’ll talk to him about it once he’s okay.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Definitely. We’ll be here for you and Mr. Johnson every step of the way.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your prompt response.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Dorothy. Take care, and we’ll keep you updated.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks again. Bye.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye, Dorothy.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f6addc93075e45198c115fcb",
+  "revision": "",
+  "status": "success"
+}
