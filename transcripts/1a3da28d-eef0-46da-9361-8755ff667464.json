@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:29:29Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-88aacd1a276345d782d6e72f",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851369-853a6a57",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-88aacd1a276345d782d6e72f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851369,
+      "call_id": "88aacd1a276345d782d6e72f",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-88aacd1a276345d782d6e72f",
+      "media_name": "b5c1c65a38094d9bba24e2a86614e438.mp3",
+      "scenario": "A man calls for the first time asking if CareFirst accepts Medicaid and what the process is for getting approved for home health services through Medicaid. The receptionist explains the eligibility requirements and documentation needed. Informational only. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you today? Hi, Margaret. My name is Karen Lewis. I was referred by my husband’s cardiac surgeon’s office, and I have a few questions. Of course, Karen! I’d be happy to help you. What questions do you have? Well, my husband is scheduled for cardiac surgery next month, and I’d like to know if you accept Medicaid for post-operative care. Yes, we do accept Medicaid. That’s great to hear. That’s a relief. What’s the process for getting approved for home health services through Medicaid? The first step is to determine eligibility. Typically, clients need to have a medical necessity for home healthcare and meet specific income and asset guidelines. Okay, and what kind of documentation is required? You’ll need your husband’s medical records indicating the need for care, proof of Medicaid eligibility, and potentially a physician’s referral. I see. How long does the approval process usually take? It can vary but usually takes anywhere from a few days to a couple of weeks. It's best to start early. That makes sense. Is there anything else I should know? Once approved, we can develop a personalized care plan for your husband, including skilled nursing and post-surgery support. That sounds good. What would the cost be for skilled nursing care? Skilled nursing care ranges from $95 to $125 per visit, depending on the services needed. Okay, that’s helpful to know. Great! If you need assistance with the Medicaid application or have more questions, feel free to reach out. I will, thank you! Could you send me any information about your services and the Medicaid process? Absolutely, I’ll send you an email with that information. Can I confirm your email address? Yes, it’s k.lewis@email.com. Perfect, I’ll get that to you shortly. Thank you so much, Margaret! I appreciate your help. You’re welcome, Karen! If you have any other questions, don’t hesitate to call. I will. Have a great day! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Karen Lewis. I was referred by my husband’s cardiac surgeon’s office, and I have a few questions.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Karen! I’d be happy to help you. What questions do you have?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my husband is scheduled for cardiac surgery next month, and I’d like to know if you accept Medicaid for post-operative care.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Yes, we do accept Medicaid. That’s great to hear.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That’s a relief. What’s the process for getting approved for home health services through Medicaid?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "The first step is to determine eligibility. Typically, clients need to have a medical necessity for home healthcare and meet specific income and asset guidelines.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 38,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and what kind of documentation is required?",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "You’ll need your husband’s medical records indicating the need for care, proof of Medicaid eligibility, and potentially a physician’s referral.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I see. How long does the approval process usually take?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It can vary but usually takes anywhere from a few days to a couple of weeks. It's best to start early.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That makes sense. Is there anything else I should know?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Once approved, we can develop a personalized care plan for your husband, including skilled nursing and post-surgery support.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. What would the cost be for skilled nursing care?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Skilled nursing care ranges from $95 to $125 per visit, depending on the services needed.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, that’s helpful to know.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! If you need assistance with the Medicaid application or have more questions, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 101,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I will, thank you! Could you send me any information about your services and the Medicaid process?",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I’ll send you an email with that information. Can I confirm your email address?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, it’s k.lewis@email.com.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect, I’ll get that to you shortly.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you so much, Margaret! I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 132,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Karen! If you have any other questions, don’t hesitate to call.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 143,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-88aacd1a276345d782d6e72f",
+  "revision": "",
+  "status": "success"
+}
