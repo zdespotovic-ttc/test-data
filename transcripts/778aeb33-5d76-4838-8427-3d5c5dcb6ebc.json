@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:27:31Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1e543ec6ebc44a2aa9200679",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851251-bae96838",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1e543ec6ebc44a2aa9200679",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 153,
+      "duration_ms": 153000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851251,
+      "call_id": "1e543ec6ebc44a2aa9200679",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1e543ec6ebc44a2aa9200679",
+      "media_name": "3305b6edeea94880818ec8e0eae3d23d.mp3",
+      "scenario": "A patient calls angry because they were charged for a visit that was cancelled 48 hours in advance. They have an email confirmation of the cancellation. They want an immediate refund and are threatening to leave a negative review online.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 153.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is Mark Johnson. I'm really upset because I was charged for a visit that I canceled 48 hours in advance. I'm sorry to hear that, Mark. Can you provide me with the details of your cancellation? Yes, I have an email confirmation of the cancellation, and I still got charged for it! I want a full refund now. I understand your frustration, Mark. Let me pull up your account and see what happened. Could you please hold for a moment? Sure, but I need this resolved quickly. Thank you for your patience. I see your appointment was indeed canceled, and you received confirmation. I apologize for the error on our end regarding the charge. This is unacceptable. I’m considering leaving a bad review online if I don’t get my money back right now. I completely understand. I will escalate this matter to our billing department. Can I have your email to send you the refund confirmation? Yes, it's mark.johnson@email.com. Thank you, Mark. I will ensure they prioritize your refund and you'll receive an email confirmation shortly. How long will that take? Typically, it takes 3-5 business days for the refund to process, but I will request an expedited review. I need this handled fast. My elderly parents need help with their medications, and I was looking into your services. I understand, and I’d like to assist you with that. We offer medication management services. Would you be interested in discussing that further? Maybe, but first, I just want my refund. Absolutely, and that’s our priority right now. I will follow up to ensure it’s processed quickly. Okay, I'll hold you to that. Thank you for your understanding. I’ll also keep you updated on the refund. Alright, I’ll be waiting for that email. Is there anything else I can assist you with today? No, that’s all for now. Thank you for calling, Mark. We appreciate your patience, and I’ll be in touch soon. Thanks. Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mark Johnson. I'm really upset because I was charged for a visit that I canceled 48 hours in advance.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Mark. Can you provide me with the details of your cancellation?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I have an email confirmation of the cancellation, and I still got charged for it! I want a full refund now.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration, Mark. Let me pull up your account and see what happened. Could you please hold for a moment?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, but I need this resolved quickly.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience. I see your appointment was indeed canceled, and you received confirmation. I apologize for the error on our end regarding the charge.",
+          "speaker": "local party",
+          "start_time": 33,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "This is unacceptable. I’m considering leaving a bad review online if I don’t get my money back right now.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand. I will escalate this matter to our billing department. Can I have your email to send you the refund confirmation?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 57,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, it's mark.johnson@email.com.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you, Mark. I will ensure they prioritize your refund and you'll receive an email confirmation shortly.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How long will that take?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 77,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Typically, it takes 3-5 business days for the refund to process, but I will request an expedited review.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 85,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I need this handled fast. My elderly parents need help with their medications, and I was looking into your services.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 92,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I understand, and I’d like to assist you with that. We offer medication management services. Would you be interested in discussing that further?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 100,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Maybe, but first, I just want my refund.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 107,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, and that’s our priority right now. I will follow up to ensure it’s processed quickly.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 113,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, I'll hold you to that.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 119,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you for your understanding. I’ll also keep you updated on the refund.",
+          "speaker": "local party",
+          "start_time": 119,
+          "end_time": 125,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Alright, I’ll be waiting for that email.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s all for now.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for calling, Mark. We appreciate your patience, and I’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1e543ec6ebc44a2aa9200679",
+  "revision": "",
+  "status": "success"
+}
