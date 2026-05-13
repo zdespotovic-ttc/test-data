@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-13T00:26:15Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bc958b5b986a4931b4093c33",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63945851175-53769b17",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bc958b5b986a4931b4093c33",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 117,
+      "duration_ms": 117000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945851175,
+      "call_id": "bc958b5b986a4931b4093c33",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bc958b5b986a4931b4093c33",
+      "media_name": "fd5391f5bfd440bda891053793a21f68.mp3",
+      "scenario": "A man calls for the first time asking about respite care pricing for his wife who is the primary caregiver for their disabled son. He wants someone to come 3 days a week so his wife can rest. The receptionist quotes $30/hour for a certified aide. He says he'll think about it. First-time caller.\n"
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 117.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, my name is Thomas White. I'm looking for some information about respite care services. Hi Thomas! I’d be happy to help you with that. Can you tell me a bit more about your needs? Sure, my wife is the primary caregiver for our disabled son, and I’d like someone to come in three days a week so she can rest. I understand how important it is for caregivers to take a break. We offer respite care services at a rate of $30 per hour for a certified aide. That sounds reasonable. How many hours can we schedule? We can schedule anywhere from 1 to 8 hours a day, depending on what you think would work best for your wife. I think starting with a few hours would be good. Maybe like 4 hours per day? Absolutely! So, for three days a week at 4 hours, that would come to $360 weekly. Okay, that’s good to know. I’ll have to think it over. Of course, take your time. If you have any questions, feel free to reach out. Thanks, Margaret. Are there any additional services you recommend for my wife? We also have companion care and dementia care services if that’s something you’d consider. I might look into that as well. I’ll discuss it with my wife. That sounds great! Would you like me to send you some information via email? Yes, please. That would be helpful. Could you provide me with your email address? Sure, it’s thomas.white@email.com. Thank you, Thomas. I’ll send you over the information about our services today. I appreciate it, Margaret. No problem at all! Also, if you're interested, I can arrange for a care consultation to discuss your needs in detail. That sounds good. I’ll think about it and get back to you. Perfect! Feel free to call us back at +13165559200. Thanks again for your help. You're welcome, Thomas! Have a great day! You too, bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Thomas White. I'm looking for some information about respite care services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Thomas! I’d be happy to help you with that. Can you tell me a bit more about your needs?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, my wife is the primary caregiver for our disabled son, and I’d like someone to come in three days a week so she can rest.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how important it is for caregivers to take a break. We offer respite care services at a rate of $30 per hour for a certified aide.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds reasonable. How many hours can we schedule?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We can schedule anywhere from 1 to 8 hours a day, depending on what you think would work best for your wife.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I think starting with a few hours would be good. Maybe like 4 hours per day?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely! So, for three days a week at 4 hours, that would come to $360 weekly.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, that’s good to know. I’ll have to think it over.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course, take your time. If you have any questions, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thanks, Margaret. Are there any additional services you recommend for my wife?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We also have companion care and dementia care services if that’s something you’d consider.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I might look into that as well. I’ll discuss it with my wife.",
+          "speaker": "remote party",
+          "start_time": 59,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That sounds great! Would you like me to send you some information via email?",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Could you provide me with your email address?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sure, it’s thomas.white@email.com.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Thomas. I’ll send you over the information about our services today.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I appreciate it, Margaret.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "No problem at all! Also, if you're interested, I can arrange for a care consultation to discuss your needs in detail.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds good. I’ll think about it and get back to you.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! Feel free to call us back at +13165559200.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks again for your help.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Thomas! Have a great day!",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bc958b5b986a4931b4093c33",
+  "revision": "",
+  "status": "success"
+}
