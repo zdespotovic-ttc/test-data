@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T19:12:15Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-018a4b63318b41d7a4e6c91c",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005135-06c25d67",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-018a4b63318b41d7a4e6c91c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946005135,
+      "call_id": "018a4b63318b41d7a4e6c91c",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-018a4b63318b41d7a4e6c91c",
+      "media_name": "a1a95b19fdf940d2914f04cb788b447b.mp3",
+      "scenario": "A customer schedules a follow-up appointment after their recent service visit to ensure everything is in order. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Eleanor Watson. I'm calling to schedule a follow-up appointment after my last visit. Hi Eleanor! I hope you're doing well. When would you like to schedule that appointment? Well, I prefer visits between 10 AM and 2 PM. Do you have any openings? Let me check our schedule... Yes, we have availability this Thursday at 11 AM. Does that work for you? Thursday at 11 AM sounds perfect. Thank you! Great! I'll put you down for that. Would you like to discuss anything else while I have you on the line? Actually, yes. I've been feeling more fatigued recently and wanted to know if there are any adjustments we can make. I understand. It might be a good idea to have the physical therapist assess your energy levels during your next session. That makes sense. I’d also like to make sure my medication management is on track. Absolutely, I can have our skilled nurse review that with you during the follow-up visit. Perfect. Can I also get some information about respite care options for my daughter? Of course! We offer respite care at $30 to $38 per hour. Would you like me to send more details to your email? Yes, that would be helpful. Please send it to my daughter's email, which is on file. Got it. I'll include that information when I send the appointment confirmation. Thank you, Margaret. I appreciate your help! My pleasure, Eleanor! So to recap, you’re all set for Thursday at 11 AM. Yes, that’s right. I’ll also follow up with details regarding respite care. Is there anything else I can assist you with today? No, that covers everything. Thank you again! You’re welcome! Have a wonderful day, Eleanor. You too, Margaret. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I'm calling to schedule a follow-up appointment after my last visit.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Eleanor! I hope you're doing well. When would you like to schedule that appointment?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I prefer visits between 10 AM and 2 PM. Do you have any openings?",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me check our schedule... Yes, we have availability this Thursday at 11 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thursday at 11 AM sounds perfect. Thank you!",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great! I'll put you down for that. Would you like to discuss anything else while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Actually, yes. I've been feeling more fatigued recently and wanted to know if there are any adjustments we can make.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand. It might be a good idea to have the physical therapist assess your energy levels during your next session.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That makes sense. I’d also like to make sure my medication management is on track.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 51,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I can have our skilled nurse review that with you during the follow-up visit.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 57,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Perfect. Can I also get some information about respite care options for my daughter?",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! We offer respite care at $30 to $38 per hour. Would you like me to send more details to your email?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be helpful. Please send it to my daughter's email, which is on file.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Got it. I'll include that information when I send the appointment confirmation.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "My pleasure, Eleanor! So to recap, you’re all set for Thursday at 11 AM.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that’s right.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll also follow up with details regarding respite care. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No, that covers everything. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! Have a wonderful day, Eleanor.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, Margaret. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 106,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-018a4b63318b41d7a4e6c91c",
+  "revision": "",
+  "status": "success"
+}
