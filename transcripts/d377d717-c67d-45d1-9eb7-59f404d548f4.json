@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-28T05:42:57Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-298634bc5abb4c19bd66e0b4",
+    "created": 1774676577,
+    "modified": 1774676577
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005320-3c6288a3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-298634bc5abb4c19bd66e0b4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 195,
+      "duration_ms": 195000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941895777,
+      "call_id": "298634bc5abb4c19bd66e0b4",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-298634bc5abb4c19bd66e0b4",
+      "media_name": "0dd4c0e758d341059bfd727ce87a0d87.mp3",
+      "scenario": "A customer urgently requests immediate support due to a critical system failure affecting their operations. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 195.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Robert Jackson. I'm calling because we are facing a critical system failure with my care setup. I'm sorry to hear that, Robert. Can you tell me more about the issue? Yes, my personal care assistant's equipment is malfunctioning, and it's causing a huge disruption in my daily care routine. I really need someone to come out immediately. I understand how urgent this is. Let me check our availability. Please, I need help as soon as possible. We have a personal care assistant available who can be there within the hour. Would that work for you? Yes, that would be great. Thank you! I’ll arrange for someone to come over. Can I confirm your address? Sure, it's 2847 North Ridge Road, Suite 205. Just to confirm, you’re at the CareFirst office? No, it's my home address. I live in Wichita, KS. Got it, my apologies for the confusion. I’ll send a personal care assistant right to your home to assist you. They should arrive within the next hour. Thank you, I appreciate your quick response! You’re welcome! Can you also let me know if there are any specific requirements or instructions for the assistant? Yes, I have detailed care instructions from my neurologist that need to be followed. Perfect, I’ll make sure the assistant is informed. Would you like me to send a copy of those instructions? Yes, that would be very helpful. Okay, please email those to us at services@carefirsthomehealth.com. I will do that right now. Great! Also, just to let you know, if your equipment cannot be fixed, we can arrange skilled nursing care to help with your needs as well. That sounds good. What would the cost be for skilled nursing care? It ranges from $95 to $125 per visit, depending on the services required. Okay, I’ll keep that in mind. Thank you, Robert. Is there anything else I can assist you with today? No, that’s everything for now. Thanks for your help! You’re very welcome! Take care, and we’ll see you soon. Thank you, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I'm calling because we are facing a critical system failure with my care setup.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Robert. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, my personal care assistant's equipment is malfunctioning, and it's causing a huge disruption in my daily care routine. I really need someone to come out immediately.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how urgent this is. Let me check our availability.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Please, I need help as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We have a personal care assistant available who can be there within the hour. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that would be great. Thank you!",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’ll arrange for someone to come over. Can I confirm your address?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure, it's 2847 North Ridge Road, Suite 205.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Just to confirm, you’re at the CareFirst office?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "No, it's my home address. I live in Wichita, KS.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Got it, my apologies for the confusion.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I’ll send a personal care assistant right to your home to assist you. They should arrive within the next hour.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Thank you, I appreciate your quick response!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "You’re welcome! Can you also let me know if there are any specific requirements or instructions for the assistant?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, I have detailed care instructions from my neurologist that need to be followed.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Perfect, I’ll make sure the assistant is informed. Would you like me to send a copy of those instructions?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, that would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Okay, please email those to us at services@carefirsthomehealth.com.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I will do that right now.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Great! Also, just to let you know, if your equipment cannot be fixed, we can arrange skilled nursing care to help with your needs as well.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That sounds good. What would the cost be for skilled nursing care?",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "It ranges from $95 to $125 per visit, depending on the services required.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Okay, I’ll keep that in mind.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Robert. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 175,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "No, that’s everything for now. Thanks for your help!",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You’re very welcome! Take care, and we’ll see you soon.",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Thank you, bye!",
+          "speaker": "remote party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-298634bc5abb4c19bd66e0b4",
+  "revision": "",
+  "status": "success"
+}
