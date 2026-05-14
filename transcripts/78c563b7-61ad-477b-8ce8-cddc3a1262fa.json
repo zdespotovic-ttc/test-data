@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-24T21:05:50Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dead39e2507043018ac0f8e6",
+    "created": 1774386350,
+    "modified": 1774386350
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005770-7880d9ae",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dead39e2507043018ac0f8e6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941605550,
+      "call_id": "dead39e2507043018ac0f8e6",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dead39e2507043018ac0f8e6",
+      "media_name": "3381f94c56a8409aa13b238942035e4c.mp3",
+      "scenario": "A caller asks for details about the company’s return policy during a public holiday. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today? Hi, Margaret. My name is Susan Garcia, and I'm calling because my father has COPD. I'm sorry to hear that, Susan. How can we help with his care? I'm looking for respiratory care and assistance with his breathing treatments. Absolutely, we can provide skilled nursing care that includes respiratory support. That sounds good. But I have a question about your return policy during a public holiday. Of course! Could you clarify what you mean by \"return policy\"? Well, if we need to reschedule or cancel services due to a holiday, what’s the procedure? I understand. We typically require a 24-hour notice for cancellations or rescheduling, even during holidays. Okay, and what if there's an emergency? In emergencies, we do our best to accommodate changes, but it’s always best to call us as soon as possible. That makes sense. Are your services available even on holidays? Yes, we do offer on-call emergency services on Sundays and holidays. Great! That’s reassuring. What are the pricing options for respiratory care? Our skilled nursing care ranges from $95 to $125 for 1-2 hours of service, depending on the specifics. Perfect, and how soon could we get someone to start? We could potentially schedule an assessment in the next couple of days, depending on availability. That would be wonderful. Could you send me more info via email? Certainly! Can I have your email address to send over the details? Yes, it's susan.garcia@email.com. Thank you, Susan. I’ll send you the information about our services and pricing. Great, I appreciate that! Is there someone I can directly speak with about the care plan? Yes, I recommend speaking with our Care Coordinator, Lisa Chen. She can assist with that. Perfect. Can you give me her contact number? Sure, her direct number is +1 316-555-9203, and she’s available Monday to Saturday. Thank you so much, Margaret. I’ve got all the info I need now. You're welcome, Susan. Don’t hesitate to reach out if you have more questions. I will, thank you again! Have a great day, Susan! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Susan Garcia, and I'm calling because my father has COPD.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Susan. How can we help with his care?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm looking for respiratory care and assistance with his breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can provide skilled nursing care that includes respiratory support.",
+          "speaker": "local party",
+          "start_time": 19,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. But I have a question about your return policy during a public holiday.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course! Could you clarify what you mean by \"return policy\"?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Well, if we need to reschedule or cancel services due to a holiday, what’s the procedure?",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand. We typically require a 24-hour notice for cancellations or rescheduling, even during holidays.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, and what if there's an emergency?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "In emergencies, we do our best to accommodate changes, but it’s always best to call us as soon as possible.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That makes sense. Are your services available even on holidays?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we do offer on-call emergency services on Sundays and holidays.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 64,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great! That’s reassuring. What are the pricing options for respiratory care?",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Our skilled nursing care ranges from $95 to $125 for 1-2 hours of service, depending on the specifics.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect, and how soon could we get someone to start?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We could potentially schedule an assessment in the next couple of days, depending on availability.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be wonderful. Could you send me more info via email?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Certainly! Can I have your email address to send over the details?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, it's susan.garcia@email.com.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Susan. I’ll send you the information about our services and pricing.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 102,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Great, I appreciate that! Is there someone I can directly speak with about the care plan?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, I recommend speaking with our Care Coordinator, Lisa Chen. She can assist with that.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect. Can you give me her contact number?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Sure, her direct number is +1 316-555-9203, and she’s available Monday to Saturday.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much, Margaret. I’ve got all the info I need now.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome, Susan. Don’t hesitate to reach out if you have more questions.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will, thank you again!",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Have a great day, Susan!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 140,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dead39e2507043018ac0f8e6",
+  "revision": "",
+  "status": "success"
+}
