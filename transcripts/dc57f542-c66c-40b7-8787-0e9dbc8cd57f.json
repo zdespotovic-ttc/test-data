@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-03T17:01:08Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e534192eca954bfda1dc39d2",
+    "created": 1772557268,
+    "modified": 1772557268
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946004987-e161d960",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e534192eca954bfda1dc39d2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 127,
+      "duration_ms": 127000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63939776468,
+      "call_id": "e534192eca954bfda1dc39d2",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e534192eca954bfda1dc39d2",
+      "media_name": "9edb2e1e85264b278c4232c09cbfc1f1.mp3",
+      "scenario": "A prospect calls seeking information on the latest software solutions for small businesses. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 127.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Rose Patterson. I hope you’re doing well. Hi Rose! I'm doing well, thank you. How can I assist you today? I wanted to ask about your skilled nursing services. My mother has been needing more assistance lately. Of course! We offer skilled nursing care for medication management, wound care, and health monitoring. That sounds great. Can you tell me about the pricing for that service? Yes, our skilled nursing care ranges from $95 to $125 per visit, which lasts about one to two hours. And how do I go about scheduling that? You can either schedule through me or directly with Lisa, our Care Coordinator. Would you like her contact information? Yes, please. That would be helpful. Lisa’s direct number is +13165559203, and she’s available Monday through Saturday. Thank you! I also wanted to check if you have any new software solutions for managing care. You’re welcome! As for software, we recently started using a system that enhances care coordination and communication. Oh, that sounds interesting. What features does it have? It includes real-time updates for caregivers, medication reminders, and a family communication portal. That would definitely help, especially with my son managing everything. Absolutely! It keeps everyone on the same page. Would you like a demo or more detailed information? A demo would be great. How can we set that up? I can arrange that for you. Would you prefer a virtual demo or an in-person meeting? A virtual demo would be more convenient for us. Perfect! I’ll coordinate with our software partner and get back to you with the details. Thank you, Margaret. I appreciate it! You're welcome, Rose! Is there anything else I can assist you with today? No, that’s it for now. I’ll wait to hear back from you about the demo. Sounds good! I’ll make sure to follow up shortly. Have a great day! You too! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I hope you’re doing well.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 6,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose! I'm doing well, thank you. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 6,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I wanted to ask about your skilled nursing services. My mother has been needing more assistance lately.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course! We offer skilled nursing care for medication management, wound care, and health monitoring.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds great. Can you tell me about the pricing for that service?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, our skilled nursing care ranges from $95 to $125 per visit, which lasts about one to two hours.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "And how do I go about scheduling that?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "You can either schedule through me or directly with Lisa, our Care Coordinator. Would you like her contact information?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Lisa’s direct number is +13165559203, and she’s available Monday through Saturday.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you! I also wanted to check if you have any new software solutions for managing care.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You’re welcome! As for software, we recently started using a system that enhances care coordination and communication.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Oh, that sounds interesting. What features does it have?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "It includes real-time updates for caregivers, medication reminders, and a family communication portal.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would definitely help, especially with my son managing everything.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! It keeps everyone on the same page. Would you like a demo or more detailed information?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "A demo would be great. How can we set that up?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I can arrange that for you. Would you prefer a virtual demo or an in-person meeting?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "A virtual demo would be more convenient for us.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I’ll coordinate with our software partner and get back to you with the details.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate it!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Rose! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s it for now. I’ll wait to hear back from you about the demo.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Sounds good! I’ll make sure to follow up shortly. Have a great day!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 127,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e534192eca954bfda1dc39d2",
+  "revision": "",
+  "status": "success"
+}
