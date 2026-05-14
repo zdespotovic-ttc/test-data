@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T19:12:57Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b42806e0f4d74ad5954d1dae",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005177-22afc144",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b42806e0f4d74ad5954d1dae",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 127,
+      "duration_ms": 127000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946005177,
+      "call_id": "b42806e0f4d74ad5954d1dae",
+      "caller_id_number": "+13165559012",
+      "caller_id_name": "Lucille Davis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b42806e0f4d74ad5954d1dae",
+      "media_name": "d0f0fbf80d1d4eb69cda47353b983a84.mp3",
+      "scenario": "A customer expresses dissatisfaction with the service quality experienced during their last visit. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 127.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Lucille Davis. I'm a regular client for personal care assistance. Hi, Lucille! It’s great to hear from you. How can I help? Well, I wanted to discuss my last visit. I have to say, I was quite disappointed with the service. I’m sorry to hear that, Lucille. Could you tell me more about what happened? The caregiver seemed rushed and didn’t spend enough time assisting me with my mobility issues. It felt like I wasn’t getting the care I needed. I understand how frustrating that must be. We strive to provide quality care, and I appreciate your feedback. It’s just that I've been with you for 15 months, and this was the first time I felt unsatisfied. I truly apologize for the inconsistency, Lucille. I’ll make sure to address this with the caregiver and our scheduling team. Thank you, I appreciate that. I just want to ensure I receive the care I need. Absolutely. Would you like me to arrange a follow-up visit to discuss your care plan in detail? Yes, that would be helpful. I’d like to discuss maybe increasing my hours of care, too. I can help with that. We offer additional hours for personal care assistance at $28 to $35 per hour. That sounds reasonable. Maybe we could start with an extra hour a day? I can definitely arrange that. Let me confirm the days you're looking at for the extra hour. I think weekdays would work best for me, after my usual morning care. Great! I’ll make a note of that. How about I follow up with you once I’ve spoken to the caregiver? Yes, please do. I’d like to know if there will be any changes made. Absolutely, and I’ll also send you a revised care plan with the additional hours included. Thank you, Margaret. I feel much better knowing you’re addressing this. You’re welcome, Lucille! Is there anything else I can assist you with today? No, that’s all for now. Thank you again for your help. My pleasure! Have a great day, Lucille. We’ll be in touch soon. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Lucille Davis. I'm a regular client for personal care assistance.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Lucille! It’s great to hear from you. How can I help?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I wanted to discuss my last visit. I have to say, I was quite disappointed with the service.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 21,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that, Lucille. Could you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The caregiver seemed rushed and didn’t spend enough time assisting me with my mobility issues. It felt like I wasn’t getting the care I needed.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how frustrating that must be. We strive to provide quality care, and I appreciate your feedback.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It’s just that I've been with you for 15 months, and this was the first time I felt unsatisfied.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I truly apologize for the inconsistency, Lucille. I’ll make sure to address this with the caregiver and our scheduling team.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, I appreciate that. I just want to ensure I receive the care I need.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely. Would you like me to arrange a follow-up visit to discuss your care plan in detail?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be helpful. I’d like to discuss maybe increasing my hours of care, too.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can help with that. We offer additional hours for personal care assistance at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds reasonable. Maybe we could start with an extra hour a day?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can definitely arrange that. Let me confirm the days you're looking at for the extra hour.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I think weekdays would work best for me, after my usual morning care.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll make a note of that. How about I follow up with you once I’ve spoken to the caregiver?",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please do. I’d like to know if there will be any changes made.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, and I’ll also send you a revised care plan with the additional hours included.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I feel much better knowing you’re addressing this.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Lucille! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s all for now. Thank you again for your help.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "My pleasure! Have a great day, Lucille. We’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 127,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559012",
+    "ooma_remote_name": "Lucille Davis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b42806e0f4d74ad5954d1dae",
+  "revision": "",
+  "status": "success"
+}
