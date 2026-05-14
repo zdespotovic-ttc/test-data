@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bd784df6c5334e5d8da249ec",
+    "created": 1778716800,
+    "modified": 1778716800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946019521-1d6ec824",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bd784df6c5334e5d8da249ec",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 128,
+      "duration_ms": 128000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945936000,
+      "call_id": "bd784df6c5334e5d8da249ec",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bd784df6c5334e5d8da249ec",
+      "media_name": "db2a07c425114f84833b7f0af6c1b043.mp3",
+      "scenario": "A customer contacts the billing department to dispute an erroneous charge on their latest invoice. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 128.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is William Chen. I'm calling about a charge on my latest invoice that I believe is incorrect. I'm sorry to hear that, William. Can you tell me which charge you're disputing? Yes, I was charged for three sessions of physical therapy last week, but I only had two. I understand. Let me pull up your account and review the details of your visits. Thank you. I just want to make sure I'm not being overcharged. Absolutely, I’ll make sure we get this sorted out for you. One moment, please. Okay, I see here that you had two physical therapy sessions scheduled, but the system recorded three. I apologize for this error. So, I will be refunded for that extra charge then? Yes, we can initiate a refund for the incorrect session right away. Great, thank you. How long will the refund take to process? Refunds typically take 5-7 business days to process back to your account. Alright, that makes sense. Is there anything else you noticed on the invoice that we should review? No, that's the only issue, but I do have a question about my ongoing therapy sessions. Sure, what would you like to know? I was wondering if I could increase my physical therapy sessions as I'm feeling ready for more intensive rehabilitation. That’s wonderful to hear! I can arrange for an assessment with Dr. Rodriguez to discuss increasing your sessions. Yes, please do that. I think it would really help my recovery. I’ll set that up right away. Would you like me to call you with the options for scheduling? Yes, that would be perfect. Thank you! You’re welcome! I’ll follow up with you once I've confirmed the details. Sounds good, Margaret. Thanks for your help today. Thank you for your understanding, William. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I'm calling about a charge on my latest invoice that I believe is incorrect.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, William. Can you tell me which charge you're disputing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I was charged for three sessions of physical therapy last week, but I only had two.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Let me pull up your account and review the details of your visits.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I just want to make sure I'm not being overcharged.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I’ll make sure we get this sorted out for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see here that you had two physical therapy sessions scheduled, but the system recorded three. I apologize for this error.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "So, I will be refunded for that extra charge then?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Yes, we can initiate a refund for the incorrect session right away.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Great, thank you. How long will the refund take to process?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Refunds typically take 5-7 business days to process back to your account.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Alright, that makes sense.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Is there anything else you noticed on the invoice that we should review?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "No, that's the only issue, but I do have a question about my ongoing therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Sure, what would you like to know?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I was wondering if I could increase my physical therapy sessions as I'm feeling ready for more intensive rehabilitation.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "That’s wonderful to hear! I can arrange for an assessment with Dr. Rodriguez to discuss increasing your sessions.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, please do that. I think it would really help my recovery.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I’ll set that up right away. Would you like me to call you with the options for scheduling?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, that would be perfect. Thank you!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome! I’ll follow up with you once I've confirmed the details.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Sounds good, Margaret. Thanks for your help today.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for your understanding, William. Have a great day!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 126,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 128,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bd784df6c5334e5d8da249ec",
+  "revision": "",
+  "status": "success"
+}
