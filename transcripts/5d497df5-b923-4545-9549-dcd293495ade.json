@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9378f59f979f4314906dff92",
+    "created": 1778716800,
+    "modified": 1778716800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946019607-a9a1080b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9378f59f979f4314906dff92",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 122,
+      "duration_ms": 122000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945936000,
+      "call_id": "9378f59f979f4314906dff92",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9378f59f979f4314906dff92",
+      "media_name": "fae42c2d9ff64beb8df628d4b6118aab.mp3",
+      "scenario": "An existing client contacts the office with an urgent need for service modification due to a critical situation. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 122.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today? Hi Margaret, this is George Williams. I need to talk to you about my cardiac care services. It's urgent. Hi George, I remember you! What’s going on? Well, I had a slight setback this past week. My doctor mentioned I might need more frequent monitoring. I’m sorry to hear that. How can we adjust your services to better meet your needs? I think I need someone to check in on me at least every other day for cardiac care monitoring. Absolutely, I can arrange that. We can schedule you for cardiac care monitoring at $80 to $100 per visit. That sounds good, but can we also include medication management? I want to ensure I'm taking everything correctly. Yes, we offer medication management at $65 to $80 for a 30-45 minute visit. Would you like to add that service? Yes, please. I want to make sure I’m following the doctor’s orders precisely. Great choice, George. I’ll set up those visits for you. How about starting tomorrow? Tomorrow works. What time would the nurse be coming? We can have a nurse visit you at 10 AM. Does that work for your schedule? Yes, that’s perfect. I’ll also follow up with your insurance to confirm coverage for these additional services. That would be a relief. I was worried about the costs. I’ll ensure to keep you updated on that. Anything else you need while I have you on the line? No, I think that covers it. Thanks for being so responsive, Margaret. You’re welcome, George. I’ll send you a confirmation of tomorrow’s appointment and the care plan adjustments. Thank you! I really appreciate it. Of course! You take care, and we'll see you tomorrow. See you tomorrow. Goodbye! Goodbye, George!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I need to talk to you about my cardiac care services. It's urgent.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George, I remember you! What’s going on?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I had a slight setback this past week. My doctor mentioned I might need more frequent monitoring.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. How can we adjust your services to better meet your needs?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I think I need someone to check in on me at least every other day for cardiac care monitoring.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I can arrange that. We can schedule you for cardiac care monitoring at $80 to $100 per visit.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds good, but can we also include medication management? I want to ensure I'm taking everything correctly.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, we offer medication management at $65 to $80 for a 30-45 minute visit. Would you like to add that service?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 51,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please. I want to make sure I’m following the doctor’s orders precisely.",
+          "speaker": "remote party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great choice, George. I’ll set up those visits for you. How about starting tomorrow?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Tomorrow works. What time would the nurse be coming?",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can have a nurse visit you at 10 AM. Does that work for your schedule?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that’s perfect.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll also follow up with your insurance to confirm coverage for these additional services.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be a relief. I was worried about the costs.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 89,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll ensure to keep you updated on that. Anything else you need while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "No, I think that covers it. Thanks for being so responsive, Margaret.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome, George. I’ll send you a confirmation of tomorrow’s appointment and the care plan adjustments.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you! I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course! You take care, and we'll see you tomorrow.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "See you tomorrow. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye, George!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 122,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9378f59f979f4314906dff92",
+  "revision": "",
+  "status": "success"
+}
