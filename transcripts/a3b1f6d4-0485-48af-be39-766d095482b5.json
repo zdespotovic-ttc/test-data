@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-22T09:19:08Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b35e9da409f948a896e7da81",
+    "created": 1774171148,
+    "modified": 1774171148
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005721-54150310",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b35e9da409f948a896e7da81",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 180,
+      "duration_ms": 180000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941390348,
+      "call_id": "b35e9da409f948a896e7da81",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b35e9da409f948a896e7da81",
+      "media_name": "efab3c151a8547b682ce178156a87cbf.mp3",
+      "scenario": "An individual calls to get a price quote for group meditation sessions for their company, aiming to promote mental wellness among employees. They require details on session sizes and costs. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 180.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Karen Lewis. I'm calling because my husband needs post-operative care after cardiac surgery next month. Of course, Karen. I'm glad you reached out. Can I have a bit more detail about his needs? Sure! He will need assistance with medication management and possibly some physical therapy. We can provide both of those services. Our medication management ranges from $65 to $80 per session. Would you like more details on physical therapy as well? Yes, please. What are the costs and duration for that? Physical therapy sessions typically last 45-60 minutes and cost between $110 and $140. It's focused on rehabilitation and mobility training. Great! How often would you recommend these services after surgery? Generally, I recommend starting with a couple of sessions per week, especially just after surgery. We can adjust based on his progress. That makes sense. Can you also tell me how the scheduling works? Absolutely! We can set up a recurring schedule that fits your husband's needs, and I’ll work closely with you and your family. Sounds good. What about insurance? Will this be covered? We can assist with insurance authorization, but coverage varies by plan. It’s best to check with your provider. Got it. I’ll look into that. Can I schedule a consultation to go over everything in detail? Certainly! I can help set that up. When would be a good time for you? How about next Tuesday? Tuesday works! Would you prefer morning or afternoon? Morning would be ideal. Perfect, I’ll schedule you for 10 AM next Tuesday. Thank you! I really appreciate your help. No problem at all! I’ll also follow up with an email confirmation and some information on our services. That would be great. One more thing, do you offer any in-home personal care as well? Yes, we provide personal care assistance ranging from $28 to $35 per hour for daily living activities. That could be useful later. Can I get more info on that during the consultation? Absolutely! We'll cover all of that. Awesome, thanks again, Margaret. You're welcome, Karen! Looking forward to speaking with you next week. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Karen Lewis. I'm calling because my husband needs post-operative care after cardiac surgery next month.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Karen. I'm glad you reached out. Can I have a bit more detail about his needs?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure! He will need assistance with medication management and possibly some physical therapy.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can provide both of those services. Our medication management ranges from $65 to $80 per session. Would you like more details on physical therapy as well?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, please. What are the costs and duration for that?",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Physical therapy sessions typically last 45-60 minutes and cost between $110 and $140. It's focused on rehabilitation and mobility training.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great! How often would you recommend these services after surgery?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Generally, I recommend starting with a couple of sessions per week, especially just after surgery. We can adjust based on his progress.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That makes sense. Can you also tell me how the scheduling works?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely! We can set up a recurring schedule that fits your husband's needs, and I’ll work closely with you and your family.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sounds good. What about insurance? Will this be covered?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can assist with insurance authorization, but coverage varies by plan. It’s best to check with your provider.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Got it. I’ll look into that. Can I schedule a consultation to go over everything in detail?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Certainly! I can help set that up. When would be a good time for you?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "How about next Tuesday?",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Tuesday works! Would you prefer morning or afternoon?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Morning would be ideal.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect, I’ll schedule you for 10 AM next Tuesday.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you! I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "No problem at all! I’ll also follow up with an email confirmation and some information on our services.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 132,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That would be great. One more thing, do you offer any in-home personal care as well?",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 140,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, we provide personal care assistance ranging from $28 to $35 per hour for daily living activities.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 146,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That could be useful later. Can I get more info on that during the consultation?",
+          "speaker": "remote party",
+          "start_time": 146,
+          "end_time": 152,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely! We'll cover all of that.",
+          "speaker": "local party",
+          "start_time": 152,
+          "end_time": 158,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Awesome, thanks again, Margaret.",
+          "speaker": "remote party",
+          "start_time": 158,
+          "end_time": 165,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome, Karen! Looking forward to speaking with you next week. Have a great day!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 171,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 171,
+          "end_time": 175,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b35e9da409f948a896e7da81",
+  "revision": "",
+  "status": "success"
+}
