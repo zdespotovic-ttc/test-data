@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-27T23:13:57Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9c86df7921ad4a1983b61ea2",
+    "created": 1774653237,
+    "modified": 1774653237
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005220-ce0e27e2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9c86df7921ad4a1983b61ea2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941872437,
+      "call_id": "9c86df7921ad4a1983b61ea2",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9c86df7921ad4a1983b61ea2",
+      "media_name": "9745b2e9d390464da37a7f65d78c096d.mp3",
+      "scenario": "A homeowner urgently requests assistance with a burst pipe causing flooding in the basement. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret, this is Mark Johnson. I urgently need assistance! I'm here to help, Mark. What's going on? I've got a burst pipe in my basement, and it's flooding! I don't know what to do! Oh no! That sounds serious. First, have you turned off the main water supply? Yes, I did that right away. What should I do next? Good thinking. I recommend calling a plumber immediately to address the pipe. Yes, I’ll do that. But I really need help with my elderly parents too. Of course, I can help set that up for you. What do your parents need assistance with? They need help managing their medications and transportation to appointments. We can provide medication management services. Would you like me to schedule that? Yes, definitely! What does that cost? Medication management is $65 to $80 per session for about 30 to 45 minutes. That sounds reasonable. Can you arrange for someone to come soon? Let me check our availability. We can have a nurse visit as soon as tomorrow. Tomorrow works. Can you also help with transportation? Yes, we offer transportation services for $45 to $65 per trip. Great! I need that for their doctor’s appointments. Absolutely. I’ll add that to your services. Any specific days for the transport? They have appointments next Tuesday and Thursday. Perfect! I’ll confirm those appointments for transportation along with the medication management. Thank you so much, Margaret. You’re a lifesaver! I'm happy to help, Mark. Just to recap, we have medication management and transport scheduled. Yes, that’s right. I appreciate it. I’ll send you an email confirmation with the details. Is there anything else I can assist with? No, that covers everything for now. Thanks again! You’re welcome! Take care of that plumbing issue, and we’ll talk soon. Will do. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Mark Johnson. I urgently need assistance!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm here to help, Mark. What's going on?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I've got a burst pipe in my basement, and it's flooding! I don't know what to do!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no! That sounds serious. First, have you turned off the main water supply?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I did that right away. What should I do next?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Good thinking. I recommend calling a plumber immediately to address the pipe.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, I’ll do that. But I really need help with my elderly parents too.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course, I can help set that up for you. What do your parents need assistance with?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "They need help managing their medications and transportation to appointments.",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can provide medication management services. Would you like me to schedule that?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, definitely! What does that cost?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Medication management is $65 to $80 per session for about 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds reasonable. Can you arrange for someone to come soon?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me check our availability. We can have a nurse visit as soon as tomorrow.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Tomorrow works. Can you also help with transportation?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we offer transportation services for $45 to $65 per trip.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great! I need that for their doctor’s appointments.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely. I’ll add that to your services. Any specific days for the transport?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "They have appointments next Tuesday and Thursday.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 103,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I’ll confirm those appointments for transportation along with the medication management.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 109,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you so much, Margaret. You’re a lifesaver!",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I'm happy to help, Mark. Just to recap, we have medication management and transport scheduled.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that’s right. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 127,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I’ll send you an email confirmation with the details. Is there anything else I can assist with?",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that covers everything for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Take care of that plumbing issue, and we’ll talk soon.",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 142,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Will do. Bye!",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 146,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 146,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9c86df7921ad4a1983b61ea2",
+  "revision": "",
+  "status": "success"
+}
