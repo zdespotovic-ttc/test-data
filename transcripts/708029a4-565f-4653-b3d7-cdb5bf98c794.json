@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-21T21:08:26Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-512813c585a746db928a1bdc",
+    "created": 1774127306,
+    "modified": 1774127306
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005749-fbcc4145",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-512813c585a746db928a1bdc",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 115,
+      "duration_ms": 115000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941346506,
+      "call_id": "512813c585a746db928a1bdc",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-512813c585a746db928a1bdc",
+      "media_name": "657fe89eface46739b9a76218ea39866.mp3",
+      "scenario": "A prospective client calls to obtain a quote for landscaping services for their commercial property. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 115.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. This is Helen Johnson. I'm actually calling to get a quote for landscaping services for my commercial property. I’m sorry, Helen, but we specialize in home healthcare services. We don’t provide landscaping services. Oh, I see! I must’ve dialed the wrong number then. I thought this was the landscaping company. No problem at all! It happens. If you need home healthcare services, I’d be happy to assist. Actually, I do have a question about physical therapy since I've been using your services for my shoulder recovery. Of course! We can definitely help you with that. What would you like to know? I was wondering if there are any additional sessions available or if I need to schedule something in advance? Let me check your file. You had a session last week, correct? Yes, that’s right. Considering your history, would you be interested in scheduling ongoing sessions to maintain your progress? Yes, I think that would be beneficial. How many sessions do you recommend? Typically, we recommend one to two sessions per week for optimal recovery, depending on your comfort level. Sounds good! How much do the sessions cost? Our physical therapy sessions range from $110 to $140 per session. Perfect! I’d like to schedule two sessions per week. Great! I can set those up for you. Would you prefer Tuesday and Thursday? Yes, that works for me! I’ll go ahead and reserve those for you. Is there anything else you need? I think that covers it. Should I expect a confirmation email? Yes, I’ll have a confirmation sent to your email shortly after we finish this call. Thank you, Margaret. I appreciate your help! You’re welcome, Helen! If you have any other questions, feel free to reach out. Will do, thanks again! Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Helen Johnson. I'm actually calling to get a quote for landscaping services for my commercial property.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry, Helen, but we specialize in home healthcare services. We don’t provide landscaping services.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see! I must’ve dialed the wrong number then. I thought this was the landscaping company.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "No problem at all! It happens. If you need home healthcare services, I’d be happy to assist.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Actually, I do have a question about physical therapy since I've been using your services for my shoulder recovery.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course! We can definitely help you with that. What would you like to know?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I was wondering if there are any additional sessions available or if I need to schedule something in advance?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check your file. You had a session last week, correct?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that’s right.",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Considering your history, would you be interested in scheduling ongoing sessions to maintain your progress?",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I think that would be beneficial. How many sessions do you recommend?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Typically, we recommend one to two sessions per week for optimal recovery, depending on your comfort level.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sounds good! How much do the sessions cost?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Our physical therapy sessions range from $110 to $140 per session.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect! I’d like to schedule two sessions per week.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I can set those up for you. Would you prefer Tuesday and Thursday?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that works for me!",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll go ahead and reserve those for you. Is there anything else you need?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I think that covers it. Should I expect a confirmation email?",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, I’ll have a confirmation sent to your email shortly after we finish this call.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Helen! If you have any other questions, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Will do, thanks again!",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Have a great day!",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 115,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-512813c585a746db928a1bdc",
+  "revision": "",
+  "status": "success"
+}
