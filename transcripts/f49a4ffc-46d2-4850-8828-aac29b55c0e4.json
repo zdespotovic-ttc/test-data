@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-08T11:34:02Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-429a9f5f4e2c43a7bd53b526",
+    "created": 1772969642,
+    "modified": 1772969642
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005680-2b83d8f3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-429a9f5f4e2c43a7bd53b526",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 116,
+      "duration_ms": 116000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63940188842,
+      "call_id": "429a9f5f4e2c43a7bd53b526",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-429a9f5f4e2c43a7bd53b526",
+      "media_name": "035fa97a782842569e17bc7eba65b5e7.mp3",
+      "scenario": "A customer schedules a consultation session with a nutritionist for next week. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 116.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret! This is Mary O'Connor. I'm a long-time client for the IV therapy. Hi, Mary! It's great to hear from you. How are you doing today? I'm a bit anxious, to be honest. I had my IV therapy yesterday, and I'm still feeling nervous about it. I understand, Mary. It’s completely normal to feel that way. We always strive to provide a comforting environment during procedures. Thank you, that makes me feel a bit better. I wanted to ask about scheduling a consultation with a nutritionist next week. Absolutely! We can definitely help with that. Do you have a specific day in mind? I think I'd prefer Tuesday or Thursday. What do you have available? Let me check the calendar. We have openings on both Tuesday and Thursday. Would you prefer morning or afternoon? Morning would be great, if possible. Okay, how about Tuesday at 10 AM? That works for me. Perfect! I’ll schedule your consultation for Tuesday at 10 AM. Thank you! I hope the nutritionist can help me feel more confident about my diet. I’m sure they will. They’re great at addressing dietary concerns, especially for clients on IV therapy. That sounds reassuring. Do you know if the appointment is covered by my insurance? I can check that for you. I’ll have Lisa contact you about insurance authorization. That would be helpful, thank you. You're welcome! Also, if you need someone to assist with meal prep or grocery shopping, we offer companion care services. Oh, I didn’t know that! How much is it? Our companion care services are priced at $25 to $30 per hour. That sounds reasonable. I might be interested. Great! I can have Lisa follow up with you about that as well. Perfect, thank you so much for your help today, Margaret. It’s my pleasure, Mary! I’ll make sure everything is set up for you. I appreciate it. Have a great day! You too, Mary! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret! This is Mary O'Connor. I'm a long-time client for the IV therapy.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Mary! It's great to hear from you. How are you doing today?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm a bit anxious, to be honest. I had my IV therapy yesterday, and I'm still feeling nervous about it.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, Mary. It’s completely normal to feel that way. We always strive to provide a comforting environment during procedures.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, that makes me feel a bit better. I wanted to ask about scheduling a consultation with a nutritionist next week.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! We can definitely help with that. Do you have a specific day in mind?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I think I'd prefer Tuesday or Thursday. What do you have available?",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check the calendar. We have openings on both Tuesday and Thursday. Would you prefer morning or afternoon?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Morning would be great, if possible.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Okay, how about Tuesday at 10 AM?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That works for me.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! I’ll schedule your consultation for Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! I hope the nutritionist can help me feel more confident about my diet.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’m sure they will. They’re great at addressing dietary concerns, especially for clients on IV therapy.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reassuring. Do you know if the appointment is covered by my insurance?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can check that for you. I’ll have Lisa contact you about insurance authorization.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be helpful, thank you.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You're welcome! Also, if you need someone to assist with meal prep or grocery shopping, we offer companion care services.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Oh, I didn’t know that! How much is it?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 88,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Our companion care services are priced at $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 93,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds reasonable. I might be interested.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 97,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I can have Lisa follow up with you about that as well.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect, thank you so much for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure, Mary! I’ll make sure everything is set up for you.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 108,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I appreciate it. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too, Mary! Take care.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-429a9f5f4e2c43a7bd53b526",
+  "revision": "",
+  "status": "success"
+}
