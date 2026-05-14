@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-20T02:24:48Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-84763efde1e149d99b9c549a",
+    "created": 1773973488,
+    "modified": 1773973488
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005708-a631c3ec",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-84763efde1e149d99b9c549a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 116,
+      "duration_ms": 116000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941192688,
+      "call_id": "84763efde1e149d99b9c549a",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-84763efde1e149d99b9c549a",
+      "media_name": "b393bf823fbd461d807dc35b1d1d065c.mp3",
+      "scenario": "A prospective client requests a quote for a comprehensive wellness package that includes yoga classes, massage therapy, and nutritional counseling. They are considering taking up a monthly plan. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 116.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How may I assist you today? Hi Margaret, this is Harold Gonzalez. I’m calling to inquire about a wellness package. Hi Harold! It's great to hear from you again. What kind of wellness package are you looking for? I’m interested in something that includes yoga classes, massage therapy, and nutritional counseling. That sounds like a fantastic combination for overall wellness. Just to clarify, are you considering a monthly plan? Yes, a monthly plan would be ideal for me. Perfect! Let me provide you with a quote for that. For yoga classes, we charge $100 per month for a weekly session. Okay, and how about the massage therapy? The massage therapy is $120 per month for two sessions. Sounds good. And the nutritional counseling? Nutritional counseling is $80 per month for bi-weekly consultations. What does that total come to? That brings your total to $300 per month for the complete wellness package. That’s a bit more than I expected. Are there any discounts available? We do offer a 10% discount for clients who pay for three months in advance. That could help. I’d like to think about it. Absolutely, take your time. Would you like me to send you a detailed breakdown via email? Yes, please! My email is haroldgonzalez@email.com. Got it. I’ll send that over right away. Thank you, Margaret. One more thing—can you also include the schedule for the classes? Of course! I’ll include the schedules for yoga, massage, and nutritional counseling. That would be helpful. Great! Is there anything else I can assist you with today? No, that covers everything. Thank you! You’re welcome, Harold! I’ll follow up with that email shortly. I appreciate it. Have a good day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I’m calling to inquire about a wellness package.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Harold! It's great to hear from you again. What kind of wellness package are you looking for?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m interested in something that includes yoga classes, massage therapy, and nutritional counseling.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds like a fantastic combination for overall wellness. Just to clarify, are you considering a monthly plan?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, a monthly plan would be ideal for me.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Perfect! Let me provide you with a quote for that.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "For yoga classes, we charge $100 per month for a weekly session.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Okay, and how about the massage therapy?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "The massage therapy is $120 per month for two sessions.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Sounds good. And the nutritional counseling?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Nutritional counseling is $80 per month for bi-weekly consultations.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "What does that total come to?",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 53,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "That brings your total to $300 per month for the complete wellness package.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That’s a bit more than I expected. Are there any discounts available?",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "We do offer a 10% discount for clients who pay for three months in advance.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That could help. I’d like to think about it.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely, take your time. Would you like me to send you a detailed breakdown via email?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, please! My email is haroldgonzalez@email.com.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Got it. I’ll send that over right away.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Margaret. One more thing—can you also include the schedule for the classes?",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Of course! I’ll include the schedules for yoga, massage, and nutritional counseling.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Great! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "No, that covers everything. Thank you!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome, Harold! I’ll follow up with that email shortly.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "I appreciate it. Have a good day!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-84763efde1e149d99b9c549a",
+  "revision": "",
+  "status": "success"
+}
