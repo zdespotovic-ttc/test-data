@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-817b4f239a12484d9871e84b",
+    "created": 1778716800,
+    "modified": 1778716800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946019556-d67f828f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-817b4f239a12484d9871e84b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945936000,
+      "call_id": "817b4f239a12484d9871e84b",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-817b4f239a12484d9871e84b",
+      "media_name": "582be0cf27f24de0a02abefff1429aff.mp3",
+      "scenario": "An interested party contacts the office to request a detailed quote for a specific service outlined on the website. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Robert Jackson. I'm a regular client and I need a detailed quote for wound care management. Hi Robert! It’s great to hear from you. I can definitely help with that. Our wound care management service ranges from $75 to $95 for a session lasting 30 to 45 minutes. Okay, can you tell me what’s included in that service? Sure! It includes a professional assessment of the wound, cleaning, and necessary dressing changes. We tailor it to your specific needs. That sounds good. I need to ensure it fits with my current care plan due to my multiple sclerosis. Absolutely, we can coordinate with your care plan. I’ll check your last visit notes to ensure everything aligns. Perfect, I appreciate that. How many sessions do you recommend? Typically, we recommend at least one session per week, but it can vary based on the wound's condition. Would you like that set up? Yes, I think one session a week sounds reasonable. Great! I’ll prepare a quote for four weeks to start. Would you like to add medication management as well? What’s the price for that service? Medication management is $65 to $80 for a session lasting 30 to 45 minutes. That could be helpful. Let’s include that in the quote as well. Excellent choice, Robert. I’ll include both services in your quote. Thank you, Margaret. When can I expect to receive it? I’ll prepare it right after our call and send it to your email by the end of the day. That sounds perfect. I appreciate your help! No problem at all! Is there anything else I can assist you with today? No, that’s everything for now. Thank you again! You’re welcome, Robert! Have a great day, and take care! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I'm a regular client and I need a detailed quote for wound care management.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Robert! It’s great to hear from you. I can definitely help with that.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Our wound care management service ranges from $75 to $95 for a session lasting 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Okay, can you tell me what’s included in that service?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 28,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Sure! It includes a professional assessment of the wound, cleaning, and necessary dressing changes. We tailor it to your specific needs.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "That sounds good. I need to ensure it fits with my current care plan due to my multiple sclerosis.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Absolutely, we can coordinate with your care plan. I’ll check your last visit notes to ensure everything aligns.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 47,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Perfect, I appreciate that. How many sessions do you recommend?",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Typically, we recommend at least one session per week, but it can vary based on the wound's condition. Would you like that set up?",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 62,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, I think one session a week sounds reasonable.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 69,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Great! I’ll prepare a quote for four weeks to start. Would you like to add medication management as well?",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 76,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "What’s the price for that service?",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Medication management is $65 to $80 for a session lasting 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That could be helpful. Let’s include that in the quote as well.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 95,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Excellent choice, Robert. I’ll include both services in your quote.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Margaret. When can I expect to receive it?",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I’ll prepare it right after our call and send it to your email by the end of the day.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That sounds perfect. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "No problem at all! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 125,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "No, that’s everything for now. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome, Robert! Have a great day, and take care!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-817b4f239a12484d9871e84b",
+  "revision": "",
+  "status": "success"
+}
