@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T19:20:12Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4bbca3ee20984c5f9debbcd1",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005612-c5392d8c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4bbca3ee20984c5f9debbcd1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 137,
+      "duration_ms": 137000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946005612,
+      "call_id": "4bbca3ee20984c5f9debbcd1",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4bbca3ee20984c5f9debbcd1",
+      "media_name": "1ee8ac52ed8c436699b5750f8b2c05e9.mp3",
+      "scenario": "A prospect calls to inquire about the available services for personal training sessions. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 137.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Robert Jackson. I’m looking to inquire about personal training sessions. Hi Robert! Thanks for calling. Just to clarify, are you asking about physical therapy or personal care assistance? I was more interested in personal training, like exercise sessions tailored for my needs. I see. We do offer physical therapy, which focuses on rehabilitation and improving mobility. Would that suit your needs? Yes, but I'm specifically looking for personal training that can help with strength and endurance. Understood! While we specialize in physical therapy, I can connect you with our physical therapist, Dr. James Rodriguez. Great! What would a typical session with him look like? Sessions typically last 45-60 minutes and focus on mobility, strength, and balance improvement. The price ranges from $110 to $140 per session. That sounds good. How do I go about scheduling an appointment? I can help you with that! Would you like me to check Dr. Rodriguez's availability for you? Yes, please. I would prefer sessions in the morning. Alright, let me check. Just a moment... [pause] Okay, he has openings on Tuesday and Thursday mornings. Let’s go with Tuesday then. Perfect! Let me get your information for the booking. Sure, I have been a client with you for three years and appreciate the care I receive. Thank you for your loyalty, Robert! I’ll take care of everything. Do you have any specific goals for your training? Yes, mainly to increase my strength and improve my balance. I have specific equipment I’d like to use. Noted! Dr. Rodriguez will make sure to consider that in your sessions. Great! What about follow-up appointments? We typically recommend weekly sessions for the best results. How does that sound? Sounds good. Can we set that up after the initial session? Absolutely! We can finalize the schedule during your first visit. Perfect, thank you so much, Margaret. I appreciate your help. You’re welcome, Robert! I’ll send you an email with the appointment details and our policies. Sounds excellent. I'll keep an eye out for it! If you have any further questions, feel free to call back. I will, thank you again! Have a great day, Robert! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I’m looking to inquire about personal training sessions.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Robert! Thanks for calling. Just to clarify, are you asking about physical therapy or personal care assistance?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I was more interested in personal training, like exercise sessions tailored for my needs.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. We do offer physical therapy, which focuses on rehabilitation and improving mobility. Would that suit your needs?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, but I'm specifically looking for personal training that can help with strength and endurance.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Understood! While we specialize in physical therapy, I can connect you with our physical therapist, Dr. James Rodriguez.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great! What would a typical session with him look like?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Sessions typically last 45-60 minutes and focus on mobility, strength, and balance improvement. The price ranges from $110 to $140 per session.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds good. How do I go about scheduling an appointment?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can help you with that! Would you like me to check Dr. Rodriguez's availability for you?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please. I would prefer sessions in the morning.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Alright, let me check. Just a moment... [pause] Okay, he has openings on Tuesday and Thursday mornings.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Let’s go with Tuesday then.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect! Let me get your information for the booking.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 71,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, I have been a client with you for three years and appreciate the care I receive.",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you for your loyalty, Robert! I’ll take care of everything. Do you have any specific goals for your training?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, mainly to increase my strength and improve my balance. I have specific equipment I’d like to use.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Noted! Dr. Rodriguez will make sure to consider that in your sessions.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great! What about follow-up appointments?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We typically recommend weekly sessions for the best results. How does that sound?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good. Can we set that up after the initial session?",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! We can finalize the schedule during your first visit.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 107,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect, thank you so much, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Robert! I’ll send you an email with the appointment details and our policies.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds excellent. I'll keep an eye out for it!",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "If you have any further questions, feel free to call back.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will, thank you again!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Have a great day, Robert!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 131,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 134,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 137,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4bbca3ee20984c5f9debbcd1",
+  "revision": "",
+  "status": "success"
+}
