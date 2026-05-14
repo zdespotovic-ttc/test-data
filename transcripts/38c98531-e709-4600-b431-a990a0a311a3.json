@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c57763b9badb4adbac97b405",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946020621-ae2f6015",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c57763b9badb4adbac97b405",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "c57763b9badb4adbac97b405",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c57763b9badb4adbac97b405",
+      "media_name": "90b3a626a5b94d49884217d6c0471f56.mp3",
+      "scenario": "A new customer wants to book their initial consultation for a personalized wellness plan. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, my name is Mark Johnson. I'm looking for some help for my elderly parents. Of course, Mark! What specific services are you interested in? They need help with medication management and transportation to their appointments. We can definitely assist with both of those needs. Would you like to schedule an initial consultation? Yes, that sounds good. How does that work? During the consultation, we’ll assess their specific needs and create a personalized wellness plan. Great! When are you available for the consultation? We have openings this week. How about Wednesday or Thursday? Let’s go with Thursday. What times do you have? We have slots available at 10 AM or 2 PM. Which one works for you? I’ll take the 10 AM slot. Perfect! I’ll schedule you for Thursday at 10 AM. Will someone come to our house for the consultation? Yes, one of our care coordinators will come to your home to meet with you and your parents. That’s great to hear. Is there anything I need to prepare for the meeting? Just have any current medication lists and any specific questions or concerns ready. Sounds good. Do you also provide transportation services? Yes, we do! Transportation services are available for medical appointments and errands. What are the costs for those services? Transportation services range from $45 to $65 per trip, depending on the distance. That sounds reasonable. Will this be discussed during the consultation as well? Absolutely, we can incorporate that into their wellness plan. Great! I’m looking forward to the meeting. So am I! Just to confirm, your appointment is Thursday at 10 AM, correct? Yes, that’s correct. Thank you, Mark. I’ll send a reminder via email. Okay, I appreciate it. See you then! Thank you for calling, Mark! Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Mark Johnson. I'm looking for some help for my elderly parents.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Mark! What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "They need help with medication management and transportation to their appointments.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely assist with both of those needs. Would you like to schedule an initial consultation?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, that sounds good. How does that work?",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "During the consultation, we’ll assess their specific needs and create a personalized wellness plan.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great! When are you available for the consultation?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We have openings this week. How about Wednesday or Thursday?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Let’s go with Thursday. What times do you have?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We have slots available at 10 AM or 2 PM. Which one works for you?",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 64,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I’ll take the 10 AM slot.",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! I’ll schedule you for Thursday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Will someone come to our house for the consultation?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, one of our care coordinators will come to your home to meet with you and your parents.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That’s great to hear. Is there anything I need to prepare for the meeting?",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Just have any current medication lists and any specific questions or concerns ready.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 101,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sounds good. Do you also provide transportation services?",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we do! Transportation services are available for medical appointments and errands.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "What are the costs for those services?",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 117,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Transportation services range from $45 to $65 per trip, depending on the distance.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 126,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds reasonable. Will this be discussed during the consultation as well?",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, we can incorporate that into their wellness plan.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 136,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great! I’m looking forward to the meeting.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 142,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "So am I! Just to confirm, your appointment is Thursday at 10 AM, correct?",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 148,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 148,
+          "end_time": 150,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Mark. I’ll send a reminder via email.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Okay, I appreciate it. See you then!",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 159,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Thank you for calling, Mark! Have a great day!",
+          "speaker": "local party",
+          "start_time": 159,
+          "end_time": 163,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 163,
+          "end_time": 167,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 167,
+          "end_time": 170,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c57763b9badb4adbac97b405",
+  "revision": "",
+  "status": "success"
+}
