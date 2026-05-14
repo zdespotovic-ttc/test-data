@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-09T19:06:39Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-78364a03fafc49059706447c",
+    "created": 1773083199,
+    "modified": 1773083199
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005631-4abbe444",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-78364a03fafc49059706447c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 174,
+      "duration_ms": 174000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63940302399,
+      "call_id": "78364a03fafc49059706447c",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-78364a03fafc49059706447c",
+      "media_name": "21ee77a5aac1497f93393ec89fc58893.mp3",
+      "scenario": "A customer calls to complain that the herbal supplements they purchased from the clinic caused unexpected side effects. They are dissatisfied with the product quality. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 174.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Charles Thompson. I'm calling about a concern I have. Hi Charles, it's good to hear from you. What seems to be the problem? Well, I recently purchased some herbal supplements from the clinic, and I started feeling some unexpected side effects. I’m really sorry to hear that, Charles. Can you tell me more about the side effects you’re experiencing? Sure, I've been feeling more nauseous than usual and have had headaches since I started taking them. That sounds uncomfortable. How long have you been taking the supplements? I started them about a week ago, and it’s been getting worse. I’m quite dissatisfied with the product quality. I understand your frustration, Charles. We definitely want our clients to feel safe and supported. Exactly. I feel like I should’ve been informed about potential side effects. I apologize for that oversight. Let me gather some details so we can address this properly. Okay. I just want to make sure this doesn’t happen to anyone else. Absolutely. Can you tell me which specific herbal supplements you purchased? I got the herbal blend for immune support. Thank you for that information. I’ll make sure we investigate that product. And what about the side effects? Should I stop taking them right away? I recommend discontinuing them for now and consulting with your doctor, especially given your recent surgery. That makes sense. I’ll do that. Will I be able to return the supplements? Yes, we can arrange for a return. I’ll also make a note to follow up with you regarding this issue. I appreciate that. I just want to ensure this is taken seriously. It certainly is. I’ll escalate this matter to our Quality Assurance team as well. Thank you. Also, could I schedule a visit for the wound care check-up? Of course, we can arrange that. When would be a convenient time for you? How about this Thursday? Let me check... Yes, we have availability this Thursday. What time works best? Let's say 10 AM? Perfect, I’ve booked you for 10 AM this Thursday. Great! And please keep me updated on the supplement issue. I will ensure you receive updates. Thank you for bringing this to my attention, Charles. Thank you for your help, Margaret. I appreciate it. You’re welcome! Have a great day, and we’ll see you Thursday. You too, bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I'm calling about a concern I have.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Charles, it's good to hear from you. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I recently purchased some herbal supplements from the clinic, and I started feeling some unexpected side effects.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that, Charles. Can you tell me more about the side effects you’re experiencing?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, I've been feeling more nauseous than usual and have had headaches since I started taking them.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds uncomfortable. How long have you been taking the supplements?",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I started them about a week ago, and it’s been getting worse. I’m quite dissatisfied with the product quality.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand your frustration, Charles. We definitely want our clients to feel safe and supported.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Exactly. I feel like I should’ve been informed about potential side effects.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I apologize for that oversight. Let me gather some details so we can address this properly.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay. I just want to make sure this doesn’t happen to anyone else.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely. Can you tell me which specific herbal supplements you purchased?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I got the herbal blend for immune support.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you for that information. I’ll make sure we investigate that product.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "And what about the side effects? Should I stop taking them right away?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I recommend discontinuing them for now and consulting with your doctor, especially given your recent surgery.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That makes sense. I’ll do that. Will I be able to return the supplements?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we can arrange for a return. I’ll also make a note to follow up with you regarding this issue.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 104,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I appreciate that. I just want to ensure this is taken seriously.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It certainly is. I’ll escalate this matter to our Quality Assurance team as well.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you. Also, could I schedule a visit for the wound care check-up?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Of course, we can arrange that. When would be a convenient time for you?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "How about this Thursday?",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Let me check... Yes, we have availability this Thursday. What time works best?",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Let's say 10 AM?",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Perfect, I’ve booked you for 10 AM this Thursday.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Great! And please keep me updated on the supplement issue.",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "I will ensure you receive updates. Thank you for bringing this to my attention, Charles.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you for your help, Margaret. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 160,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You’re welcome! Have a great day, and we’ll see you Thursday.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 174,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-78364a03fafc49059706447c",
+  "revision": "",
+  "status": "success"
+}
