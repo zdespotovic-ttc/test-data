@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T19:13:46Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0d0ce4ae531b428f9c0478ab",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005226-f01158b1",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0d0ce4ae531b428f9c0478ab",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946005226,
+      "call_id": "0d0ce4ae531b428f9c0478ab",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0d0ce4ae531b428f9c0478ab",
+      "media_name": "b7c73e4f5ad2490a862762cecd8a0b31.mp3",
+      "scenario": "A customer questions an unexpected fee added to their latest bill, requesting a detailed breakdown. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Michael Brown. I'm calling about a bill I received. Hi Michael, I’m happy to help you with that. What seems to be the issue? Well, there’s an unexpected fee added to my latest bill, and I’d like a detailed breakdown of it. I understand your concern, Michael. Can you provide me with your account number? Yes, it’s 123456. My father received wound care and medication management services. Thank you for that information. Let me pull up your account. One moment, please. Alright, I see the charge you’re referring to. It looks like there’s an additional fee for medication management that wasn’t included in your initial estimate. I wasn’t informed about any additional fees. Can you explain why this was added? Yes, the fee is due to an increase in the complexity of the medication management required for your father’s diabetes. I see. But shouldn’t I have been notified about this change beforehand? You’re absolutely right, and I apologize for the oversight. We strive to keep our clients informed. Thank you. I want to ensure this doesn’t happen again. I’ll make a note to improve communication regarding any additional fees. That would be great. Also, I’d like to know if there are any options to manage these costs better. We can review your care plan and look at possible alternatives. Have you considered our Respite Care services? What does that involve? Respite Care provides temporary relief for family caregivers and can be a cost-effective option for ongoing support. It’s $30-$38 per hour. That sounds worth exploring. Can you send me more information about that? Of course! I can email you details about the Respite Care program and include the breakdown of your bill. I appreciate that. Can you confirm the email address you have on file? Yes, I have michael.brown@email.com. Is that correct? Yes, that’s right. Great! I’ll send that information right away. Thank you, Margaret. I appreciate your help with this. You’re welcome, Michael. Is there anything else I can assist you with today? No, that’s all for now. Thanks again! Thank you for calling CareFirst Home Health. Have a great day! You too, goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I'm calling about a bill I received.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Michael, I’m happy to help you with that. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, there’s an unexpected fee added to my latest bill, and I’d like a detailed breakdown of it.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern, Michael. Can you provide me with your account number?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it’s 123456. My father received wound care and medication management services.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for that information. Let me pull up your account. One moment, please.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Alright, I see the charge you’re referring to. It looks like there’s an additional fee for medication management that wasn’t included in your initial estimate.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I wasn’t informed about any additional fees. Can you explain why this was added?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Yes, the fee is due to an increase in the complexity of the medication management required for your father’s diabetes.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I see. But shouldn’t I have been notified about this change beforehand?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "You’re absolutely right, and I apologize for the oversight. We strive to keep our clients informed.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you. I want to ensure this doesn’t happen again.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I’ll make a note to improve communication regarding any additional fees.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That would be great. Also, I’d like to know if there are any options to manage these costs better.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "We can review your care plan and look at possible alternatives. Have you considered our Respite Care services?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "What does that involve?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Respite Care provides temporary relief for family caregivers and can be a cost-effective option for ongoing support. It’s $30-$38 per hour.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That sounds worth exploring. Can you send me more information about that?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Of course! I can email you details about the Respite Care program and include the breakdown of your bill.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I appreciate that. Can you confirm the email address you have on file?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Yes, I have michael.brown@email.com. Is that correct?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, that’s right.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 122,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Great! I’ll send that information right away.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome, Michael. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "No, that’s all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0d0ce4ae531b428f9c0478ab",
+  "revision": "",
+  "status": "success"
+}
