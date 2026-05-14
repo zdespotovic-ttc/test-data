@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T19:11:34Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-83f71fb882424fddb80e9dfc",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005094-825d24a5",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-83f71fb882424fddb80e9dfc",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 183,
+      "duration_ms": 183000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946005094,
+      "call_id": "83f71fb882424fddb80e9dfc",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-83f71fb882424fddb80e9dfc",
+      "media_name": "1f469b0f6cc64ec2b77e381fa1c351c5.mp3",
+      "scenario": "A prospect is interested in understanding the differences between the basic and premium membership packages. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 183.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Patricia Wilson. I was referred by Dr. Anderson. Hello, Patricia! It's great to hear from you. What can I help you with today? My mother is going to have a hip replacement soon, and I need information about post-surgery care. Absolutely, we can provide post-surgery recovery care. That’s one of our specialties. That’s good to hear. Can you explain the difference between your basic and premium membership packages? Sure! Our basic package includes essential services, while the premium package offers additional benefits. What kind of services are included in the basic package? The basic package includes skilled nursing care, personal care assistance, and companion care. And how much does that cost? The basic package starts at $95 for skilled nursing, and the personal care assistance is $28 to $35 per hour. Got it. What about the premium package? The premium package offers more extensive support, including physical therapy and medication management. What’s the price for that? The premium package ranges from $110 to $150, depending on the specific services provided. That sounds beneficial. Would that include regular check-ins? Yes, the premium package includes regular health monitoring and caregiver support. That sounds important. I want to ensure my mother has the best care during her recovery. Of course! We prioritize quality care. Would you like me to send you more detailed information via email? Yes, please. That would be helpful. Can I have your email address, Patricia? It's patricia.wilson@example.com. Thank you! I’ll send that information right after our call. Great! Also, how soon could we start post-surgery care? We can coordinate care to begin as soon as your mother is discharged from the hospital. That sounds perfect. I’ll also need to gather some insurance details for authorization. Can we discuss that later? Sure, I’ll have that ready. Excellent! I’ll follow up with you after sending the email. Is there anything else you’d like to know? No, that covers everything for now. Thank you so much for your help, Margaret! You’re welcome, Patricia! I look forward to assisting you and your mother. Have a great day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Patricia Wilson. I was referred by Dr. Anderson.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hello, Patricia! It's great to hear from you. What can I help you with today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My mother is going to have a hip replacement soon, and I need information about post-surgery care.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can provide post-surgery recovery care. That’s one of our specialties.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That’s good to hear. Can you explain the difference between your basic and premium membership packages?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure! Our basic package includes essential services, while the premium package offers additional benefits.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "What kind of services are included in the basic package?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "The basic package includes skilled nursing care, personal care assistance, and companion care.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "And how much does that cost?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "The basic package starts at $95 for skilled nursing, and the personal care assistance is $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Got it. What about the premium package?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The premium package offers more extensive support, including physical therapy and medication management.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "What’s the price for that?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 81,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The premium package ranges from $110 to $150, depending on the specific services provided.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds beneficial. Would that include regular check-ins?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, the premium package includes regular health monitoring and caregiver support.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds important. I want to ensure my mother has the best care during her recovery.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course! We prioritize quality care. Would you like me to send you more detailed information via email?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Can I have your email address, Patricia?",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "It's patricia.wilson@example.com.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you! I’ll send that information right after our call.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great! Also, how soon could we start post-surgery care?",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 134,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "We can coordinate care to begin as soon as your mother is discharged from the hospital.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That sounds perfect.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I’ll also need to gather some insurance details for authorization. Can we discuss that later?",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 151,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Sure, I’ll have that ready.",
+          "speaker": "remote party",
+          "start_time": 151,
+          "end_time": 156,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Excellent! I’ll follow up with you after sending the email. Is there anything else you’d like to know?",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 162,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "No, that covers everything for now. Thank you so much for your help, Margaret!",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 168,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You’re welcome, Patricia! I look forward to assisting you and your mother.",
+          "speaker": "local party",
+          "start_time": 168,
+          "end_time": 173,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Have a great day!",
+          "speaker": "remote party",
+          "start_time": 173,
+          "end_time": 180,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 183,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-83f71fb882424fddb80e9dfc",
+  "revision": "",
+  "status": "success"
+}
