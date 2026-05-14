@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-07T01:00:06Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9c89e2bd03ce4a5782b93d98",
+    "created": 1772845206,
+    "modified": 1772845206
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005626-5bcb75c1",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9c89e2bd03ce4a5782b93d98",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 133,
+      "duration_ms": 133000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63940064406,
+      "call_id": "9c89e2bd03ce4a5782b93d98",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9c89e2bd03ce4a5782b93d98",
+      "media_name": "4ae4b43551b74b929494682740ca6dad.mp3",
+      "scenario": "A returning customer calls to set up a dental cleaning appointment for next Tuesday. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 133.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, my name is Patricia Wilson. I was referred by Dr. Anderson, and I need to set up post-surgery care for my mother. Of course, Patricia! Can you tell me more about your mother’s surgery and when it's scheduled for? She’s having a hip replacement next Tuesday, so we’ll need care starting that day. Great, we can definitely help with that. What type of care is she going to need? I think she will need post-surgery recovery care and possibly some skilled nursing for medication management. That sounds appropriate. Our post-surgery recovery care is priced between $85 and $110 for 1 to 3 hours. Okay, that sounds reasonable. Can we schedule a caregiver for next Tuesday? Yes, I can check the availability for you. What time do you expect your mother will be back home? She should be home by 2 PM. Perfect! I will schedule the caregiver for 3 PM. Does that work for you? Yes, that works. Will someone follow up with me regarding the caregiver’s details? Absolutely! I will have our Care Coordinator, Lisa Chen, reach out to you after this call. That sounds good. And do you need any other information from me? Just to confirm, we will also need your mother’s medical history and any specific care instructions. I can provide that via email. What’s the best email address? You can send it to info@carefirsthomehealth.com. Got it! I’ll do that. Do you accept insurance? Yes, we accept various insurances. Lisa will help with the insurance authorization process as well. Great! And what if my mother needs additional services later on? We offer a variety of services, including skilled nursing and personal care assistance, which we can discuss as needed. Okay, thank you for that! I really appreciate your help. It’s my pleasure, Patricia! Just to recap, we have scheduled post-surgery care for Tuesday at 3 PM. Yes, that’s correct. Thank you so much, Margaret! You’re very welcome! Have a great day, and we look forward to helping your mother. You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Patricia Wilson. I was referred by Dr. Anderson, and I need to set up post-surgery care for my mother.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Patricia! Can you tell me more about your mother’s surgery and when it's scheduled for?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She’s having a hip replacement next Tuesday, so we’ll need care starting that day.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 21,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Great, we can definitely help with that. What type of care is she going to need?",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I think she will need post-surgery recovery care and possibly some skilled nursing for medication management.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds appropriate. Our post-surgery recovery care is priced between $85 and $110 for 1 to 3 hours.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that sounds reasonable. Can we schedule a caregiver for next Tuesday?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, I can check the availability for you. What time do you expect your mother will be back home?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "She should be home by 2 PM.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Perfect! I will schedule the caregiver for 3 PM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that works. Will someone follow up with me regarding the caregiver’s details?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! I will have our Care Coordinator, Lisa Chen, reach out to you after this call.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. And do you need any other information from me?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Just to confirm, we will also need your mother’s medical history and any specific care instructions.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I can provide that via email. What’s the best email address?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You can send it to info@carefirsthomehealth.com.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Got it! I’ll do that. Do you accept insurance?",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we accept various insurances. Lisa will help with the insurance authorization process as well.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great! And what if my mother needs additional services later on?",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We offer a variety of services, including skilled nursing and personal care assistance, which we can discuss as needed.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Okay, thank you for that! I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It’s my pleasure, Patricia! Just to recap, we have scheduled post-surgery care for Tuesday at 3 PM.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that’s correct. Thank you so much, Margaret!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome! Have a great day, and we look forward to helping your mother.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 133,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9c89e2bd03ce4a5782b93d98",
+  "revision": "",
+  "status": "success"
+}
