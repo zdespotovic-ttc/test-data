@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0bba327d58ed42c4bfc5fb26",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946020814-4a6eca9d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0bba327d58ed42c4bfc5fb26",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "0bba327d58ed42c4bfc5fb26",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0bba327d58ed42c4bfc5fb26",
+      "media_name": "1a00610ed0d54db9a86dbe98da9b7122.mp3",
+      "scenario": "A client urgently requests immediate assistance for severe discomfort experienced after a recent treatment. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Dorothy Henderson. I really need help right now. I'm experiencing severe discomfort after my last physical therapy session. Oh no, I’m sorry to hear that, Dorothy. Can you describe the discomfort you're feeling? It's a sharp pain in my hip, and it’s been really hard to move. I just had therapy two days ago, and I’m really worried. I understand your concern. It's important we address this. Have you taken any pain medication since the therapy session? Yes, but it’s not helping much. I feel like I need someone to come and assess the situation. I can arrange for a nurse to visit you right away. Would you prefer a female nurse for this assessment? Yes, definitely. I really need a female caregiver. Got it. I’ll send one of our female registered nurses to you. Thank you so much. I just feel really anxious about this. That’s completely understandable, Dorothy. I’ll make sure the nurse understands the urgency of your situation. Let me confirm some details. Can you confirm your address for me? Yes, it’s 2847 North Ridge Road, Suite 205, Wichita, KS 67205. Thank you for that. How soon can we send the nurse? Would you prefer a morning visit? Yes, please, as soon as possible. I’ll have someone there in about 30 minutes. Is that okay? That would be perfect, thank you. You're welcome. Also, would you be interested in scheduling additional personal care assistance if needed after the assessment? Yes, I might need that, especially if the pain continues. Great, I’ll note that down. I’ll follow up with you after the nurse’s visit to check on your progress. Thank you so much, Margaret. I really appreciate your help. It’s my pleasure, Dorothy. We’re here for you. I’ll see you soon. Bye, see you soon. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Dorothy Henderson. I really need help right now. I'm experiencing severe discomfort after my last physical therapy session.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, I’m sorry to hear that, Dorothy. Can you describe the discomfort you're feeling?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's a sharp pain in my hip, and it’s been really hard to move. I just had therapy two days ago, and I’m really worried.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. It's important we address this. Have you taken any pain medication since the therapy session?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, but it’s not helping much. I feel like I need someone to come and assess the situation.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I can arrange for a nurse to visit you right away. Would you prefer a female nurse for this assessment?",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 44,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, definitely. I really need a female caregiver.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Got it. I’ll send one of our female registered nurses to you.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 53,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you so much. I just feel really anxious about this.",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That’s completely understandable, Dorothy. I’ll make sure the nurse understands the urgency of your situation.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 68,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Let me confirm some details. Can you confirm your address for me?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, it’s 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Thank you for that. How soon can we send the nurse? Would you prefer a morning visit?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, please, as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 92,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I’ll have someone there in about 30 minutes. Is that okay?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That would be perfect, thank you.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "You're welcome. Also, would you be interested in scheduling additional personal care assistance if needed after the assessment?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 109,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, I might need that, especially if the pain continues.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Great, I’ll note that down. I’ll follow up with you after the nurse’s visit to check on your progress.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 123,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 131,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "It’s my pleasure, Dorothy. We’re here for you. I’ll see you soon.",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 136,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Bye, see you soon.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0bba327d58ed42c4bfc5fb26",
+  "revision": "",
+  "status": "success"
+}
