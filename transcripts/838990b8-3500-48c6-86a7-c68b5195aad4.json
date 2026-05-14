@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-11T13:16:53Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4b09dcdf19884f8fac5662a7",
+    "created": 1773235013,
+    "modified": 1773235013
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005060-9df8e366",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4b09dcdf19884f8fac5662a7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63940454213,
+      "call_id": "4b09dcdf19884f8fac5662a7",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4b09dcdf19884f8fac5662a7",
+      "media_name": "6d3b26007fec46b5ad927f140e765f56.mp3",
+      "scenario": "A client books an appointment for a home appraisal service. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. My name is Michael Brown, and I was referred to you by the hospital discharge planning department. Nice to meet you, Michael! How can we help with your father's care needs? My father has diabetes and needs both wound care and medication management. Absolutely, we can assist with that. When would you like to schedule the appointment? I’d prefer sometime early next week if possible. How about Monday or Tuesday? We're available from 7 AM to 7 PM. Tuesday sounds good. Can we schedule it for the morning? Yes, we can do that. How about 10 AM? That works for me. Great! I’ll schedule a skilled nursing visit for wound care and medication management. What will that entail, and what's the cost? The skilled nursing care is $95 to $125 for a 1-2 hour visit. Okay, that sounds reasonable. Perfect. Just to confirm, your father will receive medication reminders and wound care during that visit. Yes, that's what we need. Will I need to be present during the appointment? It's not required, but having a family member there can be beneficial for communication. Understood. Should I have any specific documentation ready for the nurse? If you have his medical records or a list of medications, that would be helpful. Okay, I can manage that. Excellent! I’ll send you a confirmation email with details of the appointment. That would be great, thank you. Is there anything else you’d like to discuss or any other services you might need? Actually, my father might also benefit from companion care. What’s the pricing for that? Companion care is priced between $25 and $30 per hour. Would you like to consider scheduling that as well? I think we might, but I need to discuss it with my siblings first. Absolutely, take your time. I can provide you with more information via email. That sounds good. Thank you for your help today, Margaret. You’re very welcome, Michael! We look forward to helping your father. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Michael Brown, and I was referred to you by the hospital discharge planning department.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Michael! How can we help with your father's care needs?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My father has diabetes and needs both wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can assist with that. When would you like to schedule the appointment?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I’d prefer sometime early next week if possible.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "How about Monday or Tuesday? We're available from 7 AM to 7 PM.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Tuesday sounds good. Can we schedule it for the morning?",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, we can do that. How about 10 AM?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That works for me.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great! I’ll schedule a skilled nursing visit for wound care and medication management.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 47,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "What will that entail, and what's the cost?",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The skilled nursing care is $95 to $125 for a 1-2 hour visit.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, that sounds reasonable.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 60,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect. Just to confirm, your father will receive medication reminders and wound care during that visit.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that's what we need. Will I need to be present during the appointment?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "It's not required, but having a family member there can be beneficial for communication.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Understood. Should I have any specific documentation ready for the nurse?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "If you have his medical records or a list of medications, that would be helpful.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, I can manage that.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Excellent! I’ll send you a confirmation email with details of the appointment.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 90,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That would be great, thank you.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Is there anything else you’d like to discuss or any other services you might need?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Actually, my father might also benefit from companion care. What’s the pricing for that?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Companion care is priced between $25 and $30 per hour. Would you like to consider scheduling that as well?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I think we might, but I need to discuss it with my siblings first.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Absolutely, take your time. I can provide you with more information via email.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "That sounds good. Thank you for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re very welcome, Michael! We look forward to helping your father.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4b09dcdf19884f8fac5662a7",
+  "revision": "",
+  "status": "success"
+}
