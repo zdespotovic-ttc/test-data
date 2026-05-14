@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-01T06:40:01Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-787ccbd697544e5c834b57c3",
+    "created": 1772347201,
+    "modified": 1772347201
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005558-bfff0a67",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-787ccbd697544e5c834b57c3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 136,
+      "duration_ms": 136000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63939566401,
+      "call_id": "787ccbd697544e5c834b57c3",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-787ccbd697544e5c834b57c3",
+      "media_name": "8ae5680b718d4e90972033249b47b4d7.mp3",
+      "scenario": "A prospect contacts the clinic to learn more about their psychological counseling services. They want to understand the therapist's qualifications and the types of therapy offered. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 136.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Eleanor Watson. I'm actually looking for more information about your psychological counseling services. I’m glad you reached out, Eleanor. Just to clarify, we don’t offer psychological counseling at CareFirst. Oh, I see. I thought I saw that listed somewhere. What types of services do you provide then? We specialize in skilled nursing care, physical therapy, and personal care assistance, among others. That makes sense. I have been receiving physical therapy and skilled nursing care for my recovery. Yes, you have been with us for 14 months now, if I recall correctly. How is your recovery going? It’s been a journey, but I’m improving, thanks to your team. That’s great to hear, Eleanor! Dr. Rodriguez has been really dedicated to your post-stroke rehabilitation. Yes, he has been wonderful. Can you tell me more about the types of therapy you offer? Certainly! We provide physical therapy for mobility, strength, and balance improvement. And what about the skilled nursing care? Our skilled nursing care includes medication management, wound care, and health monitoring. That sounds helpful. What are the pricing details for those services? Skilled nursing care ranges from $95 to $125 for a 1-2 hour visit, while physical therapy is $110 to $140 for 45-60 minutes. Thanks for the information! I appreciate it. Are there any follow-up appointments I should be aware of? Your last visit was three days ago, and we can schedule your next session as needed. That would be great. I’d like to book my next physical therapy appointment for next week. Absolutely! We can look at available slots between 10 AM and 2 PM, as per your preference. Yes, that works for me. Let me check our schedule for you. One moment, please. Sure, take your time. It looks like we have openings on Tuesday and Thursday next week during your preferred hours. I’ll take Tuesday, please. Great choice! I’ll confirm that for you. Thank you, Margaret. You're welcome, Eleanor! Is there anything else I can assist you with today? No, that’s all for now. Thanks again! Thank you for calling CareFirst Home Health. Have a wonderful day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I'm actually looking for more information about your psychological counseling services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m glad you reached out, Eleanor. Just to clarify, we don’t offer psychological counseling at CareFirst.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I thought I saw that listed somewhere. What types of services do you provide then?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We specialize in skilled nursing care, physical therapy, and personal care assistance, among others.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That makes sense. I have been receiving physical therapy and skilled nursing care for my recovery.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, you have been with us for 14 months now, if I recall correctly. How is your recovery going?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It’s been a journey, but I’m improving, thanks to your team.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That’s great to hear, Eleanor! Dr. Rodriguez has been really dedicated to your post-stroke rehabilitation.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, he has been wonderful. Can you tell me more about the types of therapy you offer?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Certainly! We provide physical therapy for mobility, strength, and balance improvement.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "And what about the skilled nursing care?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Our skilled nursing care includes medication management, wound care, and health monitoring.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds helpful. What are the pricing details for those services?",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Skilled nursing care ranges from $95 to $125 for a 1-2 hour visit, while physical therapy is $110 to $140 for 45-60 minutes.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thanks for the information! I appreciate it. Are there any follow-up appointments I should be aware of?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Your last visit was three days ago, and we can schedule your next session as needed.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be great. I’d like to book my next physical therapy appointment for next week.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely! We can look at available slots between 10 AM and 2 PM, as per your preference.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that works for me.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Let me check our schedule for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It looks like we have openings on Tuesday and Thursday next week during your preferred hours.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I’ll take Tuesday, please.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great choice! I’ll confirm that for you.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome, Eleanor! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "No, that’s all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 136,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-787ccbd697544e5c834b57c3",
+  "revision": "",
+  "status": "success"
+}
