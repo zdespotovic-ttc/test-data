@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-22T02:57:15Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c08c1c5f4e404110a6edf523",
+    "created": 1774148235,
+    "modified": 1774148235
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005160-89a7a96d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c08c1c5f4e404110a6edf523",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941367435,
+      "call_id": "c08c1c5f4e404110a6edf523",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c08c1c5f4e404110a6edf523",
+      "media_name": "2634b46b8c1448fd97fc95f903d6559d.mp3",
+      "scenario": "A potential customer requests a price estimate for a full home renovation project. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Edward Martinez. I wanted to request a price estimate for a full home renovation project. I’m sorry, Edward, but we specialize in home healthcare services, not renovations. Oh, I see. I must have the wrong number. I’m looking for a contractor. No worries! If you need healthcare services, I can help with that. We offer respite care, which you’re already utilizing. Yes, my wife uses your respite services for my Parkinson's. I was just confused. Absolutely, I understand. If you're looking for ongoing support, we can certainly discuss options for additional care. That would be helpful. Can you remind me of the rates for respite care? Our respite care is priced at $30 to $38 per hour, depending on the caregiver's qualifications. Great, that sounds reasonable. What if I need more hours per week? We can work out a customized plan that fits your needs. Would you like to schedule a meeting to discuss this? Yes, I think so. My wife has a few appointments next week. How about I set a tentative schedule for three hours on Tuesday and Thursday next week? That should work. Can you confirm the caregiver for those sessions? Yes, I can make sure to match you with a caregiver experienced in Parkinson's care. That would be perfect. I appreciate that. I’ll also send you the details regarding insurance authorization for those sessions. Thank you, I appreciate that. Is there anything else you would like to discuss while I have you on the line? Not right now, just want to make sure we have the care in place. Understood. I’ll follow up with the proposed schedule and caregiver details by tomorrow. Sounds good. Thank you for your help, Margaret. You’re welcome, Edward. We’re here to support you. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Edward Martinez. I wanted to request a price estimate for a full home renovation project.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry, Edward, but we specialize in home healthcare services, not renovations.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I must have the wrong number. I’m looking for a contractor.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "No worries! If you need healthcare services, I can help with that. We offer respite care, which you’re already utilizing.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, my wife uses your respite services for my Parkinson's. I was just confused.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I understand. If you're looking for ongoing support, we can certainly discuss options for additional care.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That would be helpful. Can you remind me of the rates for respite care?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our respite care is priced at $30 to $38 per hour, depending on the caregiver's qualifications.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Great, that sounds reasonable. What if I need more hours per week?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can work out a customized plan that fits your needs. Would you like to schedule a meeting to discuss this?",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I think so. My wife has a few appointments next week.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "How about I set a tentative schedule for three hours on Tuesday and Thursday next week?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That should work. Can you confirm the caregiver for those sessions?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, I can make sure to match you with a caregiver experienced in Parkinson's care.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be perfect. I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll also send you the details regarding insurance authorization for those sessions.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 79,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Is there anything else you would like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Not right now, just want to make sure we have the care in place.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Understood. I’ll follow up with the proposed schedule and caregiver details by tomorrow.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good. Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Edward. We’re here to support you. Have a great day!",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c08c1c5f4e404110a6edf523",
+  "revision": "",
+  "status": "success"
+}
