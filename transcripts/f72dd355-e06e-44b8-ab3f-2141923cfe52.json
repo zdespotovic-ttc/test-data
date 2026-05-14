@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-23T14:55:19Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a138c527d3ec44b883b77561",
+    "created": 1774277719,
+    "modified": 1774277719
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005797-be6182af",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a138c527d3ec44b883b77561",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 159,
+      "duration_ms": 159000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941496919,
+      "call_id": "a138c527d3ec44b883b77561",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a138c527d3ec44b883b77561",
+      "media_name": "737a0f0e5d6441d6b0606588c8858dce.mp3",
+      "scenario": "A prospect asks for a quote on the cost of a personalized nutrition plan. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 159.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is David Anderson. I'm calling because my wife is recovering from a stroke, and we need some help. I'm sorry to hear that, David. I hope she's doing okay. What specific services are you looking for? Well, I'm interested in physical therapy and nursing care. Absolutely, we can help with both of those. Just to clarify, are you interested in scheduling ongoing sessions? Yes, that would be ideal. Also, I've heard great things about your services from Dorothy Henderson. Dorothy is wonderful! I'm glad she referred you to us. Let's get some details sorted. Sure, can you provide me with a quote for those services? Of course. For physical therapy, our rates range from $110 to $140 per session, typically lasting 45 to 60 minutes. Okay, and what about nursing care? Skilled nursing care is $95 to $125 per visit, lasting 1 to 2 hours. That sounds reasonable. Will you need to assess my wife before starting the services? Yes, we usually conduct an initial assessment to tailor the care plan to her needs. Is that included in the pricing? The assessment is typically included in the first visit for nursing care. Great! I’d like to move forward with scheduling the assessment. Perfect! I can set that up for you. What days and times work best? My schedule is a bit tight, but I can do Monday or Tuesday afternoons. How about we aim for Monday at 2 PM? That works for me. Excellent! I’ll schedule that for you. Is there anything else you’d like to discuss? Yes, actually. I'm curious if you offer any nutritional support as well. We don't offer personalized nutrition plans directly, but I can recommend some local dietitians. That would be helpful! I’ll send you some contacts in a follow-up email after our call. Thank you very much. I appreciate that. You're welcome, David! I’ll also confirm the assessment appointment via email. Sounds good. Thanks again for your help today. My pleasure! If you have any more questions, feel free to reach out. I will. Have a great day! You too, David! Take care. Bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is David Anderson. I'm calling because my wife is recovering from a stroke, and we need some help.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, David. I hope she's doing okay. What specific services are you looking for?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I'm interested in physical therapy and nursing care.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can help with both of those. Just to clarify, are you interested in scheduling ongoing sessions?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, that would be ideal. Also, I've heard great things about your services from Dorothy Henderson.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Dorothy is wonderful! I'm glad she referred you to us. Let's get some details sorted.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, can you provide me with a quote for those services?",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course. For physical therapy, our rates range from $110 to $140 per session, typically lasting 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, and what about nursing care?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Skilled nursing care is $95 to $125 per visit, lasting 1 to 2 hours.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 59,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds reasonable. Will you need to assess my wife before starting the services?",
+          "speaker": "remote party",
+          "start_time": 59,
+          "end_time": 64,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we usually conduct an initial assessment to tailor the care plan to her needs.",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Is that included in the pricing?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The assessment is typically included in the first visit for nursing care.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great! I’d like to move forward with scheduling the assessment.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 84,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect! I can set that up for you. What days and times work best?",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "My schedule is a bit tight, but I can do Monday or Tuesday afternoons.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "How about we aim for Monday at 2 PM?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That works for me.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Excellent! I’ll schedule that for you. Is there anything else you’d like to discuss?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, actually. I'm curious if you offer any nutritional support as well.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "We don't offer personalized nutrition plans directly, but I can recommend some local dietitians.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That would be helpful!",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I’ll send you some contacts in a follow-up email after our call.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you very much. I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome, David! I’ll also confirm the assessment appointment via email.",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 136,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Sounds good. Thanks again for your help today.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 141,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "My pleasure! If you have any more questions, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 141,
+          "end_time": 145,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You too, David! Take care.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 153,
+          "end_time": 156,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 159,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a138c527d3ec44b883b77561",
+  "revision": "",
+  "status": "success"
+}
