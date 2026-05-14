@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c1f8006850de4c7c96e30715",
+    "created": 1778716800,
+    "modified": 1778716800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946019443-9db7d218",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c1f8006850de4c7c96e30715",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 154,
+      "duration_ms": 154000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945936000,
+      "call_id": "c1f8006850de4c7c96e30715",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c1f8006850de4c7c96e30715",
+      "media_name": "8075d79640444ba4801fef4339450f6c.mp3",
+      "scenario": "An existing client calls to confirm and book their bi-weekly appointment that fits their schedule. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 154.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Edward Martinez. I'm calling to confirm my bi-weekly respite care appointment. Hi Edward, great to hear from you! Let me pull up your records. I see that your last visit was five days ago. Would you like to schedule your next appointment for next week? Yes, that sounds good. Is there a time that works best? We can offer you slots on Tuesday or Thursday between 10 AM and 2 PM. How about Tuesday at 11 AM? Let me check... Yes, that time is available. I’ll go ahead and book you for Tuesday at 11 AM for your respite care. Perfect! I know my wife really appreciates these breaks. Absolutely, we’re happy to help support you both. Just to confirm, this is for one of our Personal Care Assistants, right? Yes, that’s correct. The same person as last time, if possible. Of course, I’ll make a note to schedule the same assistant for you. Is there anything else we can assist you with today? Actually, I was wondering if you have any services for physical therapy. Yes, we do! Our Physical Therapy sessions are available for $110 to $140 per visit. They focus on mobility training and post-surgery rehabilitation. That might be helpful for me. Can I get more information on that? Absolutely, I can connect you with Dr. James Rodriguez, our physical therapist. Would you like me to schedule a consultation for you with him? Yes, please! A consultation would be great. How about we aim for Wednesday at 10 AM? That works for me! All right, I’ll book a consultation for you then. Just to recap, you have your respite care appointment on Tuesday at 11 AM. And the physical therapy consultation is scheduled for Wednesday at 10 AM. Yes, that sounds perfect. Thank you for your help! You’re welcome, Edward! Is there anything else you need? No, that’s all for now. Thanks again! Thank you for calling CareFirst Home Health. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I'm calling to confirm my bi-weekly respite care appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward, great to hear from you! Let me pull up your records.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I see that your last visit was five days ago. Would you like to schedule your next appointment for next week?",
+          "speaker": "local party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Yes, that sounds good. Is there a time that works best?",
+          "speaker": "remote party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "We can offer you slots on Tuesday or Thursday between 10 AM and 2 PM.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "How about Tuesday at 11 AM?",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 31,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Let me check... Yes, that time is available.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 34,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I’ll go ahead and book you for Tuesday at 11 AM for your respite care.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Perfect! I know my wife really appreciates these breaks.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, we’re happy to help support you both.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Just to confirm, this is for one of our Personal Care Assistants, right?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, that’s correct. The same person as last time, if possible.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Of course, I’ll make a note to schedule the same assistant for you.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Is there anything else we can assist you with today?",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, I was wondering if you have any services for physical therapy.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we do! Our Physical Therapy sessions are available for $110 to $140 per visit.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "They focus on mobility training and post-surgery rehabilitation.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That might be helpful for me. Can I get more information on that?",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely, I can connect you with Dr. James Rodriguez, our physical therapist.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Would you like me to schedule a consultation for you with him?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please! A consultation would be great.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "How about we aim for Wednesday at 10 AM?",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That works for me!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "All right, I’ll book a consultation for you then.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Just to recap, you have your respite care appointment on Tuesday at 11 AM.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "And the physical therapy consultation is scheduled for Wednesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Yes, that sounds perfect. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Edward! Is there anything else you need?",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "No, that’s all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 149,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 149,
+          "end_time": 154,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c1f8006850de4c7c96e30715",
+  "revision": "",
+  "status": "success"
+}
