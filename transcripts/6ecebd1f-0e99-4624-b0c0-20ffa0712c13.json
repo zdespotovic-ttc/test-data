@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-27T11:22:14Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-229f6f81b555495da0f5b08c",
+    "created": 1774610534,
+    "modified": 1774610534
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005750-8fbfb71d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-229f6f81b555495da0f5b08c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941829734,
+      "call_id": "229f6f81b555495da0f5b08c",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-229f6f81b555495da0f5b08c",
+      "media_name": "1a748a8a9264457889dfcbe419344f11.mp3",
+      "scenario": "A client urgently requests a same-day appointment due to sudden severe back pain, seeking immediate relief from their usual physiotherapist. The receptionist notes the urgency and accommodates them. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Agnes Rodriguez. I need help urgently; I'm experiencing severe back pain. I'm sorry to hear that, Agnes. When did the pain start? It just came on suddenly this morning. I need to see my physiotherapist today. I understand how urgent this is. Let me check the schedule for you. We have Dr. James Rodriguez, our physical therapist, available today at 1 PM. Does that work for you? Yes, that would be great. I really need some relief. Perfect! I’ll get that scheduled right away. May I ask if you have any specific exercises or treatments that usually help your back pain? I usually do some stretching exercises and heat therapy, but it’s not helping this time. Thank you for letting me know. I’ll make sure Dr. Rodriguez is aware of your usual treatments. Is there anything else you’d like to discuss while I have you on the line? Well, I also wanted to inquire about companion care services again. Absolutely! We can provide companion care to help with social activities or household tasks. Our rates are between $25 and $30 per hour. That sounds reasonable. I think I could use that once a week. Great! I can connect you with Lisa Chen, our Care Coordinator, to help set that up. I’ll have her give you a call after your appointment with Dr. Rodriguez today. Thank you, Margaret. I appreciate your help with this. You're very welcome, Agnes. Just to confirm, your appointment is at 1 PM today with Dr. Rodriguez. Yes, I have that noted. Perfect! I’ll also send a follow-up message regarding the companion care service. Thank you so much! I look forward to it. You're welcome! Take care, and we'll see you soon. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I need help urgently; I'm experiencing severe back pain.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Agnes. When did the pain start?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It just came on suddenly this morning. I need to see my physiotherapist today.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how urgent this is. Let me check the schedule for you.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We have Dr. James Rodriguez, our physical therapist, available today at 1 PM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, that would be great. I really need some relief.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Perfect! I’ll get that scheduled right away.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "May I ask if you have any specific exercises or treatments that usually help your back pain?",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I usually do some stretching exercises and heat therapy, but it’s not helping this time.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for letting me know. I’ll make sure Dr. Rodriguez is aware of your usual treatments.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Is there anything else you’d like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Well, I also wanted to inquire about companion care services again.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 69,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Absolutely! We can provide companion care to help with social activities or household tasks.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Our rates are between $25 and $30 per hour.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reasonable. I think I could use that once a week.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 84,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I can connect you with Lisa Chen, our Care Coordinator, to help set that up.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I’ll have her give you a call after your appointment with Dr. Rodriguez today.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 95,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You're very welcome, Agnes. Just to confirm, your appointment is at 1 PM today with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, I have that noted.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Perfect! I’ll also send a follow-up message regarding the companion care service.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you so much! I look forward to it.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You're welcome! Take care, and we'll see you soon.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 126,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-229f6f81b555495da0f5b08c",
+  "revision": "",
+  "status": "success"
+}
