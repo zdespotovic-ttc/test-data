@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f7403fa383144eb592327d70",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946020743-85f8b360",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f7403fa383144eb592327d70",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "f7403fa383144eb592327d70",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f7403fa383144eb592327d70",
+      "media_name": "dd004d8cca624c20b53232850e7ba707.mp3",
+      "scenario": "A prospective client requests a quote for a customized physical therapy program that includes both individual and group sessions. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is William Chen. I’m looking for a quote for a customized physical therapy program. Hi William! Great to hear from you. Can you tell me a bit more about what you’re looking for? Sure! I’d like to include both individual sessions and some group therapy options as well. Absolutely, I can help with that. How many sessions are you considering per week? I was thinking maybe two individual sessions and one group session weekly. That sounds good. Our individual physical therapy sessions are priced at $110 to $140 each, depending on the specific needs. Okay, and what about the group sessions? Group sessions are typically priced at $25 per participant per session. Would you be interested in having a consistent group for those? Yes, that would be helpful. Can you give me a rough total estimate? Sure, for two individual sessions at an average of $125 each, that would be $250. And for the group session at $25, that would total $275 each week. Great, so around $275 weekly for that? Yes, that’s correct. We can adjust as needed based on how your recovery progresses. Sounds perfect! What are the next steps? I’ll need to set up an initial assessment to customize your plan further. Would you like me to schedule that? Yes, please! When is the earliest I can get in? We have openings next week on Tuesday or Thursday, which works for you? Let’s do Tuesday, if possible. Perfect! I’ll schedule you for Tuesday at 10 AM. Great, thank you! You’re welcome! Also, if you have any questions about insurance coverage, I can connect you with our Care Coordinator, Lisa. That would be helpful. Can you have her call me after our appointment? Absolutely, I’ll make a note for Lisa to follow up with you. Thank you, Margaret. I appreciate your help! My pleasure, William! Looking forward to seeing you on Tuesday. See you then! Take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I’m looking for a quote for a customized physical therapy program.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William! Great to hear from you. Can you tell me a bit more about what you’re looking for?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure! I’d like to include both individual sessions and some group therapy options as well.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, I can help with that. How many sessions are you considering per week?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I was thinking maybe two individual sessions and one group session weekly.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds good. Our individual physical therapy sessions are priced at $110 to $140 each, depending on the specific needs.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and what about the group sessions?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Group sessions are typically priced at $25 per participant per session. Would you be interested in having a consistent group for those?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be helpful. Can you give me a rough total estimate?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sure, for two individual sessions at an average of $125 each, that would be $250.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "And for the group session at $25, that would total $275 each week.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Great, so around $275 weekly for that?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Yes, that’s correct. We can adjust as needed based on how your recovery progresses.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 71,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Sounds perfect! What are the next steps?",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 76,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I’ll need to set up an initial assessment to customize your plan further. Would you like me to schedule that?",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, please! When is the earliest I can get in?",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 85,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "We have openings next week on Tuesday or Thursday, which works for you?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Let’s do Tuesday, if possible.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect! I’ll schedule you for Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Great, thank you!",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome! Also, if you have any questions about insurance coverage, I can connect you with our Care Coordinator, Lisa.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That would be helpful. Can you have her call me after our appointment?",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Absolutely, I’ll make a note for Lisa to follow up with you.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "My pleasure, William! Looking forward to seeing you on Tuesday.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "See you then!",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 129,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Take care!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f7403fa383144eb592327d70",
+  "revision": "",
+  "status": "success"
+}
