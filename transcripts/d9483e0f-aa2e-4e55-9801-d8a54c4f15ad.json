@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-20T12:16:31Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5336ed07a5684481a218d483",
+    "created": 1774008991,
+    "modified": 1774008991
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005243-962df618",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5336ed07a5684481a218d483",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 153,
+      "duration_ms": 153000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941228191,
+      "call_id": "5336ed07a5684481a218d483",
+      "caller_id_number": "+13165559012",
+      "caller_id_name": "Lucille Davis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5336ed07a5684481a218d483",
+      "media_name": "89684cfd17694e648541506226495c95.mp3",
+      "scenario": "A customer contacts billing support to dispute a penalty charge they believe was incorrectly applied. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 153.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Lucille Davis. I'm calling about a billing issue I noticed on my latest invoice. Hi Lucille! I’m sorry to hear that. Can you tell me what the issue is? Yes, I saw a penalty charge that I believe was applied incorrectly. I understand. Can you please provide me with the details of that charge? It’s a $30 penalty for a missed payment, but I thought I had paid everything on time. Let me take a look at your account, Lucille. One moment, please. Okay, I see the charge you're referring to. It appears there was a late payment recorded from last month. But I confirmed my payment was made on time. Can you verify the date it was recorded? Sure, let me pull that up… It looks like it was recorded a day late. That doesn't seem right. I have my bank statement that shows it was processed on time. I appreciate you bringing this to our attention. Are you able to send that statement to us? Yes, I can send it via email. What’s the best address for that? You can send it to billing@carefirsthomehealth.com. Great! I’ll do that as soon as we finish our call. Thank you, Lucille. Once we receive your statement, I’ll ensure this is reviewed immediately. I appreciate that. How long will it take to process? Typically, it takes about 3-5 business days for us to process billing disputes. Okay, that sounds fair. I just want to make sure I don’t get charged again. Absolutely, I’ll make a note to waive any future late fees until this is resolved. Thank you! I have one more question about my care services while I have you. Of course! What would you like to know about your care services? I was wondering if I could add a few more hours of personal care assistance each week? We can definitely assist with that. How many additional hours are you considering? I was thinking about 3 more hours a week. Great! I can connect you with Lisa, our Care Coordinator, to set that up. Please do! That would be very helpful. I’ll have Lisa give you a call within the next few hours to discuss the details. Perfect, thank you so much for your help today, Margaret. You’re welcome, Lucille! Thank you for being a valued client. Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Lucille Davis. I'm calling about a billing issue I noticed on my latest invoice.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Lucille! I’m sorry to hear that. Can you tell me what the issue is?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I saw a penalty charge that I believe was applied incorrectly.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Can you please provide me with the details of that charge?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s a $30 penalty for a missed payment, but I thought I had paid everything on time.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me take a look at your account, Lucille. One moment, please.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see the charge you're referring to. It appears there was a late payment recorded from last month.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "But I confirmed my payment was made on time. Can you verify the date it was recorded?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Sure, let me pull that up… It looks like it was recorded a day late.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That doesn't seem right. I have my bank statement that shows it was processed on time.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I appreciate you bringing this to our attention. Are you able to send that statement to us?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, I can send it via email. What’s the best address for that?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "You can send it to billing@carefirsthomehealth.com.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 73,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll do that as soon as we finish our call.",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Lucille. Once we receive your statement, I’ll ensure this is reviewed immediately.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I appreciate that. How long will it take to process?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Typically, it takes about 3-5 business days for us to process billing disputes.",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Okay, that sounds fair. I just want to make sure I don’t get charged again.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely, I’ll make a note to waive any future late fees until this is resolved.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you! I have one more question about my care services while I have you.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Of course! What would you like to know about your care services?",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "I was wondering if I could add a few more hours of personal care assistance each week?",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "We can definitely assist with that. How many additional hours are you considering?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "I was thinking about 3 more hours a week.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Great! I can connect you with Lisa, our Care Coordinator, to set that up.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Please do! That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "I’ll have Lisa give you a call within the next few hours to discuss the details.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Perfect, thank you so much for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "You’re welcome, Lucille! Thank you for being a valued client. Have a great day!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 148,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 148,
+          "end_time": 150,
+          "channel": "right",
+          "id": 30
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "left",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559012",
+    "ooma_remote_name": "Lucille Davis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5336ed07a5684481a218d483",
+  "revision": "",
+  "status": "success"
+}
