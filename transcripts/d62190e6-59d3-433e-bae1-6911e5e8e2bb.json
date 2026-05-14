@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-18T22:59:20Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d3f81a4169264930b7076416",
+    "created": 1773874760,
+    "modified": 1773874760
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005761-2d9e1f15",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d3f81a4169264930b7076416",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 174,
+      "duration_ms": 174000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941093960,
+      "call_id": "d3f81a4169264930b7076416",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d3f81a4169264930b7076416",
+      "media_name": "47b677c4fa9f4cd4b298349ca6c22a0b.mp3",
+      "scenario": "Another client disputes the amount charged for their recent membership renewal. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 174.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is Michael Brown. I found your number through the hospital discharge planning department. Nice to meet you, Michael. What can I help you with today? Well, my father has diabetes, and he needs wound care as well as medication management. We can definitely help with that! Our skilled nursing services include both wound care and medication management. That's great to hear. But actually, I need to ask about something else first. There’s also a billing dispute I heard about from a friend. Oh, I see. I can help with that. What seems to be the issue? My friend mentioned that they were charged an unexpected amount for their recent membership renewal. They were pretty upset about it. I understand how frustrating that can be. Let me pull up the details on that. Can you provide me with their name? Yes, it’s Sarah Thompson. I believe she’s been a client for quite some time. Thank you, Michael. I’m just checking her account now. One moment, please. Okay, I have her account here. It appears there was a misunderstanding regarding her renewal date and the payment amount. So what can be done about it? Is there a way to resolve this? Absolutely. I can arrange for someone from our billing department to reach out to her directly to clarify the charges. That sounds good. She just needs to know why she was charged that amount. I’ll make sure we follow up with her. Can I have her contact number to expedite the process? Sure, it's +13165558900. Thank you! I’ll pass that along. What other concerns do you have? Well, I’d like to get more information about the services for my father, especially the wound care. Of course! Our wound care management is priced between $75 and $95 for a session lasting 30 to 45 minutes. And how about medication management? Medication management is $65 to $80 for 30 to 45 minutes. Okay, that's helpful. I think those services will really benefit him. Great! Would you like me to schedule an assessment visit for your father? Yes, I would appreciate that. When can we set it up? I can schedule an assessment as early as this Wednesday. Does that work for you? Yes, that sounds perfect. Excellent! I’ll set that up and send you a confirmation. Is there anything else I can assist you with? No, that’s everything for now. Thank you for your help! You’re welcome, Michael! We look forward to helping your father. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Michael Brown. I found your number through the hospital discharge planning department.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Michael. What can I help you with today?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my father has diabetes, and he needs wound care as well as medication management.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 19,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely help with that! Our skilled nursing services include both wound care and medication management.",
+          "speaker": "local party",
+          "start_time": 19,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That's great to hear. But actually, I need to ask about something else first. There’s also a billing dispute I heard about from a friend.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Oh, I see. I can help with that. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "My friend mentioned that they were charged an unexpected amount for their recent membership renewal. They were pretty upset about it.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand how frustrating that can be. Let me pull up the details on that. Can you provide me with their name?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, it’s Sarah Thompson. I believe she’s been a client for quite some time.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you, Michael. I’m just checking her account now. One moment, please.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, I have her account here. It appears there was a misunderstanding regarding her renewal date and the payment amount.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 75,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "So what can be done about it? Is there a way to resolve this?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Absolutely. I can arrange for someone from our billing department to reach out to her directly to clarify the charges.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That sounds good. She just needs to know why she was charged that amount.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I’ll make sure we follow up with her. Can I have her contact number to expedite the process?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Sure, it's +13165558900.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Thank you! I’ll pass that along. What other concerns do you have?",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Well, I’d like to get more information about the services for my father, especially the wound care.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Of course! Our wound care management is priced between $75 and $95 for a session lasting 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "And how about medication management?",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Medication management is $65 to $80 for 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Okay, that's helpful. I think those services will really benefit him.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Great! Would you like me to schedule an assessment visit for your father?",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 136,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Yes, I would appreciate that. When can we set it up?",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 141,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "I can schedule an assessment as early as this Wednesday. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 141,
+          "end_time": 150,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Yes, that sounds perfect.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Excellent! I’ll set that up and send you a confirmation. Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 160,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "No, that’s everything for now. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 164,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "You’re welcome, Michael! We look forward to helping your father. Have a great day!",
+          "speaker": "local party",
+          "start_time": 164,
+          "end_time": 168,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 168,
+          "end_time": 171,
+          "channel": "right",
+          "id": 30
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 171,
+          "end_time": 174,
+          "channel": "left",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d3f81a4169264930b7076416",
+  "revision": "",
+  "status": "success"
+}
