@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-92ac25028f564461873890f6",
+    "created": 1778716800,
+    "modified": 1778716800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946019469-3c1ab74e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-92ac25028f564461873890f6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945936000,
+      "call_id": "92ac25028f564461873890f6",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-92ac25028f564461873890f6",
+      "media_name": "21bbdc94a18e4ccbbafb9807b1534381.mp3",
+      "scenario": "A customer calls to express dissatisfaction with the quality of a recently received service and requests a resolution. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Susan Garcia. I'm calling about some concerns regarding the care my father received last week. I'm sorry to hear that, Susan. Can you tell me a bit more about your concerns? Yes, my father has COPD, and the respiratory care he received didn't seem to meet our expectations. The caregiver seemed rushed and didn’t provide the breathing treatments as scheduled. I apologize for that experience, Susan. That's certainly not the level of service we aim to provide. Thank you, I appreciate that. It’s just really important for my father to get consistent care, especially with his condition. Absolutely, I understand your concerns. Let’s work on this together. Okay, what can we do to resolve this? First, I’ll document your feedback and investigate the caregiver’s schedule and actions during the visit. That sounds good. I just want to make sure that he gets the right care. Definitely. I’ll also reach out to our Care Coordinator, Lisa Chen, to see if we can arrange for a more experienced caregiver for your father moving forward. I think that would help a lot. Does he need to be reassessed for his care plan? Yes, a reassessment might be beneficial to ensure his needs are fully met. Great! I’d really appreciate that. I will personally follow up with you by the end of the week after speaking to Lisa. Would that work for you? Yes, that would be perfect. Thank you! You’re welcome, Susan. Just to confirm, would you like us to send a different caregiver for his next appointment? Yes, please! That would make me feel much better. Understood. I’ll make that note and ensure it happens. Is there anything else I can assist you with today? Not at the moment, but thank you for your help. You're welcome! We appreciate your understanding, and we’ll work to improve the situation. Thank you, Margaret. I’ll look forward to hearing from you. Thank you, Susan. Have a great day! You too. Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Susan Garcia. I'm calling about some concerns regarding the care my father received last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Susan. Can you tell me a bit more about your concerns?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, my father has COPD, and the respiratory care he received didn't seem to meet our expectations. The caregiver seemed rushed and didn’t provide the breathing treatments as scheduled.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for that experience, Susan. That's certainly not the level of service we aim to provide.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I appreciate that. It’s just really important for my father to get consistent care, especially with his condition.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 38,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I understand your concerns. Let’s work on this together.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, what can we do to resolve this?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "First, I’ll document your feedback and investigate the caregiver’s schedule and actions during the visit.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds good. I just want to make sure that he gets the right care.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Definitely. I’ll also reach out to our Care Coordinator, Lisa Chen, to see if we can arrange for a more experienced caregiver for your father moving forward.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I think that would help a lot. Does he need to be reassessed for his care plan?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, a reassessment might be beneficial to ensure his needs are fully met.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great! I’d really appreciate that.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I will personally follow up with you by the end of the week after speaking to Lisa. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be perfect. Thank you!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome, Susan. Just to confirm, would you like us to send a different caregiver for his next appointment?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please! That would make me feel much better.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Understood. I’ll make that note and ensure it happens. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Not at the moment, but thank you for your help.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome! We appreciate your understanding, and we’ll work to improve the situation.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I’ll look forward to hearing from you.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Susan. Have a great day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 160,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-92ac25028f564461873890f6",
+  "revision": "",
+  "status": "success"
+}
