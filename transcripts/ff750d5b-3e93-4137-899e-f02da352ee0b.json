@@ -1,0 +1,229 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-762d082593a7469192402e2f",
+    "created": 1778716800,
+    "modified": 1778716800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946019361-b21af573",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-762d082593a7469192402e2f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 157,
+      "duration_ms": 157000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945936000,
+      "call_id": "762d082593a7469192402e2f",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-762d082593a7469192402e2f",
+      "media_name": "b00054c6ffde4e78bea75a552bc4e309.mp3",
+      "scenario": "A prospective client calls to ask about the range of services offered by the company and pricing details. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 157.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, my name is George Williams. I'm looking for information about your services. Nice to meet you, George! We offer a variety of services. Are you looking for skilled nursing or non-skilled care? I’m not sure yet. Can you give me a brief overview of what you provide? Absolutely! We provide skilled nursing care, physical therapy, personal care assistance, companionship, and specialized care like post-surgery recovery and dementia care. That sounds comprehensive. What about the pricing for these services? Sure! For instance, skilled nursing care ranges from $95 to $125 for 1-2 hours, while personal care assistance is priced at $28 to $35 per hour. Would you like details on anything specific? Yes, I'm particularly interested in skilled nursing and post-surgery recovery care. Great choice! Skilled nursing care, as I mentioned, is $95 to $125, and post-surgery recovery care costs between $85 and $110 for 1-3 hours. That sounds reasonable. How do I book these services? You can either call us back to schedule or I can take down your details and have our Care Coordinator, Lisa Chen, reach out to you. Yes, please have Lisa reach out. I’d also like to know how soon services can start. Typically, we can start services within a week, depending on availability. I can confirm this when I provide your information to Lisa. Sounds good. I’d also like to discuss insurance options. Of course, Lisa can help with insurance authorization and will discuss payment options with you. Would you like me to collect your information now? Yes, please. My name is George Williams, and my phone number is +13165555678. Thank you, George. And what’s the best time for Lisa to reach you? I’m usually free in the afternoons, around 2 PM. Perfect! I’ll make sure she calls you then. Is there anything else you’d like to know? No, that covers it for now. Thank you for the information, Margaret! You’re welcome, George! We look forward to helping you. Have a great day! You too, thanks again!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is George Williams. I'm looking for information about your services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, George! We offer a variety of services. Are you looking for skilled nursing or non-skilled care?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m not sure yet. Can you give me a brief overview of what you provide?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely! We provide skilled nursing care, physical therapy, personal care assistance, companionship, and specialized care like post-surgery recovery and dementia care.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds comprehensive. What about the pricing for these services?",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure! For instance, skilled nursing care ranges from $95 to $125 for 1-2 hours, while personal care assistance is priced at $28 to $35 per hour. Would you like details on anything specific?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 47,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, I'm particularly interested in skilled nursing and post-surgery recovery care.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great choice! Skilled nursing care, as I mentioned, is $95 to $125, and post-surgery recovery care costs between $85 and $110 for 1-3 hours.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds reasonable. How do I book these services?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "You can either call us back to schedule or I can take down your details and have our Care Coordinator, Lisa Chen, reach out to you.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 77,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please have Lisa reach out. I’d also like to know how soon services can start.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 85,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Typically, we can start services within a week, depending on availability. I can confirm this when I provide your information to Lisa.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 97,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sounds good. I’d also like to discuss insurance options.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, Lisa can help with insurance authorization and will discuss payment options with you. Would you like me to collect your information now?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 111,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please. My name is George Williams, and my phone number is +13165555678.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 118,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you, George. And what’s the best time for Lisa to reach you?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I’m usually free in the afternoons, around 2 PM.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 135,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll make sure she calls you then. Is there anything else you’d like to know?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No, that covers it for now. Thank you for the information, Margaret!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 149,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, George! We look forward to helping you. Have a great day!",
+          "speaker": "local party",
+          "start_time": 149,
+          "end_time": 154,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, thanks again!",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 157,
+          "channel": "right",
+          "id": 21
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-762d082593a7469192402e2f",
+  "revision": "",
+  "status": "success"
+}
