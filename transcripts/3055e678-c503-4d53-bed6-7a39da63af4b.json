@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-18T23:00:02Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b859f60ebb1f4a07bb8379bb",
+    "created": 1773874802,
+    "modified": 1773874802
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005134-d4cf1fc2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b859f60ebb1f4a07bb8379bb",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 180,
+      "duration_ms": 180000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941094002,
+      "call_id": "b859f60ebb1f4a07bb8379bb",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b859f60ebb1f4a07bb8379bb",
+      "media_name": "392c701910a043718fcfffa1a8e5050b.mp3",
+      "scenario": "A customer questions an unexpected fee on their latest utility bill and requests clarification. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 180.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. My name is Susan Garcia, and I was referred by my father's pulmonologist. Nice to meet you, Susan! How can I assist you regarding your father? Well, my father has COPD and he needs help with his breathing treatments. Absolutely, we provide respiratory care and assistance with treatments. Would you like to discuss our services? Yes, but first, I noticed an unexpected fee on my latest utility bill. Can you help me clarify? I’m here to help, but I think you may have reached the wrong department. No, I mean, the bill has a charge for health services that I didn’t expect. I see. Can you tell me the specific charge you're questioning? It’s a fee labeled as “in-home respiratory care.” I didn’t schedule anything. That does sound concerning. Let me take down your details, and I can follow up with our billing department. Okay, that would be great. My phone number is +13165553749. Thank you, Susan. I’ll need your address and the name of the utility service as well. Sure, it’s 123 Maple Lane, and the utility service is City Utilities. Got it. I’ll reach out to them and see why that charge appeared. Thank you, Margaret. I appreciate it. I just want to make sure I’m not being charged incorrectly. Of course, I understand your concern. I’ll have an update for you shortly. Also, could you tell me about your respiratory care services while I have you? Yes, we offer skilled nursing care that includes respiratory therapy and assistance with breathing treatments. What are the costs for those services? Our skilled nursing care is priced between $95 and $125 for a visit lasting 1 to 2 hours. That sounds reasonable. How do I get started with arranging that? I can schedule an initial assessment to create a personalized care plan for your father. Yes, please. That would be helpful. Perfect! What days and times work best for you? I’m available most afternoons, except for Wednesdays. We can aim for Friday. How about 2 PM? That works for me. Thank you! Great! I’ll confirm the appointment and also follow up regarding the billing issue. Thank you, Margaret. I really appreciate your help. You’re welcome, Susan! We’re here to support you and your father. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Susan Garcia, and I was referred by my father's pulmonologist.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Susan! How can I assist you regarding your father?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my father has COPD and he needs help with his breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we provide respiratory care and assistance with treatments. Would you like to discuss our services?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, but first, I noticed an unexpected fee on my latest utility bill. Can you help me clarify?",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m here to help, but I think you may have reached the wrong department.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "No, I mean, the bill has a charge for health services that I didn’t expect.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I see. Can you tell me the specific charge you're questioning?",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It’s a fee labeled as “in-home respiratory care.” I didn’t schedule anything.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That does sound concerning. Let me take down your details, and I can follow up with our billing department.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, that would be great. My phone number is +13165553749.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you, Susan. I’ll need your address and the name of the utility service as well.",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 64,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sure, it’s 123 Maple Lane, and the utility service is City Utilities.",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Got it. I’ll reach out to them and see why that charge appeared.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate it. I just want to make sure I’m not being charged incorrectly.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course, I understand your concern. I’ll have an update for you shortly.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Also, could you tell me about your respiratory care services while I have you?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 97,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we offer skilled nursing care that includes respiratory therapy and assistance with breathing treatments.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 103,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "What are the costs for those services?",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Our skilled nursing care is priced between $95 and $125 for a visit lasting 1 to 2 hours.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 114,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds reasonable. How do I get started with arranging that?",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I can schedule an initial assessment to create a personalized care plan for your father.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 126,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect! What days and times work best for you?",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 137,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I’m available most afternoons, except for Wednesdays.",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 143,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "We can aim for Friday. How about 2 PM?",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "That works for me. Thank you!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Great! I’ll confirm the appointment and also follow up regarding the billing issue.",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 160,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 166,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You’re welcome, Susan! We’re here to support you and your father. Have a great day!",
+          "speaker": "local party",
+          "start_time": 166,
+          "end_time": 172,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 172,
+          "end_time": 175,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b859f60ebb1f4a07bb8379bb",
+  "revision": "",
+  "status": "success"
+}
