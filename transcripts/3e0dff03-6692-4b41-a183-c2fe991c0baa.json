@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-680ea61d2d714f0f90524b08",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946020755-dba73b6c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-680ea61d2d714f0f90524b08",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "680ea61d2d714f0f90524b08",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-680ea61d2d714f0f90524b08",
+      "media_name": "ec87ccf1b152490a82955e90c349b1c4.mp3",
+      "scenario": "A company representative calls to get a quote for providing on-site wellness services to their employees. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Edward Martinez. I’m calling because I’d like to request a quote for on-site wellness services for my company. Hi, Edward! I’m glad you called. Can you tell me a bit more about the services you’re interested in? Sure, we’re looking for wellness services that could include health screenings and maybe some educational workshops for our employees. Great, we can definitely provide those. How many employees are you looking to service? We have about 50 employees at our office. Thank you for that information. Would you be looking for a one-time event or recurring services? I think we’d prefer something ongoing, maybe quarterly. That sounds good. For ongoing services, we can offer health screenings, workshops, and even fitness programs. That sounds perfect. Can you give me an idea of the pricing for that? Sure! For health screenings, we charge about $65 per employee. Workshops typically range from $150 to $300 depending on the topic. Okay, and how about fitness programs? Our fitness programs are about $110 to $140 per session, lasting 45 to 60 minutes. Got it. And do you offer any packages for multiple services? Yes, we can create customized packages that might offer a discount for bundling services. That would be great. Could you send me a detailed quote? Absolutely! Could you provide me with your email address so I can send that over? Yes, it’s edward.martinez@company.com. Thank you, Edward. I’ll send you that detailed quote by the end of the day. Perfect, thank you! Is there a contact number if I have further questions? Yes, you can reach me directly at +13165559201. Great! I appreciate your help today. You’re very welcome! I look forward to working with you. Thanks again, Margaret. Talk soon! Talk soon, Edward. Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Edward Martinez. I’m calling because I’d like to request a quote for on-site wellness services for my company.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Edward! I’m glad you called. Can you tell me a bit more about the services you’re interested in?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, we’re looking for wellness services that could include health screenings and maybe some educational workshops for our employees.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Great, we can definitely provide those. How many employees are you looking to service?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We have about 50 employees at our office.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for that information. Would you be looking for a one-time event or recurring services?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I think we’d prefer something ongoing, maybe quarterly.",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That sounds good. For ongoing services, we can offer health screenings, workshops, and even fitness programs.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds perfect. Can you give me an idea of the pricing for that?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sure! For health screenings, we charge about $65 per employee. Workshops typically range from $150 to $300 depending on the topic.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, and how about fitness programs?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Our fitness programs are about $110 to $140 per session, lasting 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Got it. And do you offer any packages for multiple services?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we can create customized packages that might offer a discount for bundling services.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be great. Could you send me a detailed quote?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! Could you provide me with your email address so I can send that over?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, it’s edward.martinez@company.com.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Edward. I’ll send you that detailed quote by the end of the day.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect, thank you! Is there a contact number if I have further questions?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, you can reach me directly at +13165559201.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Great! I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 98,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome! I look forward to working with you.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks again, Margaret. Talk soon!",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 105,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Talk soon, Edward. Have a great day!",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-680ea61d2d714f0f90524b08",
+  "revision": "",
+  "status": "success"
+}
