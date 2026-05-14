@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-29T13:55:57Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-11ef150ed8c24e28aae7820d",
+    "created": 1774792557,
+    "modified": 1774792557
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005802-6ccaeb57",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-11ef150ed8c24e28aae7820d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 108,
+      "duration_ms": 108000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63942011757,
+      "call_id": "11ef150ed8c24e28aae7820d",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-11ef150ed8c24e28aae7820d",
+      "media_name": "69d8e66bfaae4ee5a8224d80abb64cba.mp3",
+      "scenario": "A customer contacts the support team with urgency to report a critical malfunction in their purchased software. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 108.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Rose Patterson. I need urgent help regarding the software that was set up for my mother's care. Hi Rose, I'm sorry to hear that. Can you tell me what the issue is with the software? Yes, it keeps crashing every time I try to log in. I can't access her care schedule or communicate with her caregivers! That sounds very frustrating, Rose. I understand how important this is for you. Yes, exactly! I need to check the schedule for her companions, especially since I won’t be around this weekend. I definitely want to help you with that. Have you tried restarting the software or clearing the cache? I've done that, but it still crashes. I really need to resolve this quickly. Understood. I’m going to escalate this to our technical support team right away. Thank you! I can't afford to miss any appointments. I completely understand. I’ll ensure they prioritize your case. Can I have your son’s contact number for follow-up? Yes, it’s +13165559876. He's been handling the coordination. Great. I’ll have them reach out to him shortly. Is there anything else I can assist you with? Well, since her companion care is crucial, can you confirm that the same caregiver will be assigned for this weekend? Absolutely, let me check that for you. One moment, please. Yes, I can confirm that your usual caregiver, Maria, is scheduled for both Saturday and Sunday. Thank you! That’s a relief. Maria knows how to handle my mom's needs. You're welcome, Rose. I’ll make sure to keep everything consistent for her. I appreciate it. Just please keep me updated about the software issue. Of course, I’ll prioritize that follow-up. You should expect a call from our tech team shortly. Thank you so much for your help today, Margaret. It's my pleasure, Rose. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I need urgent help regarding the software that was set up for my mother's care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose, I'm sorry to hear that. Can you tell me what the issue is with the software?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it keeps crashing every time I try to log in. I can't access her care schedule or communicate with her caregivers!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds very frustrating, Rose. I understand how important this is for you.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, exactly! I need to check the schedule for her companions, especially since I won’t be around this weekend.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I definitely want to help you with that. Have you tried restarting the software or clearing the cache?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I've done that, but it still crashes. I really need to resolve this quickly.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Understood. I’m going to escalate this to our technical support team right away.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you! I can't afford to miss any appointments.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand. I’ll ensure they prioritize your case. Can I have your son’s contact number for follow-up?",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 47,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, it’s +13165559876. He's been handling the coordination.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 51,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great. I’ll have them reach out to him shortly. Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Well, since her companion care is crucial, can you confirm that the same caregiver will be assigned for this weekend?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, let me check that for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I can confirm that your usual caregiver, Maria, is scheduled for both Saturday and Sunday.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Thank you! That’s a relief. Maria knows how to handle my mom's needs.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "You're welcome, Rose. I’ll make sure to keep everything consistent for her.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "I appreciate it. Just please keep me updated about the software issue.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Of course, I’ll prioritize that follow-up. You should expect a call from our tech team shortly.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 93,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you so much for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 99,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "It's my pleasure, Rose. Have a great day!",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 102,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 105,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 108,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-11ef150ed8c24e28aae7820d",
+  "revision": "",
+  "status": "success"
+}
