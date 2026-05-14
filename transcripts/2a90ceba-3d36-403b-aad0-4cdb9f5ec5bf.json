@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T19:20:54Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-52464777d3054350a7665043",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005654-6e6f64e8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-52464777d3054350a7665043",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946005654,
+      "call_id": "52464777d3054350a7665043",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-52464777d3054350a7665043",
+      "media_name": "1c5c07a7853247339634c7a4cf7dc49a.mp3",
+      "scenario": "A loyal customer schedules their routine car maintenance for the upcoming weekend. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, it’s Helen Johnson. I wanted to schedule my next physical therapy appointment. Hi Helen! It’s great to hear from you. How have you been since your last visit? Oh, I’m doing well, thanks! Just keeping up with my exercises. That’s wonderful to hear! When were you thinking of scheduling your appointment? I’d like to come in this weekend if possible. Sure! We have availability on Saturday and Sunday. Which day works better for you? Saturday would be perfect. Any time in the morning? Let me check that for you... Yes, we have an opening at 10 AM on Saturday. That sounds great! Please book that for me. Absolutely, I’ll get that scheduled. Just to confirm, it’s for a physical therapy session with Dr. Rodriguez, correct? Yes, that’s right. Alright, I have you down for Saturday at 10 AM with Dr. Rodriguez. Is there anything else on your mind today? Actually, I’ve been thinking about some assistance with medication management. Could you tell me more about that? Of course! Our medication management service is $65 to $80 for a 30-45 minute visit. That sounds reasonable. I might be interested in that after my therapy sessions. I can follow up with you about that after your appointment if you’d like. Yes, please do! I’d like to discuss it more then. Absolutely, I’ll make a note to discuss medication management after your session. Thank you, Margaret. I really appreciate all the help you’ve given me. It’s my pleasure, Helen! We value your trust in us. Looking forward to Saturday! See you then! Have a great day, Helen. You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it’s Helen Johnson. I wanted to schedule my next physical therapy appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen! It’s great to hear from you. How have you been since your last visit?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I’m doing well, thanks! Just keeping up with my exercises.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s wonderful to hear! When were you thinking of scheduling your appointment?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I’d like to come in this weekend if possible.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure! We have availability on Saturday and Sunday. Which day works better for you?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 28,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Saturday would be perfect. Any time in the morning?",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check that for you... Yes, we have an opening at 10 AM on Saturday.",
+          "speaker": "local party",
+          "start_time": 33,
+          "end_time": 37,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds great! Please book that for me.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I’ll get that scheduled. Just to confirm, it’s for a physical therapy session with Dr. Rodriguez, correct?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that’s right.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Alright, I have you down for Saturday at 10 AM with Dr. Rodriguez. Is there anything else on your mind today?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Actually, I’ve been thinking about some assistance with medication management. Could you tell me more about that?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course! Our medication management service is $65 to $80 for a 30-45 minute visit.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reasonable. I might be interested in that after my therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 73,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can follow up with you about that after your appointment if you’d like.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please do! I’d like to discuss it more then.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I’ll make a note to discuss medication management after your session.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate all the help you’ve given me.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It’s my pleasure, Helen! We value your trust in us.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Looking forward to Saturday!",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "See you then! Have a great day, Helen.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-52464777d3054350a7665043",
+  "revision": "",
+  "status": "success"
+}
