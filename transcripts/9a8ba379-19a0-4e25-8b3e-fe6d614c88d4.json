@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-23T07:34:54Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-df0c2058a7714b2484a8c745",
+    "created": 1774251294,
+    "modified": 1774251294
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005759-3b0011eb",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-df0c2058a7714b2484a8c745",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 147,
+      "duration_ms": 147000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941470494,
+      "call_id": "df0c2058a7714b2484a8c745",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-df0c2058a7714b2484a8c745",
+      "media_name": "029466b0ac3d46a5bbe06773053201da.mp3",
+      "scenario": "A business owner contacts the company to get a price estimate for bulk order of office supplies. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 147.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, it's Betty Lou Smith. I was looking to get a price estimate for a bulk order of office supplies. Hi Betty! I hope you’re doing well. Office supplies, okay. What specific items are you looking for? Mostly paper, pens, and some binders. I run a small home office and could use a larger stock. Got it! How many reams of paper and pens are you considering? I think I’ll need about 10 reams of paper and maybe 100 pens. Also, a couple of boxes of binders. Perfect, let me calculate that for you. Just a moment please. For 10 reams of paper, that’s about $250. For 100 pens, let’s say around $50, and for the binders, about $30 for a couple of boxes. Altogether, that would be roughly $330. That sounds reasonable! Do you offer any discounts for bulk orders? Yes, we do! For orders over $300, we can offer a 10% discount. That would be great! So, what would the total come to with the discount applied? With the discount, it would be around $297. Perfect! How can I place this order? I can take your order right now. Would you like to use the same payment method as last time? Yes, that works for me. Great! Could you confirm your shipping address again for me? Sure, it’s 2847 North Ridge Road, Suite 205, Wichita, KS 67205. Thank you, Betty. I’ll process your order and get that shipped out by tomorrow. I appreciate it! Also, if I need any care services in the future, who should I contact? You can reach out to Lisa Chen, our Care Coordinator, at extension 203. She can assist you with any care needs. Thank you, Margaret! I’ll keep that in mind. You’re welcome, Betty! Is there anything else I can assist you with today? No, that’s all for now. Thanks again for your help! My pleasure! Have a wonderful day, Betty! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it's Betty Lou Smith. I was looking to get a price estimate for a bulk order of office supplies.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty! I hope you’re doing well. Office supplies, okay. What specific items are you looking for?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Mostly paper, pens, and some binders. I run a small home office and could use a larger stock.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Got it! How many reams of paper and pens are you considering?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I think I’ll need about 10 reams of paper and maybe 100 pens. Also, a couple of boxes of binders.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Perfect, let me calculate that for you. Just a moment please.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "For 10 reams of paper, that’s about $250. For 100 pens, let’s say around $50, and for the binders, about $30 for a couple of boxes. Altogether, that would be roughly $330.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 56,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That sounds reasonable! Do you offer any discounts for bulk orders?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Yes, we do! For orders over $300, we can offer a 10% discount.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That would be great! So, what would the total come to with the discount applied?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "With the discount, it would be around $297.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Perfect! How can I place this order?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I can take your order right now. Would you like to use the same payment method as last time?",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, that works for me.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Great! Could you confirm your shipping address again for me?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 98,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Sure, it’s 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Betty. I’ll process your order and get that shipped out by tomorrow.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "I appreciate it! Also, if I need any care services in the future, who should I contact?",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 118,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You can reach out to Lisa Chen, our Care Coordinator, at extension 203. She can assist you with any care needs.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 124,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Margaret! I’ll keep that in mind.",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 129,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome, Betty! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that’s all for now. Thanks again for your help!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "My pleasure! Have a wonderful day, Betty!",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 141,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 141,
+          "end_time": 144,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 147,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-df0c2058a7714b2484a8c745",
+  "revision": "",
+  "status": "success"
+}
