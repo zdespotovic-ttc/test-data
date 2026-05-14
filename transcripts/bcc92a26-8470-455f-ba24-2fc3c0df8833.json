@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-02T16:36:13Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-35387e51635148a9b965c75d",
+    "created": 1772469373,
+    "modified": 1772469373
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946004972-6ff94f09",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-35387e51635148a9b965c75d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63939688573,
+      "call_id": "35387e51635148a9b965c75d",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-35387e51635148a9b965c75d",
+      "media_name": "73b7fd3147834db1a4ca23841cd4fd66.mp3",
+      "scenario": "A potential client calls to ask about the range of solar panel installations offered by the company. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, I’m Robert Jackson, and I’m looking for information on solar panel installations. I’m sorry, but we specialize in home healthcare services. Oh, I see. I'm looking for a company that offers solar solutions. Unfortunately, we don't provide solar panel installations. We focus on skilled and non-skilled home care. That’s a bit confusing; I thought this was a home services company. I understand, and I'm really sorry for any confusion. We provide care services like nursing and personal assistance. Well, I do have a family member who might need some care soon. I’d be happy to assist with that! Could you tell me a bit about your family member's needs? They have multiple sclerosis and require personal care and nursing support, similar to what I have. We have a lot of experience with multiple sclerosis. Are they currently receiving any care? Not at the moment, but they might need help soon. Great! I can set up a consultation to discuss their specific needs. Yes, that would be helpful. What's the process? We’ll start with an assessment, and then we can create a personalized care plan. How soon can that assessment take place? We usually schedule assessments within a week. Would that work for you? Yes, that sounds good. I’ll need some details. Can I have your family member’s name and contact information? Sure, it’s Susan Jackson, and her number is +13165551234. Thank you! I’ll reach out to her to set up the assessment. Do you accept insurance for these services? Yes, we accept various insurance plans, and I can help with the authorization process as well. That’s good to know; I’ll need assistance with that. Absolutely, our Care Coordinator will assist with insurance authorization. Sounds great. Can you confirm the follow-up once you reach Susan? Definitely! I’ll call you back to confirm the assessment date and discuss any further questions. Thank you for your help. You’re welcome, Robert! Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, I’m Robert Jackson, and I’m looking for information on solar panel installations.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry, but we specialize in home healthcare services.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I'm looking for a company that offers solar solutions.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Unfortunately, we don't provide solar panel installations. We focus on skilled and non-skilled home care.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That’s a bit confusing; I thought this was a home services company.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, and I'm really sorry for any confusion. We provide care services like nursing and personal assistance.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Well, I do have a family member who might need some care soon.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’d be happy to assist with that! Could you tell me a bit about your family member's needs?",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "They have multiple sclerosis and require personal care and nursing support, similar to what I have.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We have a lot of experience with multiple sclerosis. Are they currently receiving any care?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Not at the moment, but they might need help soon.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! I can set up a consultation to discuss their specific needs.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be helpful. What's the process?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We’ll start with an assessment, and then we can create a personalized care plan.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "How soon can that assessment take place?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We usually schedule assessments within a week. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that sounds good.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll need some details. Can I have your family member’s name and contact information?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sure, it’s Susan Jackson, and her number is +13165551234.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you! I’ll reach out to her to set up the assessment.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Do you accept insurance for these services?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, we accept various insurance plans, and I can help with the authorization process as well.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That’s good to know; I’ll need assistance with that.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 108,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, our Care Coordinator will assist with insurance authorization.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds great. Can you confirm the follow-up once you reach Susan?",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Definitely! I’ll call you back to confirm the assessment date and discuss any further questions.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you for your help.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Robert! Have a great day!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 129,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-35387e51635148a9b965c75d",
+  "revision": "",
+  "status": "success"
+}
