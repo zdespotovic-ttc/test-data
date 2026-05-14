@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-cc8f93fb02bb458fbdc2656d",
+    "created": 1778716800,
+    "modified": 1778716800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946019596-5d9cdf01",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-cc8f93fb02bb458fbdc2656d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945936000,
+      "call_id": "cc8f93fb02bb458fbdc2656d",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-cc8f93fb02bb458fbdc2656d",
+      "media_name": "69f57911333f47e1ac289c6dcb0633ef.mp3",
+      "scenario": "A customer calls urgently needing to reschedule their appointment due to an unexpected conflict. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, it's Edward Martinez. I need to reschedule my respite care appointment. Hi Edward, I hope you're doing well. Can you tell me what day you need to reschedule for? Well, there's been an unexpected conflict. My wife has a last-minute doctor's appointment, and I need care during that time. I understand, that sounds urgent. When is the appointment scheduled for? It's tomorrow at 2 PM, and I need someone here from 1 PM to 4 PM. Let me check our schedule for tomorrow. One moment please. Okay, we have a personal care assistant available from 1 PM to 4 PM. Would that work for you? Yes, that would be perfect! Great! I’ll go ahead and confirm that. Just a moment. Edward, we’ll send someone for personal care assistance at the requested time tomorrow. Is there anything specific you'd like them to focus on? Just the usual help with personal hygiene and maybe some companionship. Absolutely, we can do that. I’ll note it for the caregiver. Thank you, Margaret. I really appreciate your help. Of course! Also, since we’re discussing care, have you considered our dementia and Alzheimer’s care services? I hadn't thought about that. Can you tell me about it? Sure! It’s specialized care for clients with cognitive impairments. It costs $32 to $40 per hour, and it focuses on providing a safe and engaging environment. Would you like me to provide more information via email? Yes, that would be helpful. Perfect! I’ll send you details right after our call. Thank you, Margaret. I really appreciate it. You’re welcome, Edward! Just to confirm, your appointment is set for tomorrow from 1 PM to 4 PM, correct? Yes, that’s correct. Excellent! Is there anything else I can assist you with today? No, that’s all for now. Thank you so much! You’re very welcome! Have a great day, Edward. You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it's Edward Martinez. I need to reschedule my respite care appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward, I hope you're doing well. Can you tell me what day you need to reschedule for?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, there's been an unexpected conflict. My wife has a last-minute doctor's appointment, and I need care during that time.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, that sounds urgent. When is the appointment scheduled for?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It's tomorrow at 2 PM, and I need someone here from 1 PM to 4 PM.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check our schedule for tomorrow. One moment please.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, we have a personal care assistant available from 1 PM to 4 PM. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 49,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Yes, that would be perfect!",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 52,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Great! I’ll go ahead and confirm that. Just a moment.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Edward, we’ll send someone for personal care assistance at the requested time tomorrow. Is there anything specific you'd like them to focus on?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Just the usual help with personal hygiene and maybe some companionship.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, we can do that. I’ll note it for the caregiver.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course! Also, since we’re discussing care, have you considered our dementia and Alzheimer’s care services?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I hadn't thought about that. Can you tell me about it?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure! It’s specialized care for clients with cognitive impairments. It costs $32 to $40 per hour, and it focuses on providing a safe and engaging environment. Would you like me to provide more information via email?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 102,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll send you details right after our call.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Edward! Just to confirm, your appointment is set for tomorrow from 1 PM to 4 PM, correct?",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 123,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Excellent! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s all for now. Thank you so much!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 133,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome! Have a great day, Edward.",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 137,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 140,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-cc8f93fb02bb458fbdc2656d",
+  "revision": "",
+  "status": "success"
+}
