@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-13T07:30:54Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-392749f01fa743b087c0b0a7",
+    "created": 1773387054,
+    "modified": 1773387054
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005658-a7b47dac",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-392749f01fa743b087c0b0a7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63940606254,
+      "call_id": "392749f01fa743b087c0b0a7",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-392749f01fa743b087c0b0a7",
+      "media_name": "3df53df48ec34ce88284f133f75af14d.mp3",
+      "scenario": "A patient calls to report that the new physiotherapy equipment used during their last session seemed faulty and caused discomfort. They request an assessment of the equipment's condition. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Helen Johnson. I've been a patient for physical therapy after my shoulder surgery. Hi Helen! It's good to hear from you. How can I help? Well, I wanted to discuss some concerns about the new physiotherapy equipment used during my last session. Oh, I'm sorry to hear that. What specifically happened with the equipment? It seemed faulty and caused me quite a bit of discomfort. I’d like to request an assessment of its condition. I completely understand your concern, Helen. That’s definitely something we need to address. I really hope it's not an ongoing issue, especially since I've been making progress with the therapy. Absolutely, we want to ensure you have a safe and comfortable experience. Thank you, I appreciate that. What will happen next? I’ll arrange for Dr. Rodriguez, our physical therapist, to assess the equipment. When would be a good time for you? I'm usually available in the afternoons. How about tomorrow at 2 PM? Let me check... Yes, that works perfectly! I’ll schedule that for you. Great! I just want to ensure this gets resolved quickly. I understand, and I’ll make this a priority. I’ll also follow up with you afterward. Sounds good. By the way, I might need more sessions if my progress continues. That’s great to hear! We can discuss creating a care plan for ongoing sessions. Yes, I’d like that. I actually want to stay ahead of my recovery. Perfect! I can have Lisa, our Care Coordinator, reach out to you after your assessment to set that up. That would be very helpful. Thank you for your understanding and assistance, Margaret. Of course, Helen! I’m here to help. Is there anything else you need today? No, that covers everything for now. Excellent! I’ll confirm your appointment for tomorrow at 2 PM. Thank you so much! I appreciate it. You're welcome, Helen. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I've been a patient for physical therapy after my shoulder surgery.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen! It's good to hear from you. How can I help?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I wanted to discuss some concerns about the new physiotherapy equipment used during my last session.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh, I'm sorry to hear that. What specifically happened with the equipment?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It seemed faulty and caused me quite a bit of discomfort. I’d like to request an assessment of its condition.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your concern, Helen. That’s definitely something we need to address.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 38,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I really hope it's not an ongoing issue, especially since I've been making progress with the therapy.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, we want to ensure you have a safe and comfortable experience.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, I appreciate that. What will happen next?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’ll arrange for Dr. Rodriguez, our physical therapist, to assess the equipment. When would be a good time for you?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I'm usually available in the afternoons. How about tomorrow at 2 PM?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check... Yes, that works perfectly! I’ll schedule that for you.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great! I just want to ensure this gets resolved quickly.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I understand, and I’ll make this a priority. I’ll also follow up with you afterward.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds good. By the way, I might need more sessions if my progress continues.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "That’s great to hear! We can discuss creating a care plan for ongoing sessions.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I’d like that. I actually want to stay ahead of my recovery.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 115,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I can have Lisa, our Care Coordinator, reach out to you after your assessment to set that up.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be very helpful. Thank you for your understanding and assistance, Margaret.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 127,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course, Helen! I’m here to help. Is there anything else you need today?",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers everything for now.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Excellent! I’ll confirm your appointment for tomorrow at 2 PM.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much! I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Helen. Have a great day!",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 148,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 148,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-392749f01fa743b087c0b0a7",
+  "revision": "",
+  "status": "success"
+}
