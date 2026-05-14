@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9d58983ba9444562a7d8602e",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946020718-a5498418",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9d58983ba9444562a7d8602e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "9d58983ba9444562a7d8602e",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9d58983ba9444562a7d8602e",
+      "media_name": "35319cc7952f4f54bdff8d9fd2536d87.mp3",
+      "scenario": "A patient notices an overbilling for their recent therapy session and calls to discuss it. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is William Chen. I'm calling about my recent therapy session. Hi William, it's great to hear from you! What seems to be the issue? Well, I noticed an overbilling on my last invoice. It seems higher than what we discussed. I’m sorry to hear that. Let’s get this sorted out. What amount were you expecting? I was quoted around $110 for the physical therapy session, but I was charged $140. I understand your concern. Let me pull up your records to check the details. One moment, please. Sure, take your time. Thank you for your patience, William. I see that the session was indeed billed at the higher rate. So, what happened? Was there a mistake? It appears there was an error in processing. I apologize for the confusion. That’s frustrating to hear. When will I see a correction? I can initiate a refund for the overcharge today, and you should see it in your account within 5-7 business days. Okay, that sounds reasonable. Thank you! You're welcome! I’ll also send you an updated invoice reflecting the correct charge. Great, I appreciate that. Is there anything else I can assist you with today? Well, actually, I was wondering if I could schedule another therapy session for next week. Absolutely! Would you prefer the same day and time as your last session? Yes, that works for me. Perfect, I’ll schedule you for next Tuesday at 10 AM. Thank you, Margaret. You’ve been really helpful. It’s my pleasure, William! Just to confirm, I’ll process the refund, send the updated invoice, and book your session for next Tuesday. Sounds good! I appreciate your assistance. Thank you for calling, William. If you need anything else, don’t hesitate to reach out. Will do, have a great day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I'm calling about my recent therapy session.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William, it's great to hear from you! What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed an overbilling on my last invoice. It seems higher than what we discussed.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Let’s get this sorted out. What amount were you expecting?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I was quoted around $110 for the physical therapy session, but I was charged $140.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. Let me pull up your records to check the details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for your patience, William. I see that the session was indeed billed at the higher rate.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "So, what happened? Was there a mistake?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It appears there was an error in processing. I apologize for the confusion.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s frustrating to hear. When will I see a correction?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can initiate a refund for the overcharge today, and you should see it in your account within 5-7 business days.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, that sounds reasonable. Thank you!",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You're welcome! I’ll also send you an updated invoice reflecting the correct charge.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great, I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Well, actually, I was wondering if I could schedule another therapy session for next week.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely! Would you prefer the same day and time as your last session?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that works for me.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect, I’ll schedule you for next Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. You’ve been really helpful.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It’s my pleasure, William! Just to confirm, I’ll process the refund, send the updated invoice, and book your session for next Tuesday.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good! I appreciate your assistance.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for calling, William. If you need anything else, don’t hesitate to reach out.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Will do, have a great day!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9d58983ba9444562a7d8602e",
+  "revision": "",
+  "status": "success"
+}
