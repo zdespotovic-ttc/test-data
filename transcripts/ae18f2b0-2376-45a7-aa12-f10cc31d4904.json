@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1fbdb21c4893484cb7ffb749",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946020666-9e12ae2e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1fbdb21c4893484cb7ffb749",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 147,
+      "duration_ms": 147000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "1fbdb21c4893484cb7ffb749",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1fbdb21c4893484cb7ffb749",
+      "media_name": "9d7027756f5f4e98b67f26b340ffadec.mp3",
+      "scenario": "A customer calls to complain about the poor quality of the massage therapy they received during their last visit. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 147.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Michael Brown. I'm calling about a service my father received recently. Hi Michael, I'm sorry to hear that. What seems to be the issue? Well, my father had a massage therapy session last week and the quality was really poor. I'm sorry to hear that. Can you tell me a bit more about what happened? The therapist seemed rushed and didn’t really address his needs. My father didn’t feel any relief at all. I understand. That must have been frustrating for both you and your father. Yes, exactly. We were expecting a quality service given the price. I completely understand your concerns. Our goal is to provide the best care possible. I appreciate that, but I need to know what you are going to do about this. First, I will document your feedback and address it with our therapy team. That would be great. I think my father deserves better. Absolutely. Would you like to arrange a follow-up appointment for a different therapist? Yes, I think that would help. Maybe someone more experienced? I can schedule him with Dr. James Rodriguez; he specializes in post-surgery rehabilitation and has great feedback. That sounds good. What would the cost be for that session? The price for physical therapy is between $110 and $140 per session, depending on the duration. Okay, that's reasonable. Can we set that up for next week? Sure. Let me check our availability for next week. Just a moment. No problem. I appreciate you taking the time to resolve this. Thank you for your patience. We have openings on Tuesday and Thursday afternoons. Let’s go with Thursday then. Great, I’ll book that for you. Thank you, Margaret. Will I get a confirmation? Yes, you'll receive an email confirmation shortly after we finalize the appointment. Perfect. And please do follow up regarding the feedback I provided. I assure you, Michael. I will personally follow up with our therapy team and keep you updated. Thank you for your help today, Margaret. You're welcome! If you have any more concerns, feel free to call back anytime. I will. Have a great day! You too, Michael. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I'm calling about a service my father received recently.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Michael, I'm sorry to hear that. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my father had a massage therapy session last week and the quality was really poor.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 21,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm sorry to hear that. Can you tell me a bit more about what happened?",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The therapist seemed rushed and didn’t really address his needs. My father didn’t feel any relief at all.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. That must have been frustrating for both you and your father.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, exactly. We were expecting a quality service given the price.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand your concerns. Our goal is to provide the best care possible.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that, but I need to know what you are going to do about this.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "First, I will document your feedback and address it with our therapy team.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great. I think my father deserves better.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely. Would you like to arrange a follow-up appointment for a different therapist?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I think that would help. Maybe someone more experienced?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can schedule him with Dr. James Rodriguez; he specializes in post-surgery rehabilitation and has great feedback.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good. What would the cost be for that session?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "The price for physical therapy is between $110 and $140 per session, depending on the duration.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, that's reasonable. Can we set that up for next week?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Sure. Let me check our availability for next week. Just a moment.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No problem. I appreciate you taking the time to resolve this.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you for your patience. We have openings on Tuesday and Thursday afternoons.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Let’s go with Thursday then.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great, I’ll book that for you.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. Will I get a confirmation?",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 116,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Yes, you'll receive an email confirmation shortly after we finalize the appointment.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect. And please do follow up regarding the feedback I provided.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I assure you, Michael. I will personally follow up with our therapy team and keep you updated.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You're welcome! If you have any more concerns, feel free to call back anytime.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You too, Michael. Goodbye!",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 147,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1fbdb21c4893484cb7ffb749",
+  "revision": "",
+  "status": "success"
+}
