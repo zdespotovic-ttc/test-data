@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T19:22:29Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7652438301164b62b49ab3a8",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005749-674ad2b4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7652438301164b62b49ab3a8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946005749,
+      "call_id": "7652438301164b62b49ab3a8",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7652438301164b62b49ab3a8",
+      "media_name": "88990900335d4fb2b7577b957b69ebcc.mp3",
+      "scenario": "A customer calls regarding an unexpected charge on their last invoice. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Robert Jackson. I hope you're doing well. Hi Robert! I'm doing well, thank you. What can I assist you with today? I just received my latest invoice, and I noticed an unexpected charge. I'm a bit concerned about it. I understand. Let's get that sorted out. Can you tell me the specific charge you're referring to? Yes, there’s an extra $50 charge listed for a \"companion care\" service that I didn't request. I see. Let me check your records to clarify that for you. One moment, please. (typing) Alright, I see that you usually receive personal care and nursing services, and I don’t see any documentation for a companion care visit during your last service. Exactly! That's why I'm confused about this charge. I completely understand your concern, Robert. I will need to review this with our billing department. Can I call you back later today? Yes, that would be great. I’d like to get this resolved ASAP. Absolutely, I’ll prioritize this. Just to confirm, do I have your best number at +13165552468? Yes, that’s correct. Great! While I have you on the line, I wanted to ask if you might be interested in adding transportation services for your upcoming appointment. Oh, I hadn’t thought about that. How much does it cost? The transportation services are between $45 and $65 per trip, depending on the distance. That could be helpful, actually. Let me think about it after we resolve this charge issue. Of course! Your peace of mind is our priority. Thank you, Margaret. It really helps to talk this through. I’m glad to hear that, Robert. I’ll follow up with you later today. Perfect, I appreciate your help. Thank you for calling, Robert. Speak to you soon! Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I hope you're doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Robert! I'm doing well, thank you. What can I assist you with today?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I just received my latest invoice, and I noticed an unexpected charge. I'm a bit concerned about it.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Let's get that sorted out. Can you tell me the specific charge you're referring to?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, there’s an extra $50 charge listed for a \"companion care\" service that I didn't request.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see. Let me check your records to clarify that for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "(typing) Alright, I see that you usually receive personal care and nursing services, and I don’t see any documentation for a companion care visit during your last service.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Exactly! That's why I'm confused about this charge.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I completely understand your concern, Robert. I will need to review this with our billing department. Can I call you back later today?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 62,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that would be great. I’d like to get this resolved ASAP.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, I’ll prioritize this. Just to confirm, do I have your best number at +13165552468?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 74,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 77,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Great! While I have you on the line, I wanted to ask if you might be interested in adding transportation services for your upcoming appointment.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Oh, I hadn’t thought about that. How much does it cost?",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "The transportation services are between $45 and $65 per trip, depending on the distance.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 97,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That could be helpful, actually. Let me think about it after we resolve this charge issue.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 103,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Of course! Your peace of mind is our priority.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Margaret. It really helps to talk this through.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 113,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I’m glad to hear that, Robert. I’ll follow up with you later today.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 116,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Perfect, I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Thank you for calling, Robert. Speak to you soon!",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7652438301164b62b49ab3a8",
+  "revision": "",
+  "status": "success"
+}
