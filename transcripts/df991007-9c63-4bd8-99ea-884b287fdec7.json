@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T19:11:46Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7058a710c04849e9b4d38db9",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005106-401fee81",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7058a710c04849e9b4d38db9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 92,
+      "duration_ms": 92000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946005106,
+      "call_id": "7058a710c04849e9b4d38db9",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7058a710c04849e9b4d38db9",
+      "media_name": "4fbe9c0461a243128544fec773417553.mp3",
+      "scenario": "A customer calls to schedule a maintenance appointment for next week and confirms the time slot. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 92.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Rose Patterson. I'm calling to schedule a maintenance appointment for my mother next week. Hi Rose! It's great to hear from you. What day would you like to schedule the appointment? We're looking at either Tuesday or Wednesday. Let me check… Tuesday is available. What time works best for you? How about 10 AM? Does that work? Yes, 10 AM on Tuesday is perfect. Great! Just to confirm, that would be for companion care, right? Yes, that’s correct. We’ll have a familiar caregiver come by. Thank you, that really helps with her comfort. Of course, it's important for her to feel at ease. Is there anything else you need during that visit? Actually, can we also discuss adding personal care assistance for a few days next month? Absolutely! I can have a care coordinator reach out to you about that. That sounds perfect. I want to make sure we have everything in place. I’ll note that down and ensure Lisa Chen contacts you for the care plan. Thank you so much, Margaret! I appreciate your help. You’re welcome, Rose! Just to recap, we have the appointment scheduled for Tuesday at 10 AM. Yes, that’s correct. And I’ll have Lisa reach out about personal care assistance. Anything else? No, that should be all for now. Thanks again! Thank you for calling, Rose. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I'm calling to schedule a maintenance appointment for my mother next week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose! It's great to hear from you. What day would you like to schedule the appointment?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "We're looking at either Tuesday or Wednesday.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me check… Tuesday is available. What time works best for you?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "How about 10 AM? Does that work?",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, 10 AM on Tuesday is perfect.",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 27,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great! Just to confirm, that would be for companion care, right?",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, that’s correct. We’ll have a familiar caregiver come by.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, that really helps with her comfort.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course, it's important for her to feel at ease. Is there anything else you need during that visit?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Actually, can we also discuss adding personal care assistance for a few days next month?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! I can have a care coordinator reach out to you about that.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds perfect. I want to make sure we have everything in place.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll note that down and ensure Lisa Chen contacts you for the care plan.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 64,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you so much, Margaret! I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 68,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome, Rose! Just to recap, we have the appointment scheduled for Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 71,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "And I’ll have Lisa reach out about personal care assistance. Anything else?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No, that should be all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 82,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you for calling, Rose. Have a great day!",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 85,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 92,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7058a710c04849e9b4d38db9",
+  "revision": "",
+  "status": "success"
+}
