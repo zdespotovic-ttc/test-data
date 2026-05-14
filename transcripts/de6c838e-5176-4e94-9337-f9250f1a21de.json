@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-14T20:17:37Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-19af1908a3fa4fcb87072c0e",
+    "created": 1773519457,
+    "modified": 1773519457
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005672-69a2b541",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-19af1908a3fa4fcb87072c0e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63940738657,
+      "call_id": "19af1908a3fa4fcb87072c0e",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-19af1908a3fa4fcb87072c0e",
+      "media_name": "218d5d0b64b74cd2bfe12e366255a3f0.mp3",
+      "scenario": "A customer calls with a billing dispute, claiming they were charged twice for a single chiropractic session. They request a detailed statement to resolve the issue. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is Rose Patterson. I’m calling because I have a billing dispute. I’m sorry to hear that, Rose. Can you please tell me more about the issue? Yes, I was charged twice for a single chiropractic session. It doesn’t seem right. I understand your concern. Let me pull up your account. One moment, please. Sure, take your time. I just want to get this sorted out. Thank you for waiting. I see that you had a chiropractic session on the 15th, but there are two charges on your account. Exactly! I only went in once, so why am I seeing these two charges? It looks like there may have been a processing error. I will need to review the detailed statement for you. Can you send that to me? I need it to resolve this with my son. Absolutely, I can prepare a detailed statement. Would you like it emailed or mailed? Email would be best. My address is the same as before. Got it. I’ll send that right after our call. Thank you, I appreciate it. Is there anything else you’d like me to check while I have your account open? Actually, yes. Are there any updates on the caregiver schedule for next week? Let me check that for you as well. You currently have daily companion care, right? Yes, that’s correct. I see that everything is scheduled as usual, but we do have an opening for physical therapy if that’s something you’d consider. Physical therapy? Is that something my husband might need? It could be beneficial, especially for mobility. Would you like me to have a therapist reach out? Yes, that sounds great. I’ll arrange that for you. Just to confirm, you want the therapist to contact you via email? Yes, please. Perfect. I’ll send the detailed statement and have the therapist reach out today. Thank you, Margaret, I really appreciate your help. Anytime, Rose! Thank you for reaching out. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I’m calling because I have a billing dispute.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Rose. Can you please tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I was charged twice for a single chiropractic session. It doesn’t seem right.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account. One moment, please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time. I just want to get this sorted out.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for waiting. I see that you had a chiropractic session on the 15th, but there are two charges on your account.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Exactly! I only went in once, so why am I seeing these two charges?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It looks like there may have been a processing error. I will need to review the detailed statement for you.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Can you send that to me? I need it to resolve this with my son.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I can prepare a detailed statement. Would you like it emailed or mailed?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Email would be best. My address is the same as before.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Got it. I’ll send that right after our call.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Is there anything else you’d like me to check while I have your account open?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, yes. Are there any updates on the caregiver schedule for next week?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check that for you as well. You currently have daily companion care, right?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 99,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I see that everything is scheduled as usual, but we do have an opening for physical therapy if that’s something you’d consider.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 109,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Physical therapy? Is that something my husband might need?",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 116,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It could be beneficial, especially for mobility. Would you like me to have a therapist reach out?",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that sounds great.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll arrange that for you. Just to confirm, you want the therapist to contact you via email?",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, please.",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect. I’ll send the detailed statement and have the therapist reach out today.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 141,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret, I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 141,
+          "end_time": 147,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Anytime, Rose! Thank you for reaching out. Have a great day!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 152,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 152,
+          "end_time": 156,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 160,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-19af1908a3fa4fcb87072c0e",
+  "revision": "",
+  "status": "success"
+}
