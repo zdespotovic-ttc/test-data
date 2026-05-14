@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-16T19:28:24Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0ded1ef07e444ba59857c726",
+    "created": 1773689304,
+    "modified": 1773689304
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005684-05c32a73",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0ded1ef07e444ba59857c726",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63940908504,
+      "call_id": "0ded1ef07e444ba59857c726",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0ded1ef07e444ba59857c726",
+      "media_name": "4840bf7d8d034cf8befef3b09cf0bf2b.mp3",
+      "scenario": "A client disputes the charges on their recent invoice, insisting that they should have been covered by insurance. They demand clarification and a corrected bill. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Edward Martinez. I'm calling about a dispute on my recent invoice. Hi, Edward. I’m happy to help with that. What seems to be the issue? Well, I noticed that several charges were applied for respite care, but I thought those should be covered by insurance. I understand your concern. Let's take a look at your invoice together. Can you provide the invoice number? Yes, it’s 123456. Thank you. I’ll pull that up. One moment, please. Okay, I see the charges here. It appears that there’s a notation indicating that the insurance provider denied coverage for those specific services. Denied? That doesn’t sound right. I thought respite care was supposed to be covered. It generally is, but sometimes there are specific criteria that must be met. Let me check your insurance information. Alright, but I really need clarification. This is quite a bit of money for me. Absolutely, I understand, Edward. I’ll make sure we clarify everything. Can I confirm that your insurance is still the same as before? Yes, it’s still with Blue Shield. Thank you. I’ll contact them to check why these charges were denied. That would be great. I just want to make sure everything is resolved. Of course. I’ll also send you a corrected bill if necessary. I appreciate that. Is there any other service I can use in the meantime? Well, we do offer additional respite services that might be covered under your plan. Would you be interested in discussing those? Yes, I would. That could be really helpful for my wife. Great! I’ll make a note to discuss those options with you when I follow up. Thank you, Margaret. I really appreciate your help. You’re welcome, Edward. I’ll be in touch soon with an update on your billing inquiry. Sounds good. Have a nice day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Edward Martinez. I'm calling about a dispute on my recent invoice.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Edward. I’m happy to help with that. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed that several charges were applied for respite care, but I thought those should be covered by insurance.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let's take a look at your invoice together. Can you provide the invoice number?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it’s 123456.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you. I’ll pull that up. One moment, please.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see the charges here. It appears that there’s a notation indicating that the insurance provider denied coverage for those specific services.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 48,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Denied? That doesn’t sound right. I thought respite care was supposed to be covered.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "It generally is, but sometimes there are specific criteria that must be met. Let me check your insurance information.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Alright, but I really need clarification. This is quite a bit of money for me.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 70,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, I understand, Edward. I’ll make sure we clarify everything.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Can I confirm that your insurance is still the same as before?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 83,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, it’s still with Blue Shield.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you. I’ll contact them to check why these charges were denied.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 93,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be great. I just want to make sure everything is resolved.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 99,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course. I’ll also send you a corrected bill if necessary.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I appreciate that. Is there any other service I can use in the meantime?",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Well, we do offer additional respite services that might be covered under your plan. Would you be interested in discussing those?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, I would. That could be really helpful for my wife.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 123,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll make a note to discuss those options with you when I follow up.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 129,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Edward. I’ll be in touch soon with an update on your billing inquiry.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. Have a nice day!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0ded1ef07e444ba59857c726",
+  "revision": "",
+  "status": "success"
+}
