@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T19:22:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6c638b3f8e274cad8fda7f7a",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005720-25b9b961",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6c638b3f8e274cad8fda7f7a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946005720,
+      "call_id": "6c638b3f8e274cad8fda7f7a",
+      "caller_id_number": "+13165559012",
+      "caller_id_name": "Lucille Davis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6c638b3f8e274cad8fda7f7a",
+      "media_name": "4fbd4b8e9101487985e87a8023f815ad.mp3",
+      "scenario": "A customer calls to dispute an unexpected charge on their latest credit card statement. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Lucille Davis. I’m calling about an unexpected charge I saw on my credit card statement. Oh, I'm sorry to hear that, Lucille. Can you provide me with the details of the charge? Yes, it’s a charge for $120 that I didn’t expect. I only had my regular personal care assistance last week. I understand your concern. Let me check your account and see what's going on with that charge. Thank you. I've been a client for 15 months and I don’t recall any changes. I appreciate your loyalty, Lucille. Just a moment while I pull up your account details. Alright, I see the charge you mentioned. It looks like there was a billing error related to an additional hour of service that was mistakenly added to your last visit. That doesn't seem right. I had my usual caregiver for our scheduled time. Yes, I completely agree. It appears there was a miscommunication regarding the hours logged by the caregiver. So, what can be done about this? I can initiate a billing correction right now. Would you like me to proceed with that? Yes, please. I’d appreciate that. I will make sure that the $120 charge is reversed. It usually takes 3-5 business days for the refund to reflect on your statement. That’s good to know. Is there anything else I should be aware of? I recommend checking in with our Care Coordinator, Lisa, if you ever have questions regarding your service hours. Would you like me to connect you with her? Yes, that sounds helpful. Great! I’ll set up a follow-up call for you with Lisa. What’s a good time for her to reach you? I’m available most afternoons after 3 PM. Perfect, I’ll arrange for her to call you tomorrow around that time. Thank you so much for your help, Margaret. You're very welcome, Lucille. Is there anything else I can assist you with today? No, that's all for now. Thanks again! Thank you for calling CareFirst Home Health, and have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Lucille Davis. I’m calling about an unexpected charge I saw on my credit card statement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I'm sorry to hear that, Lucille. Can you provide me with the details of the charge?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it’s a charge for $120 that I didn’t expect. I only had my regular personal care assistance last week.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me check your account and see what's going on with that charge.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I've been a client for 15 months and I don’t recall any changes.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I appreciate your loyalty, Lucille. Just a moment while I pull up your account details.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Alright, I see the charge you mentioned. It looks like there was a billing error related to an additional hour of service that was mistakenly added to your last visit.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 55,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That doesn't seem right. I had my usual caregiver for our scheduled time.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Yes, I completely agree. It appears there was a miscommunication regarding the hours logged by the caregiver.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "So, what can be done about this?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I can initiate a billing correction right now. Would you like me to proceed with that?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, please. I’d appreciate that.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 81,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I will make sure that the $120 charge is reversed. It usually takes 3-5 business days for the refund to reflect on your statement.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 90,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That’s good to know. Is there anything else I should be aware of?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I recommend checking in with our Care Coordinator, Lisa, if you ever have questions regarding your service hours. Would you like me to connect you with her?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, that sounds helpful.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Great! I’ll set up a follow-up call for you with Lisa. What’s a good time for her to reach you?",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "I’m available most afternoons after 3 PM.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 120,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect, I’ll arrange for her to call you tomorrow around that time.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you so much for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're very welcome, Lucille. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that's all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health, and have a great day!",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559012",
+    "ooma_remote_name": "Lucille Davis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6c638b3f8e274cad8fda7f7a",
+  "revision": "",
+  "status": "success"
+}
