@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-13T01:17:47Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9eabf8243f5b4cad93101cdc",
+    "created": 1773364667,
+    "modified": 1773364667
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005078-5db81e6c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9eabf8243f5b4cad93101cdc",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63940583867,
+      "call_id": "9eabf8243f5b4cad93101cdc",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9eabf8243f5b4cad93101cdc",
+      "media_name": "9418e089de2d48dfb9f555058907403e.mp3",
+      "scenario": "A customer is dissatisfied with the quality of the recent carpet cleaning service and requests a redo. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. My name is David Anderson. I was referred by Dorothy Henderson. Nice to meet you, David! How can I assist you regarding your wife's care? Well, my wife is recovering from a stroke, and I’m looking into physical therapy and nursing care for her. We can certainly help with that. We offer skilled nursing and physical therapy services. That sounds good, but I also have a complaint about the recent carpet cleaning service I used. Oh, I see. This is actually CareFirst Home Health, not a carpet cleaning service. I know, but I wanted to address the poor quality of that service first before discussing my wife's care needs. I understand, David. Could you provide me with more details about your complaint? The carpet was cleaned last week, but it still looks dirty and there are stains that weren't removed. I’m sorry to hear that. It must be frustrating. Have you contacted their customer service about this? Yes, I did. They promised to send someone back, but it hasn't happened yet. That’s disappointing. I recommend following up with them to ensure they send someone out soon. I will, but I'm worried it won't get resolved. I completely understand your concern. Would you like me to help escalate this issue? That would be great, thank you! In the meantime, let's discuss your wife's needs. When would you like to schedule her physical therapy? I’d like to get that set up as soon as possible, perhaps for this week? We can definitely accommodate that. Dr. James Rodriguez, our physical therapist, is available. How much does that cost? Our physical therapy sessions range from $110 to $140 for 45 to 60 minutes. That sounds reasonable. Can we also arrange for skilled nursing care? Absolutely. Our skilled nursing services are between $95 and $125 for 1-2 hours. Great, I think we’ll need both services. I can set up an initial assessment to finalize the details. Would you prefer in-person or virtual? An in-person assessment would be best. Perfect! I’ll arrange that for you. Thank you, Margaret. I really appreciate your help with everything. You’re welcome, David! I’ll follow up with the details and let you know about the carpet cleaning issue. Sounds good. I look forward to hearing from you. Have a great day, David! You too, bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is David Anderson. I was referred by Dorothy Henderson.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 6,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, David! How can I assist you regarding your wife's care?",
+          "speaker": "local party",
+          "start_time": 6,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my wife is recovering from a stroke, and I’m looking into physical therapy and nursing care for her.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can certainly help with that. We offer skilled nursing and physical therapy services.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good, but I also have a complaint about the recent carpet cleaning service I used.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Oh, I see. This is actually CareFirst Home Health, not a carpet cleaning service.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I know, but I wanted to address the poor quality of that service first before discussing my wife's care needs.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand, David. Could you provide me with more details about your complaint?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "The carpet was cleaned last week, but it still looks dirty and there are stains that weren't removed.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m sorry to hear that. It must be frustrating. Have you contacted their customer service about this?",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I did. They promised to send someone back, but it hasn't happened yet.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That’s disappointing. I recommend following up with them to ensure they send someone out soon.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I will, but I'm worried it won't get resolved.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I completely understand your concern. Would you like me to help escalate this issue?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be great, thank you!",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "In the meantime, let's discuss your wife's needs. When would you like to schedule her physical therapy?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I’d like to get that set up as soon as possible, perhaps for this week?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can definitely accommodate that. Dr. James Rodriguez, our physical therapist, is available.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "How much does that cost?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Our physical therapy sessions range from $110 to $140 for 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds reasonable. Can we also arrange for skilled nursing care?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely. Our skilled nursing services are between $95 and $125 for 1-2 hours.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great, I think we’ll need both services.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I can set up an initial assessment to finalize the details. Would you prefer in-person or virtual?",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "An in-person assessment would be best.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Perfect! I’ll arrange that for you.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help with everything.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, David! I’ll follow up with the details and let you know about the carpet cleaning issue.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Sounds good. I look forward to hearing from you.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Have a great day, David!",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 140,
+          "channel": "right",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9eabf8243f5b4cad93101cdc",
+  "revision": "",
+  "status": "success"
+}
