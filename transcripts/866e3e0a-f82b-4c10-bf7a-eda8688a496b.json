@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-25133408ea254b32b1594e08",
+    "created": 1778716800,
+    "modified": 1778716800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946019584-064ff98a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-25133408ea254b32b1594e08",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 168,
+      "duration_ms": 168000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945936000,
+      "call_id": "25133408ea254b32b1594e08",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-25133408ea254b32b1594e08",
+      "media_name": "d14c406876c54255a4b78d2c1bc27ed2.mp3",
+      "scenario": "An inquirer seeks details about the company's customer service policy and response times. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 168.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. My name is David Anderson. I was referred by Dorothy Henderson. Hello, David! It's great to hear from you. How can I assist you regarding your wife? Well, my wife is recovering from a stroke, and we need some physical therapy and nursing care for her. Absolutely, we can help with that. May I ask if you're inquiring about our response times and customer service policy? Yes, exactly. I want to know how quickly you can respond to her needs. We strive to respond to inquiries and service requests within 24 hours. Our team is dedicated to timely support. That’s reassuring. What kind of follow-up can I expect after we initiate services? We provide regular check-ins from our care coordinators and nursing staff to ensure all needs are met. And how often do you schedule the physical therapy sessions? Physical therapy usually occurs 1-3 times per week, depending on the client's recovery plan developed with our therapist. That makes sense. What would be the cost for physical therapy sessions? Our physical therapy sessions range from $110 to $140 per visit, lasting about 45 to 60 minutes. Okay, and how about the nursing care? Skilled nursing care ranges from $95 to $125 per visit for 1 to 2 hours, depending on the services needed. That sounds reasonable. If we decide to proceed, what’s the next step? The next step would be to schedule an assessment with our care coordinator, Lisa Chen. When is Lisa available for this assessment? She’s available Monday through Saturday. I can schedule a time for you. That would be great. Can we do it for this Friday? Let me check… Yes, she has an opening at 10 AM on Friday. Does that work for you? Yes, that works perfectly. Excellent! I’ll set that appointment and send you a confirmation. Thank you, Margaret. I appreciate your help. You’re welcome, David. We’re here to support you and your wife. One last thing — do you have a customer service line for emergencies? Yes, we have 24/7 support coordination for emergencies. You can reach us anytime at this number. That’s good to know. Thank you again for all the information, Margaret. My pleasure! I look forward to helping your wife with her recovery. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is David Anderson. I was referred by Dorothy Henderson.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hello, David! It's great to hear from you. How can I assist you regarding your wife?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my wife is recovering from a stroke, and we need some physical therapy and nursing care for her.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can help with that. May I ask if you're inquiring about our response times and customer service policy?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, exactly. I want to know how quickly you can respond to her needs.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We strive to respond to inquiries and service requests within 24 hours. Our team is dedicated to timely support.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That’s reassuring. What kind of follow-up can I expect after we initiate services?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We provide regular check-ins from our care coordinators and nursing staff to ensure all needs are met.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "And how often do you schedule the physical therapy sessions?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Physical therapy usually occurs 1-3 times per week, depending on the client's recovery plan developed with our therapist.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That makes sense. What would be the cost for physical therapy sessions?",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Our physical therapy sessions range from $110 to $140 per visit, lasting about 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, and how about the nursing care?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Skilled nursing care ranges from $95 to $125 per visit for 1 to 2 hours, depending on the services needed.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reasonable. If we decide to proceed, what’s the next step?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "The next step would be to schedule an assessment with our care coordinator, Lisa Chen.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "When is Lisa available for this assessment?",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "She’s available Monday through Saturday. I can schedule a time for you.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be great. Can we do it for this Friday?",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Let me check… Yes, she has an opening at 10 AM on Friday. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that works perfectly.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Excellent! I’ll set that appointment and send you a confirmation.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, David. We’re here to support you and your wife.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 136,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "One last thing — do you have a customer service line for emergencies?",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 142,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Yes, we have 24/7 support coordination for emergencies. You can reach us anytime at this number.",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 149,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "That’s good to know. Thank you again for all the information, Margaret.",
+          "speaker": "remote party",
+          "start_time": 149,
+          "end_time": 155,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "My pleasure! I look forward to helping your wife with her recovery. Have a great day!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 168,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-25133408ea254b32b1594e08",
+  "revision": "",
+  "status": "success"
+}
