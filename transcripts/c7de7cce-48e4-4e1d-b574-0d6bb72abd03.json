@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T00:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-97f4c278430d4add9be69c97",
+    "created": 1778716800,
+    "modified": 1778716800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946019483-06df7c62",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-97f4c278430d4add9be69c97",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 162,
+      "duration_ms": 162000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945936000,
+      "call_id": "97f4c278430d4add9be69c97",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-97f4c278430d4add9be69c97",
+      "media_name": "cf3b29f47a324a138447b3030ea2dfe6.mp3",
+      "scenario": "An unhappy client reports a service issue they experienced last week, seeking compensation for the inconvenience. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 162.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is William Chen. I’m calling to discuss an issue I had with my last visit. Hi William! I’m sorry to hear that. Can you tell me what happened? Well, during my physical therapy session last week, the therapist seemed rushed and didn’t go through the exercises properly. It felt like I didn’t get the care I needed. I understand how frustrating that must be. We strive for quality care. Which therapist was it? It was Dr. Rodriguez. I’ve had him before, and this was not the usual experience. Thank you for letting me know, William. I’ll address this with Dr. Rodriguez immediately. I appreciate that. I really value the care I receive, but this was disappointing. I completely understand. We want you to feel comfortable and supported during your recovery. Exactly. This is a critical time for my rehabilitation. Would you like to discuss a possible compensation for the inconvenience? Yes, I think that would be fair, considering the circumstances. Certainly. I can arrange for a credit towards your next session. Would that work for you? Yes, that sounds good. Thank you. I’ll apply a $50 credit toward your next physical therapy session. I appreciate that. I really just want to ensure I’m on the right track for my knee recovery. Of course, and I’ll make sure to schedule a follow-up to monitor your progress closer. Would you prefer a session with Dr. Rodriguez again, or should we look at another therapist? I think I’d be open to trying someone else, just to see if it might help. Great! I can have Lisa coordinate that for you. Thank you, Margaret. That would be very helpful. I’ll also send a note to our management team regarding your feedback for quality assurance. That sounds good. I just want to make sure this doesn't happen again. Absolutely, William. Your feedback is crucial in ensuring we maintain our standards. Thank you for your understanding and prompt response. It’s my pleasure. You deserve the best care. Is there anything else I can help you with today? No, that’s everything for now. I look forward to hearing back about the new appointment. You will! Have a great day, William. Thanks, you too. Goodbye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I’m calling to discuss an issue I had with my last visit.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William! I’m sorry to hear that. Can you tell me what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, during my physical therapy session last week, the therapist seemed rushed and didn’t go through the exercises properly. It felt like I didn’t get the care I needed.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be. We strive for quality care. Which therapist was it?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was Dr. Rodriguez. I’ve had him before, and this was not the usual experience.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for letting me know, William. I’ll address this with Dr. Rodriguez immediately.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that. I really value the care I receive, but this was disappointing.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand. We want you to feel comfortable and supported during your recovery.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Exactly. This is a critical time for my rehabilitation.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Would you like to discuss a possible compensation for the inconvenience?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I think that would be fair, considering the circumstances.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Certainly. I can arrange for a credit towards your next session. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that sounds good. Thank you.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll apply a $50 credit toward your next physical therapy session.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I appreciate that. I really just want to ensure I’m on the right track for my knee recovery.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course, and I’ll make sure to schedule a follow-up to monitor your progress closer. Would you prefer a session with Dr. Rodriguez again, or should we look at another therapist?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I think I’d be open to trying someone else, just to see if it might help.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I can have Lisa coordinate that for you.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll also send a note to our management team regarding your feedback for quality assurance.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds good. I just want to make sure this doesn't happen again.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, William. Your feedback is crucial in ensuring we maintain our standards.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you for your understanding and prompt response.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure. You deserve the best care. Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s everything for now. I look forward to hearing back about the new appointment.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You will! Have a great day, William.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thanks, you too. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 162,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-97f4c278430d4add9be69c97",
+  "revision": "",
+  "status": "success"
+}
