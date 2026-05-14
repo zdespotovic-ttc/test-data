@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-26T14:06:10Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4f1eedc0964f4aa7bb3b2f33",
+    "created": 1774533970,
+    "modified": 1774533970
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005305-d2f89a32",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4f1eedc0964f4aa7bb3b2f33",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941753170,
+      "call_id": "4f1eedc0964f4aa7bb3b2f33",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4f1eedc0964f4aa7bb3b2f33",
+      "media_name": "4ec1ff677ac149a6b94e546b39fe8f52.mp3",
+      "scenario": "A customer asks for general information regarding the company's operating hours and location. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I assist you today? Hi, my name is David Anderson. I'm looking for some information. Of course, David! What information do you need? I was referred by Dorothy Henderson. My wife is recovering from a stroke, and we need some care services. I'm glad you called! We can definitely help with that. What specific services are you interested in? I need to know about your operating hours and location first. Sure! We're located at 2847 North Ridge Road, Suite 205, Wichita, KS 67205. Great, and what are your hours? We operate Monday through Friday from 7 AM to 7 PM, Saturday from 8 AM to 5 PM, and we're available for on-call emergencies on Sundays. Okay, that sounds good. Do you have nurses available during those hours? Yes, we have skilled nurses available Monday through Saturday. That's helpful. I want to ensure she gets both physical therapy and nursing care. Absolutely! We offer both physical therapy and skilled nursing care tailored to post-stroke recovery. Do you have a physical therapist available? Yes, Dr. James Rodriguez is our physical therapist, and he works Monday through Friday. Perfect. What about pricing for those services? Physical therapy ranges from $110 to $140 per session, and skilled nursing care is between $95 and $125. That sounds reasonable. Do you help with insurance authorization? Yes, our Care Coordinator, Lisa Chen, can assist with insurance authorization. I'd like to have her contact me. I can arrange that! Could you provide your number again? Sure, it's +13165556203. Thank you, David. I'll have Lisa reach out to you shortly. I appreciate that. Will she also discuss the care plan with me? Yes, she'll go over the care plan and options for your wife. Sounds good. Thank you for your help! You're welcome! If you have any other questions, feel free to call back. I will. Have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is David Anderson. I'm looking for some information.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, David! What information do you need?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I was referred by Dorothy Henderson. My wife is recovering from a stroke, and we need some care services.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm glad you called! We can definitely help with that. What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I need to know about your operating hours and location first.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure! We're located at 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great, and what are your hours?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We operate Monday through Friday from 7 AM to 7 PM, Saturday from 8 AM to 5 PM, and we're available for on-call emergencies on Sundays.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, that sounds good. Do you have nurses available during those hours?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, we have skilled nurses available Monday through Saturday.",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That's helpful. I want to ensure she gets both physical therapy and nursing care.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! We offer both physical therapy and skilled nursing care tailored to post-stroke recovery.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Do you have a physical therapist available?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, Dr. James Rodriguez is our physical therapist, and he works Monday through Friday.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 71,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect. What about pricing for those services?",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Physical therapy ranges from $110 to $140 per session, and skilled nursing care is between $95 and $125.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds reasonable. Do you help with insurance authorization?",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 86,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, our Care Coordinator, Lisa Chen, can assist with insurance authorization.",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I'd like to have her contact me.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I can arrange that! Could you provide your number again?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sure, it's +13165556203.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you, David. I'll have Lisa reach out to you shortly.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate that. Will she also discuss the care plan with me?",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Yes, she'll go over the care plan and options for your wife.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 115,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds good. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome! If you have any other questions, feel free to call back.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4f1eedc0964f4aa7bb3b2f33",
+  "revision": "",
+  "status": "success"
+}
