@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-29T17:32:46Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-cd488bfc00b9476e80f8fd9f",
+    "created": 1774805566,
+    "modified": 1774805566
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005844-5b164645",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-cd488bfc00b9476e80f8fd9f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 188,
+      "duration_ms": 188000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63942024766,
+      "call_id": "cd488bfc00b9476e80f8fd9f",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-cd488bfc00b9476e80f8fd9f",
+      "media_name": "54065b6fddeb470a983ae1a0fcbc8b71.mp3",
+      "scenario": "An individual urgently inquires about last-minute availability for a weekend workshop. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 188.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, my name is Patricia Wilson. I was referred by Dr. Anderson. I need help for my mother. Hi Patricia, nice to meet you! What kind of help does your mother need? She’s having a hip replacement soon and will need post-surgery care. I understand. We provide post-surgery recovery care. When is her surgery scheduled? It’s on Friday, and we're looking for someone to start this weekend. Is there any last-minute availability? Let me check our schedule for this weekend. One moment, please. Sure, thank you. I’m really hoping to get someone lined up quickly. I appreciate your urgency, Patricia. We typically have availability for post-surgery care. I can see we have a couple of caregivers who can start right after her surgery. That’s great to hear! What are the services included? Our post-surgery recovery care includes personal assistance, medication management, and mobility support. What’s the cost for that service? The price ranges from $85 to $110 for 1 to 3 hours, depending on the level of support needed. That sounds reasonable. Can we also arrange for physical therapy? Yes, we offer physical therapy as well. It’s priced between $110 and $140 for each session. Perfect. Can you check if a physical therapist is available this weekend too? Absolutely. I’ll make a note to arrange that for you. Thank you, I really appreciate it! What are the next steps? I’ll need to gather some details about your mother and her needs, and then we can finalize everything. Sure, what information do you need? I’ll need her full name, age, and any specific medical concerns. Her name is Ellen Wilson, she’s 75, and she has a history of high blood pressure. Thanks, Patricia. I’ll also need your contact information and insurance details for authorization. Okay, my number is +13165558471. I’ll get the insurance information sent over by email. Great! I'll follow up on the physical therapist's availability and send you a care plan draft. Thank you so much, Margaret. I feel much better knowing help is on the way. You’re welcome, Patricia! We’re here to support you and your mother. I’ll await your email then. Have a great day! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Patricia Wilson. I was referred by Dr. Anderson. I need help for my mother.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Patricia, nice to meet you! What kind of help does your mother need?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She’s having a hip replacement soon and will need post-surgery care.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. We provide post-surgery recovery care. When is her surgery scheduled?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s on Friday, and we're looking for someone to start this weekend. Is there any last-minute availability?",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check our schedule for this weekend. One moment, please.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, thank you. I’m really hoping to get someone lined up quickly.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 52,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I appreciate your urgency, Patricia. We typically have availability for post-surgery care.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I can see we have a couple of caregivers who can start right after her surgery.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 64,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That’s great to hear! What are the services included?",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 70,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Our post-surgery recovery care includes personal assistance, medication management, and mobility support.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 77,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "What’s the cost for that service?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 85,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "The price ranges from $85 to $110 for 1 to 3 hours, depending on the level of support needed.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That sounds reasonable. Can we also arrange for physical therapy?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Yes, we offer physical therapy as well. It’s priced between $110 and $140 for each session.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Perfect. Can you check if a physical therapist is available this weekend too?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely. I’ll make a note to arrange that for you.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 115,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thank you, I really appreciate it! What are the next steps?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I’ll need to gather some details about your mother and her needs, and then we can finalize everything.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 130,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Sure, what information do you need?",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I’ll need her full name, age, and any specific medical concerns.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Her name is Ellen Wilson, she’s 75, and she has a history of high blood pressure.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 147,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thanks, Patricia. I’ll also need your contact information and insurance details for authorization.",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 154,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Okay, my number is +13165558471. I’ll get the insurance information sent over by email.",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 162,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Great! I'll follow up on the physical therapist's availability and send you a care plan draft.",
+          "speaker": "local party",
+          "start_time": 162,
+          "end_time": 169,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you so much, Margaret. I feel much better knowing help is on the way.",
+          "speaker": "remote party",
+          "start_time": 169,
+          "end_time": 175,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You’re welcome, Patricia! We’re here to support you and your mother.",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "I’ll await your email then. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 188,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-cd488bfc00b9476e80f8fd9f",
+  "revision": "",
+  "status": "success"
+}
