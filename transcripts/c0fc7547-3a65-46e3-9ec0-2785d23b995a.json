@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T19:21:46Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b0e19f9de54d4cb884eeb15b",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005706-6a865a92",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b0e19f9de54d4cb884eeb15b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946005706,
+      "call_id": "b0e19f9de54d4cb884eeb15b",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b0e19f9de54d4cb884eeb15b",
+      "media_name": "8a7ceb09c83c4288821e5c7b4cc399ab.mp3",
+      "scenario": "A new customer books their first appointment for a personal training session. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Dorothy Henderson. I’d like to schedule a personal training session for my daughter. Hi Dorothy! It's great to hear from you. We can definitely help with that. When are you looking to schedule the session? Ideally, we’d like it in the morning. She has school in the afternoon. Morning works well. We have openings on Tuesday and Thursday. Does either of those days fit your schedule? Yes, Thursday would be perfect. What time do you have available? We have an opening at 9:00 AM or 10:30 AM. Which time would you prefer? Let’s go with the 9:00 AM slot. Great choice! I’ll schedule the personal training session for Thursday at 9:00 AM. Perfect. Now, do I need to bring anything specific for the session? Just a water bottle and comfortable clothing should be fine. Our trainer will take care of the rest. Sounds good. How much is the session? The personal training session is priced at $110 for a 60-minute session. Okay, and how do I make the payment? You can pay by credit card over the phone or at the time of the session. Which would you prefer? I’d like to pay over the phone, please. Sure, I can assist you with that. Can you provide your card number? Yes, it’s 1234-5678-9012-3456. Thank you, and the expiration date? It’s 11/25. And the security code? It’s 123. Thank you, Dorothy. Your payment is processed successfully. Great! I appreciate your help, Margaret. It’s my pleasure! Just to confirm, your appointment is scheduled for Thursday at 9:00 AM. Yes, I have it noted. Is there anything else I can assist you with today? No, that’s it for now. Thank you! Thank you for calling, Dorothy. Have a wonderful day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Dorothy Henderson. I’d like to schedule a personal training session for my daughter.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Dorothy! It's great to hear from you. We can definitely help with that. When are you looking to schedule the session?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Ideally, we’d like it in the morning. She has school in the afternoon.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Morning works well. We have openings on Tuesday and Thursday. Does either of those days fit your schedule?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, Thursday would be perfect. What time do you have available?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We have an opening at 9:00 AM or 10:30 AM. Which time would you prefer?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Let’s go with the 9:00 AM slot.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great choice! I’ll schedule the personal training session for Thursday at 9:00 AM.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Perfect. Now, do I need to bring anything specific for the session?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Just a water bottle and comfortable clothing should be fine. Our trainer will take care of the rest.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sounds good. How much is the session?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The personal training session is priced at $110 for a 60-minute session.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, and how do I make the payment?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You can pay by credit card over the phone or at the time of the session. Which would you prefer?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I’d like to pay over the phone, please.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure, I can assist you with that. Can you provide your card number?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, it’s 1234-5678-9012-3456.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you, and the expiration date?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "It’s 11/25.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "And the security code?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "It’s 123.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Dorothy. Your payment is processed successfully.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great! I appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure! Just to confirm, your appointment is scheduled for Thursday at 9:00 AM.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, I have it noted.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "No, that’s it for now. Thank you!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Thank you for calling, Dorothy. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b0e19f9de54d4cb884eeb15b",
+  "revision": "",
+  "status": "success"
+}
