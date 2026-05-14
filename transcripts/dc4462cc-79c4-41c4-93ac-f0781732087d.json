@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-23T12:08:10Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a71ffa95aec94bc892a47cbc",
+    "created": 1774267690,
+    "modified": 1774267690
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005732-75a8fa6f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a71ffa95aec94bc892a47cbc",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941486890,
+      "call_id": "a71ffa95aec94bc892a47cbc",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a71ffa95aec94bc892a47cbc",
+      "media_name": "46c007a5f63c4f8daaa6a9c7b0d7700f.mp3",
+      "scenario": "A caller seeks general information about the clinic's opening hours and whether walk-ins are accepted for initial consultations. They are planning a visit soon. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you? Hi, Margaret. My name is Edward Martinez, and I'm a regular client. Hi, Edward! It's great to hear from you. What can I assist you with today? I’m planning a visit soon and wanted to know your opening hours. Of course! We’re open Monday through Friday from 7:00 AM to 7:00 PM, and Saturday from 8:00 AM to 5:00 PM. Got it, and what about Sunday? On Sundays, we only handle on-call emergencies. Okay, that's helpful. Can I just walk in for an initial consultation, or do I need to schedule an appointment? We recommend scheduling an appointment for initial consultations to ensure someone is available to assist you properly. That makes sense. I’ll schedule a time then. Would you like me to help you set up that appointment today? Yes, please! I think I’d need some information on respite care options as well. Absolutely! We offer a variety of respite care services. Great, I’d like to know the available pricing for that. Our respite care services range from $30 to $38 per hour. That sounds reasonable. What is the usual duration for those sessions? They can be scheduled as needed, typically from a couple of hours up to a full day. Alright, I’ll consider that when I come in. Perfect! Would you prefer a morning or afternoon appointment? Morning works best for me. How about Thursday? Let me check... Yes, we have openings at 9:00 AM and 11:00 AM on Thursday. Let’s go with 9:00 AM then. Great! I’ve scheduled you for a 9:00 AM appointment on Thursday. Thank you, Margaret. I appreciate your help. You’re welcome, Edward! Is there anything else you need? No, that’s all for now. I’ll see you then! We look forward to seeing you. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Edward Martinez, and I'm a regular client.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Edward! It's great to hear from you. What can I assist you with today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m planning a visit soon and wanted to know your opening hours.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course! We’re open Monday through Friday from 7:00 AM to 7:00 PM, and Saturday from 8:00 AM to 5:00 PM.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Got it, and what about Sunday?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "On Sundays, we only handle on-call emergencies.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that's helpful. Can I just walk in for an initial consultation, or do I need to schedule an appointment?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We recommend scheduling an appointment for initial consultations to ensure someone is available to assist you properly.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That makes sense. I’ll schedule a time then.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Would you like me to help you set up that appointment today?",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please! I think I’d need some information on respite care options as well.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! We offer a variety of respite care services.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great, I’d like to know the available pricing for that.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 61,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Our respite care services range from $30 to $38 per hour.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reasonable. What is the usual duration for those sessions?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "They can be scheduled as needed, typically from a couple of hours up to a full day.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Alright, I’ll consider that when I come in.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! Would you prefer a morning or afternoon appointment?",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Morning works best for me. How about Thursday?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Let me check... Yes, we have openings at 9:00 AM and 11:00 AM on Thursday.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Let’s go with 9:00 AM then.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I’ve scheduled you for a 9:00 AM appointment on Thursday.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Edward! Is there anything else you need?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s all for now. I’ll see you then!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "We look forward to seeing you. Have a great day!",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a71ffa95aec94bc892a47cbc",
+  "revision": "",
+  "status": "success"
+}
