@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-29T11:53:24Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4f181fbf023946e9b7b0552d",
+    "created": 1774785204,
+    "modified": 1774785204
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005235-1c7efb86",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4f181fbf023946e9b7b0552d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63942004404,
+      "call_id": "4f181fbf023946e9b7b0552d",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4f181fbf023946e9b7b0552d",
+      "media_name": "2b113871678c462b985bca0deaf22acf.mp3",
+      "scenario": "A motorist stranded on the highway urgently needs a tow truck. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you? Hi Margaret, my name is Mark Johnson. I found your number in the Yellow Pages and saw good reviews online. Great to hear, Mark! What services are you interested in? Well, my elderly parents need help with medication management and transportation to appointments. We can definitely assist with that. Can I ask if there’s a specific schedule you have in mind? They have appointments next week, but right now, there's an urgent situation. Oh, I’m listening. What’s going on? They’re stranded on the highway and need a tow truck! I can’t get there right now. That sounds stressful! I recommend calling a tow service directly… I know, but they also need someone to help them wait for the tow and check on their medications! I understand. We can provide a caregiver to assist them while they wait. That might be the best option. What’s the process for getting someone there quickly? I can arrange for a Personal Care Assistant to go to them right away. This typically costs $28 to $35 per hour. That sounds reasonable. How quickly can someone get there? I can initiate the coordination immediately. Can you provide me with their exact location? They’re just off Highway 54, near the Oak Street exit. Got it. I’ll arrange for someone to head that way right now. Thank you so much! What about their medication? We can include medication management as part of the service; it’s $65 to $80 for a visit. That sounds good. Can you ensure the caregiver knows their meds? Absolutely! I’ll make sure to include all relevant info for the caregiver. Thank you! Is there anything you need from me to finalize this? Just a contact number for the caregiver to reach your parents when they arrive. Sure! It’s +13165555832. Thank you, Mark. I’ll get that set up right now. I really appreciate your help. No problem at all! We’ll keep you updated. Perfect! I’ll wait for your call. Have a good day, Mark! You too, thanks again!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Mark Johnson. I found your number in the Yellow Pages and saw good reviews online.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Great to hear, Mark! What services are you interested in?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my elderly parents need help with medication management and transportation to appointments.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely assist with that. Can I ask if there’s a specific schedule you have in mind?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "They have appointments next week, but right now, there's an urgent situation.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Oh, I’m listening. What’s going on?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "They’re stranded on the highway and need a tow truck! I can’t get there right now.",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That sounds stressful! I recommend calling a tow service directly…",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I know, but they also need someone to help them wait for the tow and check on their medications!",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand. We can provide a caregiver to assist them while they wait.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That might be the best option. What’s the process for getting someone there quickly?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can arrange for a Personal Care Assistant to go to them right away. This typically costs $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 68,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds reasonable. How quickly can someone get there?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can initiate the coordination immediately. Can you provide me with their exact location?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "They’re just off Highway 54, near the Oak Street exit.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Got it. I’ll arrange for someone to head that way right now.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you so much! What about their medication?",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can include medication management as part of the service; it’s $65 to $80 for a visit.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. Can you ensure the caregiver knows their meds?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely! I’ll make sure to include all relevant info for the caregiver.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you! Is there anything you need from me to finalize this?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Just a contact number for the caregiver to reach your parents when they arrive.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 123,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sure! It’s +13165555832.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 126,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Mark. I’ll get that set up right now.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "No problem at all! We’ll keep you updated.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Perfect! I’ll wait for your call.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Have a good day, Mark!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 147,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, thanks again!",
+          "speaker": "remote party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4f181fbf023946e9b7b0552d",
+  "revision": "",
+  "status": "success"
+}
