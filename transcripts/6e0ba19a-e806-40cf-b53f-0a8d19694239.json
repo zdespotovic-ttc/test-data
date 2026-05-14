@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-03-18T20:59:56Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dd6942fbacb54561b1ceeb75",
+    "created": 1773867596,
+    "modified": 1773867596
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946005695-033dc01e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dd6942fbacb54561b1ceeb75",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63941086796,
+      "call_id": "dd6942fbacb54561b1ceeb75",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dd6942fbacb54561b1ceeb75",
+      "media_name": "3b9babf221b74e4882597c046536a9ec.mp3",
+      "scenario": "A patient is upset about a late fee applied to their account despite having set up automatic payments. They want this charge removed from their bill. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Edward Martinez. I’m calling because I noticed a late fee on my account. I see. I’d be happy to help you with that. Can you tell me more about the situation? Well, I set up automatic payments some time ago, so I don’t understand why there’s a late fee. I understand your frustration, Edward. Let me pull up your account to check the details. Thank you. I just want to make sure this charge gets removed. My wife relies on the respite care, and I don’t want this to be an issue. Of course, I completely understand. Just a moment while I access your account… Okay, I see here that the automatic payment was set up correctly, but there was a delay in processing this time. I apologize for the inconvenience. So, can you remove the late fee? It shouldn’t even be there. I appreciate your patience. I can definitely initiate a request to waive that fee for you. Great! When can I expect to see that reflected in my account? It typically takes 3-5 business days for adjustments to process, but I’ll mark it as urgent. Thank you, I really appreciate that. Is there anything else I should be aware of? I’ll also send a confirmation email once the fee is waived. Would you like me to update any contact information for you? No, my email and phone are still the same. Perfect. Just to confirm, you’re still at +13165553690 for contact? Yes, that’s correct. Great! By the way, if you ever need additional respite care or other services, we can schedule that for you as well. I’ll keep that in mind. My wife occasionally needs time for her appointments. Absolutely, just let us know, and we can arrange that. Thank you so much for your help, Margaret. You’re very welcome, Edward. Is there anything else I can assist you with today? No, that’s all for now. Thanks again! Thank you for calling, and have a wonderful day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I’m calling because I noticed a late fee on my account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I see. I’d be happy to help you with that. Can you tell me more about the situation?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I set up automatic payments some time ago, so I don’t understand why there’s a late fee.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration, Edward. Let me pull up your account to check the details.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I just want to make sure this charge gets removed. My wife relies on the respite care, and I don’t want this to be an issue.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course, I completely understand. Just a moment while I access your account…",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see here that the automatic payment was set up correctly, but there was a delay in processing this time. I apologize for the inconvenience.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 55,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "So, can you remove the late fee? It shouldn’t even be there.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I appreciate your patience. I can definitely initiate a request to waive that fee for you.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Great! When can I expect to see that reflected in my account?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 73,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "It typically takes 3-5 business days for adjustments to process, but I’ll mark it as urgent.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 79,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you, I really appreciate that. Is there anything else I should be aware of?",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I’ll also send a confirmation email once the fee is waived. Would you like me to update any contact information for you?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 94,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "No, my email and phone are still the same.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Perfect. Just to confirm, you’re still at +13165553690 for contact?",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 104,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 106,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Great! By the way, if you ever need additional respite care or other services, we can schedule that for you as well.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "I’ll keep that in mind. My wife occasionally needs time for her appointments.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 118,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely, just let us know, and we can arrange that.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you so much for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re very welcome, Edward. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that’s all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for calling, and have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 140,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 145,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dd6942fbacb54561b1ceeb75",
+  "revision": "",
+  "status": "success"
+}
