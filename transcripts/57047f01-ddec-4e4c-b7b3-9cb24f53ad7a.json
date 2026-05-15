@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f7642e6a3ad44a7486a1385e",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946023281-a982079f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f7642e6a3ad44a7486a1385e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "f7642e6a3ad44a7486a1385e",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f7642e6a3ad44a7486a1385e",
+      "media_name": "bfb99a3a8a52416bbf95fb301e5cccda.mp3",
+      "scenario": "A returning customer calls to schedule their weekly pool maintenance appointment. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, this is Rose Patterson. I'm calling to schedule my weekly pool maintenance appointment. Rose, it's great to hear from you! Just to confirm, you're looking for companion care and personal assistance, right? Yes, that’s right. My son manages everything, and we want to keep it consistent. Absolutely, consistency is key. When would you like to schedule your next session? Could we do the same time as usual? Maybe around 10 AM on Tuesday? Let me check... Yes, we have availability at 10 AM on Tuesday. I can book that for you. That would be perfect, thank you! You're welcome! Just to confirm, this will be for the same caregiver who visited last time, correct? Yes, I’d prefer if it could be the same person; it helps my mom feel comfortable. Understood, I’ll make a note for that caregiver. Is there anything else you need? Actually, I was wondering about additional services. Does your agency offer anything for managing her medication? Yes, we do offer medication management services, which include reminders and administration supervision. That sounds helpful! What’s the price for that service? The medication management service ranges from $65 to $80 per session. Okay, I might want to add that in the future. Can you send me more information? Absolutely! I'll send over a detailed email outlining our medication management services. Thank you, I appreciate that. No problem, Rose. So, to recap: I’ve scheduled your appointment for Tuesday at 10 AM with your regular caregiver. Yes, that’s correct. And I will also send information about the medication management service. Great, thank you for your help! You're welcome! If you have any other questions, feel free to call us. Will do. Have a great day! You too, Rose! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Rose Patterson. I'm calling to schedule my weekly pool maintenance appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Rose, it's great to hear from you! Just to confirm, you're looking for companion care and personal assistance, right?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, that’s right. My son manages everything, and we want to keep it consistent.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, consistency is key. When would you like to schedule your next session?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Could we do the same time as usual? Maybe around 10 AM on Tuesday?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check... Yes, we have availability at 10 AM on Tuesday. I can book that for you.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That would be perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "You're welcome! Just to confirm, this will be for the same caregiver who visited last time, correct?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I’d prefer if it could be the same person; it helps my mom feel comfortable.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Understood, I’ll make a note for that caregiver. Is there anything else you need?",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Actually, I was wondering about additional services. Does your agency offer anything for managing her medication?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we do offer medication management services, which include reminders and administration supervision.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds helpful! What’s the price for that service?",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The medication management service ranges from $65 to $80 per session.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, I might want to add that in the future. Can you send me more information?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! I'll send over a detailed email outlining our medication management services.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "No problem, Rose. So, to recap: I’ve scheduled your appointment for Tuesday at 10 AM with your regular caregiver.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "And I will also send information about the medication management service.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Great, thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 97,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome! If you have any other questions, feel free to call us.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Will do. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, Rose! Take care.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f7642e6a3ad44a7486a1385e",
+  "revision": "",
+  "status": "success"
+}
