@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-15T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-062f8edf2c304849ae4bb604",
+    "created": 1778828400,
+    "modified": 1778828400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946092545-107a0738",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-062f8edf2c304849ae4bb604",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946047600,
+      "call_id": "062f8edf2c304849ae4bb604",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-062f8edf2c304849ae4bb604",
+      "media_name": "47ccadb116ac48059dfc7e0f0fc77b66.mp3",
+      "scenario": "A restaurant owner urgently requests refrigeration repair services due to a cooler breakdown affecting perishables. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Frank Miller. I need to discuss something urgent regarding my care plan. Of course, Frank. What’s the urgency? I just got back from a visit to the endocrinologist, and my cooler broke down. I need help fast! I’m sorry to hear that. Can you clarify what cooler you’re referring to? It’s the one where I store my insulin and other perishables. They could spoil! That sounds critical. We can’t have your medications spoiled. Have you contacted any repair services yet? No, I thought you might have recommendations or help with that. We don’t handle refrigeration repairs, but I can help you find a local service. That would be great. I really need someone to come out today. Let me check a few local repair services for you. Just a moment. Thank you, I really appreciate it. My insulin is crucial, and I can’t risk it spoiling. Absolutely, Frank. I’ll find someone who can respond quickly. I’ve got a couple of contacts here. There's \"Wichita Refrigeration Services,\" and they can send someone within the hour. Would you like their number? Yes, please, that would be helpful! It’s +13165559100. They’re typically really good with emergency calls. Got it, I’ll call them right away. Also, Frank, since you're a regular, do you need additional supplies while you're waiting? Um, yes, could you send me some extra insulin syringes just in case? Absolutely, I’ll arrange that for you. Thank you. I want to make sure I’m prepared if the repair takes longer than expected. Good thinking, Frank. I’ll ensure the syringes are sent out today. You’re a lifesaver, Margaret. Thanks for handling this so quickly! It’s my pleasure, Frank. I’ll follow up in a few hours to check in. That sounds great. Thank you again! You’re welcome! Have a good day and stay safe. You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I need to discuss something urgent regarding my care plan.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Frank. What’s the urgency?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I just got back from a visit to the endocrinologist, and my cooler broke down. I need help fast!",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Can you clarify what cooler you’re referring to?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s the one where I store my insulin and other perishables. They could spoil!",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds critical. We can’t have your medications spoiled. Have you contacted any repair services yet?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "No, I thought you might have recommendations or help with that.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We don’t handle refrigeration repairs, but I can help you find a local service.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great. I really need someone to come out today.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check a few local repair services for you. Just a moment.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I really appreciate it. My insulin is crucial, and I can’t risk it spoiling.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, Frank. I’ll find someone who can respond quickly.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I’ve got a couple of contacts here. There's \"Wichita Refrigeration Services,\" and they can send someone within the hour. Would you like their number?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 85,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, please, that would be helpful!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "It’s +13165559100. They’re typically really good with emergency calls.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Got it, I’ll call them right away.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Also, Frank, since you're a regular, do you need additional supplies while you're waiting?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Um, yes, could you send me some extra insulin syringes just in case?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely, I’ll arrange that for you.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you. I want to make sure I’m prepared if the repair takes longer than expected.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Good thinking, Frank. I’ll ensure the syringes are sent out today.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "You’re a lifesaver, Margaret. Thanks for handling this so quickly!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "It’s my pleasure, Frank. I’ll follow up in a few hours to check in.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "That sounds great. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome! Have a good day and stay safe.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 163,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-062f8edf2c304849ae4bb604",
+  "revision": "",
+  "status": "success"
+}
