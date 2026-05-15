@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-15T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7ad1f7f048464b29807e497f",
+    "created": 1778828400,
+    "modified": 1778828400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946092407-33e8737a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7ad1f7f048464b29807e497f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 137,
+      "duration_ms": 137000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946047600,
+      "call_id": "7ad1f7f048464b29807e497f",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7ad1f7f048464b29807e497f",
+      "media_name": "13961c484d1e411a8fa7528c3a4a9fac.mp3",
+      "scenario": "A family calls about a surprise charge on their heating bill, alleging it does not reflect their usage. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 137.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Jennifer Taylor, and I have a concern about a surprise charge on my heating bill. I'm sorry to hear that, Jennifer. Can you tell me more about the charge? Yes, it doesn't reflect our usage at all. It seems much higher than what we typically pay. That sounds frustrating. Have you had any recent changes in your heating usage? No, nothing has changed. We have the same routine, and I can't figure out why it's so high. I understand. Sometimes there can be billing errors. Have you contacted the heating company? I haven't yet, but I wanted to check if you might have any advice before I do that. Sure! It’s a good idea to gather the last few bills and usage records before calling them. That makes sense. Should I also ask them to explain the charge in detail? Yes, definitely ask for a breakdown of the charge. It will help you understand any discrepancies. Great, I will do that. Is there anything else I should know? Just ensure to keep a record of your conversation with them in case you need to follow up later. Thank you! I appreciate your help. By the way, I’m also looking for companion care for my elderly grandmother. Of course! We offer companion care services to assist with daily activities and provide social interaction. What does that entail, and how much does it cost? Our companion care is priced at $25 to $30 per hour, and we can assist with daily living activities and provide companionship. That sounds perfect. How do I get started with that? I can schedule a consultation for you with our Care Coordinator, Lisa Chen. Would you like me to arrange that? Yes, please. I’d love to discuss my grandmother's needs further. Great! I can have Lisa call you tomorrow to discuss the details. That works for me! What time will she reach out? She typically reaches out in the morning, around 9 AM. Does that work for you? Yes, that’s perfect. Thank you for all your help today, Margaret! You’re very welcome, Jennifer! I hope the heating issue gets resolved quickly. Thank you, I’ll definitely follow up on that. Have a great day, and we look forward to speaking with you soon! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Jennifer Taylor, and I have a concern about a surprise charge on my heating bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Jennifer. Can you tell me more about the charge?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it doesn't reflect our usage at all. It seems much higher than what we typically pay.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds frustrating. Have you had any recent changes in your heating usage?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "No, nothing has changed. We have the same routine, and I can't figure out why it's so high.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. Sometimes there can be billing errors. Have you contacted the heating company?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I haven't yet, but I wanted to check if you might have any advice before I do that.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Sure! It’s a good idea to gather the last few bills and usage records before calling them.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That makes sense. Should I also ask them to explain the charge in detail?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, definitely ask for a breakdown of the charge. It will help you understand any discrepancies.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great, I will do that. Is there anything else I should know?",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Just ensure to keep a record of your conversation with them in case you need to follow up later.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 64,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! I appreciate your help. By the way, I’m also looking for companion care for my elderly grandmother.",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course! We offer companion care services to assist with daily activities and provide social interaction.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "What does that entail, and how much does it cost?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Our companion care is priced at $25 to $30 per hour, and we can assist with daily living activities and provide companionship.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds perfect. How do I get started with that?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 92,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I can schedule a consultation for you with our Care Coordinator, Lisa Chen. Would you like me to arrange that?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please. I’d love to discuss my grandmother's needs further.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I can have Lisa call you tomorrow to discuss the details.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That works for me! What time will she reach out?",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "She typically reaches out in the morning, around 9 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that’s perfect. Thank you for all your help today, Margaret!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, Jennifer! I hope the heating issue gets resolved quickly.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, I’ll definitely follow up on that.",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 128,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Have a great day, and we look forward to speaking with you soon!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 137,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7ad1f7f048464b29807e497f",
+  "revision": "",
+  "status": "success"
+}
