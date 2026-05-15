@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-39e570f93976442ba86b296e",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946023252-aae234f6",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-39e570f93976442ba86b296e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 185,
+      "duration_ms": 185000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "39e570f93976442ba86b296e",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-39e570f93976442ba86b296e",
+      "media_name": "7c510b166c60425dad815f7e31b07b6c.mp3",
+      "scenario": "A potential customer calls to inquire about the range of services offered for commercial cleaning. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 185.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. My name is Patricia Wilson. I was referred by Dr. Anderson, my mother needs post-surgery care after her hip replacement. Hi, Patricia! It's nice to hear from you. I’d be happy to help with that. Can you tell me when your mother's surgery is scheduled? Yes, it's on October 15th. We’re looking for care starting right after that. Great! We offer specialized post-surgery recovery care, which is ideal for that situation. Our services range from $85 to $110 for 1-3 hours of care, depending on specific needs. That sounds reasonable. Can you explain what that care includes? Absolutely! It includes assistance with daily activities, medication management, and wound care. Our caregivers can help with mobility and provide companionship as well. That sounds perfect. How soon can we arrange someone to come? We can start arranging care as soon as your mother is discharged. Would you like to set up a care plan now? Yes, I’d like to do that. What’s the next step? I’ll need some details about her health and any specific preferences for caregivers. Okay, I can provide that. Is there a specific format or form I should fill out? I can take the information over the phone, or I can email you a care plan form. Which do you prefer? Let’s do it over the phone for now, and I can follow up with the email later. Perfect! Could you tell me about any medical conditions or medications she’ll need help with? She has high blood pressure and takes medication for that. She might also need help with physical therapy exercises. We can definitely assist with medication management and coordinate with our physical therapist as well. That would be great. What other services might be beneficial for her? Depending on her needs, companion care could be helpful for social interaction, or we could arrange skilled nursing for any medical concerns. I think companion care may be a good idea for after surgery. We can set that up as well. Would you like to explore pricing for that? Yes, please! Companion care is $25 to $30 per hour. Would you like to schedule that now? Yes, that sounds good. Great! I'll have someone follow up with you after the surgery to finalize the details. Thank you so much, Margaret. I really appreciate your help. You're welcome, Patricia! We’re here to help. Have a great day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Patricia Wilson. I was referred by Dr. Anderson, my mother needs post-surgery care after her hip replacement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Patricia! It's nice to hear from you. I’d be happy to help with that.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Can you tell me when your mother's surgery is scheduled?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Yes, it's on October 15th. We’re looking for care starting right after that.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Great! We offer specialized post-surgery recovery care, which is ideal for that situation.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Our services range from $85 to $110 for 1-3 hours of care, depending on specific needs.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds reasonable. Can you explain what that care includes?",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely! It includes assistance with daily activities, medication management, and wound care. Our caregivers can help with mobility and provide companionship as well.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds perfect. How soon can we arrange someone to come?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can start arranging care as soon as your mother is discharged. Would you like to set up a care plan now?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I’d like to do that. What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll need some details about her health and any specific preferences for caregivers.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, I can provide that. Is there a specific format or form I should fill out?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can take the information over the phone, or I can email you a care plan form. Which do you prefer?",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Let’s do it over the phone for now, and I can follow up with the email later.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect! Could you tell me about any medical conditions or medications she’ll need help with?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 107,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "She has high blood pressure and takes medication for that. She might also need help with physical therapy exercises.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 116,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can definitely assist with medication management and coordinate with our physical therapist as well.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be great. What other services might be beneficial for her?",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 130,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Depending on her needs, companion care could be helpful for social interaction, or we could arrange skilled nursing for any medical concerns.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 138,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I think companion care may be a good idea for after surgery.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 145,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "We can set that up as well. Would you like to explore pricing for that?",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 149,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, please!",
+          "speaker": "remote party",
+          "start_time": 149,
+          "end_time": 154,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Companion care is $25 to $30 per hour. Would you like to schedule that now?",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 160,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, that sounds good.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Great! I'll have someone follow up with you after the surgery to finalize the details.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You're welcome, Patricia! We’re here to help. Have a great day!",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-39e570f93976442ba86b296e",
+  "revision": "",
+  "status": "success"
+}
