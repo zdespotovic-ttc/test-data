@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b6fe18e1587145fcbe92fba4",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087224-495eb210",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b6fe18e1587145fcbe92fba4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "b6fe18e1587145fcbe92fba4",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b6fe18e1587145fcbe92fba4",
+      "media_name": "90383bdbf3e34bd09f2f9d947cd8b493.mp3",
+      "scenario": "A new customer calls questioning a recent bill that includes charges they don't recognize and insists these are incorrect. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, this is Mark Johnson. I'm calling about a bill I received that I don't understand. I'm sorry to hear that, Mark. Can you provide me with your account details or the bill number? Yes, it's account number 4572. The bill includes charges for services I don't recognize. Thank you for that information. What specific charges are you referring to? There’s a $95 charge for medication management that I didn’t authorize. I understand your concern. Let me pull up your file and review the details. Okay, but I just want to make sure these charges are accurate. I only agreed to personal care assistance. I appreciate your patience, Mark. I see that you also scheduled medication management last month. I didn’t authorize that. I just need someone to help my parents with their medications. I understand. It appears there was some miscommunication. Yes, I definitely want to get this sorted out. I can help with that. Would you like to discuss our services to assist your parents? Sure, but I really want to fix this billing issue first. Absolutely, let me take notes on this billing dispute. I’ll connect with our billing department today. Thank you. I’d appreciate a quick resolution. I can definitely follow up with you by tomorrow. What’s the best number to reach you at? You can reach me at +13165555832. Great! I’ll ensure someone contacts you with an update. And about the services, what do you offer for medication management? Our medication management service is $65 to $80, depending on the complexity. It includes reminders and supervision. That sounds good. Maybe I’d like to schedule that after we sort this out. Absolutely, I’ll note that as a follow-up action item as well. Thank you for your help, Margaret. You’re welcome, Mark. Thank you for your understanding. I'll be waiting for your call. We’ll be in touch soon. Have a great day! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Mark Johnson. I'm calling about a bill I received that I don't understand.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Mark. Can you provide me with your account details or the bill number?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it's account number 4572. The bill includes charges for services I don't recognize.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you for that information. What specific charges are you referring to?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "There’s a $95 charge for medication management that I didn’t authorize.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. Let me pull up your file and review the details.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, but I just want to make sure these charges are accurate. I only agreed to personal care assistance.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I appreciate your patience, Mark. I see that you also scheduled medication management last month.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I didn’t authorize that. I just need someone to help my parents with their medications.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand. It appears there was some miscommunication.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I definitely want to get this sorted out.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can help with that. Would you like to discuss our services to assist your parents?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sure, but I really want to fix this billing issue first.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, let me take notes on this billing dispute. I’ll connect with our billing department today.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. I’d appreciate a quick resolution.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can definitely follow up with you by tomorrow. What’s the best number to reach you at?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "You can reach me at +13165555832.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll ensure someone contacts you with an update.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "And about the services, what do you offer for medication management?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Our medication management service is $65 to $80, depending on the complexity. It includes reminders and supervision.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds good. Maybe I’d like to schedule that after we sort this out.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, I’ll note that as a follow-up action item as well.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Mark. Thank you for your understanding.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I'll be waiting for your call.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "We’ll be in touch soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b6fe18e1587145fcbe92fba4",
+  "revision": "",
+  "status": "success"
+}
