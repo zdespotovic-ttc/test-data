@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1a8696cd1fb8419297122d39",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946023236-8118abc7",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1a8696cd1fb8419297122d39",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 154,
+      "duration_ms": 154000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "1a8696cd1fb8419297122d39",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1a8696cd1fb8419297122d39",
+      "media_name": "4a30219f327f44588807990f3290e35c.mp3",
+      "scenario": "A customer expresses confusion over a late fee added to their account when they believe their payment was timely. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 154.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Jennifer Taylor. I'm calling about a billing issue I noticed on my grandmother's account. I'm sorry to hear that, Jennifer. Can you tell me more about the issue? Yes, there’s a late fee added, but I thought her payment was made on time. I'm really confused. I understand how frustrating that can be. Let me pull up her account. Can you please provide me with her name or account number? Her name is Ellen Taylor. I just want to make sure we’re not being incorrectly charged. Thank you, Jennifer. One moment while I access her account. Okay, I see the account here. It looks like the payment was processed a day late, which triggered the late fee. But I set up the payment for the due date. There must be some mistake. I can understand your concern. Sometimes bank processing delays can occur, but let me check if there's any way we can resolve this. I would appreciate that. It’s important to me that we handle this correctly. Absolutely. I’ll review the payment history and see if we can waive the late fee as a courtesy. Thank you. That would really help us out. While I’m looking at this, I also see that your grandmother could benefit from our Companion Care services. Would you be interested in learning more about that? Yes, I was actually looking into that! She needs help with daily activities. Great! Our Companion Care services are $25 to $30 per hour, and they include assistance with daily activities. That sounds perfect. How do we set that up? I can connect you with our Care Coordinator, Lisa Chen, who can assist you with that. That would be helpful. I’d like to get that started soon. Sure! I’ll have Lisa give you a call after we resolve the billing issue. Thank you, Margaret. I appreciate all your help today. You're welcome, Jennifer! Please hold on while I note down your request for Lisa to contact you. Okay, I’ll hold. Alright, I’ve documented everything. You should hear back from Lisa shortly regarding both the billing issue and the Companion Care services. Thank you so much. I'm looking forward to resolving this quickly. Absolutely. If you have any other questions, feel free to call us back. I will. Thanks again, Margaret! Thank you, Jennifer! Have a great day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Jennifer Taylor. I'm calling about a billing issue I noticed on my grandmother's account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Jennifer. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, there’s a late fee added, but I thought her payment was made on time. I'm really confused.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that can be. Let me pull up her account. Can you please provide me with her name or account number?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Her name is Ellen Taylor. I just want to make sure we’re not being incorrectly charged.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you, Jennifer. One moment while I access her account.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see the account here. It looks like the payment was processed a day late, which triggered the late fee.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 42,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "But I set up the payment for the due date. There must be some mistake.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I can understand your concern. Sometimes bank processing delays can occur, but let me check if there's any way we can resolve this.",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I would appreciate that. It’s important to me that we handle this correctly.",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely. I’ll review the payment history and see if we can waive the late fee as a courtesy.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you. That would really help us out.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "While I’m looking at this, I also see that your grandmother could benefit from our Companion Care services. Would you be interested in learning more about that?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 78,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, I was actually looking into that! She needs help with daily activities.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Great! Our Companion Care services are $25 to $30 per hour, and they include assistance with daily activities.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That sounds perfect. How do we set that up?",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I can connect you with our Care Coordinator, Lisa Chen, who can assist you with that.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That would be helpful. I’d like to get that started soon.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Sure! I’ll have Lisa give you a call after we resolve the billing issue.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate all your help today.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're welcome, Jennifer! Please hold on while I note down your request for Lisa to contact you.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Okay, I’ll hold.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Alright, I’ve documented everything. You should hear back from Lisa shortly regarding both the billing issue and the Companion Care services.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you so much. I'm looking forward to resolving this quickly.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Absolutely. If you have any other questions, feel free to call us back.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "I will. Thanks again, Margaret!",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Jennifer! Have a great day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 149,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 149,
+          "end_time": 154,
+          "channel": "right",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1a8696cd1fb8419297122d39",
+  "revision": "",
+  "status": "success"
+}
