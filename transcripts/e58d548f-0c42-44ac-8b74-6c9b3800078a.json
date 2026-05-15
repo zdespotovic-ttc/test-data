@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0bfd1e0b3d76418e9745845e",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087592-cab07c13",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0bfd1e0b3d76418e9745845e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 157,
+      "duration_ms": 157000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "0bfd1e0b3d76418e9745845e",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0bfd1e0b3d76418e9745845e",
+      "media_name": "2ba35b34735e453ca32365386e755253.mp3",
+      "scenario": "Following a service interruption, a VIP client calls to demand immediate restoration and compensatory measures. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 157.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Charles Thompson. I need to talk about my wound care service; there's been a serious issue. I’m sorry to hear that, Charles. Can you please tell me what happened? Well, I was expecting a visit two days ago, but no one showed up. I really need my care restored immediately. I understand how urgent this is, especially after your surgery. Let me check what happened with your appointment. It’s unacceptable. I'm still recovering from a complex abdominal surgery and I rely on these visits for my healing. I completely understand, Charles. Please hold for just a moment while I look into this for you. Okay, it looks like there was a scheduling error on our end. I sincerely apologize for this oversight. That's not good enough. I expect more from CareFirst, especially given my situation. You're right to be upset, and I truly apologize for the inconvenience. We will prioritize your care moving forward. I need assurance that this won't happen again. Absolutely, I can schedule an immediate visit for you right now. Would you prefer a male nurse? Yes, if possible. I prefer male nurses for my care. Got it. I’ll send Robert Davis, our Registered Nurse, over to you within the next hour. That’s good, but I also want to discuss some compensatory measures for this interruption. I understand your concern. We can discuss compensation options after we ensure your care is restored. I’d appreciate that. I want to ensure that this type of mistake doesn’t affect my recovery. Of course. I will also arrange a follow-up call tomorrow to check on your condition and discuss further options. And can you provide me with a detailed progress report for the VA as well? Absolutely, we can continue providing those reports. I’ll have it ready after the visit. Thank you, Margaret. I look forward to Robert's visit shortly. Thank you for your understanding, Charles. I’ll ensure we get this right moving forward. I appreciate that. Just make sure it doesn’t happen again. We will make it a priority. Take care, and see you soon. Goodbye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I need to talk about my wound care service; there's been a serious issue.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Charles. Can you please tell me what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was expecting a visit two days ago, but no one showed up. I really need my care restored immediately.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how urgent this is, especially after your surgery. Let me check what happened with your appointment.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s unacceptable. I'm still recovering from a complex abdominal surgery and I rely on these visits for my healing.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 36,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand, Charles. Please hold for just a moment while I look into this for you.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, it looks like there was a scheduling error on our end. I sincerely apologize for this oversight.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 55,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That's not good enough. I expect more from CareFirst, especially given my situation.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "You're right to be upset, and I truly apologize for the inconvenience. We will prioritize your care moving forward.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 68,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I need assurance that this won't happen again.",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, I can schedule an immediate visit for you right now. Would you prefer a male nurse?",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, if possible. I prefer male nurses for my care.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Got it. I’ll send Robert Davis, our Registered Nurse, over to you within the next hour.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 93,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That’s good, but I also want to discuss some compensatory measures for this interruption.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 98,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I understand your concern. We can discuss compensation options after we ensure your care is restored.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I’d appreciate that. I want to ensure that this type of mistake doesn’t affect my recovery.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Of course. I will also arrange a follow-up call tomorrow to check on your condition and discuss further options.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 118,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "And can you provide me with a detailed progress report for the VA as well?",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 124,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely, we can continue providing those reports. I’ll have it ready after the visit.",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 129,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Margaret. I look forward to Robert's visit shortly.",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 135,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Thank you for your understanding, Charles. I’ll ensure we get this right moving forward.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "I appreciate that. Just make sure it doesn’t happen again.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 147,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "We will make it a priority. Take care, and see you soon.",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 157,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0bfd1e0b3d76418e9745845e",
+  "revision": "",
+  "status": "success"
+}
