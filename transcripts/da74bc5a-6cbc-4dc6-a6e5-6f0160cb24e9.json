@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9fd2f41c330c42db95ddecae",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087250-b5ed6d47",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9fd2f41c330c42db95ddecae",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 210,
+      "duration_ms": 210000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "9fd2f41c330c42db95ddecae",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9fd2f41c330c42db95ddecae",
+      "media_name": "a51c0c4a92854f28ae58f2e4a71ee504.mp3",
+      "scenario": "A frustrated customer seeks to cancel their account due to ongoing service outages and expresses a strong desire to switch to a competitor. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 210.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Thomas White. I'm calling because I need to cancel my mother’s account. I’m sorry to hear that, Thomas. May I ask why you’d like to cancel? Well, the ongoing service outages have been really frustrating. It’s been difficult for my mother, especially with her Alzheimer’s. I completely understand your concerns, Thomas. We strive to provide reliable care. Can you tell me a bit more about the issues you've encountered? We’ve had multiple instances where the caregiver hasn’t shown up or has been late, and that just doesn’t work for her condition. I’m thinking of switching to another service that has more reliability. I apologize for the inconvenience this has caused. We take these matters very seriously. I appreciate that, but I’ve already lost trust. I’m really frustrated and I just want something stable for my mother. I understand, and I’m here to help. If I may, could we explore what specific needs you have? Perhaps we can rectify this situation? I really need someone who understands Alzheimer’s care and can provide consistent support. I’m also considering respite services. We do offer specialized dementia care and respite services. Would you like me to provide details on that? Honestly, I’m not sure if I want to stick around long enough to find out. I respect your decision, but I’d like to see if we can regain your trust. We can review your current care plan and enhance support. That sounds good, but I will need assurance that we won't face the same issues again. Absolutely, I will personally oversee the scheduling and ensure that the caregiver assigned has the appropriate experience with Alzheimer's care. That might help, but I still need to think it over. It’s been really tough on both my mother and me. I completely understand, Thomas. Would it be okay if I followed up with you tomorrow? We can discuss any new arrangements. Yes, that would be fine. I just need to know what options I have. Thank you, Thomas. I will call you tomorrow at the same time, and I’ll have the details ready for you. Okay, sounds good. I appreciate you taking the time to discuss this. Thank you for your understanding, Thomas. We’ll do our best to ensure your mother gets the care she deserves. Alright, talk to you tomorrow. Talk to you then. Have a great day! You too, goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Thomas White. I'm calling because I need to cancel my mother’s account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Thomas. May I ask why you’d like to cancel?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the ongoing service outages have been really frustrating. It’s been difficult for my mother, especially with her Alzheimer’s.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand your concerns, Thomas. We strive to provide reliable care. Can you tell me a bit more about the issues you've encountered?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We’ve had multiple instances where the caregiver hasn’t shown up or has been late, and that just doesn’t work for her condition. I’m thinking of switching to another service that has more reliability.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I apologize for the inconvenience this has caused. We take these matters very seriously.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that, but I’ve already lost trust. I’m really frustrated and I just want something stable for my mother.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand, and I’m here to help. If I may, could we explore what specific needs you have? Perhaps we can rectify this situation?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 70,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I really need someone who understands Alzheimer’s care and can provide consistent support. I’m also considering respite services.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 85,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We do offer specialized dementia care and respite services. Would you like me to provide details on that?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Honestly, I’m not sure if I want to stick around long enough to find out.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I respect your decision, but I’d like to see if we can regain your trust. We can review your current care plan and enhance support.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good, but I will need assurance that we won't face the same issues again.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, I will personally oversee the scheduling and ensure that the caregiver assigned has the appropriate experience with Alzheimer's care.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 135,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That might help, but I still need to think it over. It’s been really tough on both my mother and me.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 150,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I completely understand, Thomas. Would it be okay if I followed up with you tomorrow? We can discuss any new arrangements.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that would be fine. I just need to know what options I have.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 170,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Thomas. I will call you tomorrow at the same time, and I’ll have the details ready for you.",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 180,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, sounds good. I appreciate you taking the time to discuss this.",
+          "speaker": "remote party",
+          "start_time": 180,
+          "end_time": 190,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you for your understanding, Thomas. We’ll do our best to ensure your mother gets the care she deserves.",
+          "speaker": "local party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Alright, talk to you tomorrow.",
+          "speaker": "remote party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Talk to you then. Have a great day!",
+          "speaker": "local party",
+          "start_time": 200,
+          "end_time": 205,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 205,
+          "end_time": 210,
+          "channel": "right",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9fd2f41c330c42db95ddecae",
+  "revision": "",
+  "status": "success"
+}
