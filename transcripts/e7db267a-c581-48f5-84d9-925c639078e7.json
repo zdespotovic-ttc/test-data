@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-15T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-585e5e924fa042a692e46f38",
+    "created": 1778828400,
+    "modified": 1778828400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946092289-14bd33c3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-585e5e924fa042a692e46f38",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 118,
+      "duration_ms": 118000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946047600,
+      "call_id": "585e5e924fa042a692e46f38",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-585e5e924fa042a692e46f38",
+      "media_name": "3f78c61d67574eef8b7be60e79fa85fe.mp3",
+      "scenario": "An irate returning customer mentions that the landscaping service did not meet the promised standard and demands a resolution. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 118.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Agnes Rodriguez. I’m calling because I’m really frustrated with the service I received yesterday. I’m sorry to hear that, Agnes. Can you please tell me more about the issue? Well, the landscaping service was supposed to take care of my garden while I was recovering, but they left it a mess! That sounds very disappointing. I understand how important that is for you. It's just not acceptable! I expected them to do a proper job. I completely understand your frustration, Agnes. I’ll make sure we address this immediately. I need a resolution. Can you send someone to fix it? Yes, let me arrange for someone to come out and correct the landscaping issues. Thank you, but when will that happen? I can schedule a visit for tomorrow. Would that work for you? Yes, that would be great. But I want to make sure it's done right this time! Absolutely, I’ll personally oversee this to ensure it meets your expectations. And what if I need more gardening help in the future? We can discuss setting up a regular gardening service if you'd like. That sounds good, I just want my garden to look nice again. I understand, Agnes. We can also set up a plan for ongoing maintenance. Okay, let’s do that. But can you make sure the visit tomorrow is early? Of course, I’ll request the earliest appointment for you. Thank you. I appreciate your help with this. You’re welcome! I’m here to assist you. Is there anything else I can help with today? No, I think that covers it. Just make sure they fix it right! I will ensure that happens, Agnes. Thank you for your understanding. Thank you, Margaret. Talk to you soon. Have a great day, Agnes. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I’m calling because I’m really frustrated with the service I received yesterday.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Agnes. Can you please tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the landscaping service was supposed to take care of my garden while I was recovering, but they left it a mess!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 19,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds very disappointing. I understand how important that is for you.",
+          "speaker": "local party",
+          "start_time": 19,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It's just not acceptable! I expected them to do a proper job.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your frustration, Agnes. I’ll make sure we address this immediately.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I need a resolution. Can you send someone to fix it?",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, let me arrange for someone to come out and correct the landscaping issues.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, but when will that happen?",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 47,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can schedule a visit for tomorrow. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be great. But I want to make sure it's done right this time!",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, I’ll personally oversee this to ensure it meets your expectations.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "And what if I need more gardening help in the future?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can discuss setting up a regular gardening service if you'd like.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good, I just want my garden to look nice again.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand, Agnes. We can also set up a plan for ongoing maintenance.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 81,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, let’s do that. But can you make sure the visit tomorrow is early?",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, I’ll request the earliest appointment for you.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! I’m here to assist you. Is there anything else I can help with today?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, I think that covers it. Just make sure they fix it right!",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I will ensure that happens, Agnes. Thank you for your understanding.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 107,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. Talk to you soon.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Have a great day, Agnes. Goodbye!",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 114,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-585e5e924fa042a692e46f38",
+  "revision": "",
+  "status": "success"
+}
