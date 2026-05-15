@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-15T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-85fa2f813332435989f250fe",
+    "created": 1778828400,
+    "modified": 1778828400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946092340-58c6798c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-85fa2f813332435989f250fe",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 133,
+      "duration_ms": 133000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946047600,
+      "call_id": "85fa2f813332435989f250fe",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-85fa2f813332435989f250fe",
+      "media_name": "6e74302cb7dd40fe952ab0fd79b59170.mp3",
+      "scenario": "An individual calls disputing the unexpected increase in their utility bill, claiming there must be an error. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 133.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is William Chen. I'm calling about a billing issue I noticed on my recent utility bill. Hi, William! I’m happy to help. Could you tell me more about the issue you're experiencing? Well, I noticed that my bill has increased unexpectedly this month. It seems quite a bit higher than usual, and I suspect there might be an error. I understand. That can be frustrating. Are you referring to the bill for our services, or is it something else? No, I mean my utility bill at home. I thought maybe you could help me figure it out since I just had surgery and started care with you. Ah, I see. While I can’t directly assist with utility companies, I can help you with your care plan or any services we provide. I appreciate that. But I really need clarity on my expenses. I mean, with the cost of my care, I don't want unexpected bills piling up. That’s completely understandable, William. Let’s make sure your care expenses are clear. Would you like me to review your current care plan and costs? Yes, please. I started my plan about three weeks ago for post-surgery recovery and physical therapy. Right, so you’re currently receiving our Post-Surgery Recovery Care and Physical Therapy services. Yes, I just had a visit two days ago, and I thought everything was fine. Your current rates for those services are $85 to $110 for recovery care and $110 to $140 for physical therapy. That sounds about right, but I just want to make sure there's no error in billing for those. I’ll definitely verify that for you. Would you like to set up a time for me to call you back with the details? Yes, that would be great. I’m usually available in the afternoons after 2 PM. Perfect! I’ll check your billing details and call you back at 2 PM tomorrow. Thank you, Margaret. I appreciate that. You're welcome, William! Also, since you’re recovering, would you be interested in additional personal care assistance to help you? Actually, I might consider that. I could use some help with daily tasks. Great! I can have Lisa, our Care Coordinator, follow up with you regarding your options. That sounds good. I’d like to explore that. Awesome, William. I’ll ensure she reaches out after our call tomorrow. Thank you for your help, Margaret. I’ll talk to you tomorrow. You’re welcome! Have a great day, William. You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is William Chen. I'm calling about a billing issue I noticed on my recent utility bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, William! I’m happy to help. Could you tell me more about the issue you're experiencing?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed that my bill has increased unexpectedly this month. It seems quite a bit higher than usual, and I suspect there might be an error.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. That can be frustrating. Are you referring to the bill for our services, or is it something else?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "No, I mean my utility bill at home. I thought maybe you could help me figure it out since I just had surgery and started care with you.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Ah, I see. While I can’t directly assist with utility companies, I can help you with your care plan or any services we provide.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that. But I really need clarity on my expenses. I mean, with the cost of my care, I don't want unexpected bills piling up.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That’s completely understandable, William. Let’s make sure your care expenses are clear. Would you like me to review your current care plan and costs?",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please. I started my plan about three weeks ago for post-surgery recovery and physical therapy.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Right, so you’re currently receiving our Post-Surgery Recovery Care and Physical Therapy services.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I just had a visit two days ago, and I thought everything was fine.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 63,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Your current rates for those services are $85 to $110 for recovery care and $110 to $140 for physical therapy.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 69,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds about right, but I just want to make sure there's no error in billing for those.",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll definitely verify that for you. Would you like to set up a time for me to call you back with the details?",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be great. I’m usually available in the afternoons after 2 PM.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect! I’ll check your billing details and call you back at 2 PM tomorrow.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You're welcome, William! Also, since you’re recovering, would you be interested in additional personal care assistance to help you?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Actually, I might consider that. I could use some help with daily tasks.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I can have Lisa, our Care Coordinator, follow up with you regarding your options.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds good. I’d like to explore that.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Awesome, William. I’ll ensure she reaches out after our call tomorrow.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you for your help, Margaret. I’ll talk to you tomorrow.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! Have a great day, William.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 133,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-85fa2f813332435989f250fe",
+  "revision": "",
+  "status": "success"
+}
