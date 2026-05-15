@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-119ed89d060b4937a6348414",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087701-38b045c9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-119ed89d060b4937a6348414",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 192,
+      "duration_ms": 192000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "119ed89d060b4937a6348414",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-119ed89d060b4937a6348414",
+      "media_name": "b0077c0cacf64d37972d0653b2ea436d.mp3",
+      "scenario": "A customer is upset about repeated billing errors despite previous corrections and is considering cancelling their account. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 192.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Helen Johnson. I need to talk about some billing issues I've been having. Of course, Helen. I’m sorry to hear that. What seems to be the problem? Well, I’ve noticed repeated errors on my invoices for my physical therapy sessions. It’s really frustrating. I understand how frustrating that must be. Can you tell me more about the errors you’re seeing? Yes, I was charged for two visits last month that I didn’t have, and previous corrections haven’t fixed it. I apologize for the inconvenience, Helen. I’ll make sure we address this right away. I’m considering cancelling my account if this keeps happening. I've been a good client for nine months! I truly appreciate your loyalty, and I’d hate to see you go. Let’s work to resolve this. I just want accurate billing, that's all. It shouldn’t be this hard. Absolutely, it should be straightforward. Can you confirm the dates of the incorrect charges? The charges were for March 15 and March 22. I didn’t have sessions on those days. Thank you for that information. I’ll check our records and make sure those charges are corrected. I hope so. It’s just so annoying to keep bringing this up. I completely understand, and I’m sorry you had to go through this. What’s the next step? I’ll escalate this issue to our billing department right now and follow up with you by tomorrow. Okay, but I need assurance that it will be fixed. I promise to keep you updated. I’ll ensure we prioritize this for you. Thank you. I really appreciate that. No problem, Helen. Also, if you’re open to it, we could discuss setting you up for additional therapy sessions. I’m not sure, considering the billing issues. I understand, but we can integrate your sessions in a streamlined way to avoid confusion. That could be helpful, I guess. Great! Let’s discuss it once we get the billing sorted out. Alright, I’ll wait to hear back from you tomorrow. Thank you for your patience, Helen. We’ll make sure to resolve this. Thank you, Margaret. Goodbye. Goodbye, Helen.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I need to talk about some billing issues I've been having.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Helen. I’m sorry to hear that. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’ve noticed repeated errors on my invoices for my physical therapy sessions. It’s really frustrating.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be. Can you tell me more about the errors you’re seeing?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I was charged for two visits last month that I didn’t have, and previous corrections haven’t fixed it.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I apologize for the inconvenience, Helen. I’ll make sure we address this right away.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I’m considering cancelling my account if this keeps happening. I've been a good client for nine months!",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I truly appreciate your loyalty, and I’d hate to see you go. Let’s work to resolve this.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 51,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I just want accurate billing, that's all. It shouldn’t be this hard.",
+          "speaker": "remote party",
+          "start_time": 51,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, it should be straightforward. Can you confirm the dates of the incorrect charges?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "The charges were for March 15 and March 22. I didn’t have sessions on those days.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you for that information. I’ll check our records and make sure those charges are corrected.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I hope so. It’s just so annoying to keep bringing this up.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I completely understand, and I’m sorry you had to go through this.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll escalate this issue to our billing department right now and follow up with you by tomorrow.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, but I need assurance that it will be fixed.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 120,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I promise to keep you updated. I’ll ensure we prioritize this for you.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 128,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you. I really appreciate that.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 136,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "No problem, Helen. Also, if you’re open to it, we could discuss setting you up for additional therapy sessions.",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 145,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I’m not sure, considering the billing issues.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I understand, but we can integrate your sessions in a streamlined way to avoid confusion.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 157,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That could be helpful, I guess.",
+          "speaker": "remote party",
+          "start_time": 157,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! Let’s discuss it once we get the billing sorted out.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 173,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Alright, I’ll wait to hear back from you tomorrow.",
+          "speaker": "remote party",
+          "start_time": 173,
+          "end_time": 180,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for your patience, Helen. We’ll make sure to resolve this.",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 186,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 186,
+          "end_time": 190,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye, Helen.",
+          "speaker": "local party",
+          "start_time": 190,
+          "end_time": 192,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-119ed89d060b4937a6348414",
+  "revision": "",
+  "status": "success"
+}
