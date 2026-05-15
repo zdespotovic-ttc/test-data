@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-15T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-86442516dd9543fd9308aee3",
+    "created": 1778828400,
+    "modified": 1778828400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946092513-8a8d5f08",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-86442516dd9543fd9308aee3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946047600,
+      "call_id": "86442516dd9543fd9308aee3",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-86442516dd9543fd9308aee3",
+      "media_name": "bec2fd78f23d44158a883c641654d433.mp3",
+      "scenario": "An executive demands urgent legal counsel over the phone due to an unexpected regulatory issue. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is Michael Brown. I found your number through the hospital discharge planning department. Nice to meet you, Michael. How can I help you? My father has diabetes and he needs wound care and medication management. I'm looking for some assistance. I can definitely help with that. We offer skilled nursing care, which includes those services. That sounds good. What does the skilled nursing care include? Our skilled nursing care involves licensed nurses visiting for medication management, wound care, and health monitoring. The cost ranges from $95 to $125 for 1 to 2 hours. Okay, that sounds reasonable. How soon can services start? We typically schedule services within 24 to 48 hours of the request, depending on availability. That works for us, but I heard there might be some urgent regulatory issues? Yes, we are currently addressing a regulatory matter, but it shouldn't affect our service delivery. I see. I just want to ensure my father receives uninterrupted care. What can you guarantee? I assure you that our priority is providing quality care. We are committed to resolving any issues swiftly to maintain service. That’s reassuring. So, can I set up an initial assessment? Yes! I can connect you with our Care Coordinator, Lisa Chen, for that. Great! What’s the best way to reach her? You can reach her at +13165559203 or I can transfer you now if you prefer. Let’s do that. Also, can Lisa discuss potential insurance coverage? Absolutely! She specializes in insurance authorization as well. Perfect! I appreciate your help, Margaret. You're welcome, Michael. I’ll connect you to Lisa now. Thank you! One last thing, would you like me to send you information on our other services? Yes, please! That would be helpful. All right, I’ll make a note to send that along with the follow-up. Thanks again, Margaret. Of course! I’ll transfer you now. Have a great day! You too! Connecting you now.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Michael Brown. I found your number through the hospital discharge planning department.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Michael. How can I help you?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My father has diabetes and he needs wound care and medication management. I'm looking for some assistance.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I can definitely help with that. We offer skilled nursing care, which includes those services.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. What does the skilled nursing care include?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our skilled nursing care involves licensed nurses visiting for medication management, wound care, and health monitoring. The cost ranges from $95 to $125 for 1 to 2 hours.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that sounds reasonable. How soon can services start?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We typically schedule services within 24 to 48 hours of the request, depending on availability.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That works for us, but I heard there might be some urgent regulatory issues?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, we are currently addressing a regulatory matter, but it shouldn't affect our service delivery.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I see. I just want to ensure my father receives uninterrupted care. What can you guarantee?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I assure you that our priority is providing quality care. We are committed to resolving any issues swiftly to maintain service.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That’s reassuring. So, can I set up an initial assessment?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes! I can connect you with our Care Coordinator, Lisa Chen, for that.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great! What’s the best way to reach her?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You can reach her at +13165559203 or I can transfer you now if you prefer.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Let’s do that. Also, can Lisa discuss potential insurance coverage?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely! She specializes in insurance authorization as well.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect! I appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, Michael. I’ll connect you to Lisa now.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "One last thing, would you like me to send you information on our other services?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, please! That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "All right, I’ll make a note to send that along with the follow-up.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks again, Margaret.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Of course! I’ll transfer you now. Have a great day!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Connecting you now.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-86442516dd9543fd9308aee3",
+  "revision": "",
+  "status": "success"
+}
