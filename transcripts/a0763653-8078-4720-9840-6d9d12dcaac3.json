@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-287d95dbfcbd483c9e7343f7",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087088-46f955fb",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-287d95dbfcbd483c9e7343f7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 155,
+      "duration_ms": 155000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "287d95dbfcbd483c9e7343f7",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-287d95dbfcbd483c9e7343f7",
+      "media_name": "135f67d36f5c45e99e29ba164b293fd8.mp3",
+      "scenario": "A new customer calls to report that the installation service they recently received was incomplete and not up to the expected standard. They are frustrated and demand immediate attention. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 155.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Frank Miller. I want to report an issue with the service I received recently. I'm sorry to hear that, Frank. Can you please tell me more about the issue? Well, the installation service I had done last week was incomplete, and frankly, it’s not up to the standard I expected. It’s really frustrating. I completely understand your frustration, Frank. We strive for high-quality service. Can you specify what exactly was incomplete? The nurse didn't finish setting up the diabetic management plan, and I still have questions about my wound care instructions. It feels like I've been left hanging! I sincerely apologize for that lapse in service. Let’s make sure we address your concerns right away. I need someone to come out and fix this immediately. It's important for my health. Absolutely, Frank. I’ll arrange for someone to visit you as soon as possible. I appreciate that, but I need to know when they’ll be here. I can’t wait too long. I will prioritize this and ensure a nurse visits you within the next 24 hours. Would that work for you? Yes, that would be acceptable. Great! I will assign Robert, our Registered Nurse, to come and review your care plan. Thank you, but I want to ensure that he has all the necessary information when he arrives. Noted, I’ll make sure he’s fully briefed about your situation before the visit. I also have a monthly appointment with my endocrinologist. Can I get transportation arranged for that as well? Yes, Frank. I can set up our transportation service for your upcoming appointment. Perfect, I appreciate that. Just to confirm, I’ll follow up with you on the nurse’s visit and the transportation. Yes, please do. I really need to get this sorted out. I’ll handle it promptly, Frank. Thank you for bringing this to my attention. Thank you for your help, Margaret. You’re welcome! Have a good day, and we’ll talk soon. Bye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Frank Miller. I want to report an issue with the service I received recently.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Frank. Can you please tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the installation service I had done last week was incomplete, and frankly, it’s not up to the standard I expected. It’s really frustrating.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand your frustration, Frank. We strive for high-quality service. Can you specify what exactly was incomplete?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The nurse didn't finish setting up the diabetic management plan, and I still have questions about my wound care instructions. It feels like I've been left hanging!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I sincerely apologize for that lapse in service. Let’s make sure we address your concerns right away.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I need someone to come out and fix this immediately. It's important for my health.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, Frank. I’ll arrange for someone to visit you as soon as possible.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that, but I need to know when they’ll be here. I can’t wait too long.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 71,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I will prioritize this and ensure a nurse visits you within the next 24 hours. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 80,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be acceptable.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! I will assign Robert, our Registered Nurse, to come and review your care plan.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, but I want to ensure that he has all the necessary information when he arrives.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Noted, I’ll make sure he’s fully briefed about your situation before the visit.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I also have a monthly appointment with my endocrinologist. Can I get transportation arranged for that as well?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, Frank. I can set up our transportation service for your upcoming appointment.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 114,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect, I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Just to confirm, I’ll follow up with you on the nurse’s visit and the transportation.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please do. I really need to get this sorted out.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 132,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll handle it promptly, Frank. Thank you for bringing this to my attention.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! Have a good day, and we’ll talk soon.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 153,
+          "end_time": 155,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-287d95dbfcbd483c9e7343f7",
+  "revision": "",
+  "status": "success"
+}
