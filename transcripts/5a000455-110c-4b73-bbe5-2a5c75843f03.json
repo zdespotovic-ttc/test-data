@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-15T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-8d85271ef4554fa3bb2d4fa6",
+    "created": 1778828400,
+    "modified": 1778828400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946092500-694c06a8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-8d85271ef4554fa3bb2d4fa6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946047600,
+      "call_id": "8d85271ef4554fa3bb2d4fa6",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-8d85271ef4554fa3bb2d4fa6",
+      "media_name": "fccc39437d5945119073b9fa67c78fb2.mp3",
+      "scenario": "A parent is urgently seeking medical advice for their sick child who has developed a high fever suddenly. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you? Hi Margaret, this is Betty Lou Smith. I’m really worried—my daughter just developed a high fever. I’m sorry to hear that, Betty. How old is your daughter? She’s only six years old. It came on so suddenly! That sounds concerning. Has she had any other symptoms besides the fever? Yes, she’s been really lethargic and has a bit of a cough. I understand how distressing that can be. Have you had a chance to take her temperature? Yes, it’s about 102.5 degrees Fahrenheit. That is quite high, especially for a child. It’s important to monitor her closely. Have you contacted her pediatrician? I called them, but they recommended I take her to urgent care if it doesn't go down. That’s a good plan. In the meantime, you can give her some age-appropriate fever reducers if you have any. Yes, I have some acetaminophen. Should I give it to her now? Yes, that can help bring her temperature down, but keep monitoring her closely. Okay, I will do that. I just feel so helpless! It’s understandable to feel that way as a parent. Make sure she stays hydrated as well. Right, I’ll keep her drinking fluids. If you need any assistance after this, remember we offer skilled nursing care. Oh, I didn't know that! What kind of services do you provide? We provide medication management, health monitoring, and more. It might be useful for follow-up care. Yes, I might need that when things settle down. Of course, we can discuss that further. Would you like me to send you some information? Yes, that would be great. Please. I’ll make sure to email you details about our services. Thank you, Margaret! I really appreciate your help. You're welcome, Betty. Take care of your daughter, and don’t hesitate to call back if you need anything else. I will. Thank you again! Have a good day, Betty. Goodbye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I’m really worried—my daughter just developed a high fever.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Betty. How old is your daughter?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She’s only six years old. It came on so suddenly!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds concerning. Has she had any other symptoms besides the fever?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, she’s been really lethargic and has a bit of a cough.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how distressing that can be. Have you had a chance to take her temperature?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, it’s about 102.5 degrees Fahrenheit.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That is quite high, especially for a child. It’s important to monitor her closely. Have you contacted her pediatrician?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I called them, but they recommended I take her to urgent care if it doesn't go down.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That’s a good plan. In the meantime, you can give her some age-appropriate fever reducers if you have any.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I have some acetaminophen. Should I give it to her now?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, that can help bring her temperature down, but keep monitoring her closely.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, I will do that. I just feel so helpless!",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "It’s understandable to feel that way as a parent. Make sure she stays hydrated as well.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Right, I’ll keep her drinking fluids.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "If you need any assistance after this, remember we offer skilled nursing care.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Oh, I didn't know that! What kind of services do you provide?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We provide medication management, health monitoring, and more. It might be useful for follow-up care.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, I might need that when things settle down.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course, we can discuss that further. Would you like me to send you some information?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that would be great. Please.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll make sure to email you details about our services.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret! I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Betty. Take care of your daughter, and don’t hesitate to call back if you need anything else.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Have a good day, Betty. Goodbye.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-8d85271ef4554fa3bb2d4fa6",
+  "revision": "",
+  "status": "success"
+}
