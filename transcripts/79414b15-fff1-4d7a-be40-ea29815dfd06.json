@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-79b84d11379140caa564ae48",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087379-ac829e6b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-79b84d11379140caa564ae48",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "79b84d11379140caa564ae48",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-79b84d11379140caa564ae48",
+      "media_name": "5848976fa5b9433abfacddd3dfb3600c.mp3",
+      "scenario": "A new customer urgently needs assistance as their newly installed system is completely non-functional, causing business disruptions. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is Patricia Wilson. I was referred by Dr. Anderson. My mother needs post-surgery care after her hip replacement. Hi Patricia! I hope you're doing well. I understand that your mother needs care after her surgery. When is the surgery scheduled? It's next week, on Thursday. I'm really worried about making sure she has the right care afterward. That’s understandable. We can provide post-surgery recovery care, which typically lasts 1 to 3 hours and costs between $85 and $110. That sounds good, but I'm concerned about the timing and availability. Will someone be able to start right after the surgery? Yes, we can coordinate care to begin as soon as she gets home. We can schedule a caregiver for that day. Perfect! Can you tell me more about the caregivers? Our caregivers are trained in post-surgery support, including medication management, mobility assistance, and daily activities to ensure her recovery goes smoothly. That sounds great. I just want to ensure she’s comfortable and safe. Absolutely, Patricia. We focus on providing compassionate and skilled care tailored to the client's needs. Wonderful. What’s the next step to get this set up? I’ll need to gather some information to set up your mother’s care plan. Can I take down her details? Yes, her name is Helen Wilson, and she's 72 years old. Thank you, Patricia. Do you know if she has any specific needs or conditions we should be aware of? Besides the hip replacement, she has some concerns with her blood pressure. Got it. We can arrange for a skilled nurse to monitor her blood pressure as part of her care. That would be very helpful. How soon can we start? We can have a caregiver ready for her upon her return home. Would you like to schedule a follow-up call to finalize the details? Yes, please! Maybe tomorrow? Sure! I can call you at the same time tomorrow to confirm everything. Perfect. Thank you, Margaret. I really appreciate your help. You're very welcome, Patricia. We’re here to support you and your mother. Talk to you tomorrow! Talk to you then! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Patricia Wilson. I was referred by Dr. Anderson. My mother needs post-surgery care after her hip replacement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Patricia! I hope you're doing well. I understand that your mother needs care after her surgery. When is the surgery scheduled?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's next week, on Thursday. I'm really worried about making sure she has the right care afterward.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s understandable. We can provide post-surgery recovery care, which typically lasts 1 to 3 hours and costs between $85 and $110.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good, but I'm concerned about the timing and availability. Will someone be able to start right after the surgery?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, we can coordinate care to begin as soon as she gets home. We can schedule a caregiver for that day.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Perfect! Can you tell me more about the caregivers?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our caregivers are trained in post-surgery support, including medication management, mobility assistance, and daily activities to ensure her recovery goes smoothly.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds great. I just want to ensure she’s comfortable and safe.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, Patricia. We focus on providing compassionate and skilled care tailored to the client's needs.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Wonderful. What’s the next step to get this set up?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll need to gather some information to set up your mother’s care plan. Can I take down her details?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, her name is Helen Wilson, and she's 72 years old.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 73,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you, Patricia. Do you know if she has any specific needs or conditions we should be aware of?",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Besides the hip replacement, she has some concerns with her blood pressure.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Got it. We can arrange for a skilled nurse to monitor her blood pressure as part of her care.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be very helpful. How soon can we start?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can have a caregiver ready for her upon her return home. Would you like to schedule a follow-up call to finalize the details?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please! Maybe tomorrow?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Sure! I can call you at the same time tomorrow to confirm everything.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect. Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're very welcome, Patricia. We’re here to support you and your mother. Talk to you tomorrow!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Talk to you then!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-79b84d11379140caa564ae48",
+  "revision": "",
+  "status": "success"
+}
