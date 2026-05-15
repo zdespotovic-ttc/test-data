@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6be2be6b92c6406bbb836f8d",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087161-bd465109",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6be2be6b92c6406bbb836f8d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 153,
+      "duration_ms": 153000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "6be2be6b92c6406bbb836f8d",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6be2be6b92c6406bbb836f8d",
+      "media_name": "318d3a987ae74b9d807909b06156948e.mp3",
+      "scenario": "A regular customer is calling to cancel their subscription because they are not satisfied with the recent changes in service quality. They ask for the cancellation process to be explained. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 153.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Dorothy Henderson. I'm calling to cancel my home healthcare services. I’m sorry to hear that, Dorothy. Can you tell me why you’re considering cancellation? Well, to be honest, I’ve noticed a decline in the service quality recently, especially with the physical therapy sessions. I appreciate your feedback. Can you provide more details about what specifically has been disappointing? The therapists have been coming late and sometimes the exercises seem rushed. It’s not what I expected. I understand your frustration. We strive for consistent service. I’ll make sure to relay this to our management team. Thank you, but I’d still like to know how to proceed with the cancellation. Of course, Dorothy. To cancel, I’ll need to process your request in our system. Can I confirm your account details first? Sure, my phone number is +13165558734. Thank you. Now, can you confirm the last service date? It was just two days ago. Got it. I’ll process the cancellation effective immediately. And what about any charges? Will I get a refund for the upcoming scheduled visits? You’ll receive a refund for any prepaid visits that are not used. It usually takes 5-7 business days to process. That’s good to know. I just wish the service had been better. I truly apologize for the experience you’ve had. Would you be open to discussing this with our Client Services Manager, Angela? I guess so. What can she do? She can review your situation and possibly make adjustments to improve your experience if you decide to stay. I’m not sure, but I’m willing to listen. Great! I can have Angela call you later today to discuss options. Yes, please. That would be helpful. Perfect, I’ll arrange that. You’ll get a call from her shortly. Thank you, Margaret. I appreciate your understanding. Thank you for your call, Dorothy. We value your feedback and hope to resolve this for you. Thank you, I’ll wait for Angela’s call. Have a great day, Dorothy. You too, goodbye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Dorothy Henderson. I'm calling to cancel my home healthcare services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Dorothy. Can you tell me why you’re considering cancellation?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, to be honest, I’ve noticed a decline in the service quality recently, especially with the physical therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 23,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I appreciate your feedback. Can you provide more details about what specifically has been disappointing?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The therapists have been coming late and sometimes the exercises seem rushed. It’s not what I expected.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your frustration. We strive for consistent service. I’ll make sure to relay this to our management team.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you, but I’d still like to know how to proceed with the cancellation.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course, Dorothy. To cancel, I’ll need to process your request in our system. Can I confirm your account details first?",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure, my phone number is +13165558734.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you. Now, can you confirm the last service date?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It was just two days ago.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Got it. I’ll process the cancellation effective immediately.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "And what about any charges? Will I get a refund for the upcoming scheduled visits?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You’ll receive a refund for any prepaid visits that are not used. It usually takes 5-7 business days to process.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That’s good to know. I just wish the service had been better.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I truly apologize for the experience you’ve had. Would you be open to discussing this with our Client Services Manager, Angela?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 93,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I guess so. What can she do?",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "She can review your situation and possibly make adjustments to improve your experience if you decide to stay.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 107,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I’m not sure, but I’m willing to listen.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I can have Angela call you later today to discuss options.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect, I’ll arrange that. You’ll get a call from her shortly.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your understanding.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your call, Dorothy. We value your feedback and hope to resolve this for you.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, I’ll wait for Angela’s call.",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 141,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Have a great day, Dorothy.",
+          "speaker": "local party",
+          "start_time": 141,
+          "end_time": 145,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6be2be6b92c6406bbb836f8d",
+  "revision": "",
+  "status": "success"
+}
