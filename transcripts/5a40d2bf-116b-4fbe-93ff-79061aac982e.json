@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-15T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-98d54b581ce94c99bf524e0d",
+    "created": 1778828400,
+    "modified": 1778828400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946092226-f788fd73",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-98d54b581ce94c99bf524e0d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946047600,
+      "call_id": "98d54b581ce94c99bf524e0d",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-98d54b581ce94c99bf524e0d",
+      "media_name": "09245cbfa042455785f3db800a3aec45.mp3",
+      "scenario": "A business customer complains about the frequent malfunctioning of office equipment leased from the company and requests a replacement. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Robert Jackson. I’ve been a client for three years, and I wanted to discuss an issue with my equipment. Hi Robert, it's great to hear from you. What seems to be the problem with your equipment? Well, the mobility aid I’ve been using has been malfunctioning quite frequently. It’s becoming quite frustrating. I'm sorry to hear that, Robert. Can you tell me more about the specific issues? It often locks up unexpectedly, and I can't seem to reset it. It's becoming a real hassle, especially with my condition. That sounds really inconvenient. Have you noticed this happening at specific times? No, it seems random. I just need something reliable. I've already missed some appointments because of it. I completely understand. We want you to have dependable equipment. Let's get this sorted out. I appreciate that. I’d like to request a replacement if possible. Absolutely, I can initiate that request for you. I’ll need to verify a few details first. Sure, go ahead. Can you confirm if you have the model number of your current mobility aid? Yes, it's the Model X3000. Great, and when did you first start experiencing these issues? It’s been ongoing for about a month now. Thank you for that information, Robert. I’ll document your request for a replacement. Thank you, Margaret. I really need something that works properly. Of course. I’ll escalate this to our equipment department. You should hear back from them within 24 hours. Sounds good. Is there anything else I should do in the meantime? If you experience further issues, please reach out to me directly. I can also arrange for a backup device if needed. That would be helpful. I’d appreciate that option. I’ll make a note of that. Is there anything else I can assist you with today? No, that covers it for now. Thank you for your help. You're welcome, Robert. Thank you for being a valued client. I appreciate it. Have a great day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I’ve been a client for three years, and I wanted to discuss an issue with my equipment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Robert, it's great to hear from you. What seems to be the problem with your equipment?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the mobility aid I’ve been using has been malfunctioning quite frequently. It’s becoming quite frustrating.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm sorry to hear that, Robert. Can you tell me more about the specific issues?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It often locks up unexpectedly, and I can't seem to reset it. It's becoming a real hassle, especially with my condition.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds really inconvenient. Have you noticed this happening at specific times?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "No, it seems random. I just need something reliable. I've already missed some appointments because of it.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand. We want you to have dependable equipment. Let's get this sorted out.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that. I’d like to request a replacement if possible.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I can initiate that request for you. I’ll need to verify a few details first.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, go ahead.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Can you confirm if you have the model number of your current mobility aid?",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 69,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, it's the Model X3000.",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great, and when did you first start experiencing these issues?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "It’s been ongoing for about a month now.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you for that information, Robert. I’ll document your request for a replacement.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I really need something that works properly.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 97,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course. I’ll escalate this to our equipment department. You should hear back from them within 24 hours.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good. Is there anything else I should do in the meantime?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "If you experience further issues, please reach out to me directly. I can also arrange for a backup device if needed.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That would be helpful. I’d appreciate that option.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll make a note of that. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 127,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that covers it for now. Thank you for your help.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Robert. Thank you for being a valued client.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I appreciate it. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 142,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-98d54b581ce94c99bf524e0d",
+  "revision": "",
+  "status": "success"
+}
