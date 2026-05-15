@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c25681862c13490a9de741c9",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087205-3f590e5b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c25681862c13490a9de741c9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 168,
+      "duration_ms": 168000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "c25681862c13490a9de741c9",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c25681862c13490a9de741c9",
+      "media_name": "3632396a5fd249fb9ae83e08efeef0eb.mp3",
+      "scenario": "A prospect calls to report an urgent issue with their trial service being down, affecting their evaluation decision. They need it resolved instantly. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 168.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Edward Martinez. I'm calling because we have an urgent issue with the respite care service. I'm sorry to hear that, Edward. What seems to be the problem? My wife's caregiver, Patricia, hasn't shown up for her shift today, and I need her here to help me. I understand how crucial that is, especially with your needs. Let me check on this right away. Thank you, I really appreciate it. My wife had a doctor's appointment this morning, and I’m alone now. Of course, I’ll prioritize this. Can I have a moment to look at your file? Yes, please. Alright, it looks like Patricia was scheduled for today. Let me see if I can find out what happened. Can you hold for just a moment? Sure, I’ll wait. Thank you for your patience, Edward. I see that there was a last-minute emergency with Patricia. We’re trying to find a replacement for her. Oh no, that’s not good. We really need someone here today. I completely understand. I’ll expedite finding a replacement for you. Would you prefer someone familiar or is a new caregiver alright? If possible, I would prefer someone familiar, but anyone who can come quickly will do. Understood. I’ll make that a priority. I’ll keep you updated as I work on finding someone. Thank you, Margaret. I’m really stressed out about this. I understand, and I want to assure you that we’re doing everything we can. Can we also schedule extra hours for the next few days to give your wife a break? Yes, that would be great. I think we need it. Perfect, let’s arrange that. I’ll follow up with you once I have a replacement caregiver’s details. Thank you, I really appreciate it, Margaret. You’re welcome, Edward! I’ll call you back shortly. Is there anything else I can assist you with while I have you on the line? No, that covers it for now. Alright, thank you for your understanding. We’ll be in touch soon. Thank you. Goodbye. Goodbye, Edward. Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I'm calling because we have an urgent issue with the respite care service.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Edward. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My wife's caregiver, Patricia, hasn't shown up for her shift today, and I need her here to help me.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how crucial that is, especially with your needs. Let me check on this right away.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I really appreciate it. My wife had a doctor's appointment this morning, and I’m alone now.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course, I’ll prioritize this. Can I have a moment to look at your file?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Alright, it looks like Patricia was scheduled for today. Let me see if I can find out what happened. Can you hold for just a moment?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure, I’ll wait.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for your patience, Edward. I see that there was a last-minute emergency with Patricia. We’re trying to find a replacement for her.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Oh no, that’s not good. We really need someone here today.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I completely understand. I’ll expedite finding a replacement for you. Would you prefer someone familiar or is a new caregiver alright?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 93,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "If possible, I would prefer someone familiar, but anyone who can come quickly will do.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 99,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Understood. I’ll make that a priority. I’ll keep you updated as I work on finding someone.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. I’m really stressed out about this.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand, and I want to assure you that we’re doing everything we can. Can we also schedule extra hours for the next few days to give your wife a break?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 118,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that would be great. I think we need it.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect, let’s arrange that. I’ll follow up with you once I have a replacement caregiver’s details.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 131,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, I really appreciate it, Margaret.",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 140,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Edward! I’ll call you back shortly. Is there anything else I can assist you with while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers it for now.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Alright, thank you for your understanding. We’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye, Edward. Take care.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 168,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c25681862c13490a9de741c9",
+  "revision": "",
+  "status": "success"
+}
