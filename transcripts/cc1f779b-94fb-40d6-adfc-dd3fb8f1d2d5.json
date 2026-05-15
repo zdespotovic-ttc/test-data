@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bb8a4f21d8284150ba3461e1",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946023298-2cb50db9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bb8a4f21d8284150ba3461e1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 144,
+      "duration_ms": 144000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "bb8a4f21d8284150ba3461e1",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bb8a4f21d8284150ba3461e1",
+      "media_name": "368169ec28b5405eabc6312d77fe862f.mp3",
+      "scenario": "A client contacts the receptionist to book their quarterly HVAC inspection and servicing. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 144.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Agnes Rodriguez. I hope you’re doing well! Hi Agnes! I’m doing great, thank you. How about you? I'm okay, just trying to keep everything in order at home. I understand. What can I assist you with today? I need to schedule an appointment for an HVAC inspection and servicing. Oh, I think you might have reached the wrong number. We don’t handle HVAC services. Oh no! I’m really sorry, I thought this was the right place! No problem at all! That happens. We mainly focus on home healthcare services. Got it! I really appreciate your help. Of course, Agnes! If you’re looking for home healthcare, we offer services like companion care and personal care assistance. Actually, I've been thinking about increasing companion care visits. That sounds great! We can definitely schedule more visits. How often are you considering? Maybe two to three times a week. Sure! I can help set that up. Let me check our availability for you. Thank you! That would be really helpful. Just a moment while I pull up the schedule. No rush! We have openings on Tuesdays and Thursdays for the next few weeks. Perfect! Can we do Tuesdays at 10 AM? Yes, that works! I’ll schedule you for Tuesday at 10 AM. Great! And can you also remind me about the caregiver matching process? Absolutely! I’ll have Lisa Chen, our Care Coordinator, reach out to you. That sounds good. Does she have my contact information? Yes, she does. I’ll ensure she contacts you before your next visit. Thank you so much, Margaret! You’re very welcome! Is there anything else I can help you with today? No, that’s all for now. Great! We look forward to seeing you on Tuesday. Thank you! Take care! You too, Agnes. Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I hope you’re doing well!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes! I’m doing great, thank you. How about you?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm okay, just trying to keep everything in order at home.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. What can I assist you with today?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I need to schedule an appointment for an HVAC inspection and servicing.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Oh, I think you might have reached the wrong number. We don’t handle HVAC services.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh no! I’m really sorry, I thought this was the right place!",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "No problem at all! That happens. We mainly focus on home healthcare services.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Got it! I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course, Agnes! If you’re looking for home healthcare, we offer services like companion care and personal care assistance.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Actually, I've been thinking about increasing companion care visits.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That sounds great! We can definitely schedule more visits. How often are you considering?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Maybe two to three times a week.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! I can help set that up. Let me check our availability for you.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! That would be really helpful.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Just a moment while I pull up the schedule.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "No rush!",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We have openings on Tuesdays and Thursdays for the next few weeks.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect! Can we do Tuesdays at 10 AM?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, that works! I’ll schedule you for Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 98,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Great! And can you also remind me about the caregiver matching process?",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! I’ll have Lisa Chen, our Care Coordinator, reach out to you.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds good. Does she have my contact information?",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Yes, she does. I’ll ensure she contacts you before your next visit.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much, Margaret!",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re very welcome! Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "No, that’s all for now.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Great! We look forward to seeing you on Tuesday.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 133,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you! Take care!",
+          "speaker": "remote party",
+          "start_time": 133,
+          "end_time": 137,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You too, Agnes. Bye!",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 140,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "right",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bb8a4f21d8284150ba3461e1",
+  "revision": "",
+  "status": "success"
+}
