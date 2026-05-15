@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a48794f8c78949bebbe473de",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087137-82988d0c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a48794f8c78949bebbe473de",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 148,
+      "duration_ms": 148000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "a48794f8c78949bebbe473de",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a48794f8c78949bebbe473de",
+      "media_name": "d91ffab7aaea4a24a7f5849918444246.mp3",
+      "scenario": "A VIP client calls in because they need urgent assistance with a malfunctioning product that was supposed to be fixed last week. They are expecting a swift response. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 148.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Susan Garcia. I'm calling about my father; he has COPD and needs respiratory care. I'm so sorry to hear that, Susan. Can you tell me more about the specific help he needs? Well, we had a respiratory treatment device that was supposed to be fixed last week, but it’s still malfunctioning. I understand, that sounds urgent. When was the last time it was checked? Last Thursday. We were promised it would be ready by now, and he really needs it for his breathing treatments. I apologize for the inconvenience, Susan. Let me check on that for you right away. Thank you, I appreciate it. He’s really struggling without it. I completely understand. Can I have your father’s name and the address where the device was sent? Yes, his name is Carlos Garcia, and the address is 123 Maple Street, Wichita, KS. Thank you, Susan. I will look into this issue immediately. I really hope it can be resolved quickly. He needs these treatments daily. Absolutely. I’ll prioritize this. Do you have any other concerns regarding his care? Well, I was also wondering if you offer skilled nursing services for medication management? Yes, we do offer skilled nursing care starting at $95 for 1-2 hours. That sounds helpful; he does need assistance with that as well. Great! I can arrange for a nurse to visit him. Would you like me to schedule that? Yes, please. That would be wonderful. I’ll make a note to schedule that along with addressing the device issue. Thank you so much, Margaret. I’m really worried about him. I understand how stressful this is. I’ll ensure we follow up on both matters. That makes me feel a bit better. How long will it take for someone to contact me? You can expect a call back within the next hour to update you on the device. Okay, thank you. I’ll be waiting for your call. You’re welcome, Susan! We’re here to help. Take care. Thank you, Margaret. Bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Susan Garcia. I'm calling about my father; he has COPD and needs respiratory care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm so sorry to hear that, Susan. Can you tell me more about the specific help he needs?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, we had a respiratory treatment device that was supposed to be fixed last week, but it’s still malfunctioning.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, that sounds urgent. When was the last time it was checked?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Last Thursday. We were promised it would be ready by now, and he really needs it for his breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 36,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I apologize for the inconvenience, Susan. Let me check on that for you right away.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you, I appreciate it. He’s really struggling without it.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand. Can I have your father’s name and the address where the device was sent?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, his name is Carlos Garcia, and the address is 123 Maple Street, Wichita, KS.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you, Susan. I will look into this issue immediately.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I really hope it can be resolved quickly. He needs these treatments daily.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely. I’ll prioritize this. Do you have any other concerns regarding his care?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Well, I was also wondering if you offer skilled nursing services for medication management?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we do offer skilled nursing care starting at $95 for 1-2 hours.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds helpful; he does need assistance with that as well.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I can arrange for a nurse to visit him. Would you like me to schedule that?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. That would be wonderful.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll make a note to schedule that along with addressing the device issue.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you so much, Margaret. I’m really worried about him.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I understand how stressful this is. I’ll ensure we follow up on both matters.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 118,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That makes me feel a bit better. How long will it take for someone to contact me?",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You can expect a call back within the next hour to update you on the device.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Okay, thank you. I’ll be waiting for your call.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 136,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Susan! We’re here to help. Take care.",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. Bye.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 148,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a48794f8c78949bebbe473de",
+  "revision": "",
+  "status": "success"
+}
