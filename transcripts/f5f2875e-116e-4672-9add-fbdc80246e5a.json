@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-15T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3a838c27719844efa395eeac",
+    "created": 1778828400,
+    "modified": 1778828400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946092529-c3ed4a1e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3a838c27719844efa395eeac",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946047600,
+      "call_id": "3a838c27719844efa395eeac",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3a838c27719844efa395eeac",
+      "media_name": "d3373d41d1854236b2292b2bfadf9465.mp3",
+      "scenario": "A frantic call from a hotel manager needing urgent pest control service before the arrival of VIP guests. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret, this is Agnes Rodriguez. I need urgent help! Oh no, Agnes! What seems to be the problem? It’s about my companion care visit. I need to reschedule urgently! Of course, I can help you. What’s the reason for the urgency? I just found out that my daughter is bringing some VIP guests over today! I see, that sounds important. When do you need the visit rescheduled for? I was hoping for this afternoon, but I need someone who can handle... Handle what, Agnes? Please, go on. They’re not just any guests; they’re very particular. I can’t have anything out of place! I understand. We want to make sure everything goes smoothly for you. Right. And I need someone who can assist with light housekeeping too, please. We can coordinate that. Let me check our staff availability for this afternoon. Thanks, Margaret. I really appreciate it. It’s just that I want everything perfect for them. Absolutely, Agnes. How about if I send a Personal Care Assistant to help? Yes, that would be perfect! Great! The cost for personal care assistance is between $28 to $35 an hour. That’s fine. Just make it happen! I’ll arrange that right away. Do you need them for a specific number of hours? Maybe for two hours, just to get everything in order. Got it. I’ll set them up for two hours starting at 1 PM. Thank you! I knew I could count on you all. Just one moment while I finalize the details. Sure, take your time. I’ll be here. Alright, Agnes. I’ve just scheduled a Personal Care Assistant for you at 1 PM. Perfect! Thank you so much for your help. You’re welcome! I’ll also follow up with you after the visit to ensure everything went well. That would be great. I really appreciate all of this! Of course! I’ll keep you updated on everything. I’m so relieved. Thank you again, Margaret! You’re very welcome, Agnes. Have a wonderful time with your guests! I will! Bye now. Goodbye, Agnes!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Agnes Rodriguez. I need urgent help!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, Agnes! What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It’s about my companion care visit. I need to reschedule urgently!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course, I can help you. What’s the reason for the urgency?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I just found out that my daughter is bringing some VIP guests over today!",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see, that sounds important. When do you need the visit rescheduled for?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I was hoping for this afternoon, but I need someone who can handle...",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Handle what, Agnes? Please, go on.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "They’re not just any guests; they’re very particular. I can’t have anything out of place!",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand. We want to make sure everything goes smoothly for you.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Right. And I need someone who can assist with light housekeeping too, please.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can coordinate that. Let me check our staff availability for this afternoon.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thanks, Margaret. I really appreciate it. It’s just that I want everything perfect for them.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, Agnes. How about if I send a Personal Care Assistant to help?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be perfect!",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! The cost for personal care assistance is between $28 to $35 an hour.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That’s fine. Just make it happen!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll arrange that right away. Do you need them for a specific number of hours?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Maybe for two hours, just to get everything in order.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Got it. I’ll set them up for two hours starting at 1 PM.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you! I knew I could count on you all.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Just one moment while I finalize the details.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sure, take your time. I’ll be here.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Alright, Agnes. I’ve just scheduled a Personal Care Assistant for you at 1 PM.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect! Thank you so much for your help.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! I’ll also follow up with you after the visit to ensure everything went well.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "That would be great. I really appreciate all of this!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Of course! I’ll keep you updated on everything.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I’m so relieved. Thank you again, Margaret!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You’re very welcome, Agnes. Have a wonderful time with your guests!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "I will! Bye now.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Goodbye, Agnes!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3a838c27719844efa395eeac",
+  "revision": "",
+  "status": "success"
+}
