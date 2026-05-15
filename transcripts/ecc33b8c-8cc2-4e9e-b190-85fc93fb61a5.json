@@ -1,0 +1,325 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-13f3bdb6ed8e408a8cadcb22",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946023050-64609250",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-13f3bdb6ed8e408a8cadcb22",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "13f3bdb6ed8e408a8cadcb22",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-13f3bdb6ed8e408a8cadcb22",
+      "media_name": "a3d23f5b0a4f4bbaa0467f73ea248216.mp3",
+      "scenario": "An upset client calls to say that the carpet cleaning left a residue that has only made the stains worse. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Patricia Wilson. I'm calling about my mother’s post-surgery care. Of course, Patricia. I’d be happy to help with that. Can you tell me more about your mother's surgery? Well, she’s having a hip replacement soon, and we need care afterward. Absolutely, that’s something we specialize in. When is the surgery scheduled? It’s on January 15th. We’ll need care starting right after that. Perfect, I can set that up for you. What type of services are you looking for? Mostly post-surgery recovery care... and maybe some personal care assistance too. Great! Our post-surgery recovery care is priced between $85 and $110 for 1-3 hours. That sounds reasonable. But, um, I actually have a complaint about an issue, too. Oh, I’m sorry to hear that. What seems to be the problem? The last time we had service, the carpet cleaning left a residue. It's made the stains worse! I understand how frustrating that must be. I sincerely apologize for the inconvenience. It’s really disappointing. I thought it would help, not make it worse! I completely understand, Patricia. We pride ourselves on quality, and this isn’t what we aim for. Thank you. So, what can you do about it? I can have a supervisor investigate this immediately and get back to you. That would be great. I’d appreciate it. May I have your address again to ensure we send someone out? Sure, it’s 123 Elm Street, Wichita. Thank you. I'll note that down. And can you also send someone to discuss my mother’s care? Absolutely! We can schedule a care coordinator to meet with you. That sounds good. When can they come? How about this Thursday at 2 PM? Yes, that works for me. Great! I’ll send you an email confirmation for that appointment. Thank you, Margaret. You’re welcome, Patricia. I’ll ensure our supervisor follows up about the carpet issue, too. I appreciate that. I just want my mother to have a smooth recovery. Absolutely, and we’ll do everything we can to make that happen. Thank you! Thank you for calling CareFirst Home Health. Have a great day! You too. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Patricia Wilson. I'm calling about my mother’s post-surgery care.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Patricia. I’d be happy to help with that. Can you tell me more about your mother's surgery?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, she’s having a hip replacement soon, and we need care afterward.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, that’s something we specialize in. When is the surgery scheduled?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s on January 15th. We’ll need care starting right after that.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Perfect, I can set that up for you. What type of services are you looking for?",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Mostly post-surgery recovery care... and maybe some personal care assistance too.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great! Our post-surgery recovery care is priced between $85 and $110 for 1-3 hours.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds reasonable. But, um, I actually have a complaint about an issue, too.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Oh, I’m sorry to hear that. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "The last time we had service, the carpet cleaning left a residue. It's made the stains worse!",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand how frustrating that must be. I sincerely apologize for the inconvenience.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "It’s really disappointing. I thought it would help, not make it worse!",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I completely understand, Patricia. We pride ourselves on quality, and this isn’t what we aim for.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. So, what can you do about it?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can have a supervisor investigate this immediately and get back to you.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be great. I’d appreciate it.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "May I have your address again to ensure we send someone out?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sure, it’s 123 Elm Street, Wichita.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you. I'll note that down.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "And can you also send someone to discuss my mother’s care?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! We can schedule a care coordinator to meet with you.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds good. When can they come?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "How about this Thursday at 2 PM?",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, that works for me.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Great! I’ll send you an email confirmation for that appointment.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Patricia. I’ll ensure our supervisor follows up about the carpet issue, too.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I appreciate that. I just want my mother to have a smooth recovery.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Absolutely, and we’ll do everything we can to make that happen.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 139,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Thank you!",
+          "speaker": "remote party",
+          "start_time": 139,
+          "end_time": 143,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 146,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "You too. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 146,
+          "end_time": 150,
+          "channel": "right",
+          "id": 33
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-13f3bdb6ed8e408a8cadcb22",
+  "revision": "",
+  "status": "success"
+}
