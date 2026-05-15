@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-15T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4eef6a7d4a5247c4a2792ef1",
+    "created": 1778828400,
+    "modified": 1778828400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946092427-67b4a490",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4eef6a7d4a5247c4a2792ef1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 190,
+      "duration_ms": 190000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946047600,
+      "call_id": "4eef6a7d4a5247c4a2792ef1",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4eef6a7d4a5247c4a2792ef1",
+      "media_name": "9b2e7d9041824addbbe632f3300fbc71.mp3",
+      "scenario": "An elderly customer is confused about a recent bill and suspects they have been wrongly billed for services not rendered. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 190.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is David Anderson. I'm calling because I have a question about a recent bill I've received. Of course, David. Can you tell me what specifically you have questions about? Well, I noticed some charges that I’m not sure were for services actually rendered. I understand your concern. Can you provide me with the details of the charges you’re questioning? Sure, I see a charge for a physical therapy session on July 15th and we didn’t have a visit that day. Let me pull up your account. One moment, please. Alright, David, I have your account in front of me. I see the charge you mentioned. It looks like there was a billing error; your wife was scheduled for a session but it was canceled. That’s exactly what I thought! I don’t want to pay for services we didn’t receive. Absolutely understandable. I can initiate a review process for that charge. That would be great, thank you. How long does that usually take? Typically, it can take about 5-7 business days for a review and adjustment to process. Okay, I’ll keep an eye out for that then. Is there anything else that you’d like to discuss today regarding your services? Yes, actually, my wife is still recovering from her stroke and we need physical therapy and nursing care. We can certainly help with that. Dr. James Rodriguez is our physical therapist. Would you like me to schedule an assessment? Yes, that sounds good. When is he available? He’s available Monday through Friday, typically in the morning. Would that work for you? Yes, mornings are good. How about Monday at 10 AM? Let me check... Yes, Monday at 10 AM works perfectly! Great! And what about the nursing care? We can provide skilled nursing care for medication management and post-surgical support. How much is that? Skilled nursing care ranges from $95 to $125 for visits of 1-2 hours. Okay, I’d like to proceed with that as well. I’ll include that in our follow-up for scheduling. Can I get your preferred days for nursing care? Ideally, we’d like someone to come in Tuesday, Thursday, and Saturday, if possible. We can accommodate that. I’ll make a note to coordinate that with our nursing staff. Thank you so much, Margaret. I really appreciate your help. You’re welcome, David! I’ll follow up with you once the billing review is complete and confirm the schedules. Sounds good, have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is David Anderson. I'm calling because I have a question about a recent bill I've received.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, David. Can you tell me what specifically you have questions about?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed some charges that I’m not sure were for services actually rendered.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Can you provide me with the details of the charges you’re questioning?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, I see a charge for a physical therapy session on July 15th and we didn’t have a visit that day.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me pull up your account. One moment, please.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Alright, David, I have your account in front of me. I see the charge you mentioned. It looks like there was a billing error; your wife was scheduled for a session but it was canceled.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 55,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That’s exactly what I thought! I don’t want to pay for services we didn’t receive.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Absolutely understandable. I can initiate a review process for that charge.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That would be great, thank you. How long does that usually take?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Typically, it can take about 5-7 business days for a review and adjustment to process.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 78,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Okay, I’ll keep an eye out for that then.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Is there anything else that you’d like to discuss today regarding your services?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, actually, my wife is still recovering from her stroke and we need physical therapy and nursing care.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "We can certainly help with that. Dr. James Rodriguez is our physical therapist. Would you like me to schedule an assessment?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, that sounds good. When is he available?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "He’s available Monday through Friday, typically in the morning. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 113,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, mornings are good. How about Monday at 10 AM?",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 121,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Let me check... Yes, Monday at 10 AM works perfectly!",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Great! And what about the nursing care?",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "We can provide skilled nursing care for medication management and post-surgical support.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "How much is that?",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 144,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Skilled nursing care ranges from $95 to $125 for visits of 1-2 hours.",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 150,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Okay, I’d like to proceed with that as well.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "I’ll include that in our follow-up for scheduling. Can I get your preferred days for nursing care?",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Ideally, we’d like someone to come in Tuesday, Thursday, and Saturday, if possible.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 167,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "We can accommodate that. I’ll make a note to coordinate that with our nursing staff.",
+          "speaker": "local party",
+          "start_time": 167,
+          "end_time": 174,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 174,
+          "end_time": 178,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "You’re welcome, David! I’ll follow up with you once the billing review is complete and confirm the schedules.",
+          "speaker": "local party",
+          "start_time": 178,
+          "end_time": 183,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "Sounds good, have a great day!",
+          "speaker": "remote party",
+          "start_time": 183,
+          "end_time": 187,
+          "channel": "right",
+          "id": 30
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 187,
+          "end_time": 190,
+          "channel": "left",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4eef6a7d4a5247c4a2792ef1",
+  "revision": "",
+  "status": "success"
+}
