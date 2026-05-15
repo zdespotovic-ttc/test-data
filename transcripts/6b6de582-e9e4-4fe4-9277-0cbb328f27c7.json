@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-15T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-05708ab4b191477ea66243b5",
+    "created": 1778828400,
+    "modified": 1778828400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946092603-ad28c9d3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-05708ab4b191477ea66243b5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946047600,
+      "call_id": "05708ab4b191477ea66243b5",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-05708ab4b191477ea66243b5",
+      "media_name": "ad1e79e59cbe476298916acd7da8e1d2.mp3",
+      "scenario": "A business account holder calls to terminate their software subscription, unsatisfied with the product's performance. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, my name is Patricia Wilson. I was referred by Dr. Anderson regarding my mother’s upcoming hip replacement. Hi Patricia, it’s nice to speak with you. How can I assist you with your mother’s care? Well, I’m looking into post-surgery care options. I heard you provide those services. Yes, we offer specialized Post-Surgery Recovery Care. That includes assistance for 1 to 3 hours after surgery. That sounds great. What’s the pricing for that? The price for Post-Surgery Recovery Care ranges from $85 to $110, depending on the level of care needed. And what does that care specifically include? It includes assistance with daily activities, medication management, and monitoring of the surgical site to ensure a smooth recovery. That sounds perfect. Can you tell me how I can get started with scheduling this? Absolutely! I can connect you with our Care Coordinator, Lisa Chen, to develop a care plan. Great, can I get her direct number? Sure, her direct number is +13165559203, and she’s available Monday through Saturday. Thank you. I’ll reach out to her. But I also have a concern about my mom’s medication management. We can assist with that too. Our Medication Management service is $65 to $80. What does that entail? It includes reminders, organization, and supervision of her medication schedule. We can discuss that with Lisa as well. Sounds good. I’ll make sure to ask her about it. Perfect! Is there anything else you’d like to know right now? No, I think that covers everything for now. Great! Just to confirm, I’ll have Lisa follow up with you about the care plan. Yes, please. I appreciate your help today, Margaret. You’re very welcome, Patricia. We look forward to helping your mother with her recovery. Thank you! Have a great day. You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Patricia Wilson. I was referred by Dr. Anderson regarding my mother’s upcoming hip replacement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Patricia, it’s nice to speak with you. How can I assist you with your mother’s care?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’m looking into post-surgery care options. I heard you provide those services.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Yes, we offer specialized Post-Surgery Recovery Care. That includes assistance for 1 to 3 hours after surgery.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds great. What’s the pricing for that?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "The price for Post-Surgery Recovery Care ranges from $85 to $110, depending on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "And what does that care specifically include?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It includes assistance with daily activities, medication management, and monitoring of the surgical site to ensure a smooth recovery.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds perfect. Can you tell me how I can get started with scheduling this?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely! I can connect you with our Care Coordinator, Lisa Chen, to develop a care plan.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great, can I get her direct number?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Sure, her direct number is +13165559203, and she’s available Monday through Saturday.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you. I’ll reach out to her. But I also have a concern about my mom’s medication management.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can assist with that too. Our Medication Management service is $65 to $80.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "What does that entail?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "It includes reminders, organization, and supervision of her medication schedule. We can discuss that with Lisa as well.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sounds good. I’ll make sure to ask her about it.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! Is there anything else you’d like to know right now?",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No, I think that covers everything for now.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! Just to confirm, I’ll have Lisa follow up with you about the care plan.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. I appreciate your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome, Patricia. We look forward to helping your mother with her recovery.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! Have a great day.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-05708ab4b191477ea66243b5",
+  "revision": "",
+  "status": "success"
+}
