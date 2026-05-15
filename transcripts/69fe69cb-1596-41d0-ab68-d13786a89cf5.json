@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-8e7d193096ad47f2a90681f6",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946023125-0975ecfd",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-8e7d193096ad47f2a90681f6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "8e7d193096ad47f2a90681f6",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-8e7d193096ad47f2a90681f6",
+      "media_name": "dd9a6633589e44a08ae4d0f556d57aa6.mp3",
+      "scenario": "A customer calls in a panic as their heating system has stopped working during a cold snap. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret, my name is Jennifer Taylor. I'm really worried; my grandmother's heating system has stopped working, and it's freezing outside! I'm so sorry to hear that, Jennifer. That sounds really urgent. Yes, it is! She's elderly and needs to stay warm. What can we do? I understand. Just to confirm, are you calling about companion care for her? Yes, but right now I just need someone to check on her and help with the heating situation. Absolutely, I can arrange for someone to go over immediately. Thank you! She’s in Wichita. How quickly can someone get there? We can dispatch a caregiver right away, but I’ll need to gather some details first. What’s her address? It’s 123 Maple Street, Wichita, KS. Please hurry! I’m on it. Can you confirm her phone number for our caregiver to reach her? Yes, it’s +13161234567. Please make sure they understand she needs help with the heating. I’ll make a note of that. What other assistance does she require while the caregiver is there? Just some companionship and maybe help with making sure she’s warm and comfortable. Got it. I’ll ensure the caregiver brings some blankets and a space heater if needed. Oh, that would be great! Thank you so much. You’re welcome, Jennifer. I’ll send over a Personal Care Assistant right away. How long will it take for them to arrive? They should be there within the next 30 to 45 minutes. Okay, I’ll wait for their call. I also want to mention, we can set up ongoing companion care for her if you’re interested. That might be a good idea, especially if she needs more help as time goes on. I can set up a care plan and discuss options for regular visits after this urgent situation is handled. Yes, please do that. I want to make sure she’s okay long-term. Great! I’ll follow up with you once the caregiver is dispatched and discuss care plans. Thank you, Margaret. I really appreciate your help. You’re very welcome, Jennifer. We’re here for you. Okay, talk to you soon. Bye-bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, my name is Jennifer Taylor. I'm really worried; my grandmother's heating system has stopped working, and it's freezing outside!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm so sorry to hear that, Jennifer. That sounds really urgent.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it is! She's elderly and needs to stay warm. What can we do?",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Just to confirm, are you calling about companion care for her?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, but right now I just need someone to check on her and help with the heating situation.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I can arrange for someone to go over immediately.",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you! She’s in Wichita. How quickly can someone get there?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We can dispatch a caregiver right away, but I’ll need to gather some details first. What’s her address?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It’s 123 Maple Street, Wichita, KS. Please hurry!",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m on it. Can you confirm her phone number for our caregiver to reach her?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, it’s +13161234567. Please make sure they understand she needs help with the heating.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll make a note of that. What other assistance does she require while the caregiver is there?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Just some companionship and maybe help with making sure she’s warm and comfortable.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Got it. I’ll ensure the caregiver brings some blankets and a space heater if needed.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Oh, that would be great! Thank you so much.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome, Jennifer. I’ll send over a Personal Care Assistant right away.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "How long will it take for them to arrive?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "They should be there within the next 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, I’ll wait for their call.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I also want to mention, we can set up ongoing companion care for her if you’re interested.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That might be a good idea, especially if she needs more help as time goes on.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I can set up a care plan and discuss options for regular visits after this urgent situation is handled.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, please do that. I want to make sure she’s okay long-term.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! I’ll follow up with you once the caregiver is dispatched and discuss care plans.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re very welcome, Jennifer. We’re here for you.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 136,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Okay, talk to you soon.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye-bye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-8e7d193096ad47f2a90681f6",
+  "revision": "",
+  "status": "success"
+}
