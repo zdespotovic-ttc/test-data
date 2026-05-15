@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f201254106494fb5a6ad871c",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087420-7cbcd8e2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f201254106494fb5a6ad871c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "f201254106494fb5a6ad871c",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f201254106494fb5a6ad871c",
+      "media_name": "cac2b8b7ce894f039eebe7387bc1ef03.mp3",
+      "scenario": "A dissatisfied client calls to report that the repairs done last week have failed, and they need a technician to revisit urgently. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is David Anderson. I was referred by Dorothy Henderson. Hi, David! It's nice to hear from you. How can I help your wife today? Well, my wife is recovering from a stroke, and we need to discuss her physical therapy and nursing care. Certainly! I understand how important that is. Actually, I’m calling because I have an urgent issue regarding her care. Oh no, I’m sorry to hear that. Could you please tell me what the issue is? The nursing care we received last week hasn’t worked out. Her condition hasn’t improved, and we need someone to come out urgently. I understand how concerning that must be for you. Let’s get this sorted out. Yes, please. We’re really worried. Can you provide me with more details about what specific care your wife needs right now? She needs physical therapy and monitoring, especially for her mobility. Thank you for that information. I’ll reach out to our physical therapist, Dr. James Rodriguez, immediately. Great! When can someone come out? Let me check Dr. Rodriguez’s schedule. He’s available for a visit tomorrow morning. Would that work? Yes, that would be perfect. Excellent. I’ll also arrange for a nursing visit to assess her medication needs. That sounds good. Can you confirm the time for both visits? I’ll have someone confirm the exact times within the next hour. Thank you. I appreciate the quick response. Of course! One more thing, are you considering ongoing therapy sessions or just this urgent visit? We’ll definitely need ongoing help, especially with the physical therapy. I can help you set up a care plan for ongoing sessions. I’ll include that in our follow-up. That sounds great. Thank you so much for your help. You’re welcome, David. We’ll be in touch shortly with the details. I look forward to hearing from you. Thank you for calling CareFirst Home Health! Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is David Anderson. I was referred by Dorothy Henderson.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, David! It's nice to hear from you. How can I help your wife today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my wife is recovering from a stroke, and we need to discuss her physical therapy and nursing care.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Certainly! I understand how important that is.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Actually, I’m calling because I have an urgent issue regarding her care.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Oh no, I’m sorry to hear that. Could you please tell me what the issue is?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "The nursing care we received last week hasn’t worked out. Her condition hasn’t improved, and we need someone to come out urgently.",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand how concerning that must be for you. Let’s get this sorted out.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please. We’re really worried.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Can you provide me with more details about what specific care your wife needs right now?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "She needs physical therapy and monitoring, especially for her mobility.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you for that information. I’ll reach out to our physical therapist, Dr. James Rodriguez, immediately.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great! When can someone come out?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me check Dr. Rodriguez’s schedule. He’s available for a visit tomorrow morning. Would that work?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be perfect.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Excellent. I’ll also arrange for a nursing visit to assess her medication needs.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good. Can you confirm the time for both visits?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll have someone confirm the exact times within the next hour.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you. I appreciate the quick response.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course! One more thing, are you considering ongoing therapy sessions or just this urgent visit?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "We’ll definitely need ongoing help, especially with the physical therapy.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 103,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I can help you set up a care plan for ongoing sessions. I’ll include that in our follow-up.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds great. Thank you so much for your help.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, David. We’ll be in touch shortly with the details.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I look forward to hearing from you.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health!",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f201254106494fb5a6ad871c",
+  "revision": "",
+  "status": "success"
+}
