@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-87b2604a95cd4f4584484aa7",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946023096-0bdd69e2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-87b2604a95cd4f4584484aa7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "87b2604a95cd4f4584484aa7",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-87b2604a95cd4f4584484aa7",
+      "media_name": "340ac02d13274576906fcd3f8978352e.mp3",
+      "scenario": "A customer expresses their dissatisfaction with the pet grooming service as their dog was left with uneven fur. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today? Hi Margaret, this is Patricia Wilson. I was referred by Dr. Anderson regarding my mother. Hi Patricia, nice to meet you. How can I help with your mother's care needs? Well, she’s scheduled for a hip replacement soon, and I need to arrange post-surgery care. Absolutely, we can assist with that. Are you looking for skilled nursing or personal care assistance? Mostly skilled nursing care, but I’m also curious about personal care support. We provide skilled nursing care for $95 to $125 per visit, depending on the services required. That sounds reasonable. What does the skilled nursing entail? It includes medication management, wound care, and health monitoring, tailored to post-surgical recovery. That sounds perfect for her. How soon can we start after the surgery? We can begin as soon as she’s discharged from the hospital. Would you like to schedule a care plan consultation? Yes, that would be great. Let me check our availability for you. Would you prefer an in-home visit or a phone consultation? A phone consultation would be easier for me. Perfect, I can schedule that with our Care Coordinator, Lisa, for you. Great, thank you. Just to confirm, can you provide me your mother’s surgery date? It’s on March 15th. Thank you, Patricia. I’ll have Lisa reach out shortly to finalize the details. Sounds good. Before we wrap up, I also wanted to mention our personal care assistance services. Right, I’d like to know more about that too. Our personal care assistance starts at $28 to $35 per hour and includes bathing, dressing, and companionship. That sounds helpful as well. I’ll consider that. Excellent. I will ensure Lisa discusses both options during your consultation. Thank you so much, Margaret. I appreciate your help. You’re very welcome, Patricia. We’re here to support you and your mother. I’ll look forward to speaking with Lisa soon. Perfect! Have a great day, and we’ll talk soon. Thank you, you too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Patricia Wilson. I was referred by Dr. Anderson regarding my mother.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Patricia, nice to meet you. How can I help with your mother's care needs?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, she’s scheduled for a hip replacement soon, and I need to arrange post-surgery care.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can assist with that. Are you looking for skilled nursing or personal care assistance?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Mostly skilled nursing care, but I’m also curious about personal care support.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We provide skilled nursing care for $95 to $125 per visit, depending on the services required.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds reasonable. What does the skilled nursing entail?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It includes medication management, wound care, and health monitoring, tailored to post-surgical recovery.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds perfect for her. How soon can we start after the surgery?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can begin as soon as she’s discharged from the hospital. Would you like to schedule a care plan consultation?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be great.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check our availability for you. Would you prefer an in-home visit or a phone consultation?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "A phone consultation would be easier for me.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect, I can schedule that with our Care Coordinator, Lisa, for you.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great, thank you.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Just to confirm, can you provide me your mother’s surgery date?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 78,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "It’s on March 15th.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Patricia. I’ll have Lisa reach out shortly to finalize the details.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Before we wrap up, I also wanted to mention our personal care assistance services.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Right, I’d like to know more about that too.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Our personal care assistance starts at $28 to $35 per hour and includes bathing, dressing, and companionship.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds helpful as well. I’ll consider that.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Excellent. I will ensure Lisa discusses both options during your consultation.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 119,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re very welcome, Patricia. We’re here to support you and your mother.",
+          "speaker": "local party",
+          "start_time": 119,
+          "end_time": 123,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I’ll look forward to speaking with Lisa soon.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 127,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Perfect! Have a great day, and we’ll talk soon.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you, you too!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 140,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-87b2604a95cd4f4584484aa7",
+  "revision": "",
+  "status": "success"
+}
