@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-51edef498d1c4ee38f2dac22",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087631-ce40a423",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-51edef498d1c4ee38f2dac22",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 175,
+      "duration_ms": 175000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "51edef498d1c4ee38f2dac22",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-51edef498d1c4ee38f2dac22",
+      "media_name": "116e3040341e4188950a7d73c546f809.mp3",
+      "scenario": "A customer wants to cancel their service due to continuous technical issues that have not been resolved despite multiple attempts. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 175.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Susan Garcia. I'm calling to discuss some ongoing issues we've been having with the services for my father. I’m sorry to hear that, Susan. Could you please tell me more about the issues you're experiencing? Well, there have been continuous technical issues with the equipment used for his respiratory care, and it hasn’t been resolved despite several attempts. I understand how frustrating that must be. I apologize for the inconvenience. Can I ask how long these issues have been occurring? It's been over a month now, and we’ve called multiple times for support, but nothing has changed. That’s certainly not the experience we want for our clients. What specific equipment are we talking about? It's the nebulizer for his breathing treatments. It keeps malfunctioning, and we can't rely on it. Thank you for clarifying. I’d like to escalate this issue to ensure it’s addressed promptly. I appreciate that, but honestly, I'm considering canceling the service if this can’t be fixed soon. I completely understand your concern, Susan. Let’s work together to resolve this before we discuss cancellation. I just want to make sure my father gets the care he needs without the hassle of faulty equipment. Absolutely, and we take your father's health very seriously. Can I set up a technician to visit and evaluate the equipment? That would be helpful. How soon can they come? I can arrange for a technician to come out within 48 hours. Does that work for you? Yes, that would be great. Thank you. I’ll make sure to notify them of the urgency. Can I also confirm if there are any other services your father may need? He could use some assistance with his daily activities, like bathing and meals. We can definitely help with personal care assistance for that. Would you like me to provide additional information? Yes, please. I’d like to know the pricing and availability. Personal care assistance is priced at $28 to $35 per hour. We have availability during the weekdays and weekends. That sounds reasonable. I’ll consider adding that service. Great! I’ll follow up with you after the technician visit to see how everything is going. Thank you, Margaret. I appreciate your help today. You’re welcome, Susan. I’ll ensure we resolve this issue promptly. I look forward to hearing back from you. Thank you for your patience. Have a great day! You too, bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Susan Garcia. I'm calling to discuss some ongoing issues we've been having with the services for my father.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Susan. Could you please tell me more about the issues you're experiencing?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, there have been continuous technical issues with the equipment used for his respiratory care, and it hasn’t been resolved despite several attempts.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be. I apologize for the inconvenience. Can I ask how long these issues have been occurring?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It's been over a month now, and we’ve called multiple times for support, but nothing has changed.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That’s certainly not the experience we want for our clients. What specific equipment are we talking about?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It's the nebulizer for his breathing treatments. It keeps malfunctioning, and we can't rely on it.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for clarifying. I’d like to escalate this issue to ensure it’s addressed promptly.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that, but honestly, I'm considering canceling the service if this can’t be fixed soon.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand your concern, Susan. Let’s work together to resolve this before we discuss cancellation.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I just want to make sure my father gets the care he needs without the hassle of faulty equipment.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, and we take your father's health very seriously. Can I set up a technician to visit and evaluate the equipment?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be helpful. How soon can they come?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can arrange for a technician to come out within 48 hours. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be great. Thank you.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll make sure to notify them of the urgency. Can I also confirm if there are any other services your father may need?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "He could use some assistance with his daily activities, like bathing and meals.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 118,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can definitely help with personal care assistance for that. Would you like me to provide additional information?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please. I’d like to know the pricing and availability.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Personal care assistance is priced at $28 to $35 per hour. We have availability during the weekdays and weekends.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds reasonable. I’ll consider adding that service.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I’ll follow up with you after the technician visit to see how everything is going.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 157,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Susan. I’ll ensure we resolve this issue promptly.",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 160,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I look forward to hearing back from you.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for your patience. Have a great day!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 173,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 173,
+          "end_time": 175,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-51edef498d1c4ee38f2dac22",
+  "revision": "",
+  "status": "success"
+}
