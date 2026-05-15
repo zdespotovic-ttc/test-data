@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d2fb0f9b97ff41fd92782056",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087611-1f9dd677",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d2fb0f9b97ff41fd92782056",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "d2fb0f9b97ff41fd92782056",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d2fb0f9b97ff41fd92782056",
+      "media_name": "7665f3fb65804659b5c7249f22504b28.mp3",
+      "scenario": "An upset customer contacts to complain about the shoddy repair work done on their equipment and requests re-service. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Helen Johnson. I'm really frustrated about the equipment repair from last week. I’m sorry to hear that, Helen. Can you tell me what happened? Well, the physical therapy equipment you sent someone to fix isn’t working properly. It’s still causing me pain. That sounds really frustrating. I apologize for the inconvenience. I expected better quality work, especially after I've been a client for nine months. I completely understand your concerns. Let’s get this resolved for you. I need someone to come back and fix it again. This is not acceptable. Absolutely, we can arrange for a technician to come out. When would be a good time for you? Ideally, tomorrow afternoon if possible. Let me check... Yes, we can do tomorrow at 2 PM. Great, thank you. Can I also get an update on my physical therapy sessions? Of course! You're currently scheduled for your next session next week. Could we possibly add another session this week since my shoulder's been acting up? Yes, we can certainly add that. How about Thursday at 10 AM? That works for me. Just make sure it's with Dr. Rodriguez. I’ll make a note to schedule it with Dr. Rodriguez. Thank you, Margaret. I really appreciate your help. You’re welcome, Helen! I’ll confirm the repairs for tomorrow and the additional therapy session. Just to clarify, can you ensure the repair technician understands the issue? Yes, I will provide them with the details of your complaint to ensure they are well-informed. Thank you. I hope this time it gets fixed properly. I understand, and I appreciate your patience. We’ll do our best to resolve it. I’ll hold you to that! Great! Is there anything else I can assist you with today? No, that’s all for now. Thanks again! Thank you for calling, Helen. Have a great day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I'm really frustrated about the equipment repair from last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Helen. Can you tell me what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the physical therapy equipment you sent someone to fix isn’t working properly. It’s still causing me pain.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds really frustrating. I apologize for the inconvenience.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I expected better quality work, especially after I've been a client for nine months.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your concerns. Let’s get this resolved for you.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I need someone to come back and fix it again. This is not acceptable.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, we can arrange for a technician to come out. When would be a good time for you?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Ideally, tomorrow afternoon if possible.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check... Yes, we can do tomorrow at 2 PM.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great, thank you. Can I also get an update on my physical therapy sessions?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! You're currently scheduled for your next session next week.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Could we possibly add another session this week since my shoulder's been acting up?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we can certainly add that. How about Thursday at 10 AM?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That works for me. Just make sure it's with Dr. Rodriguez.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll make a note to schedule it with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome, Helen! I’ll confirm the repairs for tomorrow and the additional therapy session.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Just to clarify, can you ensure the repair technician understands the issue?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 99,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, I will provide them with the details of your complaint to ensure they are well-informed.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you. I hope this time it gets fixed properly.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I understand, and I appreciate your patience. We’ll do our best to resolve it.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I’ll hold you to that!",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 121,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for calling, Helen. Have a great day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d2fb0f9b97ff41fd92782056",
+  "revision": "",
+  "status": "success"
+}
