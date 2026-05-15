@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4c14397436ba42dc96191ba3",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946023110-c7905d4e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4c14397436ba42dc96191ba3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "4c14397436ba42dc96191ba3",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4c14397436ba42dc96191ba3",
+      "media_name": "8f24b31329cc4d2c815ac86e763925a4.mp3",
+      "scenario": "A client urgently requests assistance as the security system is malfunctioning and they cannot arm the system. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, this is Jennifer Taylor. I need help urgently! My grandmother's security system is malfunctioning, and she can’t arm it. I’m sorry to hear that, Jennifer. Can you tell me a bit more about the situation? Yes, she lives alone, and I'm worried about her safety. She really needs someone there to help her with this issue. I completely understand. We can definitely send someone over. Can you confirm your grandmother's address? Yes, it’s 123 Elm Street, Wichita. Great, thank you. How soon do you need someone to arrive? As soon as possible! I’m really worried she’ll forget to check the doors or something. I’ll prioritize this request. I can send a Caregiver for companion care to assist her right away. That sounds good. How long will it take? Our caregiver can be there within the hour. I’ll assign someone who specializes in companionship and daily activities. Perfect! What will that cost? The companion care service is priced at $25 to $30 per hour. That’s reasonable. Can you also help with some daily activities while they’re there? Yes, absolutely. The caregiver can assist with bathing, dressing, and meal prep too. That’s wonderful. I just want to make sure she’s safe and comfortable. Of course, we’ll ensure she receives the best care. I’ll get the caregiver dispatched right away. Thank you so much. What should I do next? I’ll need your contact number to keep you updated. And if you have any specific instructions for the caregiver, let me know. My number is +13165554817. Just tell them to check the security system and help her with whatever she needs. Got it. I’ll relay that to the caregiver. They’ll call you when they arrive. Thank you! Is there anything else I need to do? Just stay available for any updates from our caregiver. Would you also like me to follow up in a few hours? Yes, that would be great. Perfect! I’ll check in with you later. Thank you for calling, Jennifer. Thank you so much for your help, Margaret! You’re welcome! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Jennifer Taylor. I need help urgently! My grandmother's security system is malfunctioning, and she can’t arm it.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Jennifer. Can you tell me a bit more about the situation?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, she lives alone, and I'm worried about her safety. She really needs someone there to help her with this issue.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand. We can definitely send someone over. Can you confirm your grandmother's address?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it’s 123 Elm Street, Wichita.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great, thank you. How soon do you need someone to arrive?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "As soon as possible! I’m really worried she’ll forget to check the doors or something.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’ll prioritize this request. I can send a Caregiver for companion care to assist her right away.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds good. How long will it take?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Our caregiver can be there within the hour. I’ll assign someone who specializes in companionship and daily activities.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Perfect! What will that cost?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The companion care service is priced at $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That’s reasonable. Can you also help with some daily activities while they’re there?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, absolutely. The caregiver can assist with bathing, dressing, and meal prep too.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That’s wonderful. I just want to make sure she’s safe and comfortable.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course, we’ll ensure she receives the best care. I’ll get the caregiver dispatched right away.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you so much. What should I do next?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll need your contact number to keep you updated. And if you have any specific instructions for the caregiver, let me know.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "My number is +13165554817. Just tell them to check the security system and help her with whatever she needs.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Got it. I’ll relay that to the caregiver. They’ll call you when they arrive.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you! Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Just stay available for any updates from our caregiver. Would you also like me to follow up in a few hours?",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that would be great.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 106,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect! I’ll check in with you later. Thank you for calling, Jennifer.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much for your help, Margaret!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Take care.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4c14397436ba42dc96191ba3",
+  "revision": "",
+  "status": "success"
+}
