@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1b284f97e2db4997b15d9e6e",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087649-c24a7a02",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1b284f97e2db4997b15d9e6e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 137,
+      "duration_ms": 137000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "1b284f97e2db4997b15d9e6e",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1b284f97e2db4997b15d9e6e",
+      "media_name": "8c74eca88c934089822f62d1a8076185.mp3",
+      "scenario": "A customer calls to dispute a billing statement that includes charges for sessions they never attended, seeking an immediate refund. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 137.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Edward Martinez. I'm calling about a billing statement I received. Hi Edward, I hope you’re doing well. What seems to be the issue with the billing? Well, I noticed charges for some sessions that I never attended. This doesn’t seem right. I understand your concern. Can you provide me with the details of those charges? Yes, it shows charges for three sessions last week, but my wife was at an appointment, and I wasn't home. Let me check your account and verify those sessions for you. One moment, please. Sure, take your time. I just want to make sure this is resolved quickly. Thank you for your patience, Edward. I see the charges for the three sessions you mentioned. I’m sorry about the confusion. It’s really frustrating, especially since I depend on the respite care for my wife’s breaks. I completely understand. Since these sessions were incorrectly billed, I’ll initiate a refund for you right away. That would be great, thank you. How long will the refund take? It usually takes about 5 to 7 business days to process. We’ll make sure to expedite it. Okay, I appreciate that. Also, can you confirm the next scheduled respite care session? Yes, your next session is scheduled for this Saturday. Would you like to add more sessions for the upcoming week? Actually, yes. I’d like to schedule an additional session on Tuesday if possible. Absolutely, I can arrange that for you. Would you like it at the same time as the usual schedule? Yes, that would work perfectly. Great! I’ll add that for you. Just to confirm, that’s one additional session on Tuesday. Yes, that’s correct. I have that scheduled. You should receive a confirmation shortly. Is there anything else I can assist you with? No, that covers everything. Thank you, Margaret. You’re welcome, Edward! I’m glad I could help. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I'm calling about a billing statement I received.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward, I hope you’re doing well. What seems to be the issue with the billing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed charges for some sessions that I never attended. This doesn’t seem right.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Can you provide me with the details of those charges?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it shows charges for three sessions last week, but my wife was at an appointment, and I wasn't home.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check your account and verify those sessions for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time. I just want to make sure this is resolved quickly.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for your patience, Edward. I see the charges for the three sessions you mentioned. I’m sorry about the confusion.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It’s really frustrating, especially since I depend on the respite care for my wife’s breaks.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand. Since these sessions were incorrectly billed, I’ll initiate a refund for you right away.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great, thank you. How long will the refund take?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "It usually takes about 5 to 7 business days to process. We’ll make sure to expedite it.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, I appreciate that. Also, can you confirm the next scheduled respite care session?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, your next session is scheduled for this Saturday. Would you like to add more sessions for the upcoming week?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, yes. I’d like to schedule an additional session on Tuesday if possible.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, I can arrange that for you. Would you like it at the same time as the usual schedule?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that would work perfectly.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll add that for you. Just to confirm, that’s one additional session on Tuesday.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I have that scheduled. You should receive a confirmation shortly. Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers everything. Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Edward! I’m glad I could help. Have a great day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 137,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1b284f97e2db4997b15d9e6e",
+  "revision": "",
+  "status": "success"
+}
