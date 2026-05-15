@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-54e06d526d664bfaa964c19c",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087398-0a0bc2e8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-54e06d526d664bfaa964c19c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "54e06d526d664bfaa964c19c",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-54e06d526d664bfaa964c19c",
+      "media_name": "6611388f1a044be191250975a640d4f4.mp3",
+      "scenario": "A customer contacts support over a billing error where they were charged for services not rendered, seeking a prompt correction. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is William Chen. I'm calling about a billing issue I noticed on my last invoice. Hi William, thanks for reaching out. I'm sorry to hear that. Can you tell me more about the issue? Yes, I was charged for two physical therapy sessions last week, but I only had one. I understand. That's definitely concerning. Let me take a look at your account. Can you hold on for just a moment while I pull up your billing details? Sure, take your time. Thank you for your patience, William. I see you had one physical therapy session on Tuesday, but it looks like the billing system did mistakenly charge you for two. That's exactly what I thought. I really appreciate you looking into this. I will correct that right away. It will take about 3 to 5 business days to process the refund. Thank you. Will I receive a confirmation once the refund is processed? Yes, you'll get an email confirmation once it's done. Is there anything else I can help you with today? Actually, I was wondering if I could schedule an additional physical therapy session for next week. Absolutely, that sounds great! Would you like me to check Dr. Rodriguez's availability? Yes, please. I’d prefer a morning slot if possible. Let me see... Dr. Rodriguez is available Wednesday at 10 AM, does that work for you? That works perfectly, thank you! Great! I’ll schedule that and confirm the appointment via email as well. Sounds good, I appreciate your help today, Margaret. It’s my pleasure, William. I'll take care of the billing issue and the appointment for you. If you have any other questions, feel free to call us back anytime. Thanks again. Have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I'm calling about a billing issue I noticed on my last invoice.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William, thanks for reaching out. I'm sorry to hear that. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I was charged for two physical therapy sessions last week, but I only had one.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. That's definitely concerning. Let me take a look at your account.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Can you hold on for just a moment while I pull up your billing details?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 37,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 40,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Thank you for your patience, William. I see you had one physical therapy session on Tuesday, but it looks like the billing system did mistakenly charge you for two.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 57,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That's exactly what I thought. I really appreciate you looking into this.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I will correct that right away. It will take about 3 to 5 business days to process the refund.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thank you. Will I receive a confirmation once the refund is processed?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Yes, you'll get an email confirmation once it's done. Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Actually, I was wondering if I could schedule an additional physical therapy session for next week.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Absolutely, that sounds great! Would you like me to check Dr. Rodriguez's availability?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, please. I’d prefer a morning slot if possible.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Let me see... Dr. Rodriguez is available Wednesday at 10 AM, does that work for you?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That works perfectly, thank you!",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 105,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Great! I’ll schedule that and confirm the appointment via email as well.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Sounds good, I appreciate your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "It’s my pleasure, William. I'll take care of the billing issue and the appointment for you.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "If you have any other questions, feel free to call us back anytime.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 128,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thanks again. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-54e06d526d664bfaa964c19c",
+  "revision": "",
+  "status": "success"
+}
