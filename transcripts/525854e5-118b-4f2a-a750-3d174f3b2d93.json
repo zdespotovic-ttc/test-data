@@ -1,0 +1,325 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ed505d818e9540278fe80fe1",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946023189-f3fab214",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ed505d818e9540278fe80fe1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "ed505d818e9540278fe80fe1",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ed505d818e9540278fe80fe1",
+      "media_name": "9f6cdafa762441b8897deb22f43e2abe.mp3",
+      "scenario": "An office manager urgently requests IT support because their server has gone down, impacting operations. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I assist you today? Hi, this is Susan Garcia. I was referred by my father's pulmonologist office. Hi Susan! It's nice to meet you. How can we help your father? My father has COPD and needs respiratory care and assistance with his breathing treatments. I see, we can certainly help with that. Let me connect you with our nursing team. One moment, please. Margaret Thompson, Director of Nursing, can assist you. Margaret speaking. How can I assist you today? Hi Margaret, I'm Susan. I need help for my father with COPD. Absolutely, Susan. What specific assistance are you looking for? He needs help with his breathing treatments and monitoring his condition regularly. We can provide skilled nursing care for that. It's $95 to $125 per visit. That sounds reasonable. How often would he need visits? It generally depends on his condition, possibly 1-3 times a week. Okay, and can you also help with medication management? Yes, we offer medication management for $65 to $80 per visit. Great, I think he needs that too. How soon can you start? We can usually start within a few days, depending on availability. That sounds good. What’s the next step? I’ll need to gather some information for a care plan and authorize the services. Sure, what do you need? I'll need your father's medical history and any current medications he's taking. I can email you that information. What’s your email address? Please send it to info@carefirsthomehealth.com. Got it, I’ll do that right after this call. Perfect! Also, our client services manager Angela can provide follow-up support. That would be helpful, thank you. You’re welcome! Is there anything else I can assist you with today? No, I think that covers everything for now. Great! I look forward to receiving your email. Have a wonderful day! Thank you, you too! Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Susan Garcia. I was referred by my father's pulmonologist office.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Susan! It's nice to meet you. How can we help your father?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My father has COPD and needs respiratory care and assistance with his breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see, we can certainly help with that. Let me connect you with our nursing team.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "One moment, please.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Margaret Thompson, Director of Nursing, can assist you.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Margaret speaking.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 35,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Hi Margaret, I'm Susan. I need help for my father with COPD.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, Susan. What specific assistance are you looking for?",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "He needs help with his breathing treatments and monitoring his condition regularly.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can provide skilled nursing care for that. It's $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds reasonable. How often would he need visits?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 71,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "It generally depends on his condition, possibly 1-3 times a week.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, and can you also help with medication management?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we offer medication management for $65 to $80 per visit.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 83,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great, I think he needs that too. How soon can you start?",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can usually start within a few days, depending on availability.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll need to gather some information for a care plan and authorize the services.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sure, what do you need?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I'll need your father's medical history and any current medications he's taking.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 117,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I can email you that information. What’s your email address?",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Please send it to info@carefirsthomehealth.com.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Got it, I’ll do that right after this call.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Perfect! Also, our client services manager Angela can provide follow-up support.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "That would be helpful, thank you.",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "No, I think that covers everything for now.",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 148,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Great! I look forward to receiving your email. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 148,
+          "end_time": 153,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Thank you, you too!",
+          "speaker": "remote party",
+          "start_time": 153,
+          "end_time": 156,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 160,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 163,
+          "channel": "right",
+          "id": 33
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ed505d818e9540278fe80fe1",
+  "revision": "",
+  "status": "success"
+}
