@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f171a367bef047ac961d09c7",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087298-34c0d009",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f171a367bef047ac961d09c7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "f171a367bef047ac961d09c7",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f171a367bef047ac961d09c7",
+      "media_name": "aabb044ec79b4c87952d9ca9bfef804d.mp3",
+      "scenario": "An urgent issue arises when a device connected to the service starts overheating, and the customer demands immediate technical support to prevent damage. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you? Hi Margaret, this is Helen Johnson. I need urgent help! Oh no, what seems to be the problem, Helen? The device connected to my physical therapy equipment is overheating, and I'm really worried! I understand, that's definitely concerning. Can you tell me which device is overheating? It's the electrical stimulation unit. I’ve been using it after my sessions. Thank you for that detail. How long has it been overheating? Just since I started using it this morning. It feels really hot! It’s important to disconnect it immediately to avoid any damage. Are you able to do that? Yes, I can do that right now. What should I do next? I will escalate this to our technical support team right away. Can you hold for just a moment? Sure, I can hold. Thank you, Helen. I appreciate your patience. (after a brief hold) Helen, I have noted your issue, and our technical team will contact you shortly to troubleshoot the device. Thank you! I really appreciate it. Is this a common issue? It's not common, but we do recommend regular checks on equipment. Would you like us to schedule a maintenance visit? Yes, that would be great. I want to ensure everything is working properly. Absolutely! I can connect you with our Care Coordinator for that. Perfect, when can they come? Let me get Lisa Chen, our Care Coordinator, on the line. She’ll handle the scheduling. Thank you so much, Margaret. You're welcome, Helen. I’ll transfer you now. (transferring call) Lisa, I have Helen Johnson on the line. She needs a maintenance visit for her equipment. Thank you, Margaret. You’re welcome! I’ll follow up to ensure everything is resolved. Sounds good, thank you!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I need urgent help!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 6,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, what seems to be the problem, Helen?",
+          "speaker": "local party",
+          "start_time": 6,
+          "end_time": 9,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "The device connected to my physical therapy equipment is overheating, and I'm really worried!",
+          "speaker": "remote party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, that's definitely concerning. Can you tell me which device is overheating?",
+          "speaker": "local party",
+          "start_time": 14,
+          "end_time": 17,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It's the electrical stimulation unit. I’ve been using it after my sessions.",
+          "speaker": "remote party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for that detail. How long has it been overheating?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Just since I started using it this morning. It feels really hot!",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It’s important to disconnect it immediately to avoid any damage. Are you able to do that?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I can do that right now. What should I do next?",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I will escalate this to our technical support team right away. Can you hold for just a moment?",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, I can hold.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you, Helen. I appreciate your patience.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "(after a brief hold) Helen, I have noted your issue, and our technical team will contact you shortly to troubleshoot the device.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 64,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Thank you! I really appreciate it. Is this a common issue?",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 70,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "It's not common, but we do recommend regular checks on equipment. Would you like us to schedule a maintenance visit?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, that would be great. I want to ensure everything is working properly.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely! I can connect you with our Care Coordinator for that.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 85,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Perfect, when can they come?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Let me get Lisa Chen, our Care Coordinator, on the line. She’ll handle the scheduling.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you so much, Margaret.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're welcome, Helen. I’ll transfer you now.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "(transferring call) Lisa, I have Helen Johnson on the line. She needs a maintenance visit for her equipment.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 114,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! I’ll follow up to ensure everything is resolved.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds good, thank you!",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f171a367bef047ac961d09c7",
+  "revision": "",
+  "status": "success"
+}
