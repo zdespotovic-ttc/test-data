@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-77bec57eef11499383a31c32",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946087543-87a91f35",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-77bec57eef11499383a31c32",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 154,
+      "duration_ms": 154000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "77bec57eef11499383a31c32",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-77bec57eef11499383a31c32",
+      "media_name": "b25383faee76464fbf0b20ceebbdfa3a.mp3",
+      "scenario": "A new client finds unexplained charges on their account and reaches out to dispute these errors immediately. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 154.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Robert Jackson. I'm calling because I noticed some unusual charges on my account. I’m sorry to hear that, Robert. Let me take a look at your account. Can you hold for just a moment? Sure, no problem. Thank you for your patience. I see that there are several charges listed from last week that seem out of the ordinary. Can you tell me which ones you’re disputing? Yes, there’s a charge for skilled nursing care that I didn’t request, and another for medication management that seems higher than usual. I understand your concern. Let me check if these services were indeed scheduled. Just a moment, please. Okay, thank you. It looks like there was a mix-up with the scheduling. I see a visit was noted on your record, but you weren’t aware of it? Exactly. I only had a caregiver last week, nothing else was scheduled. I apologize for the confusion, Robert. I’ll ensure we correct these charges on your account. Great! How long will it take to resolve this? I’ll submit a request to our billing department right away, and you should see the adjustments within 3-5 business days. Thank you. Is there any way I can get a confirmation email once it's resolved? Absolutely, I’ll make sure they send you a confirmation once the adjustments are made. Perfect. And just to confirm, will I still have the same caregiver for my personal care? Yes, you will continue with the same caregiver. I’ll ensure they’re aware of your specific needs. That’s a relief! I really appreciate that they know my routine. Of course, it's important for us to maintain consistency in your care. Is there anything else you need assistance with? Well, actually, I was thinking about possibly adding physical therapy sessions. That’s a great idea! Our physical therapist can help with mobility and strength improvement. Would you like me to connect you with them? Yes, that would be helpful. I’ll have Dr. Rodriguez reach out to you shortly to discuss your options. Thank you, Margaret. I appreciate your help with all of this. You’re welcome, Robert! I’m glad I could assist you today. Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I'm calling because I noticed some unusual charges on my account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Robert. Let me take a look at your account. Can you hold for just a moment?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, no problem.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you for your patience. I see that there are several charges listed from last week that seem out of the ordinary. Can you tell me which ones you’re disputing?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, there’s a charge for skilled nursing care that I didn’t request, and another for medication management that seems higher than usual.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. Let me check if these services were indeed scheduled. Just a moment, please.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, thank you.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It looks like there was a mix-up with the scheduling. I see a visit was noted on your record, but you weren’t aware of it?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Exactly. I only had a caregiver last week, nothing else was scheduled.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I apologize for the confusion, Robert. I’ll ensure we correct these charges on your account.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great! How long will it take to resolve this?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll submit a request to our billing department right away, and you should see the adjustments within 3-5 business days.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you. Is there any way I can get a confirmation email once it's resolved?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 85,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, I’ll make sure they send you a confirmation once the adjustments are made.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect. And just to confirm, will I still have the same caregiver for my personal care?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, you will continue with the same caregiver. I’ll ensure they’re aware of your specific needs.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 101,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That’s a relief! I really appreciate that they know my routine.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, it's important for us to maintain consistency in your care. Is there anything else you need assistance with?",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 113,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Well, actually, I was thinking about possibly adding physical therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 119,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "That’s a great idea! Our physical therapist can help with mobility and strength improvement. Would you like me to connect you with them?",
+          "speaker": "local party",
+          "start_time": 119,
+          "end_time": 126,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll have Dr. Rodriguez reach out to you shortly to discuss your options.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with all of this.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 141,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Robert! I’m glad I could assist you today. Have a great day!",
+          "speaker": "local party",
+          "start_time": 141,
+          "end_time": 146,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 146,
+          "end_time": 150,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-77bec57eef11499383a31c32",
+  "revision": "",
+  "status": "success"
+}
