@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-14T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c288ef3a696d419ebaf41420",
+    "created": 1778742000,
+    "modified": 1778742000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946023016-057f59b3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c288ef3a696d419ebaf41420",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 155,
+      "duration_ms": 155000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63945961200,
+      "call_id": "c288ef3a696d419ebaf41420",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c288ef3a696d419ebaf41420",
+      "media_name": "271f79e0778f4277ad15e3bac25a8a8f.mp3",
+      "scenario": "A client complains that the technician left the installation site untidy, which was not up to their expected standards. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 155.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret, this is Mary O'Connor. I'm calling about the recent IV therapy visit I had yesterday. Hi, Mary! It's nice to hear from you. What seems to be the issue? Well, the technician who came left the installation site quite messy. I expected a higher standard, to be honest. I’m really sorry to hear that, Mary. We aim for the highest quality, and it’s concerning to know we didn’t meet your expectations. Yes, I appreciate that. It made me quite anxious to see everything in disarray after the procedure. I completely understand, and I can assure you that this feedback is important to us. Can you describe what was left untidy? There were used supplies scattered around, and the area wasn't cleaned properly, which added to my anxiety. That’s certainly not acceptable. I’ll make sure to address this with our team immediately. Thank you, Margaret. I really appreciate your quick response. I just want to ensure my visits are as smooth as possible. Of course, Mary. I can also arrange for a different technician for your next visit if you’d prefer. That might be a good idea, yes. I need someone who can reassure me. I’ll make a note of that. Would you like me to schedule that next appointment now? Yes, please. I would like to have it as soon as possible, maybe early next week. Let’s see… how does Monday at 10 AM sound? That works for me. Great! I’ll ensure we send someone who’s attentive to your needs and provides a reassuring experience. Thank you so much for being understanding. It’s my pleasure, Mary. I’ll also follow up to ensure our quality standards are met moving forward. I’d appreciate that. Is there anything else I need to know? Just a reminder about your medication management. Would you be interested in expanding your services to include that? I might consider that. It could help reduce my anxiety around the treatment. Absolutely, I can provide more information when I follow up next week. Sounds good! Thanks again, Margaret. You’re very welcome, Mary. Have a great day! You too. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Mary O'Connor. I'm calling about the recent IV therapy visit I had yesterday.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Mary! It's nice to hear from you. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the technician who came left the installation site quite messy. I expected a higher standard, to be honest.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that, Mary. We aim for the highest quality, and it’s concerning to know we didn’t meet your expectations.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I appreciate that. It made me quite anxious to see everything in disarray after the procedure.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand, and I can assure you that this feedback is important to us. Can you describe what was left untidy?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "There were used supplies scattered around, and the area wasn't cleaned properly, which added to my anxiety.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That’s certainly not acceptable. I’ll make sure to address this with our team immediately.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your quick response. I just want to ensure my visits are as smooth as possible.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course, Mary. I can also arrange for a different technician for your next visit if you’d prefer.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That might be a good idea, yes. I need someone who can reassure me.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll make a note of that. Would you like me to schedule that next appointment now?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please. I would like to have it as soon as possible, maybe early next week.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let’s see… how does Monday at 10 AM sound?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 94,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That works for me.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 97,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll ensure we send someone who’s attentive to your needs and provides a reassuring experience.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 104,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you so much for being understanding.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It’s my pleasure, Mary. I’ll also follow up to ensure our quality standards are met moving forward.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 117,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I’d appreciate that. Is there anything else I need to know?",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 123,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Just a reminder about your medication management. Would you be interested in expanding your services to include that?",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 129,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I might consider that. It could help reduce my anxiety around the treatment.",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, I can provide more information when I follow up next week.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 142,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good! Thanks again, Margaret.",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 147,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, Mary. Have a great day!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 153,
+          "end_time": 155,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c288ef3a696d419ebaf41420",
+  "revision": "",
+  "status": "success"
+}
