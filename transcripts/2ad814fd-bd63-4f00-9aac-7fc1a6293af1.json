@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-16T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0ec70e1e740849e8a5e48950",
+    "created": 1778914800,
+    "modified": 1778914800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946191414-c8f954ad",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0ec70e1e740849e8a5e48950",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 155,
+      "duration_ms": 155000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946134000,
+      "call_id": "0ec70e1e740849e8a5e48950",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0ec70e1e740849e8a5e48950",
+      "media_name": "a3837346852342288caf4e648153231e.mp3",
+      "scenario": "A customer calls to contest a recent bill, arguing that it includes charges for a service they cancelled. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 155.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Edward Martinez. I'm calling about my recent bill; I noticed some charges I wasn’t expecting. Hi Edward, it’s good to hear from you. I’d be happy to help you with that. What charges are you referring to? Well, I see that there are charges for respite care services for the last two weeks, but I cancelled one of those sessions. I understand your concern. Let me take a closer look at your account. Just a moment, please. [pause] Yes, I see that we have billed you for three sessions instead of two. Can you confirm the date you canceled? I canceled the session on the 10th; my wife had a doctor’s appointment. Thank you for that information, Edward. I will adjust this right away. I appreciate it. I just want to make sure I'm not overcharged. Absolutely, I understand. I’ll process the adjustment for you, and you should see a credit applied to your account shortly. Great! Thank you. Can you also confirm if my next scheduled respite care session is still on the 17th? Yes, that’s correct. You’re all set for the 17th. Perfect. I just want to ensure that my wife gets the breaks she needs. Of course, Edward. Your wife’s care and your peace of mind are our top priorities. Thanks, Margaret. One last thing—will I receive a new bill reflecting the changes? Yes, you will receive an updated statement via email once the adjustment is complete. Sounds good. Also, I was curious if there are any additional services available that could help my wife. We have companion care services that provide social interaction and assistance with daily activities, which might be beneficial. That could really help her. Can we discuss options for that next week? Absolutely, I can schedule a call with our care coordinator, Lisa, for you. That would be great, thank you! No problem, Edward. Just to recap, I will adjust the bill and schedule a call with Lisa. Yes, that’s right. Thank you for your patience today, Edward. Is there anything else I can assist you with? No, that’s everything for now. Thank you, Margaret! You’re welcome. Have a great day, Edward! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I'm calling about my recent bill; I noticed some charges I wasn’t expecting.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward, it’s good to hear from you. I’d be happy to help you with that. What charges are you referring to?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I see that there are charges for respite care services for the last two weeks, but I cancelled one of those sessions.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me take a closer look at your account.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Just a moment, please. [pause] Yes, I see that we have billed you for three sessions instead of two. Can you confirm the date you canceled?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 40,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "I canceled the session on the 10th; my wife had a doctor’s appointment.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Thank you for that information, Edward. I will adjust this right away.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I appreciate it. I just want to make sure I'm not overcharged.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Absolutely, I understand. I’ll process the adjustment for you, and you should see a credit applied to your account shortly.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Great! Thank you. Can you also confirm if my next scheduled respite care session is still on the 17th?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Yes, that’s correct. You’re all set for the 17th.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 73,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Perfect. I just want to ensure that my wife gets the breaks she needs.",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 80,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Of course, Edward. Your wife’s care and your peace of mind are our top priorities.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 88,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Thanks, Margaret. One last thing—will I receive a new bill reflecting the changes?",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 95,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Yes, you will receive an updated statement via email once the adjustment is complete.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Sounds good. Also, I was curious if there are any additional services available that could help my wife.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "We have companion care services that provide social interaction and assistance with daily activities, which might be beneficial.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That could really help her. Can we discuss options for that next week?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely, I can schedule a call with our care coordinator, Lisa, for you.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That would be great, thank you!",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "No problem, Edward. Just to recap, I will adjust the bill and schedule a call with Lisa.",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, that’s right.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for your patience today, Edward. Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "No, that’s everything for now. Thank you, Margaret!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome. Have a great day, Edward!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0ec70e1e740849e8a5e48950",
+  "revision": "",
+  "status": "success"
+}
