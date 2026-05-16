@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-16T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3dc02031db2041cca0011ab2",
+    "created": 1778914800,
+    "modified": 1778914800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946191307-b96cd8cd",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3dc02031db2041cca0011ab2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 138,
+      "duration_ms": 138000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946134000,
+      "call_id": "3dc02031db2041cca0011ab2",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3dc02031db2041cca0011ab2",
+      "media_name": "87ca9b2e1fd248a4b96c8146011a9bc0.mp3",
+      "scenario": "A returning customer raises a complaint about the poor craftsmanship of the product they received, seeking a quality assurance check. Category: Service Complaint. Flags: quality_complaint. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 138.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Harold Gonzalez. I'm calling about a concern I have regarding the last service I received. Hello, Harold. I’m glad you called. What seems to be the issue? Well, I noticed that the care provided last week wasn't up to the usual standards. The caregiver seemed rushed and missed some vital checks. I’m really sorry to hear that, Harold. Your care is very important to us. Can you tell me more about what happened? Yes, the caregiver didn't check my blood pressure and forgot to log my medication schedule. My wife was quite worried. I understand how concerning that must have been. We take these matters seriously. I apologize for the oversight. It’s just that I've been relying on these checks due to my COPD and cardiac issues. Absolutely, and we want to ensure you feel supported. I’ll initiate a quality assurance check today to address this. Thank you, I appreciate that. Can I request Spanish-speaking caregivers for my future visits? Yes, we can definitely accommodate that preference for you, Harold. Great! I just want to ensure my wife and I are comfortable during the visits. Of course. I’ll make a note of that in your file. Is there anything else you’d like to discuss today? No, that covers everything. I just hope for better service next time. I totally understand and appreciate your feedback. We will follow up on this issue. Thank you, Margaret. When can I expect the follow-up? I will personally reach out to you within the next 48 hours to provide an update on the quality check. That sounds good. I’ll be waiting for your call. Thank you for your patience, Harold. Would you like me to schedule your next care visit while I have you? Yes, that would be helpful. Can we set it for next Tuesday? Absolutely, I’ll schedule a nursing visit for Tuesday at 10 AM. Perfect. Thank you again for your help today! You’re very welcome, Harold. We’re here to support you. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I'm calling about a concern I have regarding the last service I received.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hello, Harold. I’m glad you called. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed that the care provided last week wasn't up to the usual standards. The caregiver seemed rushed and missed some vital checks.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that, Harold. Your care is very important to us. Can you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, the caregiver didn't check my blood pressure and forgot to log my medication schedule. My wife was quite worried.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how concerning that must have been. We take these matters seriously. I apologize for the oversight.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It’s just that I've been relying on these checks due to my COPD and cardiac issues.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 47,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, and we want to ensure you feel supported. I’ll initiate a quality assurance check today to address this.",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, I appreciate that. Can I request Spanish-speaking caregivers for my future visits?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, we can definitely accommodate that preference for you, Harold.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great! I just want to ensure my wife and I are comfortable during the visits.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 71,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course. I’ll make a note of that in your file. Is there anything else you’d like to discuss today?",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 77,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "No, that covers everything. I just hope for better service next time.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I totally understand and appreciate your feedback. We will follow up on this issue.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. When can I expect the follow-up?",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I will personally reach out to you within the next 48 hours to provide an update on the quality check.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 101,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good. I’ll be waiting for your call.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you for your patience, Harold. Would you like me to schedule your next care visit while I have you?",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that would be helpful. Can we set it for next Tuesday?",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 117,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, I’ll schedule a nursing visit for Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 123,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect. Thank you again for your help today!",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome, Harold. We’re here to support you. Have a great day!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3dc02031db2041cca0011ab2",
+  "revision": "",
+  "status": "success"
+}
