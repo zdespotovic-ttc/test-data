@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-16T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-217162cff13d4815aea51f77",
+    "created": 1778914800,
+    "modified": 1778914800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946191479-0d44dac9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-217162cff13d4815aea51f77",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946134000,
+      "call_id": "217162cff13d4815aea51f77",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-217162cff13d4815aea51f77",
+      "media_name": "34009d880f38444783ac783ba3e4a733.mp3",
+      "scenario": "A VIP client urgently calls to reschedule a service appointment due to an unforeseen conflict in their schedule. Category: Urgent Request. Flags: urgent_request. Customer type: vip."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Robert Jackson. I'm calling to urgently reschedule my appointment. Hi Robert! I hope you're doing well. I can help with that. What’s the issue with your current schedule? I have a conflict and won't be able to keep my appointment for tomorrow. I really need to reschedule it. I understand the urgency. Let me check our schedule. When were you hoping to reschedule for? Ideally, I would like to move it to the day after tomorrow. Is there availability? Let me look at our calendar... Yes, we do have availability on Thursday. Does morning or afternoon work better for you? Afternoon would be best, please. Great! I’ll put you down for Thursday afternoon. Can you remind me of the specific service you need? Yes, it’s the personal care assistance and skilled nursing services. Perfect, I’ll have our nurse and a personal care assistant ready for you. Thank you so much, Margaret. I really appreciate your help with this. Of course, Robert! Is there anything else you need to discuss while I have you on the line? Actually, yes. I’m running low on some medical supplies and was wondering if you could send those as well? Absolutely, we can arrange for that. What supplies do you need? I need more bandages and medication organizers, please. Noted! I’ll ensure those are included in our delivery. Thank you, I would appreciate that. You're welcome! I’ll confirm the reschedule and supplies in an email for you. Sounds good. Thank you again for your quick response. It’s my pleasure, Robert. We’re here to support you. I’ll talk to you soon, then. Bye for now, Robert. Take care! Bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I'm calling to urgently reschedule my appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Robert! I hope you're doing well. I can help with that. What’s the issue with your current schedule?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I have a conflict and won't be able to keep my appointment for tomorrow. I really need to reschedule it.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand the urgency. Let me check our schedule. When were you hoping to reschedule for?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Ideally, I would like to move it to the day after tomorrow. Is there availability?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me look at our calendar... Yes, we do have availability on Thursday. Does morning or afternoon work better for you?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Afternoon would be best, please.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great! I’ll put you down for Thursday afternoon. Can you remind me of the specific service you need?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, it’s the personal care assistance and skilled nursing services.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Perfect, I’ll have our nurse and a personal care assistant ready for you.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course, Robert! Is there anything else you need to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Actually, yes. I’m running low on some medical supplies and was wondering if you could send those as well?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 73,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, we can arrange for that. What supplies do you need?",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 79,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I need more bandages and medication organizers, please.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Noted! I’ll ensure those are included in our delivery.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 91,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, I would appreciate that.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You're welcome! I’ll confirm the reschedule and supplies in an email for you.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good. Thank you again for your quick response.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It’s my pleasure, Robert. We’re here to support you.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I’ll talk to you soon, then.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Bye for now, Robert. Take care!",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 116,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-217162cff13d4815aea51f77",
+  "revision": "",
+  "status": "success"
+}
