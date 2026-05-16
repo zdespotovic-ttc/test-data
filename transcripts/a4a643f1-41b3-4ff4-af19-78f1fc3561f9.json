@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-16T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e5ee320e363c4117b5e30f63",
+    "created": 1778914800,
+    "modified": 1778914800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946191439-f56797c3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e5ee320e363c4117b5e30f63",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 200,
+      "duration_ms": 200000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946134000,
+      "call_id": "e5ee320e363c4117b5e30f63",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e5ee320e363c4117b5e30f63",
+      "media_name": "ce07be2e9c8c438488a175ff8a830549.mp3",
+      "scenario": "A customer is puzzled by a new charge on their bill, contacting support to dispute the amount. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 200.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. My name is Karen Lewis. I'm calling about a charge on my husband’s bill. I’m sorry to hear that, Karen. Can you tell me more about the charge? Yes, there's a new fee that we weren’t expecting, and it’s quite a bit higher than usual. I understand how concerning that can be. Let me check your account details. Please do. I want to make sure we’re being billed correctly. My husband has just had cardiac surgery, so I need to ensure everything is right. Of course, I’ll look into this right away. Can you confirm the date of the service in question? It was for last week, the 15th. We had a caregiver come in for personal care assistance. Thank you for that information. One moment, please, while I pull up the details. Alright, I see the charge you're referring to. It appears there’s a $50 additional fee for extended hours of service. Extended hours? I wasn’t informed about that. That seems excessive! I completely understand, Karen. It’s important to clarify these things. Let’s verify the hours your caregiver worked. Yes, please do. We were under the impression that we’d agreed on a set rate. I see that the caregiver stayed an extra hour due to your husband's needs. Should I go ahead and review the communication about this change? Yes, I would appreciate that. I don’t recall any discussion about extended hours. Absolutely, I’ll look into that for you. Would you like me to send you an email with the breakdown of services? Yes, that would be helpful. My email is karen.lewis@email.com. Great! I’ll send that over shortly. Is there anything else I can assist you with today? Well, actually, my husband needs post-operative care after his surgery next month. Can you tell me about that? Yes, we offer Post-Surgery Recovery Care, which includes specialized support for clients recovering from surgery. What does that entail? It includes monitoring, personal care assistance, and help with medication management. The cost ranges from $85 to $110 per visit, depending on the service length. That sounds reasonable. Can I arrange for that service now? Certainly! I can schedule a consultation to discuss your needs in detail. Perfect! Let’s do that. I’ll follow up with you on both the billing issue and the care setup. Thank you, Margaret. I really appreciate your help! You’re very welcome, Karen. We’ll be in touch soon. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 4,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Karen Lewis. I'm calling about a charge on my husband’s bill.",
+          "speaker": "remote party",
+          "start_time": 4,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Karen. Can you tell me more about the charge?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, there's a new fee that we weren’t expecting, and it’s quite a bit higher than usual.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that can be. Let me check your account details.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Please do. I want to make sure we’re being billed correctly. My husband has just had cardiac surgery, so I need to ensure everything is right.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course, I’ll look into this right away. Can you confirm the date of the service in question?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It was for last week, the 15th. We had a caregiver come in for personal care assistance.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for that information. One moment, please, while I pull up the details.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Alright, I see the charge you're referring to. It appears there’s a $50 additional fee for extended hours of service.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 70,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Extended hours? I wasn’t informed about that. That seems excessive!",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I completely understand, Karen. It’s important to clarify these things. Let’s verify the hours your caregiver worked.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, please do. We were under the impression that we’d agreed on a set rate.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I see that the caregiver stayed an extra hour due to your husband's needs. Should I go ahead and review the communication about this change?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 97,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, I would appreciate that. I don’t recall any discussion about extended hours.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Absolutely, I’ll look into that for you. Would you like me to send you an email with the breakdown of services?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, that would be helpful. My email is karen.lewis@email.com.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 115,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Great! I’ll send that over shortly. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Well, actually, my husband needs post-operative care after his surgery next month. Can you tell me about that?",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 130,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Yes, we offer Post-Surgery Recovery Care, which includes specialized support for clients recovering from surgery.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 136,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "What does that entail?",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 144,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "It includes monitoring, personal care assistance, and help with medication management. The cost ranges from $85 to $110 per visit, depending on the service length.",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 157,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That sounds reasonable. Can I arrange for that service now?",
+          "speaker": "remote party",
+          "start_time": 157,
+          "end_time": 163,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Certainly! I can schedule a consultation to discuss your needs in detail.",
+          "speaker": "local party",
+          "start_time": 163,
+          "end_time": 170,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Perfect! Let’s do that.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "I’ll follow up with you on both the billing issue and the care setup.",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 180,
+          "end_time": 186,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You’re very welcome, Karen. We’ll be in touch soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 186,
+          "end_time": 190,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 190,
+          "end_time": 194,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 194,
+          "end_time": 200,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e5ee320e363c4117b5e30f63",
+  "revision": "",
+  "status": "success"
+}
