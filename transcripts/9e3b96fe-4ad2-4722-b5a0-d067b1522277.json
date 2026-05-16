@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-16T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-17d3a5b672ad4ddfa99d3ca3",
+    "created": 1778914800,
+    "modified": 1778914800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946191426-d7536557",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-17d3a5b672ad4ddfa99d3ca3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 212,
+      "duration_ms": 212000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946134000,
+      "call_id": "17d3a5b672ad4ddfa99d3ca3",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-17d3a5b672ad4ddfa99d3ca3",
+      "media_name": "d4d6260ca987482f85c83cc71496cd6a.mp3",
+      "scenario": "A VIP member is concerned about a recurring charge on their statement that they believe is incorrect. Category: Billing. Flags: billing_dispute. Customer type: vip."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 212.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Mary O'Connor. I hope you’re doing well. I have a concern about my recent billing statement. Hi Mary! I'm doing well, thank you. What seems to be the issue with your billing? Well, I noticed a charge that doesn't look right. I've been under long-term IV antibiotic therapy, but this amount seems higher than usual. I understand your concern. Let me take a look at your account and see what I can find regarding that charge. Thank you, I really appreciate it. I just want to make sure I'm not being overcharged or something like that. It makes me anxious. Absolutely, it's important to get this sorted out. One moment please while I pull up your details. Okay, I see here that you’re on IV therapy, which is billed at $120 to $150 per session, depending on the services rendered that day. Yes, I know about that, but this charge appears to be higher than what I expected. Can you break it down for me? Of course. Let me check the specific services that were billed for your last visit. Just a second… It looks like yesterday’s visit included IV therapy along with medication management, which can add to the total. That would explain the higher charge. Oh, I see. But I thought the medication management was included in the same session. Can you clarify that? Yes, medication management is a separate service, typically billed at $65 to $80 for that visit. I can see how that could lead to confusion. I appreciate that explanation. But still, could you double-check if there’s any way to adjust this? I can certainly do that. I’ll need to review your previous billing history and see if there were any errors. Thank you. I think that would relieve my anxiety about this. Is there anything else you would like me to help you with while I have you on the line, Mary? Well, actually, since I'm still on IV therapy for a while, I'd like to know if you have any other services that might help, like caregiver support? Yes, we offer personal care assistance and companionship services. They could be beneficial for your ongoing recovery. That sounds great. I’d like to explore that option. Perfect! I can have Lisa, our Care Coordinator, give you a call to discuss options and set up a care plan. That would be wonderful, thank you! You're welcome, Mary. I’ll follow up on the billing issue and coordinate with Lisa. Thank you so much for your help today, Margaret. My pleasure, Mary. We’ll be in touch soon! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mary O'Connor. I hope you’re doing well. I have a concern about my recent billing statement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Mary! I'm doing well, thank you. What seems to be the issue with your billing?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed a charge that doesn't look right. I've been under long-term IV antibiotic therapy, but this amount seems higher than usual.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me take a look at your account and see what I can find regarding that charge.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I really appreciate it. I just want to make sure I'm not being overcharged or something like that. It makes me anxious.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 37,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, it's important to get this sorted out. One moment please while I pull up your details.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see here that you’re on IV therapy, which is billed at $120 to $150 per session, depending on the services rendered that day.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 55,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Yes, I know about that, but this charge appears to be higher than what I expected. Can you break it down for me?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Of course. Let me check the specific services that were billed for your last visit. Just a second…",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "It looks like yesterday’s visit included IV therapy along with medication management, which can add to the total. That would explain the higher charge.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 90,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Oh, I see. But I thought the medication management was included in the same session. Can you clarify that?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, medication management is a separate service, typically billed at $65 to $80 for that visit. I can see how that could lead to confusion.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I appreciate that explanation. But still, could you double-check if there’s any way to adjust this?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can certainly do that. I’ll need to review your previous billing history and see if there were any errors.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 127,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. I think that would relieve my anxiety about this.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 135,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Is there anything else you would like me to help you with while I have you on the line, Mary?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 143,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Well, actually, since I'm still on IV therapy for a while, I'd like to know if you have any other services that might help, like caregiver support?",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 155,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we offer personal care assistance and companionship services. They could be beneficial for your ongoing recovery.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 165,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds great. I’d like to explore that option.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 175,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I can have Lisa, our Care Coordinator, give you a call to discuss options and set up a care plan.",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 185,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That would be wonderful, thank you!",
+          "speaker": "remote party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Mary. I’ll follow up on the billing issue and coordinate with Lisa.",
+          "speaker": "local party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "My pleasure, Mary. We’ll be in touch soon!",
+          "speaker": "local party",
+          "start_time": 200,
+          "end_time": 204,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 204,
+          "end_time": 210,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 210,
+          "end_time": 212,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-17d3a5b672ad4ddfa99d3ca3",
+  "revision": "",
+  "status": "success"
+}
