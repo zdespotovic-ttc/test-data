@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-16T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ea96a90090614c9eb073dd4b",
+    "created": 1778914800,
+    "modified": 1778914800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946191331-dc05a504",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ea96a90090614c9eb073dd4b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 185,
+      "duration_ms": 185000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946134000,
+      "call_id": "ea96a90090614c9eb073dd4b",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ea96a90090614c9eb073dd4b",
+      "media_name": "2f4b8956e11e4016a51cd14c026ead44.mp3",
+      "scenario": "A prospect complains about a service they received, stating it did not match the quality promised. Category: Service Complaint. Flags: quality_complaint. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 185.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Dorothy Henderson. I'm calling to discuss an issue I had with my last visit from the physical therapist. I'm sorry to hear that, Dorothy. Can you tell me more about what happened? Well, I was expecting a thorough session based on what we discussed, but it felt rushed and the therapist didn't really follow my care plan. I understand your frustration. That does not meet our standards of care. Which therapist did you see? It was Dr. James Rodriguez. Thank you for that information. I will definitely look into this. Can you elaborate on the specific issues you experienced? Sure. It was supposed to be a mobility training session, but we only spent about 20 minutes on exercises. I was really hoping for more focus on my strength training. That sounds disappointing, especially after your hip replacement. I completely understand why you expected more. Exactly, it’s important for my recovery. I’ll make sure to discuss this with Dr. Rodriguez and our team to address the quality of care you received. Thank you. I just want to make sure my recovery is on track. Absolutely, your recovery is our priority. Is there a specific follow-up appointment you'd like to schedule? Yes, that would be great. I’d like to have a session first thing in the morning if possible. Let me check Dr. Rodriguez’s schedule for you. Okay, thank you. It looks like he’s available tomorrow at 8 AM. Does that work for you? Yes, that works perfectly. Great! I’ll book you in for tomorrow at 8 AM. Thank you, I appreciate it. You're welcome. I'll also ensure feedback is given to Dr. Rodriguez regarding today’s complaint. I hope that helps improve the service for others as well. It certainly will, and thank you for bringing this to our attention. Of course, that’s all I can do! Is there anything else I can assist you with today? No, that should be it. Alright, I’ll see you tomorrow at 8 AM. Have a great day, Dorothy. Thanks, Margaret. You too! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Dorothy Henderson. I'm calling to discuss an issue I had with my last visit from the physical therapist.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Dorothy. Can you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was expecting a thorough session based on what we discussed, but it felt rushed and the therapist didn't really follow my care plan.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration. That does not meet our standards of care. Which therapist did you see?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was Dr. James Rodriguez.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for that information. I will definitely look into this. Can you elaborate on the specific issues you experienced?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure. It was supposed to be a mobility training session, but we only spent about 20 minutes on exercises. I was really hoping for more focus on my strength training.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That sounds disappointing, especially after your hip replacement. I completely understand why you expected more.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Exactly, it’s important for my recovery.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’ll make sure to discuss this with Dr. Rodriguez and our team to address the quality of care you received.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you. I just want to make sure my recovery is on track.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, your recovery is our priority. Is there a specific follow-up appointment you'd like to schedule?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great. I’d like to have a session first thing in the morning if possible.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me check Dr. Rodriguez’s schedule for you.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, thank you.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "It looks like he’s available tomorrow at 8 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that works perfectly.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll book you in for tomorrow at 8 AM.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome. I'll also ensure feedback is given to Dr. Rodriguez regarding today’s complaint.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I hope that helps improve the service for others as well.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It certainly will, and thank you for bringing this to our attention.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Of course, that’s all I can do!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that should be it.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Alright, I’ll see you tomorrow at 8 AM. Have a great day, Dorothy.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thanks, Margaret. You too!",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ea96a90090614c9eb073dd4b",
+  "revision": "",
+  "status": "success"
+}
