@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-16T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2bd072a0843d4b7d8670e325",
+    "created": 1778914800,
+    "modified": 1778914800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946191264-1b895d87",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2bd072a0843d4b7d8670e325",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 162,
+      "duration_ms": 162000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946134000,
+      "call_id": "2bd072a0843d4b7d8670e325",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2bd072a0843d4b7d8670e325",
+      "media_name": "7658d1a5070f45fb90885f21381e29eb.mp3",
+      "scenario": "A returning customer calls to complain about the quality of the item they purchased last week, stating it stopped working properly. Category: Service Complaint. Flags: quality_complaint. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 162.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Susan Garcia. I was referred by my father’s pulmonologist office. Nice to meet you, Susan! How can I help you regarding your father’s care? Well, my father has COPD, and we need assistance with his breathing treatments. Absolutely, we can help with that. What specific assistance are you looking for? He needs respiratory care, and I’m worried about his breathing treatments. They seem not to be working properly. I see. Can you tell me more about the issues he’s having? Is it the equipment or the actual treatment? It’s the equipment. It stopped working properly after just a week. I’m really concerned. I understand how stressful that must be. Let’s get this sorted out. Can I have the details of the equipment? Yes, it’s a nebulizer. We purchased it last week from your agency, but it’s not functioning as it should. Thank you for that information, Susan. I’ll need to check our records for that purchase. Okay, please do. He really needs it to manage his condition. Absolutely, I’ll prioritize this. Can you also provide your father’s name for our records? Sure, his name is Robert Garcia. Thank you, Susan. I’ll look into the nebulizer issue right away. I appreciate that. Also, while I have you, do you offer skilled nursing care for COPD? Yes, we do offer skilled nursing care for COPD management. It includes medication management and breathing treatments. That sounds good. What would that cost? Our skilled nursing care ranges from $95 to $125 for 1-2 hours, depending on the specific services needed. That’s reasonable. I think it would really help my father. Great! I can schedule that for you after we resolve the nebulizer issue. Yes, please. What’s the next step for the nebulizer? I’ll escalate this issue to our equipment department and have them contact you today. Thank you! I look forward to hearing from them. You’re welcome! Just to summarize, I’ll follow up on the nebulizer and get back to you. Yes, and I’m interested in scheduling the skilled nursing care as well. Perfect! I’ll include both action items in my follow-up. Thank you, Margaret. I appreciate your help. Anytime, Susan! We’re here to support you and your father. Have a great day! You too, thank you!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Susan Garcia. I was referred by my father’s pulmonologist office.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Susan! How can I help you regarding your father’s care?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my father has COPD, and we need assistance with his breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can help with that. What specific assistance are you looking for?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "He needs respiratory care, and I’m worried about his breathing treatments. They seem not to be working properly.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see. Can you tell me more about the issues he’s having? Is it the equipment or the actual treatment?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It’s the equipment. It stopped working properly after just a week. I’m really concerned.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand how stressful that must be. Let’s get this sorted out. Can I have the details of the equipment?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, it’s a nebulizer. We purchased it last week from your agency, but it’s not functioning as it should.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for that information, Susan. I’ll need to check our records for that purchase.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, please do. He really needs it to manage his condition.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, I’ll prioritize this. Can you also provide your father’s name for our records?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 73,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sure, his name is Robert Garcia.",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you, Susan. I’ll look into the nebulizer issue right away.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I appreciate that. Also, while I have you, do you offer skilled nursing care for COPD?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we do offer skilled nursing care for COPD management. It includes medication management and breathing treatments.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good. What would that cost?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our skilled nursing care ranges from $95 to $125 for 1-2 hours, depending on the specific services needed.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That’s reasonable. I think it would really help my father.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I can schedule that for you after we resolve the nebulizer issue.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. What’s the next step for the nebulizer?",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll escalate this issue to our equipment department and have them contact you today.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! I look forward to hearing from them.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! Just to summarize, I’ll follow up on the nebulizer and get back to you.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, and I’m interested in scheduling the skilled nursing care as well.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Perfect! I’ll include both action items in my follow-up.",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 148,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 148,
+          "end_time": 152,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Anytime, Susan! We’re here to support you and your father. Have a great day!",
+          "speaker": "local party",
+          "start_time": 152,
+          "end_time": 158,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, thank you!",
+          "speaker": "remote party",
+          "start_time": 158,
+          "end_time": 162,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2bd072a0843d4b7d8670e325",
+  "revision": "",
+  "status": "success"
+}
