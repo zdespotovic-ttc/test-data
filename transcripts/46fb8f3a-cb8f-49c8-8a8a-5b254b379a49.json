@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-16T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7e1c5483d6874e7fb1243902",
+    "created": 1778914800,
+    "modified": 1778914800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946191543-1d61f750",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7e1c5483d6874e7fb1243902",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946134000,
+      "call_id": "7e1c5483d6874e7fb1243902",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7e1c5483d6874e7fb1243902",
+      "media_name": "6d34f7a13ecd435d9e1f8515224c1f84.mp3",
+      "scenario": "A returning customer calls to cancel an upcoming appointment, expressing doubts about proceeding with the service. Category: Cancellation. Flags: cancellation_risk. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Robert Jackson. I’m calling to cancel my appointment scheduled for next week. Oh, I'm sorry to hear that, Robert. Can I ask why you’d like to cancel? Well, I've been feeling a bit uncertain about continuing the service. I’ve had some concerns lately. I understand. It’s important to address any concerns. Can you share what’s been troubling you? It’s just that my symptoms have been fluctuating, and I'm not sure if I need the level of care I'm currently getting. That makes sense. We can definitely help you reassess your care plan. Would you like to discuss options? I guess I could consider that, but I'm just not sure what I really need right now. It’s completely normal to have uncertainties. I can set up a call with one of our nurses to evaluate your needs. That might help. I just want to make sure I’m not overdoing it or missing something important. Absolutely, your health is our priority. I can also check if there are any adjustments to your current services. That sounds good. I just want to feel more comfortable with my care moving forward. I can understand that, Robert. Would you prefer to speak to Margaret, our Director of Nursing, or Robert, your nurse? I think it would be best to talk to Margaret. She knows my history well. Great choice! I’ll set up that call for you. Can I confirm your availability for this week? I’m free Thursday afternoon or Friday morning. Perfect, I’ll make sure to schedule it for either of those times. Thanks, I appreciate that. Also, I’ve been thinking about possibly getting some physical therapy. That’s excellent to hear! We have physical therapy services available. Would you like me to include that in the discussion? Yes, that would be great. I might need that to help with my mobility. I’ll ensure that’s on the agenda for your call. Is there anything else you’d like to address? No, I think that covers it for now. Just want to make sure I’m on the right path. Absolutely, Robert. I’ll follow up with you after your call to see how things went. Thank you, Margaret. I appreciate your help and understanding. You’re welcome! We’re here to support you every step of the way. Alright, I look forward to hearing from you. Thank you, Robert. Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I’m calling to cancel my appointment scheduled for next week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I'm sorry to hear that, Robert. Can I ask why you’d like to cancel?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I've been feeling a bit uncertain about continuing the service. I’ve had some concerns lately.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. It’s important to address any concerns. Can you share what’s been troubling you?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s just that my symptoms have been fluctuating, and I'm not sure if I need the level of care I'm currently getting.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That makes sense. We can definitely help you reassess your care plan. Would you like to discuss options?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I guess I could consider that, but I'm just not sure what I really need right now.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It’s completely normal to have uncertainties. I can set up a call with one of our nurses to evaluate your needs.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That might help. I just want to make sure I’m not overdoing it or missing something important.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, your health is our priority. I can also check if there are any adjustments to your current services.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good. I just want to feel more comfortable with my care moving forward.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can understand that, Robert. Would you prefer to speak to Margaret, our Director of Nursing, or Robert, your nurse?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I think it would be best to talk to Margaret. She knows my history well.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great choice! I’ll set up that call for you. Can I confirm your availability for this week?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I’m free Thursday afternoon or Friday morning.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 81,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect, I’ll make sure to schedule it for either of those times.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 86,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thanks, I appreciate that. Also, I’ve been thinking about possibly getting some physical therapy.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "That’s excellent to hear! We have physical therapy services available. Would you like me to include that in the discussion?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that would be great. I might need that to help with my mobility.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll ensure that’s on the agenda for your call. Is there anything else you’d like to address?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, I think that covers it for now. Just want to make sure I’m on the right path.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, Robert. I’ll follow up with you after your call to see how things went.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help and understanding.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! We’re here to support you every step of the way.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Alright, I look forward to hearing from you.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Robert. Have a great day!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7e1c5483d6874e7fb1243902",
+  "revision": "",
+  "status": "success"
+}
