@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-16T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d858d2c6bba04d73a1f94b96",
+    "created": 1778914800,
+    "modified": 1778914800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946191320-05a300b2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d858d2c6bba04d73a1f94b96",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946134000,
+      "call_id": "d858d2c6bba04d73a1f94b96",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d858d2c6bba04d73a1f94b96",
+      "media_name": "ca914a2d62e2452fb21d685e2c33cf01.mp3",
+      "scenario": "A new customer is upset about the substandard quality of the service they experienced, asking for a resolution. Category: Service Complaint. Flags: quality_complaint. Customer type: new_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is David Anderson. I'm calling about my wife, who’s recovering from a stroke. I’m sorry to hear that. How can we support you and your wife? Well, we had a nurse come by last week, and frankly, I was not satisfied with the quality of care. I apologize for that, David. Can you tell me more about what happened? The nurse seemed rushed and didn’t really explain the exercises properly. My wife felt confused and unsafe. We expected a lot better for the price we’re paying! I completely understand your concerns. We aim to provide the best care possible. Right, but this was really disappointing. We were referred by Dorothy, and I hoped for better. I appreciate your honesty, David. I assure you we take these issues seriously. Well, what can you do about it? I don’t want to go through another experience like that. I can arrange for a different nurse to visit your wife, and I’d like to ensure we meet your expectations this time. That would be great, but can you guarantee it will be better? I will personally oversee the arrangements and follow up with you afterward to ensure satisfaction. Okay, that sounds fair. What if we need physical therapy too? We can provide physical therapy as well. Dr. James Rodriguez is our physical therapist and specializes in stroke recovery. How much is that going to cost? Physical therapy sessions range from $110 to $140 for a session. Alright, and what about nursing care? Skilled nursing care is between $95 and $125 per visit, depending on the services required. I just want to ensure we’re getting value for our money. Absolutely, and I’ll make sure to discuss our care plan in detail with you. Okay, sounds good. What do we do next? Let’s set up an appointment for a new nurse and Dr. Rodriguez. When would be convenient for you? How about Tuesday? Tuesday works. I’ll confirm that for you. Great, and please follow up with me after the visit. I will, David. Thank you for your understanding. Thank you, Margaret. I appreciate your help. You’re welcome. Have a good day! Bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is David Anderson. I'm calling about my wife, who’s recovering from a stroke.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that. How can we support you and your wife?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, we had a nurse come by last week, and frankly, I was not satisfied with the quality of care.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for that, David. Can you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The nurse seemed rushed and didn’t really explain the exercises properly. My wife felt confused and unsafe. We expected a lot better for the price we’re paying!",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 39,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your concerns. We aim to provide the best care possible.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Right, but this was really disappointing. We were referred by Dorothy, and I hoped for better.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I appreciate your honesty, David. I assure you we take these issues seriously.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Well, what can you do about it? I don’t want to go through another experience like that.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can arrange for a different nurse to visit your wife, and I’d like to ensure we meet your expectations this time.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 69,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great, but can you guarantee it will be better?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 76,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I will personally oversee the arrangements and follow up with you afterward to ensure satisfaction.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, that sounds fair. What if we need physical therapy too?",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can provide physical therapy as well. Dr. James Rodriguez is our physical therapist and specializes in stroke recovery.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 93,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "How much is that going to cost?",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 99,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Physical therapy sessions range from $110 to $140 for a session.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Alright, and what about nursing care?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Skilled nursing care is between $95 and $125 per visit, depending on the services required.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I just want to ensure we’re getting value for our money.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, and I’ll make sure to discuss our care plan in detail with you.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Okay, sounds good. What do we do next?",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Let’s set up an appointment for a new nurse and Dr. Rodriguez. When would be convenient for you?",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 136,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "How about Tuesday?",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 143,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Tuesday works. I’ll confirm that for you.",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 146,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Great, and please follow up with me after the visit.",
+          "speaker": "remote party",
+          "start_time": 146,
+          "end_time": 152,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I will, David. Thank you for your understanding.",
+          "speaker": "local party",
+          "start_time": 152,
+          "end_time": 156,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 156,
+          "end_time": 162,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome. Have a good day!",
+          "speaker": "local party",
+          "start_time": 162,
+          "end_time": 165,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 167,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 167,
+          "end_time": 170,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d858d2c6bba04d73a1f94b96",
+  "revision": "",
+  "status": "success"
+}
