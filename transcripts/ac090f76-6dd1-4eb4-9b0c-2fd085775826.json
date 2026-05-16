@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-16T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b343a176d77843d6a6f4f759",
+    "created": 1778914800,
+    "modified": 1778914800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946191489-5cdf6163",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b343a176d77843d6a6f4f759",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946134000,
+      "call_id": "b343a176d77843d6a6f4f759",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b343a176d77843d6a6f4f759",
+      "media_name": "1df64db224c64e6db7072504a4243e5a.mp3",
+      "scenario": "An urgent call is made by a customer requesting immediate assistance with their service due to an unexpected issue. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret, this is Edward Martinez. I really need your help right now. Hi, Edward! I’m glad you called. What’s going on? My caregiver was supposed to come today, but she hasn't shown up, and my wife has a doctor’s appointment. I’m so sorry to hear that, Edward. Let me check on this right away. Yes, please. I need someone to come over as soon as possible. I can’t leave my wife alone for too long. I understand, and I’ll do my best to arrange immediate assistance. Can you confirm the time of the appointment? It’s in about an hour, at 2 PM. Okay, let me see what I can do. One moment please. *[pause]* It looks like I can send a personal care assistant to you within the next 30 minutes. Does that work for you? Yes, that would be perfect! Thank you! Great! I’ll arrange for someone to arrive shortly. Can I have your address just to confirm? It’s 123 Maple Avenue, Wichita, KS. Thank you, Edward. We’ll have someone dispatched right away. Also, I noticed you’ve been using respite care for a while. Would you be interested in looking into a more regular schedule for additional support? That might be a good idea, especially with my wife's condition. I can have our Care Coordinator, Lisa, follow up with you after this appointment to discuss options. Yes, please. That sounds good. Perfect! I’ll make sure she reaches out. Is there anything else on your mind? No, just the care for today. Thanks for your quick help! You’re very welcome, Edward. We’ll be there shortly. Take care! Thanks again! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Edward Martinez. I really need your help right now.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Edward! I’m glad you called. What’s going on?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My caregiver was supposed to come today, but she hasn't shown up, and my wife has a doctor’s appointment.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m so sorry to hear that, Edward. Let me check on this right away.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, please. I need someone to come over as soon as possible. I can’t leave my wife alone for too long.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, and I’ll do my best to arrange immediate assistance.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Can you confirm the time of the appointment?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "It’s in about an hour, at 2 PM.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Okay, let me see what I can do. One moment please.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "*[pause]* It looks like I can send a personal care assistant to you within the next 30 minutes. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be perfect! Thank you!",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! I’ll arrange for someone to arrive shortly.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Can I have your address just to confirm?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "It’s 123 Maple Avenue, Wichita, KS.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 83,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Edward. We’ll have someone dispatched right away.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Also, I noticed you’ve been using respite care for a while. Would you be interested in looking into a more regular schedule for additional support?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 98,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That might be a good idea, especially with my wife's condition.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I can have our Care Coordinator, Lisa, follow up with you after this appointment to discuss options.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please. That sounds good.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I’ll make sure she reaches out. Is there anything else on your mind?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, just the care for today. Thanks for your quick help!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 126,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome, Edward. We’ll be there shortly. Take care!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks again!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b343a176d77843d6a6f4f759",
+  "revision": "",
+  "status": "success"
+}
