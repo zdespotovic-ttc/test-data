@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-17T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9d89b937aa8b41d6a26f783e",
+    "created": 1779001200,
+    "modified": 1779001200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946298981-0f249d4b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9d89b937aa8b41d6a26f783e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 180,
+      "duration_ms": 180000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946220400,
+      "call_id": "9d89b937aa8b41d6a26f783e",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9d89b937aa8b41d6a26f783e",
+      "media_name": "42bc1b7bca134a24be63fb1c4d3a068e.mp3",
+      "scenario": "A VIP customer is unhappy with the delay in service and demands immediate attention. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 180.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Helen Johnson. I’m calling because I’m really frustrated with the delay in my physical therapy. Oh, I’m sorry to hear that, Helen. Can you tell me more about the delays you’ve experienced? I had my last session a week ago, and I was told someone would follow up with me for the next appointment. I still haven’t heard anything! I understand how concerning that must be, especially since you've been with us for nine months. Let me check your records. Thank you, I just really need to keep up with my recovery process. It’s important to me. Absolutely, let me pull up your information. One moment, please. Alright, I see that your last appointment was indeed a week ago, and it looks like there was a scheduling oversight. I sincerely apologize for that. It’s frustrating because I was really counting on that follow-up! I completely understand, Helen. Let me assure you, we will prioritize your next session. When can I get in? I don’t want this to delay my recovery any further. I can schedule you for tomorrow with Dr. Rodriguez, our physical therapist. Would that work for you? Yes, that would be great, thank you! Perfect! I’ll confirm that for you. Is there anything else you'd like me to address? Well, I could also use some assistance with medication management. I’ve been a bit overwhelmed lately. We can certainly help with that. Our Medication Management service is $65 to $80 per session. Would you like to add that to your care plan? Yes, let’s do that. I need all the help I can get! Great choice! I’ll set that up for you as well. Thank you, Margaret. I really appreciate your help today. You’re very welcome, Helen. I’ll send you a confirmation for both appointments. Sounds good. I hope this doesn’t happen again! I assure you, we’re taking steps to improve our scheduling process. Thank you for your understanding. Alright, I’ll look for that confirmation then. If you have any other concerns, feel free to reach out. Have a great day, Helen! You too, Margaret. Thank you again!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I’m calling because I’m really frustrated with the delay in my physical therapy.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I’m sorry to hear that, Helen. Can you tell me more about the delays you’ve experienced?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I had my last session a week ago, and I was told someone would follow up with me for the next appointment. I still haven’t heard anything!",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that must be, especially since you've been with us for nine months. Let me check your records.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I just really need to keep up with my recovery process. It’s important to me.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, let me pull up your information. One moment, please.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Alright, I see that your last appointment was indeed a week ago, and it looks like there was a scheduling oversight. I sincerely apologize for that.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 60,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "It’s frustrating because I was really counting on that follow-up!",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I completely understand, Helen. Let me assure you, we will prioritize your next session.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "When can I get in? I don’t want this to delay my recovery any further.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I can schedule you for tomorrow with Dr. Rodriguez, our physical therapist. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, that would be great, thank you!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Perfect! I’ll confirm that for you. Is there anything else you'd like me to address?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Well, I could also use some assistance with medication management. I’ve been a bit overwhelmed lately.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "We can certainly help with that. Our Medication Management service is $65 to $80 per session. Would you like to add that to your care plan?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, let’s do that. I need all the help I can get!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Great choice! I’ll set that up for you as well.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You’re very welcome, Helen. I’ll send you a confirmation for both appointments.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Sounds good. I hope this doesn’t happen again!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 155,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I assure you, we’re taking steps to improve our scheduling process. Thank you for your understanding.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Alright, I’ll look for that confirmation then.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 170,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "If you have any other concerns, feel free to reach out. Have a great day, Helen!",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, Margaret. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "right",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9d89b937aa8b41d6a26f783e",
+  "revision": "",
+  "status": "success"
+}
