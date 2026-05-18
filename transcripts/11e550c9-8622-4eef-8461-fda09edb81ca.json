@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-17T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-eaac0ac0acae4b15b89cb8be",
+    "created": 1779001200,
+    "modified": 1779001200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946299078-52dd35f6",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-eaac0ac0acae4b15b89cb8be",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 138,
+      "duration_ms": 138000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946220400,
+      "call_id": "eaac0ac0acae4b15b89cb8be",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-eaac0ac0acae4b15b89cb8be",
+      "media_name": "5209504cf587486fa88a4f2e9602ae2b.mp3",
+      "scenario": "A prospect calls to dispute the final amount on their quote, asserting it is higher than initially discussed. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 138.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is Michael Brown. I'm calling about a quote I received for my father’s care. Hi Michael, it's great to hear from you. What seems to be the issue with the quote? Well, I was under the impression that the total would be lower than what I was quoted. It seems really high. I understand your concern. Can you tell me the amount you were quoted? It was $350, but now I see it’s $400. That’s quite a jump. I appreciate you bringing this to my attention, Michael. Let me look into this for you. Thank you. My father needs medication management and wound care. I just want to make sure we’re on the same page. Absolutely, let me check the details of the services we included in the quote. One moment, please. (pause) Okay, I see here that we included skilled nursing for both wound care and medication management, which can drive the cost up. I understand, but we didn’t discuss all those details initially. Can you break it down for me? Sure! The skilled nursing care is priced at $95 to $125 per visit, and I suspect we included more hours than expected. That’s what I thought. I just want to ensure we’re not being overcharged. I completely understand, Michael. It’s important to have clarity. How many hours did we initially discuss? I thought it was just two hours a week, but now it looks like more. Can we adjust that? Yes, we can adjust the frequency to reduce the cost. Would you like to keep it at two hours for now? Yes, please. I just want to make sure he gets the right care without breaking the bank. Of course! I’ll update the quote for two hours. Would you like me to send that revised quote to your email? Yes, that would be great. My email is mbrown@email.com. Got it. I’ll send the revised quote to you shortly. Thank you, Margaret. I really appreciate your help with this. You’re welcome, Michael! Is there anything else I can assist you with today? No, that's all for now. Thank you again! Thank you for calling, Michael. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Michael Brown. I'm calling about a quote I received for my father’s care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Michael, it's great to hear from you. What seems to be the issue with the quote?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was under the impression that the total would be lower than what I was quoted. It seems really high.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Can you tell me the amount you were quoted?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was $350, but now I see it’s $400. That’s quite a jump.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I appreciate you bringing this to my attention, Michael. Let me look into this for you.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you. My father needs medication management and wound care. I just want to make sure we’re on the same page.",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, let me check the details of the services we included in the quote. One moment, please.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "(pause) Okay, I see here that we included skilled nursing for both wound care and medication management, which can drive the cost up.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I understand, but we didn’t discuss all those details initially. Can you break it down for me?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Sure! The skilled nursing care is priced at $95 to $125 per visit, and I suspect we included more hours than expected.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That’s what I thought. I just want to ensure we’re not being overcharged.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I completely understand, Michael. It’s important to have clarity. How many hours did we initially discuss?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I thought it was just two hours a week, but now it looks like more. Can we adjust that?",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 88,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Yes, we can adjust the frequency to reduce the cost. Would you like to keep it at two hours for now?",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 95,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, please. I just want to make sure he gets the right care without breaking the bank.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Of course! I’ll update the quote for two hours. Would you like me to send that revised quote to your email?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, that would be great. My email is mbrown@email.com.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Got it. I’ll send the revised quote to you shortly.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome, Michael! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that's all for now. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for calling, Michael. Have a great day!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-eaac0ac0acae4b15b89cb8be",
+  "revision": "",
+  "status": "success"
+}
