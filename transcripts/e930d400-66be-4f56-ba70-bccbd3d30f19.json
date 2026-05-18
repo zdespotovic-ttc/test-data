@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-17T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bad5b12bdeb84a149575af40",
+    "created": 1779001200,
+    "modified": 1779001200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946298923-18e53f68",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bad5b12bdeb84a149575af40",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946220400,
+      "call_id": "bad5b12bdeb84a149575af40",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bad5b12bdeb84a149575af40",
+      "media_name": "2824ccd6876e4a74bd28565a7ca7da65.mp3",
+      "scenario": "A VIP customer is upset about the quality of the product delivered, which is different from what was advertised. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret, this is Robert Jackson. I called because I'm really unhappy with the service I received last week. I'm sorry to hear that, Robert. Could you please tell me more about what happened? Well, the personal care assistant who came to my home didn’t follow the care instructions we provided. It was really frustrating. I understand how that could be upsetting. Can you specify which instructions were not followed? Sure, the assistant wasn’t using the specialized equipment I have for my multiple sclerosis, and it made things difficult for me. I apologize for that. It’s important that we adhere to the specific needs of our clients. Exactly! I rely on this care, and I expected it to meet the standards you advertise. I completely understand your frustration, and I assure you that we take this seriously. Thank you. I just want to ensure that future visits are handled correctly. We can definitely review your care plan and make adjustments if necessary. Yes, that would be helpful. I want to avoid any miscommunication going forward. Absolutely. I can arrange a meeting with Lisa Chen, our Care Coordinator, to discuss your care plan in detail. That sounds good. When can I expect to hear from her? She’s available tomorrow after 10 AM. I can have her reach out to you then. Great, and I’d also like to make sure this doesn’t happen again. We will retrain our staff on your specific needs to ensure proper equipment usage. I appreciate that, thank you. I just want the best care possible. Of course, Robert. In addition, if you're interested, we also offer skilled nursing visits for better oversight. Oh? How does that work? Our skilled nursing service provides licensed nurses for medication management and monitoring. It ranges from $95 to $125 per visit. That could be beneficial. I'll think about it after our follow-up. That sounds perfect. I will ensure Lisa follows up with you tomorrow. Thanks, Margaret. I feel a little better knowing we’ll address this. You’re welcome, Robert. Thank you for your understanding. Have a good day. You too, Robert. Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 4,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Robert Jackson. I called because I'm really unhappy with the service I received last week.",
+          "speaker": "remote party",
+          "start_time": 4,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Robert. Could you please tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the personal care assistant who came to my home didn’t follow the care instructions we provided. It was really frustrating.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 21,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how that could be upsetting. Can you specify which instructions were not followed?",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, the assistant wasn’t using the specialized equipment I have for my multiple sclerosis, and it made things difficult for me.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I apologize for that. It’s important that we adhere to the specific needs of our clients.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Exactly! I rely on this care, and I expected it to meet the standards you advertise.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand your frustration, and I assure you that we take this seriously.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 51,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you. I just want to ensure that future visits are handled correctly.",
+          "speaker": "remote party",
+          "start_time": 51,
+          "end_time": 58,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can definitely review your care plan and make adjustments if necessary.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be helpful. I want to avoid any miscommunication going forward.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely. I can arrange a meeting with Lisa Chen, our Care Coordinator, to discuss your care plan in detail.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. When can I expect to hear from her?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "She’s available tomorrow after 10 AM. I can have her reach out to you then.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great, and I’d also like to make sure this doesn’t happen again.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We will retrain our staff on your specific needs to ensure proper equipment usage.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I appreciate that, thank you. I just want the best care possible.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, Robert. In addition, if you're interested, we also offer skilled nursing visits for better oversight.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Oh? How does that work?",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 114,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Our skilled nursing service provides licensed nurses for medication management and monitoring. It ranges from $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 122,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That could be beneficial. I'll think about it after our follow-up.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "That sounds perfect. I will ensure Lisa follows up with you tomorrow.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks, Margaret. I feel a little better knowing we’ll address this.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Robert. Thank you for your understanding.",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Have a good day.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too, Robert. Take care.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bad5b12bdeb84a149575af40",
+  "revision": "",
+  "status": "success"
+}
