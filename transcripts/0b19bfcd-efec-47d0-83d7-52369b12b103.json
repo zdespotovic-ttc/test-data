@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-17T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-342efbafaa4b41e8bea9c57f",
+    "created": 1779001200,
+    "modified": 1779001200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946299150-5531d635",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-342efbafaa4b41e8bea9c57f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 203,
+      "duration_ms": 203000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946220400,
+      "call_id": "342efbafaa4b41e8bea9c57f",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-342efbafaa4b41e8bea9c57f",
+      "media_name": "708eb899aea143d69d5bab0f7528a3ec.mp3",
+      "scenario": "A returning customer urgently requests expedited service due to an unexpected event at their business. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 203.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Robert Jackson. I hope you're well. Hi Robert! I'm doing well, thank you. How can I help you today? I’m calling because I need urgent assistance. Something unexpected happened at my business, and I require immediate care. I'm so sorry to hear that, Robert. Can you tell me more about what you need? Sure, I need a personal care assistant to come over today for a few hours. My regular caregiver isn’t available. I understand, let me check our schedule for today. Okay, I see we have some availability. Would you like a personal care assistant for 1 or 3 hours? I think I’ll need them for about 3 hours if possible. Absolutely, let me get that arranged for you. Do you have a specific timing in mind for when you'd like them to arrive? The sooner, the better. Can they come in the next hour? I’ll do my best. Let me check who is available. It looks like we can send someone over at 1 PM. Would that work for you? Yes, that works perfectly. Thank you! Great! I’ll schedule that now. Before I finalize, can I confirm any special instructions or equipment needs you might have? Yes, please. They’ll need to assist me with my mobility equipment as per the detailed care instructions from my neurologist. Noted. I'll make sure they are briefed. I also want to mention that we have availability for skilled nursing care if you ever need that in the future. Would you be interested in that? Actually, that could be useful. What does it entail? Our skilled nursing care includes medication management, wound care, and health monitoring, priced between $95 and $125 for 1-2 hours. That sounds helpful. I’d like to keep that option open for future needs. Absolutely, I’ll keep that noted in your file. So just to recap, I have you scheduled for a personal care assistant at 1 PM today for 3 hours. Yes, that's right. Thank you, Margaret. You’re welcome, Robert! Is there anything else I can help you with? No, that's all for now. Thanks for your help! My pleasure! Take care, and we’ll see you soon. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I hope you're well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Robert! I'm doing well, thank you. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m calling because I need urgent assistance. Something unexpected happened at my business, and I require immediate care.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 19,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm so sorry to hear that, Robert. Can you tell me more about what you need?",
+          "speaker": "local party",
+          "start_time": 19,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, I need a personal care assistant to come over today for a few hours. My regular caregiver isn’t available.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 33,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, let me check our schedule for today.",
+          "speaker": "local party",
+          "start_time": 33,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see we have some availability. Would you like a personal care assistant for 1 or 3 hours?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 53,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I think I’ll need them for about 3 hours if possible.",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Absolutely, let me get that arranged for you.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Do you have a specific timing in mind for when you'd like them to arrive?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "The sooner, the better. Can they come in the next hour?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll do my best. Let me check who is available.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "It looks like we can send someone over at 1 PM. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 95,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, that works perfectly. Thank you!",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Great! I’ll schedule that now.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Before I finalize, can I confirm any special instructions or equipment needs you might have?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 114,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. They’ll need to assist me with my mobility equipment as per the detailed care instructions from my neurologist.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Noted. I'll make sure they are briefed.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I also want to mention that we have availability for skilled nursing care if you ever need that in the future. Would you be interested in that?",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Actually, that could be useful. What does it entail?",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Our skilled nursing care includes medication management, wound care, and health monitoring, priced between $95 and $125 for 1-2 hours.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 155,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That sounds helpful. I’d like to keep that option open for future needs.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 165,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Absolutely, I’ll keep that noted in your file.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 169,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "So just to recap, I have you scheduled for a personal care assistant at 1 PM today for 3 hours.",
+          "speaker": "local party",
+          "start_time": 169,
+          "end_time": 178,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, that's right. Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 178,
+          "end_time": 183,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Robert! Is there anything else I can help you with?",
+          "speaker": "local party",
+          "start_time": 183,
+          "end_time": 187,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "No, that's all for now. Thanks for your help!",
+          "speaker": "remote party",
+          "start_time": 187,
+          "end_time": 192,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "My pleasure! Take care, and we’ll see you soon.",
+          "speaker": "local party",
+          "start_time": 192,
+          "end_time": 195,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 200,
+          "end_time": 203,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-342efbafaa4b41e8bea9c57f",
+  "revision": "",
+  "status": "success"
+}
