@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-17T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ee2816932ee44443943d5bd1",
+    "created": 1779001200,
+    "modified": 1779001200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946299319-440505da",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ee2816932ee44443943d5bd1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 173,
+      "duration_ms": 173000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946220400,
+      "call_id": "ee2816932ee44443943d5bd1",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ee2816932ee44443943d5bd1",
+      "media_name": "a5adafb739f94ff5895cdcb0a5e8b52e.mp3",
+      "scenario": "A new customer reports a persistent defect in their product and states they will cancel their contract if it's not fixed soon. Category: Service Complaint. Flags: quality_complaint, cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 173.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Robert Jackson. I’m calling about a problem with the care I’ve been receiving. Hi, Robert. I’m sorry to hear that. Can you tell me more about the issue? Yes, I've noticed that the personal care assistants are not using the specialized equipment I specified. It’s been causing discomfort and I’m really frustrated. I understand your concern. That sounds quite serious, especially given your needs. It is serious! If this doesn’t get fixed soon, I’m considering canceling my contract. I truly don’t want to see you go. Let’s work together to resolve this issue. I’d appreciate that, but this isn’t the first time I’ve had to bring this up. I’m really sorry that you’ve had to deal with this before, Robert. I assure you I’ll take immediate action to address it. Okay, but what can you actually do to fix it? First, I will speak with the care team about your equipment preferences and ensure they are fully briefed on your care plan. That sounds good, but I need it done quickly. I understand the urgency. I will follow up with you by tomorrow with updates. Thank you. I just really need things to improve. Absolutely, Robert. We value you as a client and want to ensure you receive the best care possible. One more thing, I might need additional support soon since my condition seems to be worsening. I can arrange for a visit from one of our skilled nurses to assess your situation. Would that work for you? Yes, that would be helpful. Great! I’ll make that a priority. I’ll also review your care plan to see if any adjustments are needed. Thank you, Margaret. I appreciate your help. You’re welcome, Robert! Is there anything else I can assist you with today? No, that’s all for now. Alright, I’ll be in touch soon. Take care! You too, bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Robert Jackson. I’m calling about a problem with the care I’ve been receiving.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Robert. I’m sorry to hear that. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I've noticed that the personal care assistants are not using the specialized equipment I specified. It’s been causing discomfort and I’m really frustrated.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. That sounds quite serious, especially given your needs.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It is serious! If this doesn’t get fixed soon, I’m considering canceling my contract.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I truly don’t want to see you go. Let’s work together to resolve this issue.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I’d appreciate that, but this isn’t the first time I’ve had to bring this up.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’m really sorry that you’ve had to deal with this before, Robert. I assure you I’ll take immediate action to address it.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, but what can you actually do to fix it?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 70,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "First, I will speak with the care team about your equipment preferences and ensure they are fully briefed on your care plan.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good, but I need it done quickly.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand the urgency. I will follow up with you by tomorrow with updates.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you. I just really need things to improve.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, Robert. We value you as a client and want to ensure you receive the best care possible.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "One more thing, I might need additional support soon since my condition seems to be worsening.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can arrange for a visit from one of our skilled nurses to assess your situation. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll make that a priority. I’ll also review your care plan to see if any adjustments are needed.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 155,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Robert! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s all for now.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Alright, I’ll be in touch soon. Take care!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 173,
+          "channel": "right",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ee2816932ee44443943d5bd1",
+  "revision": "",
+  "status": "success"
+}
