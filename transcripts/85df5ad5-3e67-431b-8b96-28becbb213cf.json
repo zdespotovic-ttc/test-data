@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-17T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3fba356574ad4f63b9e92525",
+    "created": 1779001200,
+    "modified": 1779001200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946299133-9c750d27",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3fba356574ad4f63b9e92525",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946220400,
+      "call_id": "3fba356574ad4f63b9e92525",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3fba356574ad4f63b9e92525",
+      "media_name": "ea1d1762233148c1ac50b397fdf74e99.mp3",
+      "scenario": "A prospect reports inconsistencies between their billing statement and services rendered. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Helen Johnson. I'm calling about some issues with my billing statement. Hi Helen, it's good to hear from you. I'm sorry to hear about the billing issues. Can you tell me more about the inconsistencies? Yes, I noticed that I was charged for physical therapy visits that I didn’t receive last month. I had a total of 4 appointments, but I was billed for 6. I understand how concerning that can be. Let me take a look at your records. One moment, please. Alright, I see your appointment history here. You had physical therapy sessions on the 1st, 8th, 15th, and 22nd. It looks like you were indeed billed for two additional sessions. Exactly! That’s what I thought. I want to make sure I'm only paying for the services I've received. Absolutely, Helen. I’ll need to escalate this to our billing department to correct the error. How long is that going to take? Typically, it takes about 3-5 business days for corrections. I can follow up with you next week. That sounds good. Also, I wanted to ask if there are any new services or options available for someone in my situation? We recently introduced a new program for ongoing physical therapy that includes at-home exercise plans. That sounds interesting. How does that work? A physical therapist would develop a personalized plan for you, and you would have regular check-ins to ensure progress. I think that could be really beneficial for me. Is there an additional cost for that? Yes, it would be billed at the standard rate of $110-$140 per session, depending on the length and complexity. I see. Can we add that to my care plan after the billing issue is resolved? Absolutely. I'll make a note of your interest, and we can set that up once we resolve the billing. Thank you, Margaret. I appreciate your help with this! Of course, Helen! I’ll ensure we get back to you about the billing correction. Sounds great. I’ll be looking out for your call next week. Thank you for your understanding, and have a great day! You too, Margaret. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I'm calling about some issues with my billing statement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen, it's good to hear from you. I'm sorry to hear about the billing issues. Can you tell me more about the inconsistencies?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed that I was charged for physical therapy visits that I didn’t receive last month. I had a total of 4 appointments, but I was billed for 6.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that can be. Let me take a look at your records. One moment, please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Alright, I see your appointment history here. You had physical therapy sessions on the 1st, 8th, 15th, and 22nd. It looks like you were indeed billed for two additional sessions.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 37,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Exactly! That’s what I thought. I want to make sure I'm only paying for the services I've received.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Absolutely, Helen. I’ll need to escalate this to our billing department to correct the error.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "How long is that going to take?",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Typically, it takes about 3-5 business days for corrections. I can follow up with you next week.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That sounds good. Also, I wanted to ask if there are any new services or options available for someone in my situation?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "We recently introduced a new program for ongoing physical therapy that includes at-home exercise plans.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That sounds interesting. How does that work?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "A physical therapist would develop a personalized plan for you, and you would have regular check-ins to ensure progress.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I think that could be really beneficial for me. Is there an additional cost for that?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Yes, it would be billed at the standard rate of $110-$140 per session, depending on the length and complexity.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I see. Can we add that to my care plan after the billing issue is resolved?",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely. I'll make a note of your interest, and we can set that up once we resolve the billing.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with this!",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Of course, Helen! I’ll ensure we get back to you about the billing correction.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 106,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Sounds great. I’ll be looking out for your call next week.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Thank you for your understanding, and have a great day!",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 114,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "You too, Margaret. Bye!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3fba356574ad4f63b9e92525",
+  "revision": "",
+  "status": "success"
+}
