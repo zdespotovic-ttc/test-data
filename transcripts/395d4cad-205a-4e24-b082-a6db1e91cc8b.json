@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-17T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2a691122278a413ebf8158e2",
+    "created": 1779001200,
+    "modified": 1779001200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946299094-2e865353",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2a691122278a413ebf8158e2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946220400,
+      "call_id": "2a691122278a413ebf8158e2",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2a691122278a413ebf8158e2",
+      "media_name": "4363fc34c82d4ae8b07eaf9c78816bf1.mp3",
+      "scenario": "A returning customer is concerned about the additional fees added to their monthly bill. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Mary O'Connor. I'm calling because I have some concerns about my recent bill. Hi Mary, it's good to hear from you. What seems to be the issue with your bill? I noticed there are additional fees this month that I wasn't expecting, and it’s causing me a lot of anxiety. I understand, that can be quite concerning. Let me take a look at your account. Thank you, I appreciate it. I've been on IV antibiotic therapy for a while, so I want to make sure everything is clear. Absolutely, just a moment while I pull up your billing details... Alright, I see here that there are additional charges for the extra supplies used during your last few visits. Extra supplies? I wasn't aware that would be an additional fee. Yes, the IV administration requires certain materials that can vary based on your treatment needs. I see, but I thought those supplies were included in the service charge. I understand the confusion. Typically, we do include basic supplies, but specialized items can incur extra fees. That’s frustrating. I really didn’t expect this, especially since I’m already feeling anxious about the treatments. I completely understand, Mary. We strive to be as transparent as possible, and I apologize for any misunderstanding. Thank you for your understanding. Is there a way to review the specific charges together? Yes, absolutely! Would you like me to send you a detailed breakdown via email? Yes, that would be helpful. My email is mary.oconnor@email.com. Great, I’ll send that right away. Would you like to discuss any potential options for managing these charges? I’d appreciate that, yes. Maybe a care plan that could help lower the costs? We can schedule a care plan review with Lisa, our Care Coordinator. She can help tailor a plan to fit your needs. That sounds good. Can you set that up for me? Yes, I can do that. When are you available for a call with her? I’m free tomorrow afternoon if that works. Perfect, I’ll schedule it for 2 PM tomorrow and notify you with a confirmation. Thank you, Margaret. I feel a little better knowing I can talk to someone about this. You're welcome, Mary. It’s important to us that you feel comfortable and informed. I appreciate your help today. Thank you for calling, Mary. We’ll talk again soon! Bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mary O'Connor. I'm calling because I have some concerns about my recent bill.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Mary, it's good to hear from you. What seems to be the issue with your bill?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I noticed there are additional fees this month that I wasn't expecting, and it’s causing me a lot of anxiety.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, that can be quite concerning. Let me take a look at your account.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I appreciate it. I've been on IV antibiotic therapy for a while, so I want to make sure everything is clear.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, just a moment while I pull up your billing details...",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Alright, I see here that there are additional charges for the extra supplies used during your last few visits.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Extra supplies? I wasn't aware that would be an additional fee.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Yes, the IV administration requires certain materials that can vary based on your treatment needs.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I see, but I thought those supplies were included in the service charge.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 62,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I understand the confusion. Typically, we do include basic supplies, but specialized items can incur extra fees.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That’s frustrating. I really didn’t expect this, especially since I’m already feeling anxious about the treatments.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 73,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I completely understand, Mary. We strive to be as transparent as possible, and I apologize for any misunderstanding.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Thank you for your understanding. Is there a way to review the specific charges together?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 85,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Yes, absolutely! Would you like me to send you a detailed breakdown via email?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, that would be helpful. My email is mary.oconnor@email.com.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Great, I’ll send that right away. Would you like to discuss any potential options for managing these charges?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "I’d appreciate that, yes. Maybe a care plan that could help lower the costs?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "We can schedule a care plan review with Lisa, our Care Coordinator. She can help tailor a plan to fit your needs.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That sounds good. Can you set that up for me?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Yes, I can do that. When are you available for a call with her?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "I’m free tomorrow afternoon if that works.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 130,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Perfect, I’ll schedule it for 2 PM tomorrow and notify you with a confirmation.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Margaret. I feel a little better knowing I can talk to someone about this.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You're welcome, Mary. It’s important to us that you feel comfortable and informed.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Thank you for calling, Mary. We’ll talk again soon!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 157,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 160,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2a691122278a413ebf8158e2",
+  "revision": "",
+  "status": "success"
+}
