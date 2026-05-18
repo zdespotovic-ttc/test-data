@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-17T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c6955c520dd641bd871b34cc",
+    "created": 1779001200,
+    "modified": 1779001200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946299014-47f66036",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c6955c520dd641bd871b34cc",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946220400,
+      "call_id": "c6955c520dd641bd871b34cc",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c6955c520dd641bd871b34cc",
+      "media_name": "f6f79405012a476da694de1b75bb9938.mp3",
+      "scenario": "A returning customer is dissatisfied with the response time to their previous request. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Mary O'Connor. I'm calling about my care, but I'm feeling a bit frustrated. I’m sorry to hear that, Mary. Can you tell me what's been bothering you? Well, I had requested someone to come check on my IV therapy yesterday, and it took longer than expected for someone to arrive. I understand how important timely care is, especially with your IV antibiotics. Can you tell me more about what happened? I waited nearly an hour past the scheduled time, and I was really anxious about my treatment. I thought someone would be here promptly. I sincerely apologize for that delay, Mary. That’s not the service we strive to provide. It really made me anxious. I need caregivers who understand my needs and can reassure me during these procedures. Absolutely, and I’m sorry that we didn’t meet that expectation yesterday. Let me look into what caused the delay. I appreciate that. It’s just really important for me to feel secure during my treatments. Of course, I completely understand. I’ll follow up with the staff involved to ensure this doesn’t happen again. Thank you. Also, is there a way to have the same caregiver every time? That might help me feel more comfortable. Yes, we can certainly work on establishing a consistent caregiver for you. I’ll put that request in right away. That would be great. I just want someone I can trust, especially with the IV therapy. Absolutely, Mary. I’ll make sure your care plan reflects that preference. Thank you, Margaret. I just want to ensure my health is managed well and without added stress. I completely understand. I’ll also arrange for a follow-up call next week to check in on how you’re doing. That sounds perfect. And if I need extra support, like physical therapy, how do I go about that? We can definitely help with that. Our physical therapy sessions are available, and I can set up a visit for you. Yes, I’d like to know more about that. What are the prices and how often can I have appointments? Our physical therapy services range from $110 to $140 per session, and we can schedule them as often as you need. Okay, I might consider that. Just let me know what my options are. I will include that in our follow-up plans. Is there anything else I can assist you with today? No, that’s all for now. Thank you for listening and for your help. You’re very welcome, Mary. Thank you for your understanding. Bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mary O'Connor. I'm calling about my care, but I'm feeling a bit frustrated.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Mary. Can you tell me what's been bothering you?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I had requested someone to come check on my IV therapy yesterday, and it took longer than expected for someone to arrive.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how important timely care is, especially with your IV antibiotics. Can you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I waited nearly an hour past the scheduled time, and I was really anxious about my treatment. I thought someone would be here promptly.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 38,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I sincerely apologize for that delay, Mary. That’s not the service we strive to provide.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It really made me anxious. I need caregivers who understand my needs and can reassure me during these procedures.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, and I’m sorry that we didn’t meet that expectation yesterday. Let me look into what caused the delay.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that. It’s just really important for me to feel secure during my treatments.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course, I completely understand. I’ll follow up with the staff involved to ensure this doesn’t happen again.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you. Also, is there a way to have the same caregiver every time? That might help me feel more comfortable.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we can certainly work on establishing a consistent caregiver for you. I’ll put that request in right away.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 85,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be great. I just want someone I can trust, especially with the IV therapy.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 91,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, Mary. I’ll make sure your care plan reflects that preference.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 98,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. I just want to ensure my health is managed well and without added stress.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I completely understand. I’ll also arrange for a follow-up call next week to check in on how you’re doing.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds perfect. And if I need extra support, like physical therapy, how do I go about that?",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 118,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can definitely help with that. Our physical therapy sessions are available, and I can set up a visit for you.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, I’d like to know more about that. What are the prices and how often can I have appointments?",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Our physical therapy services range from $110 to $140 per session, and we can schedule them as often as you need.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 137,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Okay, I might consider that. Just let me know what my options are.",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 144,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I will include that in our follow-up plans. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 150,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s all for now. Thank you for listening and for your help.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, Mary. Thank you for your understanding.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 159,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 159,
+          "end_time": 165,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c6955c520dd641bd871b34cc",
+  "revision": "",
+  "status": "success"
+}
