@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-17T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-13c2d05f4bf6424e81c73953",
+    "created": 1779001200,
+    "modified": 1779001200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946299196-7d308573",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-13c2d05f4bf6424e81c73953",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946220400,
+      "call_id": "13c2d05f4bf6424e81c73953",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-13c2d05f4bf6424e81c73953",
+      "media_name": "3b74903d934640a79e79145096266bf8.mp3",
+      "scenario": "A returning customer faces an emergency with their service and needs urgent repair. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Michael Brown. I'm calling because my father, who has diabetes, needs urgent wound care and medication management. I'm sorry to hear that, Michael. Can you tell me more about his situation? Well, he just got home from the hospital, and his wound has started to look worse. He's also having trouble managing his medications. That sounds concerning. We can definitely help with both wound care and medication management. I really need someone to come out as soon as possible. Is that something you can arrange? Let me check our availability. It looks like we can send a nurse for wound care today. Would that work for you? Yes, please! That would be a huge relief. Great. For the medication management, we can schedule a session as well. Would you like to arrange that for the same day? Yes, that makes sense. I want to make sure everything is handled in one go. Perfect. I’ll send a registered nurse today for wound care and arrange for medication management shortly after. Thank you so much. How long will the nurse take to get here? Typically, our nurses can arrive within an hour or so. I’ll make sure to expedite this for you. Thank you, I appreciate that. What time should I expect the nurse? I’ll have the nurse call you before arrival to confirm the exact time. Can I have your address, please? Sure, it’s 123 Maple Street, Wichita, KS. Thank you, Michael. Just to confirm, that is for your father who needs urgent care, correct? Yes, that’s right. Great. I’ll also follow up on scheduling ongoing visits for his wound care and medication management. That sounds good. I definitely want to keep this on a regular schedule. Understood. We can set up weekly visits for medication management and wound care. Perfect, that would be really helpful. Is there anything else I can assist you with today, Michael? No, I think that covers everything for now. Alright, I’ll have the nurse on the way and keep you updated about the ongoing care plan. Thank you so much, Margaret. You’ve been really helpful. You’re welcome, Michael. We’re here to help. Have a great day! Thanks, you too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Michael Brown. I'm calling because my father, who has diabetes, needs urgent wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Michael. Can you tell me more about his situation?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, he just got home from the hospital, and his wound has started to look worse. He's also having trouble managing his medications.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds concerning. We can definitely help with both wound care and medication management.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I really need someone to come out as soon as possible. Is that something you can arrange?",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check our availability. It looks like we can send a nurse for wound care today. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please! That would be a huge relief.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great. For the medication management, we can schedule a session as well. Would you like to arrange that for the same day?",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that makes sense. I want to make sure everything is handled in one go.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 59,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Perfect. I’ll send a registered nurse today for wound care and arrange for medication management shortly after.",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you so much. How long will the nurse take to get here?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Typically, our nurses can arrive within an hour or so. I’ll make sure to expedite this for you.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, I appreciate that. What time should I expect the nurse?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 84,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll have the nurse call you before arrival to confirm the exact time. Can I have your address, please?",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, it’s 123 Maple Street, Wichita, KS.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 97,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Michael. Just to confirm, that is for your father who needs urgent care, correct?",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that’s right.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great. I’ll also follow up on scheduling ongoing visits for his wound care and medication management.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. I definitely want to keep this on a regular schedule.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 120,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Understood. We can set up weekly visits for medication management and wound care.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 127,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect, that would be really helpful.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 134,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Is there anything else I can assist you with today, Michael?",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 141,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, I think that covers everything for now.",
+          "speaker": "remote party",
+          "start_time": 141,
+          "end_time": 145,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Alright, I’ll have the nurse on the way and keep you updated about the ongoing care plan.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 151,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much, Margaret. You’ve been really helpful.",
+          "speaker": "remote party",
+          "start_time": 151,
+          "end_time": 158,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Michael. We’re here to help. Have a great day!",
+          "speaker": "local party",
+          "start_time": 158,
+          "end_time": 162,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thanks, you too!",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 165,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-13c2d05f4bf6424e81c73953",
+  "revision": "",
+  "status": "success"
+}
