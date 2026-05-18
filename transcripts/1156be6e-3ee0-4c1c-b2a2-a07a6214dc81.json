@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-17T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7f0068e1b2784f5db321aba7",
+    "created": 1779001200,
+    "modified": 1779001200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946299292-d68526a9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7f0068e1b2784f5db321aba7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946220400,
+      "call_id": "7f0068e1b2784f5db321aba7",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7f0068e1b2784f5db321aba7",
+      "media_name": "ea2d25204f3b4157abf50bb638b672ce.mp3",
+      "scenario": "A prospect is unsatisfied with the service trial and decides to cancel their interest. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Agnes Rodriguez. I hope you’re doing well. Hi Agnes! I'm doing well, thank you. How about you? I'm okay, but I wanted to talk about the companion care service. Of course, I’m here to help. What’s on your mind? Well, I’ve been feeling a bit unsatisfied with the service lately. I’m sorry to hear that. Can you share what specifically has been bothering you? It just feels like the caregivers aren't engaging with me as much as I expected. I understand how important engagement is, especially with your interests. Yes, I love gardening, and I wish they would participate in activities like that. That makes sense, Agnes. We can definitely work on matching you with someone who shares your interests. I appreciate that, but I’m honestly considering canceling the service. I see. I’d hate to see you go. Can I ask what would make you reconsider? If I could have someone who really engages with me and brings in activities. That’s completely reasonable. I can coordinate with our caregiver team to address this. Okay, but I need to think about it. I might want to cancel after all. I understand, and I want to make sure you feel supported. Can I help you with that process? Maybe... I still have some doubts. How about I set up a meeting with our Care Coordinator, Lisa Chen? That could work. If she can show me how we can adjust things. Great! I can have Lisa call you tomorrow. Does that work for you? Yes, that should be fine. And just to confirm, would you like to keep your current schedule for now? For now, yes, but I’m still considering my options. I understand, Agnes. I’ll note that and make sure Lisa reaches out to you. Thank you, Margaret. I hope we can figure something out. Absolutely! Your satisfaction is our priority. Thank you for your help. You’re welcome! Take care, Agnes. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I hope you’re doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes! I'm doing well, thank you. How about you?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm okay, but I wanted to talk about the companion care service.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course, I’m here to help. What’s on your mind?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Well, I’ve been feeling a bit unsatisfied with the service lately.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m sorry to hear that. Can you share what specifically has been bothering you?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It just feels like the caregivers aren't engaging with me as much as I expected.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand how important engagement is, especially with your interests.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I love gardening, and I wish they would participate in activities like that.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That makes sense, Agnes. We can definitely work on matching you with someone who shares your interests.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate that, but I’m honestly considering canceling the service.",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I see. I’d hate to see you go. Can I ask what would make you reconsider?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "If I could have someone who really engages with me and brings in activities.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That’s completely reasonable. I can coordinate with our caregiver team to address this.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, but I need to think about it. I might want to cancel after all.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand, and I want to make sure you feel supported. Can I help you with that process?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Maybe... I still have some doubts.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "How about I set up a meeting with our Care Coordinator, Lisa Chen?",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That could work. If she can show me how we can adjust things.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I can have Lisa call you tomorrow. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that should be fine.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "And just to confirm, would you like to keep your current schedule for now?",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "For now, yes, but I’m still considering my options.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I understand, Agnes. I’ll note that and make sure Lisa reaches out to you.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I hope we can figure something out.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Absolutely! Your satisfaction is our priority.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you for your help.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome! Take care, Agnes.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7f0068e1b2784f5db321aba7",
+  "revision": "",
+  "status": "success"
+}
