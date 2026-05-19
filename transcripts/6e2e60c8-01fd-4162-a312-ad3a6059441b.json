@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-32451b3422aa4aa79d4e20bc",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382752-6b5f54d8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-32451b3422aa4aa79d4e20bc",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "32451b3422aa4aa79d4e20bc",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-32451b3422aa4aa79d4e20bc",
+      "media_name": "5850b15f7f9c44398b2ebaf99750f7bd.mp3",
+      "scenario": "A tenant calls to follow up on a maintenance request submitted last week. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is Edward Martinez. I'm just following up on a maintenance request I submitted last week. Hi Edward! Thank you for your call. Let me check the status of that for you. Can you remind me what the maintenance request was about? Yes, it was about the bathroom sink not draining properly. Got it, let me pull up the details on that... Okay, I see that it was submitted last week, and it appears we haven't assigned a technician yet. Oh, I see. That’s a bit concerning since it’s affecting my wife’s ability to assist me comfortably. I completely understand, and I apologize for the delay. Let me escalate this to our maintenance team right now. Thank you, I appreciate that. Do you have an estimated time for when it might be fixed? I’ll ask them to prioritize it and get back to you within the next 24 hours. That sounds good. I would really appreciate a quick resolution. Absolutely, Edward. I’ll make sure they understand the urgency. Is there anything else I can help you with today? Actually, I was also wondering if you have any respite care available next week? Yes, we do! We can definitely arrange more respite care to help give your wife some breaks. That would be helpful. How much do you charge for that service? The respite care is priced at $30 to $38 per hour, depending on the level of assistance needed. Okay, I’d like to schedule that for three hours on Wednesday. Sure, let me get that set up for you. I’ll confirm the time with our caregiver team and follow up with you shortly. Thank you, Margaret. I really appreciate your help today. You're welcome, Edward! Just to recap, I will follow up on your maintenance request and confirm the respite care schedule. Sounds perfect. I’ll look forward to your call. Thank you for calling, Edward. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I'm just following up on a maintenance request I submitted last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward! Thank you for your call. Let me check the status of that for you.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Can you remind me what the maintenance request was about?",
+          "speaker": "local party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Yes, it was about the bathroom sink not draining properly.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Got it, let me pull up the details on that...",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Okay, I see that it was submitted last week, and it appears we haven't assigned a technician yet.",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh, I see. That’s a bit concerning since it’s affecting my wife’s ability to assist me comfortably.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand, and I apologize for the delay. Let me escalate this to our maintenance team right now.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, I appreciate that. Do you have an estimated time for when it might be fixed?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 51,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’ll ask them to prioritize it and get back to you within the next 24 hours.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 57,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good. I would really appreciate a quick resolution.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, Edward. I’ll make sure they understand the urgency.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Actually, I was also wondering if you have any respite care available next week?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Yes, we do! We can definitely arrange more respite care to help give your wife some breaks.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That would be helpful. How much do you charge for that service?",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "The respite care is priced at $30 to $38 per hour, depending on the level of assistance needed.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Okay, I’d like to schedule that for three hours on Wednesday.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Sure, let me get that set up for you.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I’ll confirm the time with our caregiver team and follow up with you shortly.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 114,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Edward! Just to recap, I will follow up on your maintenance request and confirm the respite care schedule.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds perfect. I’ll look forward to your call.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for calling, Edward. Have a great day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-32451b3422aa4aa79d4e20bc",
+  "revision": "",
+  "status": "success"
+}
