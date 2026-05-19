@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f2ce86f6b094462b9342cf07",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382707-ebfee029",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f2ce86f6b094462b9342cf07",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 137,
+      "duration_ms": 137000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "f2ce86f6b094462b9342cf07",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f2ce86f6b094462b9342cf07",
+      "media_name": "dd69c5b2b8dc4d06b94e003111d3099b.mp3",
+      "scenario": "A patient calls to follow up on their recent lab results. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 137.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Agnes Rodriguez. I'm calling to follow up on my lab results. Hi Agnes! I hope you're doing well today. Let me check on those lab results for you. Can you hold for just a moment while I pull up your information? Yes, of course. Thank you for your patience. I see here that your lab results were received yesterday. They’re currently being reviewed by Dr. Rodriguez. Oh, I see. Is there any indication of what the results might show? Unfortunately, I can’t provide specifics until Dr. Rodriguez has completed his review. However, he usually contacts clients within 48 hours after receiving results. That makes sense. I just want to ensure everything's alright. I understand your concern, Agnes. Would you like me to have Dr. Rodriguez call you as soon as he has reviewed your results? Yes, that would be great. Thank you. Also, while I have you on the line, I wanted to mention that we have additional services like medication management or physical therapy, if you're ever interested. Hmm, I might be interested in medication management. My daughter helps me, but sometimes things get confusing. It can definitely be overwhelming. Medication management can help ensure you’re taking the right doses at the right times. Yes, that sounds useful. What are the prices for that service? The medication management service is priced between $65 and $80 for a 30-45 minute session. Okay, I’ll think about that. Great! I can also arrange a consultation if you're ready to move forward. Yes, let’s do that. Perfect. I’ll note that down. Is there anything else you’d like to discuss while I have you on the line? No, that’s all for now. Just waiting on those results. Understood, Agnes. I will make sure Dr. Rodriguez gets your request for a call. Thank you, Margaret. I appreciate your help! You’re very welcome! Have a wonderful day. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I'm calling to follow up on my lab results.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes! I hope you're doing well today. Let me check on those lab results for you.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Can you hold for just a moment while I pull up your information?",
+          "speaker": "local party",
+          "start_time": 12,
+          "end_time": 22,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Yes, of course.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 25,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Thank you for your patience. I see here that your lab results were received yesterday. They’re currently being reviewed by Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Oh, I see. Is there any indication of what the results might show?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Unfortunately, I can’t provide specifics until Dr. Rodriguez has completed his review. However, he usually contacts clients within 48 hours after receiving results.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That makes sense. I just want to ensure everything's alright.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I understand your concern, Agnes. Would you like me to have Dr. Rodriguez call you as soon as he has reviewed your results?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 62,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that would be great. Thank you.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 65,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Also, while I have you on the line, I wanted to mention that we have additional services like medication management or physical therapy, if you're ever interested.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Hmm, I might be interested in medication management. My daughter helps me, but sometimes things get confusing.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "It can definitely be overwhelming. Medication management can help ensure you’re taking the right doses at the right times.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 88,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, that sounds useful. What are the prices for that service?",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "The medication management service is priced between $65 and $80 for a 30-45 minute session.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Okay, I’ll think about that.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 104,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Great! I can also arrange a consultation if you're ready to move forward.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, let’s do that.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 111,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect. I’ll note that down. Is there anything else you’d like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "No, that’s all for now. Just waiting on those results.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Understood, Agnes. I will make sure Dr. Rodriguez gets your request for a call.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re very welcome! Have a wonderful day.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 137,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f2ce86f6b094462b9342cf07",
+  "revision": "",
+  "status": "success"
+}
