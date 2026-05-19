@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-60cbc226f4314400987161eb",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382675-67d2692c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-60cbc226f4314400987161eb",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "60cbc226f4314400987161eb",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-60cbc226f4314400987161eb",
+      "media_name": "b019cca81a4c4ea49ff55ed2d819ce1f.mp3",
+      "scenario": "A returning customer calls to check on the status of a previously reported issue. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is William Chen. I'm calling to follow up on a concern I had regarding my knee recovery plan. Hi William, it's great to hear from you! I remember your case. What specifically would you like to check on? I mentioned last week that I was experiencing some increased pain during therapy sessions. Has there been any update on that? Yes, I see that note in your file. Dr. Rodriguez was supposed to review it. Let me pull up his feedback. Thank you, I appreciate it. According to Dr. Rodriguez, he recommends adjusting the intensity of your physical therapy sessions. He’s noted that your pain might be due to overexertion. That makes sense. I’ve been pushing myself, thinking it would help speed up my recovery. It’s common to want to do more, but we need to balance that with your comfort. Would you like me to schedule a revised therapy session? Yes, please. That would be great. I’ll arrange for Dr. Rodriguez to adjust your plan. Anything else you’d like to discuss while I have you on the line? Actually, yes! I was wondering about the potential for additional personal care services. We can certainly help with that. Do you need assistance with daily activities as well? Yes, I could use some help with bathing and meal prep. Great! I’ll connect you with our Care Coordinator, Lisa Chen. She can discuss the options and pricing with you. That sounds good, thank you! My pleasure! I’ll also document your follow-up on the pain issue and adjust your therapy sessions accordingly. Thank you for your help, Margaret. I really appreciate it. You’re very welcome, William. I’ll ensure Lisa reaches out to you soon regarding personal care. Perfect! I look forward to hearing from her. Have a great day, and take care of yourself! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I'm calling to follow up on a concern I had regarding my knee recovery plan.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William, it's great to hear from you! I remember your case. What specifically would you like to check on?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I mentioned last week that I was experiencing some increased pain during therapy sessions. Has there been any update on that?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Yes, I see that note in your file. Dr. Rodriguez was supposed to review it. Let me pull up his feedback.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "According to Dr. Rodriguez, he recommends adjusting the intensity of your physical therapy sessions. He’s noted that your pain might be due to overexertion.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That makes sense. I’ve been pushing myself, thinking it would help speed up my recovery.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It’s common to want to do more, but we need to balance that with your comfort. Would you like me to schedule a revised therapy session?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please. That would be great.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’ll arrange for Dr. Rodriguez to adjust your plan. Anything else you’d like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Actually, yes! I was wondering about the potential for additional personal care services.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 59,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can certainly help with that. Do you need assistance with daily activities as well?",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 64,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I could use some help with bathing and meal prep.",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll connect you with our Care Coordinator, Lisa Chen. She can discuss the options and pricing with you.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good, thank you!",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "My pleasure! I’ll also document your follow-up on the pain issue and adjust your therapy sessions accordingly.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you for your help, Margaret. I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re very welcome, William. I’ll ensure Lisa reaches out to you soon regarding personal care.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect! I look forward to hearing from her.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Have a great day, and take care of yourself!",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-60cbc226f4314400987161eb",
+  "revision": "",
+  "status": "success"
+}
