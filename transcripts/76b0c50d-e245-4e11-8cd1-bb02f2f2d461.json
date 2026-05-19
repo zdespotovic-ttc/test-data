@@ -1,0 +1,221 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a9bf0bd9a32a40eebdccb7ed",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382512-8b4569d3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a9bf0bd9a32a40eebdccb7ed",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 105,
+      "duration_ms": 105000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "a9bf0bd9a32a40eebdccb7ed",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a9bf0bd9a32a40eebdccb7ed",
+      "media_name": "e005c1817ca54a00a70133244e0d612f.mp3",
+      "scenario": "A person calls to arrange a fitting appointment for a custom suit. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 105.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, my name is Thomas White. I was referred by a support group because my mother has Alzheimer's and needs specialized care. I'm glad you reached out, Thomas. We do offer specialized dementia care services. What specific help are you looking for? I’m really interested in respite services and ongoing care for her. Can you tell me more about those? Absolutely! Our Dementia and Alzheimer's Care is $32 to $40 per hour, providing tailored support for cognitive impairments. We also offer Respite Care at $30 to $38 per hour, which gives family caregivers temporary relief. That sounds great. I’d like to set up an appointment to discuss this further and see how we can get started. Sure! When would you like to come in? We can go over the care plan and answer any questions you might have. How about this Thursday at around 3 PM? Let me check... Yes, that time is available. I’ll book you for this Thursday at 3 PM. Great, thank you! Will I need to bring any specific documents? If you could bring any medical records or previous care plans, that would be helpful. I can do that. And what about insurance? We can assist with insurance authorization during your appointment as well. That’s reassuring. Is there anything else I should know? Just that we’re committed to providing quality care tailored to your mother’s needs. Thank you, Margaret. I really appreciate your help. You’re welcome, Thomas! I’ll see you this Thursday at 3 PM. Looking forward to it. Bye! Bye! Have a great day! (notes for follow-up: confirm booking, prepare care plan details, check insurance requirements)",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Thomas White. I was referred by a support group because my mother has Alzheimer's and needs specialized care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm glad you reached out, Thomas. We do offer specialized dementia care services. What specific help are you looking for?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m really interested in respite services and ongoing care for her. Can you tell me more about those?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely! Our Dementia and Alzheimer's Care is $32 to $40 per hour, providing tailored support for cognitive impairments.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We also offer Respite Care at $30 to $38 per hour, which gives family caregivers temporary relief.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 29,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "That sounds great. I’d like to set up an appointment to discuss this further and see how we can get started.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Sure! When would you like to come in? We can go over the care plan and answer any questions you might have.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "How about this Thursday at around 3 PM?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Let me check... Yes, that time is available. I’ll book you for this Thursday at 3 PM.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Great, thank you! Will I need to bring any specific documents?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "If you could bring any medical records or previous care plans, that would be helpful.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "I can do that. And what about insurance?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "We can assist with insurance authorization during your appointment as well.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That’s reassuring. Is there anything else I should know?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Just that we’re committed to providing quality care tailored to your mother’s needs.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "You’re welcome, Thomas! I’ll see you this Thursday at 3 PM.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Looking forward to it. Bye!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Bye! Have a great day!",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "(notes for follow-up: confirm booking, prepare care plan details, check insurance requirements)",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a9bf0bd9a32a40eebdccb7ed",
+  "revision": "",
+  "status": "success"
+}
