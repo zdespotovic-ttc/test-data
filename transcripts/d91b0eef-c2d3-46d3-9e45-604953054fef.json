@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-33bf16a6c93f45dabf2aced7",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382591-f47d1b32",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-33bf16a6c93f45dabf2aced7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "33bf16a6c93f45dabf2aced7",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-33bf16a6c93f45dabf2aced7",
+      "media_name": "4ea6006be2e9492b9623f6b3d31d7a96.mp3",
+      "scenario": "Someone interested in landscaping services calls to get a quote for a full yard makeover. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is William Chen. I’ve been receiving care for my knee surgery recovery. Hi William! It's great to hear from you. How has your recovery been going? It's going well, but I have a question about landscaping services. I was hoping to get a quote for a full yard makeover. Oh, I think you might have called the wrong place. We specialize in home healthcare. Oh, my mistake! I saw your sign outside and thought you offered landscaping. I really need some help with my yard. I understand the confusion! Unfortunately, we don’t provide those services. That’s okay. Could you recommend any landscaping services in the area? I’m not sure off the top of my head, but I can look into it and email you some options later. That would be really helpful, thank you! Of course! Is there anything else I can assist you with regarding your healthcare needs? Actually, yes! I wanted to know if I could schedule a follow-up visit for physical therapy. Absolutely, I can help with that. When would you like your visit? How about next Tuesday around 10 AM? Let me check that for you. One moment, please. Yes, we have availability next Tuesday at 10 AM. I’ll schedule your appointment with Dr. Rodriguez. Great, thank you! And do you think I could get some additional personal care assistance? Certainly! Personal care assistance can help with daily activities during your recovery. Would I need to schedule that in advance as well? Yes, it’s best to schedule at least a week in advance to ensure availability. Okay, I’ll think about it and call back. Sounds good! I’ll send you the email with landscaping options and confirm your PT appointment for Tuesday. Thank you, Margaret. I appreciate your help! You’re welcome, William! Have a great day! You too! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I’ve been receiving care for my knee surgery recovery.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William! It's great to hear from you. How has your recovery been going?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's going well, but I have a question about landscaping services. I was hoping to get a quote for a full yard makeover.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh, I think you might have called the wrong place. We specialize in home healthcare.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Oh, my mistake! I saw your sign outside and thought you offered landscaping. I really need some help with my yard.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand the confusion! Unfortunately, we don’t provide those services.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That’s okay. Could you recommend any landscaping services in the area?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’m not sure off the top of my head, but I can look into it and email you some options later.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be really helpful, thank you!",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course! Is there anything else I can assist you with regarding your healthcare needs?",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Actually, yes! I wanted to know if I could schedule a follow-up visit for physical therapy.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, I can help with that. When would you like your visit?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "How about next Tuesday around 10 AM?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me check that for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, we have availability next Tuesday at 10 AM. I’ll schedule your appointment with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 88,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Great, thank you! And do you think I could get some additional personal care assistance?",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Certainly! Personal care assistance can help with daily activities during your recovery.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Would I need to schedule that in advance as well?",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Yes, it’s best to schedule at least a week in advance to ensure availability.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Okay, I’ll think about it and call back.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Sounds good! I’ll send you the email with landscaping options and confirm your PT appointment for Tuesday.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 121,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re welcome, William! Have a great day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 131,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-33bf16a6c93f45dabf2aced7",
+  "revision": "",
+  "status": "success"
+}
