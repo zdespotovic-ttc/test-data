@@ -1,0 +1,333 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6f0800617b6040ec84c56ae0",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382609-3ad93e8a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6f0800617b6040ec84c56ae0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "6f0800617b6040ec84c56ae0",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6f0800617b6040ec84c56ae0",
+      "media_name": "9688db45b916410dabdec927aae6b7cc.mp3",
+      "scenario": "A potential client asks about rates for commercial cleaning services. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, I’m Frank Miller. I’m looking for information on your commercial cleaning services. I’m sorry, Frank, but we don’t offer commercial cleaning services. Oh, I see. I thought you might since I need some help at my office. We specialize in home healthcare services, such as nursing and personal care. Got it. Do you know anyone who might handle commercial cleaning? I don’t have specific contacts, but I can suggest checking local listings online. Okay, thanks for that. I’d really appreciate it if you could help me with my home care needs. Absolutely, I’d be happy to assist with your home care services. I currently need diabetic management and wound care. We can definitely help with that. Are you looking for ongoing services? Yes, I’d like to keep the same nurse for continuity. That’s a great idea! I’ll note that down. Also, I need monthly transportation to my endocrinologist. We can arrange transportation services for your appointments as well. How much do the diabetic management and wound care services cost? Our pricing for diabetic management is between $70 and $85 per visit, and wound care is $75 to $95. That seems reasonable. How often do you recommend visits? Typically, we recommend weekly visits, but we can adjust based on your needs. Weekly sounds good. And about the transportation services? Transportation services are priced at $45 to $65 per trip, depending on distance. Okay, so I’d be looking at regular costs for those services. Correct, and we can set up a care plan that outlines everything. Great, let’s do it! What’s the next step? I’ll set up a meeting with our Care Coordinator, Lisa Chen, to discuss your care plan. Sounds perfect! I’ll also send you the details of our services via email. Thank you! Can I have a specific nurse for my care? We can certainly assign you the same nurse for each visit, I’ll make a note of that. I appreciate it! Is there anything else I can assist you with today, Frank? No, that covers everything for now. Great! We’ll be in touch soon to finalize the details. Thank you for calling! Thank you! Have a good day! You too, Frank! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, I’m Frank Miller. I’m looking for information on your commercial cleaning services.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 6,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry, Frank, but we don’t offer commercial cleaning services.",
+          "speaker": "local party",
+          "start_time": 6,
+          "end_time": 9,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I thought you might since I need some help at my office.",
+          "speaker": "remote party",
+          "start_time": 9,
+          "end_time": 12,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We specialize in home healthcare services, such as nursing and personal care.",
+          "speaker": "local party",
+          "start_time": 12,
+          "end_time": 15,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Got it. Do you know anyone who might handle commercial cleaning?",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I don’t have specific contacts, but I can suggest checking local listings online.",
+          "speaker": "local party",
+          "start_time": 19,
+          "end_time": 23,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, thanks for that. I’d really appreciate it if you could help me with my home care needs.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I’d be happy to assist with your home care services.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 30,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I currently need diabetic management and wound care.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can definitely help with that. Are you looking for ongoing services?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 37,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I’d like to keep the same nurse for continuity.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That’s a great idea! I’ll note that down.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Also, I need monthly transportation to my endocrinologist.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can arrange transportation services for your appointments as well.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 52,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "How much do the diabetic management and wound care services cost?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Our pricing for diabetic management is between $70 and $85 per visit, and wound care is $75 to $95.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That seems reasonable. How often do you recommend visits?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Typically, we recommend weekly visits, but we can adjust based on your needs.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Weekly sounds good. And about the transportation services?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 73,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Transportation services are priced at $45 to $65 per trip, depending on distance.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Okay, so I’d be looking at regular costs for those services.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 81,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Correct, and we can set up a care plan that outlines everything.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 85,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great, let’s do it! What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I’ll set up a meeting with our Care Coordinator, Lisa Chen, to discuss your care plan.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds perfect!",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 96,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I’ll also send you the details of our services via email.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you! Can I have a specific nurse for my care?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "We can certainly assign you the same nurse for each visit, I’ll make a note of that.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I appreciate it!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Is there anything else I can assist you with today, Frank?",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "No, that covers everything for now.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Great! We’ll be in touch soon to finalize the details. Thank you for calling!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "Thank you! Have a good day!",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 127,
+          "channel": "right",
+          "id": 33
+        },
+        {
+          "text": "You too, Frank! Goodbye!",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 130,
+          "channel": "left",
+          "id": 34
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6f0800617b6040ec84c56ae0",
+  "revision": "",
+  "status": "success"
+}
