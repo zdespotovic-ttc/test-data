@@ -1,0 +1,333 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ab39ee8d2e8142feb6432885",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382545-6aef45fc",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ab39ee8d2e8142feb6432885",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 177,
+      "duration_ms": 177000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "ab39ee8d2e8142feb6432885",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ab39ee8d2e8142feb6432885",
+      "media_name": "f635ffcbaeb24f2b9674c14724815cf1.mp3",
+      "scenario": "A customer contacts the spa to book a massage session for the weekend. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 177.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is Mark Johnson. I’m looking for help for my elderly parents. Hi Mark, it’s great to hear from you. What specific services are you interested in? Well, they need medication management and also transportation to appointments. We can definitely assist with both of those services. Do you have a preferred schedule in mind? I was hoping to get someone to start this weekend if possible. Absolutely. Just to clarify, would you like medication management and transportation both this weekend? Yes, that would be ideal. Great! For medication management, we have skilled nursing care available at $95 to $125 per visit. And how long does that typically take? It usually lasts about 1 to 2 hours, depending on the needs. Okay, and for transportation, I assume that’s also an additional charge? Yes, transportation services are priced between $45 and $65 per trip. That sounds reasonable. Can we book those services for Saturday? Let me check the availability for our staff. Just one moment, please. Sure, take your time. Thank you for your patience, Mark. We have a nurse available for medication management on Saturday. Perfect! What time can they come? Would 10 AM work for you? Yes, that’s fine. And for transportation, we have a slot available at 1 PM for the appointment. That works too. So, we have a nurse at 10 AM and transport at 1 PM? Exactly! I’ll go ahead and book those services for you. Great, what do you need from me to finalize the booking? I’ll need your parents’ names, their address, and any specific concerns we should know. Sure, their names are John and Mary Johnson, and they live at 123 Elm Street in Wichita. Thank you, Mark. And is there a contact number we can reach you at? Yes, my number is +13165555832. Perfect! I’ll send you a confirmation email as well. Would you like to add personal care assistance for them? Maybe. I’ll need to think about that and check with them. No problem at all. Just let us know if you decide. Thank you, Margaret. I appreciate your help! You’re very welcome, Mark! We look forward to assisting your parents. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Mark Johnson. I’m looking for help for my elderly parents.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Mark, it’s great to hear from you. What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, they need medication management and also transportation to appointments.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely assist with both of those services. Do you have a preferred schedule in mind?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I was hoping to get someone to start this weekend if possible.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely. Just to clarify, would you like medication management and transportation both this weekend?",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that would be ideal.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great! For medication management, we have skilled nursing care available at $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "And how long does that typically take?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It usually lasts about 1 to 2 hours, depending on the needs.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, and for transportation, I assume that’s also an additional charge?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, transportation services are priced between $45 and $65 per trip.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds reasonable. Can we book those services for Saturday?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me check the availability for our staff. Just one moment, please.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you for your patience, Mark. We have a nurse available for medication management on Saturday.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect! What time can they come?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Would 10 AM work for you?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that’s fine.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "And for transportation, we have a slot available at 1 PM for the appointment.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That works too. So, we have a nurse at 10 AM and transport at 1 PM?",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Exactly! I’ll go ahead and book those services for you.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great, what do you need from me to finalize the booking?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I’ll need your parents’ names, their address, and any specific concerns we should know.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 127,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sure, their names are John and Mary Johnson, and they live at 123 Elm Street in Wichita.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 134,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Mark. And is there a contact number we can reach you at?",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 139,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Yes, my number is +13165555832.",
+          "speaker": "remote party",
+          "start_time": 139,
+          "end_time": 143,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Perfect! I’ll send you a confirmation email as well. Would you like to add personal care assistance for them?",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Maybe. I’ll need to think about that and check with them.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "No problem at all. Just let us know if you decide.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 159,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 159,
+          "end_time": 164,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "You’re very welcome, Mark! We look forward to assisting your parents. Have a great day!",
+          "speaker": "local party",
+          "start_time": 164,
+          "end_time": 169,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 169,
+          "end_time": 173,
+          "channel": "right",
+          "id": 33
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 173,
+          "end_time": 177,
+          "channel": "left",
+          "id": 34
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ab39ee8d2e8142feb6432885",
+  "revision": "",
+  "status": "success"
+}
