@@ -1,0 +1,325 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-612a7954ca86447db00445a0",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382658-3a8c3a7d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-612a7954ca86447db00445a0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 180,
+      "duration_ms": 180000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "612a7954ca86447db00445a0",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-612a7954ca86447db00445a0",
+      "media_name": "64cdc0c912a14f939cd16dcc0a7bb08c.mp3",
+      "scenario": "A prospect asks about tuition fees for the upcoming semester at a private school. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 180.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Helen Johnson. I’m a regular client for physical therapy following my shoulder surgery. Hi, Helen! It's great to hear from you. How have you been doing lately? I'm doing okay, thanks. I actually wanted to ask about some upcoming services you offer. Of course! Are you looking for physical therapy again or something different? Well, I also wanted to inquire about tuition fees for the upcoming semester at a private school. I believe you may have called the wrong place, Helen. We specialize in home healthcare services. Oh, I’m so sorry! I must have been thinking about my niece’s schooling. No problem at all! We’re here for your healthcare needs. How can I assist you with that? I’d like to know if I can schedule another session of physical therapy in the next week or two. Absolutely, we can do that. When was your last visit? It was about a week ago. Great! Let me check Dr. Rodriguez's schedule for you. One moment, please. Sure, take your time. Thank you for your patience, Helen. Dr. Rodriguez is available next Tuesday and Thursday. Would any of those days work for you? Yes, Thursday works well for me. Perfect! I’ll book you for Thursday at 10 AM. That sounds good. I appreciate it. You're welcome! Is there anything else you need help with today? I was also considering some personal care assistance for a family member. We offer that as well. We can provide help with personal hygiene, companionship, and more. What are the rates for that service? The rates range from $28 to $35 per hour, depending on the level of care required. That sounds reasonable. I may want to explore that further. Absolutely, I can connect you with our Care Coordinator, Lisa Chen, for more details. Yes, please! I'll transfer your request for a follow-up call from Lisa. Would you like to provide a good time for her to reach you? Mornings work best for me, anytime before noon. Got it! I’ll make sure she knows to reach out in the morning. Thank you so much for your help today, Margaret! You're very welcome, Helen! Looking forward to seeing you on Thursday. Yes, see you then! Have a great day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I’m a regular client for physical therapy following my shoulder surgery.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Helen! It's great to hear from you. How have you been doing lately?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm doing okay, thanks. I actually wanted to ask about some upcoming services you offer.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course! Are you looking for physical therapy again or something different?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Well, I also wanted to inquire about tuition fees for the upcoming semester at a private school.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I believe you may have called the wrong place, Helen. We specialize in home healthcare services.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh, I’m so sorry! I must have been thinking about my niece’s schooling.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "No problem at all! We’re here for your healthcare needs. How can I assist you with that?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I’d like to know if I can schedule another session of physical therapy in the next week or two.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, we can do that. When was your last visit?",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It was about a week ago.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! Let me check Dr. Rodriguez's schedule for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you for your patience, Helen. Dr. Rodriguez is available next Tuesday and Thursday. Would any of those days work for you?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, Thursday works well for me.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect! I’ll book you for Thursday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You're welcome! Is there anything else you need help with today?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I was also considering some personal care assistance for a family member.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We offer that as well. We can provide help with personal hygiene, companionship, and more.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "What are the rates for that service?",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "The rates range from $28 to $35 per hour, depending on the level of care required.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds reasonable. I may want to explore that further.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, I can connect you with our Care Coordinator, Lisa Chen, for more details.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, please!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I'll transfer your request for a follow-up call from Lisa. Would you like to provide a good time for her to reach you?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Mornings work best for me, anytime before noon.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Got it! I’ll make sure she knows to reach out in the morning.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you so much for your help today, Margaret!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You're very welcome, Helen! Looking forward to seeing you on Thursday.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Yes, see you then!",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Have a great day!",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "right",
+          "id": 33
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-612a7954ca86447db00445a0",
+  "revision": "",
+  "status": "success"
+}
