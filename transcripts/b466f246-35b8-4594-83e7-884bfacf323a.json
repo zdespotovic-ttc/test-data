@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f591c3d4e71244be8831eff8",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382527-0e2ca7e9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f591c3d4e71244be8831eff8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "f591c3d4e71244be8831eff8",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f591c3d4e71244be8831eff8",
+      "media_name": "836f374086fc439a801801e8b451e425.mp3",
+      "scenario": "A patient contacts the clinic to schedule their annual check-up. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, it's Helen Johnson. I’d like to schedule my annual check-up, please. Hi Helen! It’s great to hear from you. When were you hoping to schedule this appointment? I’m thinking sometime next week would be ideal. Do you have any openings? Let me check our schedule for next week. One moment please. We have openings on Tuesday and Thursday. Would either of those work for you? Yes, I prefer Tuesday. What time do you have available? We can do 10:00 AM or 2:00 PM on Tuesday. Which one suits you better? 10:00 AM works perfectly for me. Great! I’ll schedule you for 10:00 AM on Tuesday. Thank you, Margaret. And can I also request a follow-up with Dr. Rodriguez for my therapy? Absolutely, I can help with that as well. Have you had a chance to see him recently? It’s been about a month since my last session. We should definitely get you back in. Would you like me to schedule that for the same day? Yes, that sounds good. Alright, let me check Dr. Rodriguez’s schedule for you. He’s available right after your appointment at 11:00 AM. Does that work? Yes, perfect! That’ll give me enough time. Excellent! So I have you booked for a check-up at 10:00 AM and therapy at 11:00 AM on Tuesday. Thank you! I really appreciate it. You’re welcome! Is there anything else I can assist you with today? Actually, could you remind me of the costs for the check-up? Sure! The annual check-up typically ranges from $95 to $125, depending on the services provided. Okay, I’ll keep that in mind. Great! If you need to discuss insurance authorization, Lisa can help you with that. I’ll reach out to her if I have questions. Sounds good! We’ll see you on Tuesday then. Have a great day, Helen! Thanks, Margaret. You too! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it's Helen Johnson. I’d like to schedule my annual check-up, please.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen! It’s great to hear from you. When were you hoping to schedule this appointment?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m thinking sometime next week would be ideal. Do you have any openings?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me check our schedule for next week. One moment please.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We have openings on Tuesday and Thursday. Would either of those work for you?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, I prefer Tuesday. What time do you have available?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "We can do 10:00 AM or 2:00 PM on Tuesday. Which one suits you better?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "10:00 AM works perfectly for me.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Great! I’ll schedule you for 10:00 AM on Tuesday.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thank you, Margaret. And can I also request a follow-up with Dr. Rodriguez for my therapy?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, I can help with that as well. Have you had a chance to see him recently?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "It’s been about a month since my last session.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "We should definitely get you back in. Would you like me to schedule that for the same day?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, that sounds good.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Alright, let me check Dr. Rodriguez’s schedule for you.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "He’s available right after your appointment at 11:00 AM. Does that work?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, perfect! That’ll give me enough time.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Excellent! So I have you booked for a check-up at 10:00 AM and therapy at 11:00 AM on Tuesday.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you! I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Actually, could you remind me of the costs for the check-up?",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sure! The annual check-up typically ranges from $95 to $125, depending on the services provided.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Okay, I’ll keep that in mind.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! If you need to discuss insurance authorization, Lisa can help you with that.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I’ll reach out to her if I have questions.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Sounds good! We’ll see you on Tuesday then. Have a great day, Helen!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thanks, Margaret. You too!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 133,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 137,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 140,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f591c3d4e71244be8831eff8",
+  "revision": "",
+  "status": "success"
+}
