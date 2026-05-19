@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7e7340d4302847e1ac2bfb1d",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382881-34c60c1f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7e7340d4302847e1ac2bfb1d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "7e7340d4302847e1ac2bfb1d",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7e7340d4302847e1ac2bfb1d",
+      "media_name": "3f0e3ea1c9bb46198f403c93be5cb710.mp3",
+      "scenario": "A small business owner requests a quote for a new website design service. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is William Chen. I hope you’re doing well! Hi William! I'm doing well, thank you. How are you? I'm doing alright, just recovering from my knee surgery. I'm glad to hear that! How has the recovery been going? It’s going well, I had a visit from the physical therapist just two days ago. That’s great! Dr. Rodriguez is excellent at helping with post-surgery recovery. Yes, he really is. Actually, I wanted to ask about something else today. Of course! What do you need help with? Well, I’m thinking about setting up a new website for my small business and I’d like a quote on the design services. I’m glad you called! We currently don’t offer web design services ourselves, but I can help you. Oh, really? That would be helpful! What can you do? I can provide you with a list of local web design companies we’ve worked with and their contact info. That sounds perfect! Do you have any specific recommendations? Yes, there’s a company called BrightWeb Solutions that has good feedback. Excellent! Can you give me their contact details? Sure! I’ll send you an email with their contact information and a brief overview. Thank you so much! Would they also be able to do e-commerce setups? Yes, they do e-commerce as well. I'll make sure to mention that in the email. Great! I’d love to get started on this soon. Absolutely, I’ll prioritize that email for you. Any other services you might need? Actually, I’ve been considering some ongoing social media management too. I can connect you with agencies that handle that as well. Perfect! I really appreciate your help with this. No problem at all! I’ll follow up with you once I get the information together. Sounds good, Margaret. Thank you! You’re welcome, William! Take care and talk soon. Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I hope you’re doing well!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William! I'm doing well, thank you. How are you?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm doing alright, just recovering from my knee surgery.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm glad to hear that! How has the recovery been going?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s going well, I had a visit from the physical therapist just two days ago.",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That’s great! Dr. Rodriguez is excellent at helping with post-surgery recovery.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, he really is. Actually, I wanted to ask about something else today.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course! What do you need help with?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 37,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Well, I’m thinking about setting up a new website for my small business and I’d like a quote on the design services.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m glad you called! We currently don’t offer web design services ourselves, but I can help you.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Oh, really? That would be helpful! What can you do?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can provide you with a list of local web design companies we’ve worked with and their contact info.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds perfect! Do you have any specific recommendations?",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, there’s a company called BrightWeb Solutions that has good feedback.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Excellent! Can you give me their contact details?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure! I’ll send you an email with their contact information and a brief overview.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you so much! Would they also be able to do e-commerce setups?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, they do e-commerce as well. I'll make sure to mention that in the email.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great! I’d love to get started on this soon.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, I’ll prioritize that email for you. Any other services you might need?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Actually, I’ve been considering some ongoing social media management too.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I can connect you with agencies that handle that as well.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect! I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "No problem at all! I’ll follow up with you once I get the information together.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds good, Margaret. Thank you!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 121,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, William! Take care and talk soon.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7e7340d4302847e1ac2bfb1d",
+  "revision": "",
+  "status": "success"
+}
