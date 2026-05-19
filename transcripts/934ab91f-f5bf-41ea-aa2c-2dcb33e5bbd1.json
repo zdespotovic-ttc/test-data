@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-06346ce846c34e76b640a8ec",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382499-f86252d2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-06346ce846c34e76b640a8ec",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "06346ce846c34e76b640a8ec",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-06346ce846c34e76b640a8ec",
+      "media_name": "e07d3e4ef46f420d83b20a147a26ee4f.mp3",
+      "scenario": "A returning client calls to book a follow-up session for their therapy treatment. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is William Chen. I'm calling to schedule a follow-up for my therapy treatment. Hi William! It’s great to hear from you again. How have you been since your last visit? I've been recovering well, just a bit sore, but overall, feeling better. I’m glad to hear that! Let’s get you scheduled for your next physical therapy session. Thank you! I’d like to get that set up as soon as possible. Of course! When would you like to come in for the session? How about this Thursday? Is there any availability? Let me check... Yes, we have openings this Thursday. Would you prefer the morning or afternoon? Morning would be best for me. Great! How does 10 AM sound? That works perfectly. Excellent! I’ll book you for Thursday at 10 AM for your physical therapy session. I appreciate that. I also wanted to ask about additional services. Sure! What services are you interested in? I was thinking about maybe some personal care assistance for after my therapy. We can definitely arrange that. Our personal care assistance is $28 to $35 per hour. That sounds reasonable. How would I go about scheduling that? I can set that up for you now. How many hours do you think you’ll need? Just a couple of hours to help with daily activities while I recover. Okay, let’s say two hours for now. Would you like to start this on the same day as your therapy? Yes, that makes sense. Perfect! I’ll book you for two hours of personal care assistance on Thursday after your therapy session. Thank you, Margaret. That sounds great. You’re welcome! Just to confirm, you’re all set for Thursday at 10 AM for therapy, and then two hours of personal care. Yes, that’s right. Is there anything else I can help you with today, William? No, that’s everything for now. Thank you for your help! It was my pleasure! We look forward to seeing you on Thursday. See you then! Take care, William. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I'm calling to schedule a follow-up for my therapy treatment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William! It’s great to hear from you again. How have you been since your last visit?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I've been recovering well, just a bit sore, but overall, feeling better.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m glad to hear that! Let’s get you scheduled for your next physical therapy session.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you! I’d like to get that set up as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 22,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course! When would you like to come in for the session?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "How about this Thursday? Is there any availability?",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check... Yes, we have openings this Thursday. Would you prefer the morning or afternoon?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Morning would be best for me.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great! How does 10 AM sound?",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 42,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That works perfectly.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Excellent! I’ll book you for Thursday at 10 AM for your physical therapy session.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I appreciate that. I also wanted to ask about additional services.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! What services are you interested in?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I was thinking about maybe some personal care assistance for after my therapy.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 64,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can definitely arrange that. Our personal care assistance is $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 68,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds reasonable. How would I go about scheduling that?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I can set that up for you now. How many hours do you think you’ll need?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Just a couple of hours to help with daily activities while I recover.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Okay, let’s say two hours for now. Would you like to start this on the same day as your therapy?",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 85,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that makes sense.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! I’ll book you for two hours of personal care assistance on Thursday after your therapy session.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. That sounds great.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! Just to confirm, you’re all set for Thursday at 10 AM for therapy, and then two hours of personal care.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, that’s right.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 109,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Is there anything else I can help you with today, William?",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 112,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "No, that’s everything for now. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "It was my pleasure! We look forward to seeing you on Thursday.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "See you then!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Take care, William. Goodbye!",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 127,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 130,
+          "channel": "right",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-06346ce846c34e76b640a8ec",
+  "revision": "",
+  "status": "success"
+}
