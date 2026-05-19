@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-18T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ca6eaee50fd845e4b3f43807",
+    "created": 1779087600,
+    "modified": 1779087600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946382868-2ee29e1b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ca6eaee50fd845e4b3f43807",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 96,
+      "duration_ms": 96000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946306800,
+      "call_id": "ca6eaee50fd845e4b3f43807",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ca6eaee50fd845e4b3f43807",
+      "media_name": "e057d6800ece443390902f3e61067e62.mp3",
+      "scenario": "A prospective client wants a quote for a full-service moving package. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 96.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Harold Gonzalez. I'm looking to get a quote for some moving services. I'm sorry, Harold, but we specialize in home healthcare services. Could you clarify what you need? Oh, I see! I thought you did moving services too. I need help for my elderly parents with daily living. We definitely assist with daily living needs. What specific services are you interested in? They need personal care assistance and possibly companion care as well. Great! Our Personal Care Assistance is priced between $28 and $35 per hour. That sounds reasonable. What about companionship? Can you give me a price for that? Sure! Our Companion Care services range from $25 to $30 per hour. Perfect. Do you have caregivers who speak Spanish? Yes, we do have Spanish-speaking caregivers available. That's excellent to hear. My parents would feel more comfortable with that. I completely understand. Would you like to set up an initial consultation to discuss their needs? Yes, I think that would be helpful. When can we do it? I can schedule a consultation as early as this week. How about Thursday at 10 AM? Thursday works for me. Can I bring my parents along? Absolutely! It's important for them to be involved. Great. Will this consultation come with any charges? No, the initial consultation is free of charge. That’s good to know. Can you also provide information on payment options? Yes, we have various payment options available including insurance. I can go over the details during our meeting. Thank you, Margaret. This has been very helpful. It's my pleasure, Harold. I’ll confirm your appointment for Thursday at 10 AM. Sounds good. I'll see you then. Thank you for calling CareFirst Home Health. Have a great day! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I'm looking to get a quote for some moving services.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 6,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry, Harold, but we specialize in home healthcare services. Could you clarify what you need?",
+          "speaker": "local party",
+          "start_time": 6,
+          "end_time": 9,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see! I thought you did moving services too. I need help for my elderly parents with daily living.",
+          "speaker": "remote party",
+          "start_time": 9,
+          "end_time": 13,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We definitely assist with daily living needs. What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 13,
+          "end_time": 16,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "They need personal care assistance and possibly companion care as well.",
+          "speaker": "remote party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great! Our Personal Care Assistance is priced between $28 and $35 per hour.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds reasonable. What about companionship? Can you give me a price for that?",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Sure! Our Companion Care services range from $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Perfect. Do you have caregivers who speak Spanish?",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 37,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, we do have Spanish-speaking caregivers available.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 40,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That's excellent to hear. My parents would feel more comfortable with that.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I completely understand. Would you like to set up an initial consultation to discuss their needs?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I think that would be helpful. When can we do it?",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 52,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can schedule a consultation as early as this week. How about Thursday at 10 AM?",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thursday works for me. Can I bring my parents along?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! It's important for them to be involved.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 63,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great. Will this consultation come with any charges?",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "No, the initial consultation is free of charge.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 71,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That’s good to know. Can you also provide information on payment options?",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we have various payment options available including insurance. I can go over the details during our meeting.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. This has been very helpful.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It's my pleasure, Harold. I’ll confirm your appointment for Thursday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 87,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. I'll see you then.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 90,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 93,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 96,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ca6eaee50fd845e4b3f43807",
+  "revision": "",
+  "status": "success"
+}
