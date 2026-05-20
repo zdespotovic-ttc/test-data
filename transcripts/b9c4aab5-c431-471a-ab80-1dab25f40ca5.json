@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-31b48ef3c4fb4350b8085062",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474313-8c9cd0ef",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-31b48ef3c4fb4350b8085062",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 190,
+      "duration_ms": 190000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "31b48ef3c4fb4350b8085062",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-31b48ef3c4fb4350b8085062",
+      "media_name": "ea65ab1e7bed4f6285f4b60aa24dd534.mp3",
+      "scenario": "A traveler wants details about the hotel amenities and check-in procedures before making a booking. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 190.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, my name is Michael Brown. I found your number through the hospital discharge planning department. Nice to meet you, Michael! How can I assist you? Well, my father has diabetes and needs some wound care and medication management. Can you tell me about those services? Absolutely! We offer skilled nursing care that includes wound care management. It typically costs between $75 and $95 per visit, lasting about 30 to 45 minutes. That sounds good. And what about medication management? Medication management is priced at $65 to $80 for a 30 to 45 minute session. We help with reminders, organization, and supervision of medication administration. Okay, that’s helpful. How often would these services be scheduled? We typically schedule visits based on the client’s needs. For your father, we can discuss weekly or bi-weekly visits, depending on his condition. That makes sense. And will you be able to coordinate with his physician? Yes, we can communicate with his doctor to ensure a comprehensive care plan is in place. Great! And what are your hours of operation? We’re available Monday through Friday from 7 AM to 7 PM, Saturday from 8 AM to 5 PM, and we offer on-call support for emergencies on Sundays. Perfect. I’d like to get more details about the caregiver matching process. Of course! Our Care Coordinator, Lisa, can assist with that. She focuses on developing care plans and matching caregivers with clients based on specific needs. Does she work on weekends too? Yes, Lisa works Monday through Saturday. You can reach her at extension 203 during business hours. Thanks, Margaret. It sounds like you have a good system in place. We strive to provide the best care possible. Would you like me to set up an initial consultation for your father? Yes, that would be great! I’d like to discuss everything in detail. Perfect. I’ll need your father’s information and availability for the consultation. He’s usually free on Thursdays. Excellent! I’ll note that. Can I also get his name and contact details? His name is John Brown, and his phone number is +13165557890. Thank you, Michael! I’ll follow up with you after scheduling the consultation. Is there anything else you need? No, that’s everything for now. Thank you for your help! You’re welcome! Have a great day, and we look forward to assisting your father! Thanks again, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Michael Brown. I found your number through the hospital discharge planning department.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Michael! How can I assist you?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my father has diabetes and needs some wound care and medication management. Can you tell me about those services?",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely! We offer skilled nursing care that includes wound care management. It typically costs between $75 and $95 per visit, lasting about 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. And what about medication management?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 37,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Medication management is priced at $65 to $80 for a 30 to 45 minute session. We help with reminders, organization, and supervision of medication administration.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that’s helpful. How often would these services be scheduled?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We typically schedule visits based on the client’s needs. For your father, we can discuss weekly or bi-weekly visits, depending on his condition.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 58,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That makes sense. And will you be able to coordinate with his physician?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, we can communicate with his doctor to ensure a comprehensive care plan is in place.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great! And what are your hours of operation?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 78,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We’re available Monday through Friday from 7 AM to 7 PM, Saturday from 8 AM to 5 PM, and we offer on-call support for emergencies on Sundays.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 87,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect. I’d like to get more details about the caregiver matching process.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course! Our Care Coordinator, Lisa, can assist with that. She focuses on developing care plans and matching caregivers with clients based on specific needs.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Does she work on weekends too?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 110,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, Lisa works Monday through Saturday. You can reach her at extension 203 during business hours.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thanks, Margaret. It sounds like you have a good system in place.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 123,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We strive to provide the best care possible. Would you like me to set up an initial consultation for your father?",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 130,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that would be great! I’d like to discuss everything in detail.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 137,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect. I’ll need your father’s information and availability for the consultation.",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 145,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "He’s usually free on Thursdays.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 152,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Excellent! I’ll note that. Can I also get his name and contact details?",
+          "speaker": "local party",
+          "start_time": 152,
+          "end_time": 157,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "His name is John Brown, and his phone number is +13165557890.",
+          "speaker": "remote party",
+          "start_time": 157,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Michael! I’ll follow up with you after scheduling the consultation. Is there anything else you need?",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 173,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s everything for now. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 173,
+          "end_time": 178,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Have a great day, and we look forward to assisting your father!",
+          "speaker": "local party",
+          "start_time": 178,
+          "end_time": 184,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thanks again, goodbye!",
+          "speaker": "remote party",
+          "start_time": 184,
+          "end_time": 186,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 186,
+          "end_time": 190,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-31b48ef3c4fb4350b8085062",
+  "revision": "",
+  "status": "success"
+}
