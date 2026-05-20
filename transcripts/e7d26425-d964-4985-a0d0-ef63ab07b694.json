@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-94e3af6238bb42a18766f302",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474109-41fbba75",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-94e3af6238bb42a18766f302",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 153,
+      "duration_ms": 153000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "94e3af6238bb42a18766f302",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-94e3af6238bb42a18766f302",
+      "media_name": "b54688bca9704dbe8b6b4661f1ba8899.mp3",
+      "scenario": "An individual new to the area calls to ask about the types of memberships available at the local gym. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 153.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is Agnes Rodriguez. I’m new to the area and have some questions. Welcome, Agnes! What questions do you have for us? I'm curious about the types of memberships available at the local gym. I’m sorry, but we’re a home healthcare agency, not a gym. Oh, I see! I must have called the wrong place. No problem! We do offer a variety of healthcare services if that interests you. Actually, I could use some help. I’m looking for companionship services. We offer companion care, which includes social interaction and light housekeeping. That sounds perfect! Can you tell me more about the costs? Sure! Our companion care service is priced at $25 to $30 per hour. That seems reasonable. How do I set that up? I can help you with that. Are you looking for regular visits or occasional ones? Ideally, I’d like someone to come regularly, maybe a few times a week. Great! We can set up a care plan that fits your needs. That would be helpful. Do you have any caregivers available? Yes, we can match you with a caregiver based on your preferences. I’d like someone who enjoys gardening, if possible. We can definitely find someone who shares that interest! Wonderful! What other services do you offer? We also provide skilled nursing care, physical therapy, and medication management. That’s good to know! I might need that in the future. Absolutely! Is there anything else you’d like to discuss today? No, just how soon I can start with companion care. We can usually get a caregiver started within a few days. Perfect! How do I proceed with the paperwork? I can connect you with our Care Coordinator, Lisa Chen, for that. That sounds great! What number can I reach her at? You can reach Lisa at +13165559203, extension 203. Thank you! I appreciate your help today. You’re welcome, Agnes! We look forward to helping you. I’ll call Lisa shortly. Have a great day! You too! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Agnes Rodriguez. I’m new to the area and have some questions.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Welcome, Agnes! What questions do you have for us?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm curious about the types of memberships available at the local gym.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry, but we’re a home healthcare agency, not a gym.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Oh, I see! I must have called the wrong place.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "No problem! We do offer a variety of healthcare services if that interests you.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Actually, I could use some help. I’m looking for companionship services.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We offer companion care, which includes social interaction and light housekeeping.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds perfect! Can you tell me more about the costs?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sure! Our companion care service is priced at $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 51,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That seems reasonable. How do I set that up?",
+          "speaker": "remote party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can help you with that. Are you looking for regular visits or occasional ones?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Ideally, I’d like someone to come regularly, maybe a few times a week.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! We can set up a care plan that fits your needs.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 71,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be helpful. Do you have any caregivers available?",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we can match you with a caregiver based on your preferences.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I’d like someone who enjoys gardening, if possible.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can definitely find someone who shares that interest!",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Wonderful! What other services do you offer?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We also provide skilled nursing care, physical therapy, and medication management.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That’s good to know! I might need that in the future.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! Is there anything else you’d like to discuss today?",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, just how soon I can start with companion care.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "We can usually get a caregiver started within a few days.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect! How do I proceed with the paperwork?",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I can connect you with our Care Coordinator, Lisa Chen, for that.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "That sounds great! What number can I reach her at?",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You can reach Lisa at +13165559203, extension 203.",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you! I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You’re welcome, Agnes! We look forward to helping you.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "I’ll call Lisa shortly. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "You too! Take care.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-94e3af6238bb42a18766f302",
+  "revision": "",
+  "status": "success"
+}
