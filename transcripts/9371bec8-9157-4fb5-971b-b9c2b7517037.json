@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-618aaaeb55c7421ebd196e19",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474089-b878442b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-618aaaeb55c7421ebd196e19",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 128,
+      "duration_ms": 128000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "618aaaeb55c7421ebd196e19",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-618aaaeb55c7421ebd196e19",
+      "media_name": "dd3e8de16aac4639be2ded33a5489f54.mp3",
+      "scenario": "A prospect reaches out to inquire about the range of physical therapy services offered at the clinic. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 128.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Edward Martinez, and I'm inquiring about the physical therapy services you offer. Hello, Edward! I'd be happy to provide you with that information. What specific services are you interested in? I'm particularly interested in post-surgery rehabilitation and mobility training for my wife. Great choices! Our physical therapy services include post-surgery rehabilitation and mobility training, among others. Could you tell me more about the pricing and how long the sessions typically last? Sure! The cost for physical therapy ranges from $110 to $140, and sessions usually last about 45 to 60 minutes. That sounds reasonable. Do you think physical therapy would be beneficial for her post-surgery? Absolutely, it can significantly aid recovery and improve mobility. Our therapists create tailored plans for each client. That’s good to know. How do I go about scheduling an appointment? You can schedule an appointment by calling our office or I can assist you right now if you prefer. I would like to schedule an appointment if possible. Perfect! Can I have your wife's name and any specific days or times that work best for you? Her name is Maria Martinez. We're looking at mid-morning on weekdays. Let me check our availability. We usually have openings around 10 AM. Does that work for you? Yes, that would be great! Perfect! I’ll schedule her for 10 AM next Tuesday. Would you like me to send a confirmation via text? Yes, please. That would be very helpful. Great! I’ll also provide information on insurance authorization for physical therapy. That’s something I definitely need to know. I can have our Care Coordinator, Lisa Chen, follow up with you about insurance details. That would be perfect. Thank you! You're welcome, Edward! Is there anything else I can assist you with today? No, that covers everything. Thank you for your help! My pleasure! We look forward to helping Maria. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Edward Martinez, and I'm inquiring about the physical therapy services you offer.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hello, Edward! I'd be happy to provide you with that information. What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm particularly interested in post-surgery rehabilitation and mobility training for my wife.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Great choices! Our physical therapy services include post-surgery rehabilitation and mobility training, among others.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Could you tell me more about the pricing and how long the sessions typically last?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure! The cost for physical therapy ranges from $110 to $140, and sessions usually last about 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds reasonable. Do you think physical therapy would be beneficial for her post-surgery?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, it can significantly aid recovery and improve mobility. Our therapists create tailored plans for each client.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s good to know. How do I go about scheduling an appointment?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "You can schedule an appointment by calling our office or I can assist you right now if you prefer.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I would like to schedule an appointment if possible.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! Can I have your wife's name and any specific days or times that work best for you?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Her name is Maria Martinez. We're looking at mid-morning on weekdays.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me check our availability. We usually have openings around 10 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be great!",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect! I’ll schedule her for 10 AM next Tuesday. Would you like me to send a confirmation via text?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll also provide information on insurance authorization for physical therapy.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That’s something I definitely need to know.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I can have our Care Coordinator, Lisa Chen, follow up with you about insurance details.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That would be perfect. Thank you!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Edward! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that covers everything. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "My pleasure! We look forward to helping Maria. Have a great day!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-618aaaeb55c7421ebd196e19",
+  "revision": "",
+  "status": "success"
+}
