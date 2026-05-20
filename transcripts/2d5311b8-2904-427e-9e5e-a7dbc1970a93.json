@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-79152a4e38b74be49f8a86c7",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474259-23127a02",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-79152a4e38b74be49f8a86c7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 139,
+      "duration_ms": 139000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "79152a4e38b74be49f8a86c7",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-79152a4e38b74be49f8a86c7",
+      "media_name": "1ebcd6709c834beebe84c59b1966a1cc.mp3",
+      "scenario": "A small business owner seeks a quote for IT support services for their office network setup. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 139.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, this is William Chen. I recently started care with you for my knee surgery recovery. Hi, William! It's great to hear from you. How can I assist you today? Well, I'm actually looking for a quote for IT support services for my office network setup. I’m sorry, but we don’t provide IT support services. Did you mean to call a different company? Oh, I thought you might have those services as well. I must have misdialed. No problem at all! Is there something else I can assist you with regarding your care? Actually, while I have you, I’d love to discuss my current care plan. It feels like I might need more physical therapy sessions. Absolutely, William. I can help with that. How many sessions are you considering? Maybe two or three more sessions this week if possible. Let me check our schedule. Dr. Rodriguez is available on Wednesday and Friday. Okay, that sounds good. Would you prefer Wednesday morning or Friday afternoon? Let’s go with Wednesday morning, please. Great! I’ll schedule you for Wednesday at 10 AM. Thank you! What will be the cost of those extra sessions? Each physical therapy session is priced between $110 and $140, depending on the duration and specific needs. Got it. And how do I handle payments for those extra sessions? You can pay through insurance if it's covered, or we can process direct payments after each session. That makes sense. I need to check with my insurance provider then. Sure! Would you like me to send you a summary of the upcoming sessions and their costs? Yes, please! That would be very helpful. I’ll get that emailed to you right after this call. Perfect! Anything else I should know about my care plan? Just a reminder that we’re here for any additional support, like medication management or personal care. Oh, I might be interested in personal care assistance later on. We offer personal care assistance starting at $28 to $35 per hour. I’ll definitely keep that in mind. Thank you, Margaret! You’re welcome, William! Looking forward to seeing you on Wednesday. Thanks again! Bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is William Chen. I recently started care with you for my knee surgery recovery.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, William! It's great to hear from you. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I'm actually looking for a quote for IT support services for my office network setup.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry, but we don’t provide IT support services. Did you mean to call a different company?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Oh, I thought you might have those services as well. I must have misdialed.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "No problem at all! Is there something else I can assist you with regarding your care?",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Actually, while I have you, I’d love to discuss my current care plan. It feels like I might need more physical therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, William. I can help with that. How many sessions are you considering?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Maybe two or three more sessions this week if possible.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check our schedule. Dr. Rodriguez is available on Wednesday and Friday.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, that sounds good.",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 56,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Would you prefer Wednesday morning or Friday afternoon?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Let’s go with Wednesday morning, please.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll schedule you for Wednesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! What will be the cost of those extra sessions?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Each physical therapy session is priced between $110 and $140, depending on the duration and specific needs.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Got it. And how do I handle payments for those extra sessions?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You can pay through insurance if it's covered, or we can process direct payments after each session.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That makes sense. I need to check with my insurance provider then.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Sure! Would you like me to send you a summary of the upcoming sessions and their costs?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please! That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll get that emailed to you right after this call.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect! Anything else I should know about my care plan?",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 112,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Just a reminder that we’re here for any additional support, like medication management or personal care.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Oh, I might be interested in personal care assistance later on.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "We offer personal care assistance starting at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I’ll definitely keep that in mind. Thank you, Margaret!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, William! Looking forward to seeing you on Wednesday.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 133,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thanks again! Bye.",
+          "speaker": "remote party",
+          "start_time": 133,
+          "end_time": 136,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 139,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-79152a4e38b74be49f8a86c7",
+  "revision": "",
+  "status": "success"
+}
