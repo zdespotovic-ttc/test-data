@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ad41c49ba3d546a99d838798",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474222-79871691",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ad41c49ba3d546a99d838798",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "ad41c49ba3d546a99d838798",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ad41c49ba3d546a99d838798",
+      "media_name": "cf5bd88ef98c440f887962090e488c7d.mp3",
+      "scenario": "A hospital urgently requires a rapid restock of medical supplies to continue operations smoothly. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is Thomas White. I'm looking for care for my mother who has Alzheimer's. I'm glad you called, Thomas. We specialize in dementia care. What specific services are you interested in? I need specialized dementia care and also some respite services for myself. Absolutely, we offer both. Can I ask how often you need the respite services? Ideally a few hours a week, maybe more if my schedule gets hectic. That sounds reasonable. Our dementia care is priced at $32 to $40 per hour. Okay, and what about the respite care? Respite care is $30 to $38 per hour. Would that work for your budget? Yes, that seems manageable. But I need to act fast; my mother really needs support soon. I understand the urgency. We're here to help. Can I get your mother’s details to set up a care plan? Sure, her name is Eleanor White, and she's 78 years old. Thank you, Thomas. Is there any specific time you’re looking for services? I’d prefer early afternoons, but I can be flexible. Great, I’ll make a note of that. Our Care Coordinator, Lisa Chen, can assist with scheduling. How soon can we get someone to start? We can usually have a caregiver assigned within 48 hours. Does that work for you? Yes, that should be fine. Perfect. I’ll have Lisa reach out to you shortly to finalize everything. Thank you! I really appreciate your help. You’re welcome! Before we wrap up, I just want to mention our 24/7 live-in care services if you're ever interested. I’ll keep that in mind, thank you. No problem. Do you have any other questions for me today? No, I think that covers everything. Great! I’ll ensure Lisa follows up soon. Have a wonderful day, Thomas! Thanks, you too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Thomas White. I'm looking for care for my mother who has Alzheimer's.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm glad you called, Thomas. We specialize in dementia care. What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I need specialized dementia care and also some respite services for myself.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we offer both. Can I ask how often you need the respite services?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Ideally a few hours a week, maybe more if my schedule gets hectic.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds reasonable. Our dementia care is priced at $32 to $40 per hour.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and what about the respite care?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Respite care is $30 to $38 per hour. Would that work for your budget?",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that seems manageable. But I need to act fast; my mother really needs support soon.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand the urgency. We're here to help. Can I get your mother’s details to set up a care plan?",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, her name is Eleanor White, and she's 78 years old.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you, Thomas. Is there any specific time you’re looking for services?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I’d prefer early afternoons, but I can be flexible.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great, I’ll make a note of that. Our Care Coordinator, Lisa Chen, can assist with scheduling.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "How soon can we get someone to start?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can usually have a caregiver assigned within 48 hours. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that should be fine.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect. I’ll have Lisa reach out to you shortly to finalize everything.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you! I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! Before we wrap up, I just want to mention our 24/7 live-in care services if you're ever interested.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I’ll keep that in mind, thank you.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "No problem. Do you have any other questions for me today?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, I think that covers everything.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! I’ll ensure Lisa follows up soon. Have a wonderful day, Thomas!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks, you too!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ad41c49ba3d546a99d838798",
+  "revision": "",
+  "status": "success"
+}
