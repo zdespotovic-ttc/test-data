@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1b3acda5cffe451fa8be23db",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474213-cdce9c64",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1b3acda5cffe451fa8be23db",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "1b3acda5cffe451fa8be23db",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1b3acda5cffe451fa8be23db",
+      "media_name": "9f30648da7244c1ba526f4fd8f3a9c52.mp3",
+      "scenario": "A customer urgently requests immediate service repair for their broken HVAC system during a heatwave. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. This is Edward Martinez. I'm in a bit of a situation. Hi Edward, it's good to hear from you! What's going on? My HVAC system just broke down, and it's sweltering in here. My wife needs a break, but we can't handle this heat. Oh no, that sounds urgent! I understand how critical it is, especially for your wife. Yes! I really need someone to help fix this as soon as possible. I’m sorry to hear that, but I believe we only provide healthcare services. I know, but I’m worried about my wife's health with this heat. Is there anything you can do? I can help by arranging additional respite care for her during the heatwave. Would that be helpful? Yes, that would be great! I just need someone to be here for her. Okay, how long do you need the caregiver? Just for the day? Yes, please, can we arrange that for today? Let me check our availability. One moment, please. (pause) Alright, I can have a personal care assistant here in about an hour to give your wife some support. That’s perfect! What are the costs involved? Our personal care assistance is priced at $28 to $35 per hour. Got it. Can I book for a full four hours then? Absolutely, that will be about $112 to $140 for the four hours. Okay, let's go ahead with that. Great! I’ll schedule that immediately. Thank you so much, Margaret. I really appreciate your help. You’re very welcome, Edward! Is there anything else I can assist you with today? No, that’s all for now. Thank you again! Alright, I’ll confirm the caregiver's arrival shortly. Take care! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Edward Martinez. I'm in a bit of a situation.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward, it's good to hear from you! What's going on?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My HVAC system just broke down, and it's sweltering in here. My wife needs a break, but we can't handle this heat.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no, that sounds urgent! I understand how critical it is, especially for your wife.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes! I really need someone to help fix this as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m sorry to hear that, but I believe we only provide healthcare services.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I know, but I’m worried about my wife's health with this heat. Is there anything you can do?",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I can help by arranging additional respite care for her during the heatwave. Would that be helpful?",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be great! I just need someone to be here for her.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Okay, how long do you need the caregiver? Just for the day?",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please, can we arrange that for today?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check our availability. One moment, please.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "(pause) Alright, I can have a personal care assistant here in about an hour to give your wife some support.",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 70,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That’s perfect! What are the costs involved?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Our personal care assistance is priced at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Got it. Can I book for a full four hours then?",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely, that will be about $112 to $140 for the four hours.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Okay, let's go ahead with that.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Great! I’ll schedule that immediately.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 97,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 104,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re very welcome, Edward! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that’s all for now. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 114,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Alright, I’ll confirm the caregiver's arrival shortly. Take care!",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1b3acda5cffe451fa8be23db",
+  "revision": "",
+  "status": "success"
+}
