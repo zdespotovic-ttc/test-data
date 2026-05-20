@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-58b7a6233f5f4a73acf01a43",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474080-1344d117",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-58b7a6233f5f4a73acf01a43",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "58b7a6233f5f4a73acf01a43",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-58b7a6233f5f4a73acf01a43",
+      "media_name": "d2b7982c9532423c8b487fdcb6a7ace4.mp3",
+      "scenario": "A renter calls to complain about the poor paint job done in their apartment, saying it is uneven and peeling. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, this is Harold Gonzalez. I'm calling about the care I've been receiving. Hi, Harold! I see you're a client with us. What seems to be the issue? Well, I've been noticing that the care visits haven’t been as effective lately. I’m sorry to hear that. Can you tell me more about your concerns? The vital sign checks are not happening as frequently as they used to, and I feel a bit uneasy. I understand, Harold. Your health is our top priority. Let me look into your recent visit history. Yes, please. It's important, especially with my COPD and cardiac monitoring needs. I see your last visit was a week ago. Do you remember who attended the appointment? It was a nurse named Lisa. I think she did a good job, but I expected more visits. Thank you for that feedback. I'll make sure to address this with our scheduling team. I’d appreciate that. My wife prefers to be present during all nursing visits, too. Absolutely, I’ll ensure that’s noted for future appointments. Also, could we consider having a Spanish-speaking nurse next time? Of course, we can arrange that. I’ll make a note for the caregiver matching process. Great! I’ve been feeling a bit anxious about my health. That’s completely understandable. How about we schedule an additional visit for this week? Yes, I think that would help ease my mind. Let me check our schedule. Would you prefer a visit on Tuesday or Wednesday? Wednesday morning works best for me. Great! I’ll confirm that visit for Wednesday morning. Thank you, Margaret. I really appreciate your help. You’re welcome, Harold. I’ll follow up with you after the appointment to ensure everything is okay. Sounds good. I feel better just knowing I can talk to you about this. Absolutely, feel free to call anytime. I will. Thanks again! Thank you for calling, Harold. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Harold Gonzalez. I'm calling about the care I've been receiving.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Harold! I see you're a client with us. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I've been noticing that the care visits haven’t been as effective lately.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Can you tell me more about your concerns?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The vital sign checks are not happening as frequently as they used to, and I feel a bit uneasy.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, Harold. Your health is our top priority. Let me look into your recent visit history.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please. It's important, especially with my COPD and cardiac monitoring needs.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I see your last visit was a week ago. Do you remember who attended the appointment?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It was a nurse named Lisa. I think she did a good job, but I expected more visits.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for that feedback. I'll make sure to address this with our scheduling team.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I’d appreciate that. My wife prefers to be present during all nursing visits, too.",
+          "speaker": "remote party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, I’ll ensure that’s noted for future appointments.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Also, could we consider having a Spanish-speaking nurse next time?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, we can arrange that. I’ll make a note for the caregiver matching process.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great! I’ve been feeling a bit anxious about my health.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "That’s completely understandable. How about we schedule an additional visit for this week?",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 92,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I think that would help ease my mind.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Let me check our schedule. Would you prefer a visit on Tuesday or Wednesday?",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 104,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Wednesday morning works best for me.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll confirm that visit for Wednesday morning.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Harold. I’ll follow up with you after the appointment to ensure everything is okay.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. I feel better just knowing I can talk to you about this.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, feel free to call anytime.",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for calling, Harold. Have a great day!",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-58b7a6233f5f4a73acf01a43",
+  "revision": "",
+  "status": "success"
+}
