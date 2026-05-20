@@ -1,0 +1,349 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-71800b3fbf704fb8b9e5acc4",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474293-37e4296c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-71800b3fbf704fb8b9e5acc4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 172,
+      "duration_ms": 172000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "71800b3fbf704fb8b9e5acc4",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-71800b3fbf704fb8b9e5acc4",
+      "media_name": "bbec3e74858f42448bc9bbeecaf8402c.mp3",
+      "scenario": "An individual calls to ask about the opening hours of the wellness center and what services are available on weekends. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 172.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Mary O'Connor. I hope you’re doing well. Hi Mary! I'm doing well, thanks for asking. How are you? I'm okay, just a bit anxious about my upcoming IV therapy. I completely understand that. We're here to help you feel comfortable. What can I assist you with today? I wanted to ask about the opening hours of the wellness center and what services are available on weekends. Absolutely! Our wellness center is open on Saturdays from 8 AM to 5 PM. Great, and what services can I expect on Saturdays? On Saturdays, we offer Skilled Nursing Care, Personal Care Assistance, and Companion Care among other services. Can you tell me more about the Skilled Nursing Care? I think that might be helpful. Sure! Skilled Nursing Care includes medication management and health monitoring, and it lasts 1 to 2 hours. The cost ranges from $95 to $125. Thanks, that sounds like it could really help me. Of course! We also have Personal Care Assistance, which is $28 to $35 per hour, if you need help with daily activities. That’s good to know. I might consider that too. Absolutely, just let us know what you decide! Is there anything else you’d like to know? Yes, do you have any caregivers who specialize in reassuring clients? Yes, we have caregivers trained to provide emotional support and reassurance. That’s great! I really need someone who understands my anxiety during treatments. I’ll make a note of that, and we can match you with someone who fits your needs. Perfect, thank you! You're welcome! I’ll follow up with you about caregiver matching after this call. Appreciate that, Margaret. What’s the next step for scheduling? I can schedule your next IV therapy session right now, or you can call back later. Let’s do it now. I prefer to get that sorted. Great! Let me check the schedule for tomorrow. Thanks! I’m looking forward to getting this done. You’re welcome! Just a moment while I pull up the availability. Sure, take your time. Alright, I have an opening tomorrow at 10 AM. Does that work for you? Yes, that’s perfect! Excellent! I’ll book it for you and confirm with the caregiver. Thank you so much, Margaret. You've been really helpful! It’s my pleasure, Mary! We’re here to support you. I appreciate that. Have a great day! You too, Mary! Take care. Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mary O'Connor. I hope you’re doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Mary! I'm doing well, thanks for asking. How are you?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm okay, just a bit anxious about my upcoming IV therapy.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand that. We're here to help you feel comfortable. What can I assist you with today?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I wanted to ask about the opening hours of the wellness center and what services are available on weekends.",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! Our wellness center is open on Saturdays from 8 AM to 5 PM.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great, and what services can I expect on Saturdays?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "On Saturdays, we offer Skilled Nursing Care, Personal Care Assistance, and Companion Care among other services.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Can you tell me more about the Skilled Nursing Care? I think that might be helpful.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sure! Skilled Nursing Care includes medication management and health monitoring, and it lasts 1 to 2 hours. The cost ranges from $95 to $125.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thanks, that sounds like it could really help me.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! We also have Personal Care Assistance, which is $28 to $35 per hour, if you need help with daily activities.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That’s good to know. I might consider that too.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, just let us know what you decide! Is there anything else you’d like to know?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, do you have any caregivers who specialize in reassuring clients?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we have caregivers trained to provide emotional support and reassurance.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 81,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That’s great! I really need someone who understands my anxiety during treatments.",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 86,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll make a note of that, and we can match you with someone who fits your needs.",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 91,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome! I’ll follow up with you about caregiver matching after this call.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Appreciate that, Margaret. What’s the next step for scheduling?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I can schedule your next IV therapy session right now, or you can call back later.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Let’s do it now. I prefer to get that sorted.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! Let me check the schedule for tomorrow.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks! I’m looking forward to getting this done.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Just a moment while I pull up the availability.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Alright, I have an opening tomorrow at 10 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Yes, that’s perfect!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Excellent! I’ll book it for you and confirm with the caregiver.",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 149,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Thank you so much, Margaret. You've been really helpful!",
+          "speaker": "remote party",
+          "start_time": 149,
+          "end_time": 154,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "It’s my pleasure, Mary! We’re here to support you.",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 159,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "I appreciate that. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 159,
+          "end_time": 163,
+          "channel": "right",
+          "id": 33
+        },
+        {
+          "text": "You too, Mary! Take care.",
+          "speaker": "local party",
+          "start_time": 163,
+          "end_time": 167,
+          "channel": "left",
+          "id": 34
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 167,
+          "end_time": 170,
+          "channel": "right",
+          "id": 35
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 172,
+          "channel": "left",
+          "id": 36
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-71800b3fbf704fb8b9e5acc4",
+  "revision": "",
+  "status": "success"
+}
