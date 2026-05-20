@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-41006fde60b841dba0153642",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474070-a9f3d47b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-41006fde60b841dba0153642",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "41006fde60b841dba0153642",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-41006fde60b841dba0153642",
+      "media_name": "c4718903760f4801ac59791bdfecd7b5.mp3",
+      "scenario": "A customer expresses disappointment over the quality of the carpet cleaning service, citing stains that were left behind. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Eleanor Watson. I hope you're doing well. Hi Eleanor! I'm doing well, thank you. How can I assist you today? Well, I wanted to discuss some issues I've been having with the quality of the care services. I’m sorry to hear that. Can you tell me a bit more about the issues you’re experiencing? Yes, it’s specifically the carpet cleaning service. There are still stains that were left behind after the last visit. I understand your concern. When did the cleaning take place? It was just three days ago, after my last physical therapy session. Thank you for that information, Eleanor. I will make sure to address this right away. I appreciate it, but I expected better quality given the service costs. Absolutely, and I apologize for the inconvenience. The cleaning service should meet our high standards. Can we arrange for someone to come and fix it? Yes, I can set that up. Would you prefer a specific time for them to come? Ideally, between 10 AM and 2 PM, like my therapy sessions. Let me check the schedule for you. Thank you. Also, I was wondering if I could get more frequent physical therapy sessions. We can definitely discuss increasing your sessions. How often were you thinking? Maybe twice a week instead of just once? That sounds reasonable. I can connect you with Dr. Rodriguez to discuss this further. Great, I’d appreciate that. Just to confirm, I’ll arrange for the cleaning service to come back and I’ll have Dr. Rodriguez call you. Yes, please do. Thank you for your help, Margaret. Of course, Eleanor. I’m here to help. I look forward to hearing from you soon. Thank you for your patience. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I hope you're doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Eleanor! I'm doing well, thank you. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I wanted to discuss some issues I've been having with the quality of the care services.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Can you tell me a bit more about the issues you’re experiencing?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it’s specifically the carpet cleaning service. There are still stains that were left behind after the last visit.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. When did the cleaning take place?",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It was just three days ago, after my last physical therapy session.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for that information, Eleanor. I will make sure to address this right away.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate it, but I expected better quality given the service costs.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, and I apologize for the inconvenience. The cleaning service should meet our high standards.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Can we arrange for someone to come and fix it?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, I can set that up. Would you prefer a specific time for them to come?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Ideally, between 10 AM and 2 PM, like my therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me check the schedule for you.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. Also, I was wondering if I could get more frequent physical therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 83,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can definitely discuss increasing your sessions. How often were you thinking?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Maybe twice a week instead of just once?",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "That sounds reasonable. I can connect you with Dr. Rodriguez to discuss this further.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great, I’d appreciate that.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Just to confirm, I’ll arrange for the cleaning service to come back and I’ll have Dr. Rodriguez call you.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please do. Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Of course, Eleanor. I’m here to help.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I look forward to hearing from you soon.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your patience. Have a great day!",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-41006fde60b841dba0153642",
+  "revision": "",
+  "status": "success"
+}
