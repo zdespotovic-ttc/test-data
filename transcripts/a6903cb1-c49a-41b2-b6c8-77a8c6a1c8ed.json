@@ -1,0 +1,325 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-319ecba87e4644cfb41c602a",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474246-003c9e8e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-319ecba87e4644cfb41c602a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "319ecba87e4644cfb41c602a",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-319ecba87e4644cfb41c602a",
+      "media_name": "a1e795bae02d41039acbf358aa2f4de1.mp3",
+      "scenario": "A homeowner calls to request a detailed quote for a kitchen renovation, including cabinets, countertops, and appliances. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is Rose Patterson. I'm calling about my mom's care. Hi Rose, it's great to hear from you! How is your mom doing today? She's okay, but I wanted to discuss her care plan. Of course, I can help with that. What specific concerns do you have? Well, we’ve been thinking about adding some additional services. I see. Could you tell me which services you’re considering? We're looking at possibly increasing her companion care hours. That’s definitely an option. Currently, she has companion care daily, correct? Yes, she gets it for about four hours each day. And would you like to increase the duration of those visits? Yes, I think adding another two hours each day would be beneficial. That sounds good. Let me calculate the cost for the additional hours. Currently, companion care is priced at $25 to $30 per hour, so for two extra hours a day, it would be between $50 and $60. Okay, that seems reasonable. What would the total be for a month? For a month, that would be approximately $1,500 to $1,800, depending on the hourly rate. Great. And what about the other services we discussed previously, like personal care assistance? Personal care assistance is available at $28 to $35 per hour. How many hours would you recommend for her personal care? Typically, we suggest about two hours a day for basic personal needs. So that could add another $1,056 to $1,470 a month? Exactly, Rose. Combining those services would certainly enhance her care. Yes, I believe so. Can I go ahead and approve both additional services? Absolutely, I can assist you with that. I’ll need to update her care plan. Sounds good. I’d also like to ensure we keep the same caregivers for consistency. I can certainly arrange that for you. We will prioritize familiar caregivers. Thank you, Margaret. Is there anything else we need to discuss? Just to confirm, I’ll send you an updated care plan and pricing details by email. Yes, please do. My email is rose.patterson@email.com. Got it, Rose. I’ll include a follow-up call next week to check in on everything. Thank you so much for your help today! You’re welcome, Rose! Take care, and we’ll talk soon. Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I'm calling about my mom's care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose, it's great to hear from you! How is your mom doing today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She's okay, but I wanted to discuss her care plan.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course, I can help with that. What specific concerns do you have?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Well, we’ve been thinking about adding some additional services.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see. Could you tell me which services you’re considering?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "We're looking at possibly increasing her companion care hours.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That’s definitely an option. Currently, she has companion care daily, correct?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, she gets it for about four hours each day.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "And would you like to increase the duration of those visits?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I think adding another two hours each day would be beneficial.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That sounds good. Let me calculate the cost for the additional hours.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Currently, companion care is priced at $25 to $30 per hour, so for two extra hours a day, it would be between $50 and $60.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 63,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Okay, that seems reasonable. What would the total be for a month?",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "For a month, that would be approximately $1,500 to $1,800, depending on the hourly rate.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Great. And what about the other services we discussed previously, like personal care assistance?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Personal care assistance is available at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "How many hours would you recommend for her personal care?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Typically, we suggest about two hours a day for basic personal needs.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "So that could add another $1,056 to $1,470 a month?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Exactly, Rose. Combining those services would certainly enhance her care.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, I believe so. Can I go ahead and approve both additional services?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Absolutely, I can assist you with that. I’ll need to update her care plan.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Sounds good. I’d also like to ensure we keep the same caregivers for consistency.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "I can certainly arrange that for you. We will prioritize familiar caregivers.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Margaret. Is there anything else we need to discuss?",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Just to confirm, I’ll send you an updated care plan and pricing details by email.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Yes, please do. My email is rose.patterson@email.com.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Got it, Rose. I’ll include a follow-up call next week to check in on everything.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 146,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "Thank you so much for your help today!",
+          "speaker": "remote party",
+          "start_time": 146,
+          "end_time": 150,
+          "channel": "right",
+          "id": 30
+        },
+        {
+          "text": "You’re welcome, Rose! Take care, and we’ll talk soon.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 31
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 158,
+          "channel": "right",
+          "id": 32
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 158,
+          "end_time": 160,
+          "channel": "left",
+          "id": 33
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-319ecba87e4644cfb41c602a",
+  "revision": "",
+  "status": "success"
+}
