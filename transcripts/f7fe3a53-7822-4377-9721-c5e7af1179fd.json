@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3fa82fd665324697ab28702d",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474322-eac9ba81",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3fa82fd665324697ab28702d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 98,
+      "duration_ms": 98000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "3fa82fd665324697ab28702d",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3fa82fd665324697ab28702d",
+      "media_name": "7318c3a9d69242bcb0f045a41527acd8.mp3",
+      "scenario": "A resident contacts the local library to understand more about the digital resources available to members. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 98.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is William Chen. I'm calling about my care plan after my knee surgery. Hi William! I hope you're doing well post-surgery. What specifically would you like to discuss? Well, I wanted to check in on my physical therapy sessions and get some more information about them. Absolutely, your physical therapy sessions have been scheduled as part of your recovery plan. Great! I had a session two days ago, and I really enjoyed the conversation with the therapist. I’m glad to hear that! Dr. Rodriguez is excellent at connecting with clients. Yes, he is! I was just wondering if there are additional resources or exercises I can do at home? Definitely. I can arrange for some home exercise guidelines or even additional physical therapy sessions if needed. That sounds helpful! How much would the additional sessions cost? Each physical therapy session is priced between $110 and $140, depending on the duration. Okay, I might consider that. What about the home exercise materials? I can provide you with printed materials for free, or we can send them via email. Email would be perfect, thank you. And is there a way to integrate a companion for some motivation? Yes, we offer companion care, which is $25 to $30 per hour. They can help keep you motivated during exercises. That sounds nice! Could we set that up as well? Of course! I can connect you with Lisa Chen, our Care Coordinator, to set that up. Excellent! Could you share her contact info, just in case? Sure! Lisa's direct number is +13165559203. Thank you! I appreciate all this information. You're welcome, William! Is there anything else I can assist you with today? No, that covers everything for now. Thanks again! My pleasure! Have a great day and take care! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I'm calling about my care plan after my knee surgery.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William! I hope you're doing well post-surgery. What specifically would you like to discuss?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I wanted to check in on my physical therapy sessions and get some more information about them.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, your physical therapy sessions have been scheduled as part of your recovery plan.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! I had a session two days ago, and I really enjoyed the conversation with the therapist.",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 22,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m glad to hear that! Dr. Rodriguez is excellent at connecting with clients.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, he is! I was just wondering if there are additional resources or exercises I can do at home?",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Definitely. I can arrange for some home exercise guidelines or even additional physical therapy sessions if needed.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds helpful! How much would the additional sessions cost?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Each physical therapy session is priced between $110 and $140, depending on the duration.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 43,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, I might consider that. What about the home exercise materials?",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 47,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can provide you with printed materials for free, or we can send them via email.",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 50,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Email would be perfect, thank you. And is there a way to integrate a companion for some motivation?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we offer companion care, which is $25 to $30 per hour. They can help keep you motivated during exercises.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds nice! Could we set that up as well?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course! I can connect you with Lisa Chen, our Care Coordinator, to set that up.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Excellent! Could you share her contact info, just in case?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Sure! Lisa's direct number is +13165559203.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 78,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you! I appreciate all this information.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, William! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers everything for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "My pleasure! Have a great day and take care!",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 93,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 96,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 98,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3fa82fd665324697ab28702d",
+  "revision": "",
+  "status": "success"
+}
