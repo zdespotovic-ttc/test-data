@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e1f5c6684a0f4e8abbfd63f9",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474196-c3536f0f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e1f5c6684a0f4e8abbfd63f9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "e1f5c6684a0f4e8abbfd63f9",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e1f5c6684a0f4e8abbfd63f9",
+      "media_name": "e3c011f80ee445faa342972f6ad4faca.mp3",
+      "scenario": "A small business owner calls to contest a late fee added to their account, stating they paid on time. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Mark Johnson. I'm calling regarding a billing issue we have. Of course, Mark. Can you please provide me with some details about the issue? Yes, I noticed a late fee on our account, but I paid the bill on time. I’m sorry to hear that. Let me pull up your account information. Thank you. I found it odd because I've always ensured payments are made promptly. I understand your concern, Mark. Just a moment while I check the payment history. Okay, I see the payment was recorded, but it appears there was a delay in processing. I apologize for the confusion. So, you're saying the late fee was added due to a processing delay? Yes, unfortunately, that seems to be the case. I can initiate a reversal of that fee for you. I appreciate that, but this has me a bit concerned about future payments. I completely understand. Would you like me to set up a monthly payment reminder for you? That sounds great, yes. Also, I need assistance for my elderly parents at home. We can certainly help with that. What specific services do you need? They need medication management and transportation to appointments. We offer medication management for $65 to $80 per visit, and transportation services as well. Can you tell me more about the transportation services? Sure! Transportation services range from $45 to $65 per trip depending on the distance. That sounds reasonable. How do I get started with that? I can connect you with Lisa Chen, our Care Coordinator, to discuss care plans and set everything up. Perfect, can you give me her direct number? Yes, her number is +13165559203. You can reach her Monday through Saturday. Thank you, Margaret. That really helps. You’re welcome! I’ll also make sure to reverse that late fee today. I appreciate your assistance. I'll call Lisa soon. Thank you for your understanding, Mark. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Mark Johnson. I'm calling regarding a billing issue we have.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Mark. Can you please provide me with some details about the issue?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed a late fee on our account, but I paid the bill on time.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Let me pull up your account information.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I found it odd because I've always ensured payments are made promptly.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern, Mark. Just a moment while I check the payment history.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see the payment was recorded, but it appears there was a delay in processing. I apologize for the confusion.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "So, you're saying the late fee was added due to a processing delay?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Yes, unfortunately, that seems to be the case. I can initiate a reversal of that fee for you.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I appreciate that, but this has me a bit concerned about future payments.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I completely understand. Would you like me to set up a monthly payment reminder for you?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That sounds great, yes. Also, I need assistance for my elderly parents at home.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "We can certainly help with that. What specific services do you need?",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "They need medication management and transportation to appointments.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "We offer medication management for $65 to $80 per visit, and transportation services as well.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Can you tell me more about the transportation services?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Sure! Transportation services range from $45 to $65 per trip depending on the distance.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That sounds reasonable. How do I get started with that?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I can connect you with Lisa Chen, our Care Coordinator, to discuss care plans and set everything up.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Perfect, can you give me her direct number?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Yes, her number is +13165559203. You can reach her Monday through Saturday.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Margaret. That really helps.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re welcome! I’ll also make sure to reverse that late fee today.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "I appreciate your assistance. I'll call Lisa soon.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Thank you for your understanding, Mark. Have a great day!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e1f5c6684a0f4e8abbfd63f9",
+  "revision": "",
+  "status": "success"
+}
