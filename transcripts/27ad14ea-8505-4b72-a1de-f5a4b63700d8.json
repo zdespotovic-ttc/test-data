@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e80e8771050e4ce5841e105b",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474331-a746603c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e80e8771050e4ce5841e105b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "e80e8771050e4ce5841e105b",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e80e8771050e4ce5841e105b",
+      "media_name": "22a440a2419742f3ade7284e65f8aad5.mp3",
+      "scenario": "A patient calls to follow up on the test results from their last medical appointment, seeking clarification on what was discussed. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret, this is George Williams. I'm calling to follow up on the test results from my last appointment. Hi, George! It’s great to hear from you. What specific results are you looking to clarify? Well, my doctor mentioned some concerns about my heart function, but I didn't fully understand what it meant. I can understand how that would be concerning. Have you received any written information from your doctor about the results? Yes, I do have a report, but it's a bit technical. No worries, I can help you break it down. What specifically in the report is unclear? It mentioned something about ejection fraction. What does that mean for my recovery? Ejection fraction measures how well your heart pumps blood. A lower percentage can indicate heart issues. Okay, I think I get that. But should I be worried? It depends on the numbers. If your doctor recommended further monitoring or treatment, it’s important to follow up. Yes, they mentioned I should keep up with cardiac care. That's exactly what we can help with here! Would you like to schedule another session for cardiac care monitoring? Yes, I think that would be a good idea. How soon can I book an appointment? We can get you scheduled as early as Tuesday. Does that work for you? Tuesday sounds good. What time do you have available? We have openings at 10 AM and 2 PM. Which would you prefer? Let’s go with 10 AM. Great! I’ll add you to the schedule for Tuesday at 10 AM. Thank you, Margaret. I appreciate the help. Of course, George! Is there anything else you’d like to discuss today? No, that’s all for now. Just wanted to clarify those results. Absolutely! Just remember to review the report with your doctor at your next visit. I will. Thanks again for your professionalism. It’s my pleasure! We’re here to support you. Have a great day, George! You too, Margaret. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is George Williams. I'm calling to follow up on the test results from my last appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, George! It’s great to hear from you. What specific results are you looking to clarify?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my doctor mentioned some concerns about my heart function, but I didn't fully understand what it meant.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I can understand how that would be concerning. Have you received any written information from your doctor about the results?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I do have a report, but it's a bit technical.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "No worries, I can help you break it down. What specifically in the report is unclear?",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It mentioned something about ejection fraction. What does that mean for my recovery?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Ejection fraction measures how well your heart pumps blood. A lower percentage can indicate heart issues.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, I think I get that. But should I be worried?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It depends on the numbers. If your doctor recommended further monitoring or treatment, it’s important to follow up.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 51,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, they mentioned I should keep up with cardiac care.",
+          "speaker": "remote party",
+          "start_time": 51,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That's exactly what we can help with here! Would you like to schedule another session for cardiac care monitoring?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I think that would be a good idea. How soon can I book an appointment?",
+          "speaker": "remote party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can get you scheduled as early as Tuesday. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Tuesday sounds good. What time do you have available?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 73,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We have openings at 10 AM and 2 PM. Which would you prefer?",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Let’s go with 10 AM.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 81,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll add you to the schedule for Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 84,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate the help.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course, George! Is there anything else you’d like to discuss today?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s all for now. Just wanted to clarify those results.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! Just remember to review the report with your doctor at your next visit.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 102,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I will. Thanks again for your professionalism.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure! We’re here to support you. Have a great day, George!",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, Margaret. Bye!",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e80e8771050e4ce5841e105b",
+  "revision": "",
+  "status": "success"
+}
