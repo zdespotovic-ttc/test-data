@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5d8f386ba7e24b798114ddaa",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474002-d5d401a7",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5d8f386ba7e24b798114ddaa",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "5d8f386ba7e24b798114ddaa",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5d8f386ba7e24b798114ddaa",
+      "media_name": "a1135b1e72904421b79b829d8e8af6a5.mp3",
+      "scenario": "A returning customer requests to schedule their annual eye exam. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, it's Agnes Rodriguez. I hope you’re doing well. Hi Agnes! I’m doing well, thank you. How can I assist you today? I wanted to schedule my annual eye exam. It's been on my mind lately. I can help with that. Just to confirm, have you had the exam here before? Yes, I had it done last year through your agency. Great! Let me check our schedule for you. Thanks, I appreciate it. I know it's that time of year again. It looks like we have openings next Tuesday and Thursday afternoons. Which day works best for you? Let’s go with Thursday. I might need a little more time to prepare. Thursday it is! I’ll book you for 2 PM. Does that time work? Yes, that’s perfect. Thank you! You're welcome! I’ll send you a confirmation text and call the day before as a reminder. That sounds good. I also wanted to ask about my companionship visits. Of course! How are those going for you? They've been great, but sometimes I feel like I could use some help with my gardening again. We can definitely arrange for a caregiver who enjoys gardening. Would you like me to look into that as well? Yes, please! That would really brighten my days. I’ll have Lisa Chen, our Care Coordinator, reach out to discuss options. Perfect, thank you! Is there anything else you’d like to cover today? No, I think that’s it for now. Just looking forward to Thursday! Great! You’ll receive a text confirmation soon. Have a wonderful day, Agnes! Thank you, Margaret. You too! Goodbye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it's Agnes Rodriguez. I hope you’re doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes! I’m doing well, thank you. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I wanted to schedule my annual eye exam. It's been on my mind lately.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I can help with that. Just to confirm, have you had the exam here before?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I had it done last year through your agency.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great! Let me check our schedule for you.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thanks, I appreciate it. I know it's that time of year again.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It looks like we have openings next Tuesday and Thursday afternoons. Which day works best for you?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Let’s go with Thursday. I might need a little more time to prepare.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thursday it is! I’ll book you for 2 PM. Does that time work?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that’s perfect. Thank you!",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You're welcome! I’ll send you a confirmation text and call the day before as a reminder.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. I also wanted to ask about my companionship visits.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course! How are those going for you?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "They've been great, but sometimes I feel like I could use some help with my gardening again.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can definitely arrange for a caregiver who enjoys gardening. Would you like me to look into that as well?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please! That would really brighten my days.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll have Lisa Chen, our Care Coordinator, reach out to discuss options.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Is there anything else you’d like to cover today?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, I think that’s it for now. Just looking forward to Thursday!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! You’ll receive a text confirmation soon. Have a wonderful day, Agnes!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. You too!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5d8f386ba7e24b798114ddaa",
+  "revision": "",
+  "status": "success"
+}
