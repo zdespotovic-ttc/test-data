@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9948e1f253194cb9ba0dc079",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474204-7ecf2e8c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9948e1f253194cb9ba0dc079",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "9948e1f253194cb9ba0dc079",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9948e1f253194cb9ba0dc079",
+      "media_name": "a15d68aa27b443f3a8b09c5b4e078b55.mp3",
+      "scenario": "A construction company calls with an urgent request to expedite the delivery of building materials due to a project timeline change. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Charles Thompson. I’ve been receiving post-surgical wound care from your team. Hi Charles! How are you doing today? I'm okay, but I need to talk about something urgent. I just found out my construction project timeline has changed, and we need to expedite materials delivery. I see. That sounds important. Can you provide me with more details about what you need? We need the building materials delivered by next week, but there's a lot of coordination involved. I might need some extra help too. Understood, Charles. Let me get some information from you. What specific materials are you needing? We need drywall, insulation, and lumber. It’s a pretty big order. Got it. And is there a specific delivery date you're aiming for? Yes, we need everything by next Wednesday at the latest. Alright, I’ll speak to our logistics team about expediting the delivery. Thank you! Also, I might need a few extra hands on-site for the unloading. We can help with that. Would you require our personal care assistants for that? Yes, that would be great. I just need some reliable help. Perfect. I’ll arrange for a personal care assistant to be available. I’ll need to confirm the hours. Looking at around 3-4 hours would suffice. Okay, I’ll note that down. I’ll also provide you with a progress report for the VA following this call. That would be really helpful. Thank you for that. Not a problem! I will follow up with you once I confirm the logistics and assistant. I appreciate it, Margaret. I know things are tight, and I really need this to go smoothly. Absolutely, Charles. I’ll do everything I can to ensure it’s expedited. Thanks again. I’ll wait for your update. You’re welcome! Have a great day, Charles.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I’ve been receiving post-surgical wound care from your team.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Charles! How are you doing today?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm okay, but I need to talk about something urgent. I just found out my construction project timeline has changed, and we need to expedite materials delivery.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. That sounds important. Can you provide me with more details about what you need?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We need the building materials delivered by next week, but there's a lot of coordination involved. I might need some extra help too.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Understood, Charles. Let me get some information from you. What specific materials are you needing?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "We need drywall, insulation, and lumber. It’s a pretty big order.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Got it. And is there a specific delivery date you're aiming for?",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, we need everything by next Wednesday at the latest.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Alright, I’ll speak to our logistics team about expediting the delivery.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you! Also, I might need a few extra hands on-site for the unloading.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can help with that. Would you require our personal care assistants for that?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 71,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great. I just need some reliable help.",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect. I’ll arrange for a personal care assistant to be available. I’ll need to confirm the hours.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Looking at around 3-4 hours would suffice.",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Okay, I’ll note that down. I’ll also provide you with a progress report for the VA following this call.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be really helpful. Thank you for that.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Not a problem! I will follow up with you once I confirm the logistics and assistant.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I appreciate it, Margaret. I know things are tight, and I really need this to go smoothly.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, Charles. I’ll do everything I can to ensure it’s expedited.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thanks again. I’ll wait for your update.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! Have a great day, Charles.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9948e1f253194cb9ba0dc079",
+  "revision": "",
+  "status": "success"
+}
