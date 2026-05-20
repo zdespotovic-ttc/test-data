@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1200e95d9dc54b88aa336b5f",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474011-484590e8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1200e95d9dc54b88aa336b5f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "1200e95d9dc54b88aa336b5f",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1200e95d9dc54b88aa336b5f",
+      "media_name": "4f5436a60a484af8892952d36f41ca93.mp3",
+      "scenario": "A prospect who has just moved to the area calls to set up an appointment for a general health check-up. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret, my name is Eleanor Watson. I've just moved to the area and I’d like to schedule a general health check-up. Welcome, Eleanor! I’d be happy to assist you with that. Can I ask if you have a preferred day and time for the appointment? Yes, I’d prefer sometime next week, preferably in the mornings if possible. Great! We have openings on Monday, Wednesday, and Friday mornings. Would any of those work for you? Let’s go with Monday. What time do you have available? We have an opening at 10 AM on Monday. Does that work for you? Yes, that’s perfect! Excellent! I’ll schedule your appointment for 10 AM on Monday. Thank you! Is there anything I should bring or prepare for the appointment? It would be helpful to bring any medical records or a list of medications you’re currently taking. Got it, I’ll make sure to have that ready. Perfect! Also, just to confirm, do you have any specific health concerns we should be aware of? Not really, just a general check-up. I’m still recovering from a stroke, so I want to stay on top of my health. Understood. It’s great that you’re being proactive about your health. Thank you, I appreciate that. Would you be interested in any ongoing physical therapy or skilled nursing services based on your recovery? Yes, I might be. I currently have some therapy, but I could use more help. We can certainly discuss that during your appointment. We offer various services tailored to recovery. That sounds good to me. I’d like to hear more about it. Absolutely! I’ll note that down for our discussion on Monday. Thank you, Margaret. No problem at all, Eleanor! Just to confirm, your appointment is set for Monday at 10 AM. Yes, confirmed! Great! If you need to reach us before then, feel free to call at +13165559200. I will, thank you so much for your help today! You’re very welcome! Have a wonderful day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, my name is Eleanor Watson. I've just moved to the area and I’d like to schedule a general health check-up.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Welcome, Eleanor! I’d be happy to assist you with that. Can I ask if you have a preferred day and time for the appointment?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I’d prefer sometime next week, preferably in the mornings if possible.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Great! We have openings on Monday, Wednesday, and Friday mornings. Would any of those work for you?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Let’s go with Monday. What time do you have available?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We have an opening at 10 AM on Monday. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that’s perfect!",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Excellent! I’ll schedule your appointment for 10 AM on Monday.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you! Is there anything I should bring or prepare for the appointment?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It would be helpful to bring any medical records or a list of medications you’re currently taking.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Got it, I’ll make sure to have that ready.",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! Also, just to confirm, do you have any specific health concerns we should be aware of?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Not really, just a general check-up. I’m still recovering from a stroke, so I want to stay on top of my health.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Understood. It’s great that you’re being proactive about your health.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Would you be interested in any ongoing physical therapy or skilled nursing services based on your recovery?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I might be. I currently have some therapy, but I could use more help.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can certainly discuss that during your appointment. We offer various services tailored to recovery.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good to me. I’d like to hear more about it.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely! I’ll note that down for our discussion on Monday.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "No problem at all, Eleanor! Just to confirm, your appointment is set for Monday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, confirmed!",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! If you need to reach us before then, feel free to call at +13165559200.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will, thank you so much for your help today!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re very welcome! Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1200e95d9dc54b88aa336b5f",
+  "revision": "",
+  "status": "success"
+}
