@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-19T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9520800a486942c49979e43d",
+    "created": 1779174000,
+    "modified": 1779174000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946474281-608026f7",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9520800a486942c49979e43d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 147,
+      "duration_ms": 147000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946393200,
+      "call_id": "9520800a486942c49979e43d",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9520800a486942c49979e43d",
+      "media_name": "744c6e21fa5d443d831e1a9c10fae7d5.mp3",
+      "scenario": "A customer is interested in a quote for home cleaning services on a weekly basis. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 147.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret, my name is Susan Garcia. I was referred by my father's pulmonologist. Hi, Susan! It’s great to hear from you. How can we help with your father’s care? Well, my father has COPD, and he needs respiratory care and assistance with breathing treatments. I see. We can definitely help with that. Just to clarify, are you looking for in-home visits? Yes, that’s right. Perfect. We offer skilled nursing services that include respiratory care. Great! What would that involve? Our skilled nurses can administer breathing treatments, monitor his condition, and provide medication management. It typically lasts 1-2 hours per visit. That sounds good. What are the costs for that? The price for skilled nursing care is between $95 to $125 per visit, depending on the specific services needed. Okay, that’s manageable. How often can we schedule these visits? We recommend at least 2-3 times a week for ongoing support, but we can customize it to your father’s needs. That sounds reasonable. Is there anything else you offer that might help with his situation? Yes, we also provide personal care assistance, like help with daily activities, which could be beneficial. Oh, that might be necessary too. Personal care assistance is priced at $28 to $35 per hour. Would you like a quote for that as well? Yes, please. I’d like to get a quote for weekly cleaning services as well. We don’t provide cleaning services, but I recommend looking into our Companion Care, which can help with light housekeeping. Oh, okay. How much is that? Companion Care is $25 to $30 per hour. Does that sound like something you’d be interested in? Yes, that could work for us. Great! Would you like me to connect you with our Care Coordinator for a detailed care plan? Yes, that would be helpful. Okay, I’ll have Lisa Chen give you a call to discuss the specifics. Thank you! What’s the next step? I’ll need your father’s details and availability for scheduling. Sure, I can provide that. Perfect. I’ll ensure Lisa reaches out to you shortly. Thank you for your help today, Margaret. You’re welcome, Susan! Have a great day. You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, my name is Susan Garcia. I was referred by my father's pulmonologist.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Susan! It’s great to hear from you. How can we help with your father’s care?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my father has COPD, and he needs respiratory care and assistance with breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. We can definitely help with that. Just to clarify, are you looking for in-home visits?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, that’s right.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Perfect. We offer skilled nursing services that include respiratory care.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great! What would that involve?",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our skilled nurses can administer breathing treatments, monitor his condition, and provide medication management. It typically lasts 1-2 hours per visit.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds good. What are the costs for that?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "The price for skilled nursing care is between $95 to $125 per visit, depending on the specific services needed.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, that’s manageable. How often can we schedule these visits?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We recommend at least 2-3 times a week for ongoing support, but we can customize it to your father’s needs.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds reasonable. Is there anything else you offer that might help with his situation?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we also provide personal care assistance, like help with daily activities, which could be beneficial.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Oh, that might be necessary too.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Personal care assistance is priced at $28 to $35 per hour. Would you like a quote for that as well?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. I’d like to get a quote for weekly cleaning services as well.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We don’t provide cleaning services, but I recommend looking into our Companion Care, which can help with light housekeeping.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Oh, okay. How much is that?",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Companion Care is $25 to $30 per hour. Does that sound like something you’d be interested in?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that could work for us.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! Would you like me to connect you with our Care Coordinator for a detailed care plan?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Okay, I’ll have Lisa Chen give you a call to discuss the specifics.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you! What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I’ll need your father’s details and availability for scheduling.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Sure, I can provide that.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Perfect. I’ll ensure Lisa reaches out to you shortly.",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You’re welcome, Susan! Have a great day.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 147,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9520800a486942c49979e43d",
+  "revision": "",
+  "status": "success"
+}
