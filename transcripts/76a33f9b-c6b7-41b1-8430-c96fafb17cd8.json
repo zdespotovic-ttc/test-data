@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-21T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-74db0039721546e3bafe3bc4",
+    "created": 1779346800,
+    "modified": 1779346800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946608558-e107a1c4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-74db0039721546e3bafe3bc4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 155,
+      "duration_ms": 155000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946566000,
+      "call_id": "74db0039721546e3bafe3bc4",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-74db0039721546e3bafe3bc4",
+      "media_name": "3d774458812a4eb1955b98d39aca35c1.mp3",
+      "scenario": "A prospect inquires about the pricing for event catering services. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 155.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I assist you today? Hi, my name is Michael Brown. I was referred here by the hospital discharge planning department. Nice to meet you, Michael! How can we help your father today? My father has diabetes and he needs wound care and medication management. Absolutely, we can certainly help with that. Let me provide you with the details. Great, I appreciate it. Can you tell me about the pricing? For wound care management, the price is between $75 and $95 for a session lasting 30 to 45 minutes. Okay, that sounds reasonable. What about medication management? Medication management costs $65 to $80 for a session of 30 to 45 minutes. So, if we need both services, what would the total be? If both services are needed in one visit, it would total approximately $140 to $175. That’s a bit higher than I expected. Is there any flexibility on the pricing? We can explore options for scheduling more visits per week, which might lower the overall cost. That could be helpful. What would you suggest? We could set up a recurring schedule for twice a week, which can help in managing costs. Sounds like a plan. How quickly can we start? We can start as soon as this week. I just need to finalize some details. What details do you need from me? I’ll need to gather your father’s insurance information and medical history. Okay, I can provide that. Should I email it to you? Email works perfectly. I’ll give you my direct line if you have any questions. That would be helpful, thank you! My direct number is +13165559201, feel free to reach out anytime. Will do. And what about follow-up care? After the initial assessment, we will coordinate ongoing care with our nursing team. Perfect, I want to ensure he’s well taken care of. Absolutely, that’s our priority. I’ll make sure we set everything up smoothly. Thanks, Margaret. I really appreciate your help. You’re welcome, Michael! Looking forward to assisting your father. I’ll send the information over today. Great! I’ll keep an eye out for it. Have a wonderful day! You too, thank you!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Michael Brown. I was referred here by the hospital discharge planning department.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Michael! How can we help your father today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My father has diabetes and he needs wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can certainly help with that. Let me provide you with the details.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great, I appreciate it. Can you tell me about the pricing?",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "For wound care management, the price is between $75 and $95 for a session lasting 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that sounds reasonable. What about medication management?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Medication management costs $65 to $80 for a session of 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "So, if we need both services, what would the total be?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "If both services are needed in one visit, it would total approximately $140 to $175.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s a bit higher than I expected. Is there any flexibility on the pricing?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can explore options for scheduling more visits per week, which might lower the overall cost.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That could be helpful. What would you suggest?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We could set up a recurring schedule for twice a week, which can help in managing costs.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds like a plan. How quickly can we start?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can start as soon as this week. I just need to finalize some details.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "What details do you need from me?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll need to gather your father’s insurance information and medical history.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, I can provide that. Should I email it to you?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Email works perfectly. I’ll give you my direct line if you have any questions.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That would be helpful, thank you!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "My direct number is +13165559201, feel free to reach out anytime.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Will do. And what about follow-up care?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "After the initial assessment, we will coordinate ongoing care with our nursing team.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect, I want to ensure he’s well taken care of.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Absolutely, that’s our priority. I’ll make sure we set everything up smoothly.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thanks, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Michael! Looking forward to assisting your father.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I’ll send the information over today.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Great! I’ll keep an eye out for it. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, thank you!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-74db0039721546e3bafe3bc4",
+  "revision": "",
+  "status": "success"
+}
