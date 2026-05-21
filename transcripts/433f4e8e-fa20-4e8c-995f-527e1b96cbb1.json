@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-21T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c7395b457a7748a0b93485e6",
+    "created": 1779346800,
+    "modified": 1779346800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946608521-5c9583f7",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c7395b457a7748a0b93485e6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946566000,
+      "call_id": "c7395b457a7748a0b93485e6",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c7395b457a7748a0b93485e6",
+      "media_name": "1ba7909adfc94962b1bf6e2b553ea27f.mp3",
+      "scenario": "A customer wants to schedule a follow-up visit to discuss their ongoing treatment plan. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you? Hi Margaret, this is Agnes Rodriguez. I hope you’re doing well. Hi Agnes! I'm doing well, thank you. How can I assist you today? I wanted to schedule a follow-up visit to discuss my ongoing treatment plan. Absolutely, I can help with that. When were you thinking? I’m thinking sometime next week, maybe Tuesday or Wednesday? Let me check the schedule. One moment please. Sure, take your time. (pauses) It looks like I have openings on Tuesday at 1 PM or Wednesday at 10 AM. Wednesday at 10 AM works for me. Great! I’ll put you down for Wednesday at 10 AM. Thank you! I appreciate it. You're welcome! Is there anything specific you want to discuss during the visit? Yes, I’d like to talk about my medication management and how we can improve my daily activities. That sounds important. We can definitely cover that. Also, I've been feeling a bit isolated since my daughter only visits on Sundays. I understand, Agnes. Would you be interested in scheduling some companion care during the week? That could help a lot. What are the options? We offer companion care from $25 to $30 per hour. That sounds reasonable. Can we start with two visits a week? Sure! Would you prefer mornings or afternoons for those visits? Mornings would be best, maybe around 10 AM? Perfect. I’ll arrange companion care for two mornings a week at 10 AM. Thank you, Margaret. It’s really helpful to have this support. Of course, Agnes! I’ll follow up with a confirmation email. I appreciate it. Looking forward to the visit next week. Likewise! If you have any questions in the meantime, feel free to call. I will, thanks again! You’re welcome! Have a great day, Agnes. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I hope you’re doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes! I'm doing well, thank you. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I wanted to schedule a follow-up visit to discuss my ongoing treatment plan.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, I can help with that. When were you thinking?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 18,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I’m thinking sometime next week, maybe Tuesday or Wednesday?",
+          "speaker": "remote party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check the schedule. One moment please.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "(pauses) It looks like I have openings on Tuesday at 1 PM or Wednesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Wednesday at 10 AM works for me.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great! I’ll put you down for Wednesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you! I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You're welcome! Is there anything specific you want to discuss during the visit?",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I’d like to talk about my medication management and how we can improve my daily activities.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That sounds important. We can definitely cover that.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Also, I've been feeling a bit isolated since my daughter only visits on Sundays.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand, Agnes. Would you be interested in scheduling some companion care during the week?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That could help a lot. What are the options?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We offer companion care from $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds reasonable. Can we start with two visits a week?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Sure! Would you prefer mornings or afternoons for those visits?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Mornings would be best, maybe around 10 AM?",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect. I’ll arrange companion care for two mornings a week at 10 AM.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. It’s really helpful to have this support.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Of course, Agnes! I’ll follow up with a confirmation email.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I appreciate it. Looking forward to the visit next week.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Likewise! If you have any questions in the meantime, feel free to call.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will, thanks again!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome! Have a great day, Agnes.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c7395b457a7748a0b93485e6",
+  "revision": "",
+  "status": "success"
+}
