@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-21T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9b753490676c4ea48fe0b48b",
+    "created": 1779346800,
+    "modified": 1779346800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946608396-961b63d8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9b753490676c4ea48fe0b48b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946566000,
+      "call_id": "9b753490676c4ea48fe0b48b",
+      "caller_id_number": "+13165559012",
+      "caller_id_name": "Lucille Davis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9b753490676c4ea48fe0b48b",
+      "media_name": "12035d5093a24107946e66f056c6787d.mp3",
+      "scenario": "A new customer calls to schedule a dental cleaning appointment for next week. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Lucille Davis. I’d like to schedule an appointment for next week. Of course, Lucille! What type of appointment are you looking to schedule? I need a dental cleaning. My dentist recommended I get one soon. I’m sorry, but we don’t provide dental services here at CareFirst. Oh, I see. I thought you offered everything related to personal care. We specialize in home healthcare services like nursing, physical therapy, and personal care. Got it. That makes sense. So, I can’t get a dental cleaning through you? Correct. I can help you with scheduling personal care if you need it. Actually, I might need a personal care assistant next week too. Sure! What days and times do you need assistance? I would need someone on Tuesday and Thursday mornings, around 9 AM. Let me check our availability for those times. One moment, please. Okay, we have availability on both Tuesday and Thursday at 9 AM. Would you like to book those? Yes, please! That would be great! Great! I’ll schedule you for personal care assistance next Tuesday and Thursday at 9 AM. Awesome! Thanks, Margaret. Is there anything else I can assist you with today, Lucille? Not at the moment, but I might need help with medication management soon. We can definitely help with that. I can arrange for our nurse to follow up with you. That would be helpful. I appreciate it. I'll make a note for our nurse, Robert, to contact you next week regarding medication management. Thank you so much for your assistance today! You’re welcome, Lucille! Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Lucille Davis. I’d like to schedule an appointment for next week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Lucille! What type of appointment are you looking to schedule?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I need a dental cleaning. My dentist recommended I get one soon.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry, but we don’t provide dental services here at CareFirst.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Oh, I see. I thought you offered everything related to personal care.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We specialize in home healthcare services like nursing, physical therapy, and personal care.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Got it. That makes sense. So, I can’t get a dental cleaning through you?",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Correct. I can help you with scheduling personal care if you need it.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Actually, I might need a personal care assistant next week too.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sure! What days and times do you need assistance?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I would need someone on Tuesday and Thursday mornings, around 9 AM.",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check our availability for those times. One moment, please.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, we have availability on both Tuesday and Thursday at 9 AM. Would you like to book those?",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 66,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, please! That would be great!",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Great! I’ll schedule you for personal care assistance next Tuesday and Thursday at 9 AM.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Awesome! Thanks, Margaret.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Is there anything else I can assist you with today, Lucille?",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Not at the moment, but I might need help with medication management soon.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "We can definitely help with that. I can arrange for our nurse to follow up with you.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That would be helpful. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I'll make a note for our nurse, Robert, to contact you next week regarding medication management.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 104,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you so much for your assistance today!",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re welcome, Lucille! Have a great day!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 116,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559012",
+    "ooma_remote_name": "Lucille Davis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9b753490676c4ea48fe0b48b",
+  "revision": "",
+  "status": "success"
+}
