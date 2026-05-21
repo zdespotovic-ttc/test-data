@@ -1,0 +1,221 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-21T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-66b2662a527643e5aa469f3c",
+    "created": 1779346800,
+    "modified": 1779346800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946608652-d5d072a0",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-66b2662a527643e5aa469f3c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946566000,
+      "call_id": "66b2662a527643e5aa469f3c",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-66b2662a527643e5aa469f3c",
+      "media_name": "3e1506c62b964cf2886856a7757cab14.mp3",
+      "scenario": "A customer calls to follow up on the repair status of their broken appliance. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is George Williams. I'm calling to follow up on the status of my broken appliance. Hi George, it’s great to hear from you. Just to clarify, which appliance are you referring to? The one related to my cardiac care monitoring setup. It hasn’t been working properly. Right, I remember. Let me check on that for you. Please hold for a moment. (pause) Thanks for your patience, George. It looks like the technician ran into some delays due to parts shipment. They are expected to arrive early next week. That’s a bit longer than I hoped. Is there any way to expedite it? I can certainly reach out to our supplier to see if there’s a way to speed things up. I’d appreciate that. I rely on the monitoring system for my health. Of course, I understand how important it is. I’ll prioritize this. Thank you. Also, I was wondering if I could schedule another cardiac care monitoring session soon? Absolutely! Our registered nurse, Robert, can come out for a visit. What day works for you? How about Tuesday around 10 AM? Let me check our schedule… Yes, that works perfectly. I’ll confirm Robert for Tuesday at 10 AM. Great! Also, can you send me the details for any additional services? I might need more assistance as I recover. Sure, I can send you our service brochure. We offer various options from personal care assistance to therapy services. That sounds good. I’d like to look into that. I’ll make sure to include the pricing in that brochure. Anything else I can assist you with today? No, that's all for now. Thank you for your help, Margaret. You’re welcome, George! I’ll follow up on the appliance and confirm the nurse visit. Have a great day! You too, thanks!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I'm calling to follow up on the status of my broken appliance.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George, it’s great to hear from you. Just to clarify, which appliance are you referring to?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "The one related to my cardiac care monitoring setup. It hasn’t been working properly.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Right, I remember. Let me check on that for you. Please hold for a moment.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "(pause) Thanks for your patience, George. It looks like the technician ran into some delays due to parts shipment. They are expected to arrive early next week.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 35,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "That’s a bit longer than I hoped. Is there any way to expedite it?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I can certainly reach out to our supplier to see if there’s a way to speed things up.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I’d appreciate that. I rely on the monitoring system for my health.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Of course, I understand how important it is. I’ll prioritize this.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thank you. Also, I was wondering if I could schedule another cardiac care monitoring session soon?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely! Our registered nurse, Robert, can come out for a visit. What day works for you?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "How about Tuesday around 10 AM?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Let me check our schedule… Yes, that works perfectly. I’ll confirm Robert for Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Great! Also, can you send me the details for any additional services? I might need more assistance as I recover.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Sure, I can send you our service brochure. We offer various options from personal care assistance to therapy services.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That sounds good. I’d like to look into that.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I’ll make sure to include the pricing in that brochure. Anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "No, that's all for now. Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You’re welcome, George! I’ll follow up on the appliance and confirm the nurse visit. Have a great day!",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "You too, thanks!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 20
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-66b2662a527643e5aa469f3c",
+  "revision": "",
+  "status": "success"
+}
