@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-21T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a127ad9cda6b43c0baf27cb9",
+    "created": 1779346800,
+    "modified": 1779346800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946608469-54fc0835",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a127ad9cda6b43c0baf27cb9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 165,
+      "duration_ms": 165000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946566000,
+      "call_id": "a127ad9cda6b43c0baf27cb9",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a127ad9cda6b43c0baf27cb9",
+      "media_name": "db67ab02ce644f0f87e6381315d52473.mp3",
+      "scenario": "A customer calls to schedule a routine maintenance appointment for their HVAC system. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 165.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret, this is Eleanor Watson. I’d like to schedule a routine maintenance appointment for my HVAC system. I’m sorry, Eleanor. It looks like you’ve reached a home healthcare agency. Oh, I see! I’m so sorry about that. I must have dialed the wrong number. No worries at all! Is there anything related to home healthcare that I can assist you with? Yes, actually. I wanted to discuss my ongoing physical therapy and nursing care. Absolutely! Are you looking to schedule your next appointment? Yes, I’d like to set up another session with Dr. Rodriguez for physical therapy. Great! Just to confirm, what days work best for you? I prefer mornings, ideally between 10 AM and 12 PM, if that’s available. Let me check Dr. Rodriguez’s availability for that time frame. One moment, please. Sure, take your time. Thank you for your patience, Eleanor. It looks like he is available this Thursday at 10:30 AM. Does that work for you? Yes, that works perfectly! Wonderful! I’ll book you for Thursday at 10:30 AM with Dr. Rodriguez. Thank you! Also, could we schedule a nursing visit around the same time? Certainly! Would you like to have a nurse visit on the same day after your therapy session? Yes, that would be great, perhaps around 12 PM? Let me check on that for you. Just one moment, please. No problem! It looks like we can schedule a nursing visit for you at 12 PM on Thursday as well. Perfect! Thank you so much for your help, Margaret. You’re very welcome! I’d also like to mention we offer medication management services, if you’re interested? Oh really? What does that involve? It includes medication reminders, organization, and administration supervision. That sounds useful! Could we discuss pricing and schedule that too? Absolutely! Our medication management services are priced between $65-$80 per visit. Would you like to add this service to your appointment? Yes, let’s go ahead and include that as well. Great! I’ll add that to your appointment for Thursday at 12 PM. Thank you, Margaret! I really appreciate your assistance. It’s my pleasure, Eleanor! We’ll see you on Thursday. Thank you again! You’re welcome! Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Eleanor Watson. I’d like to schedule a routine maintenance appointment for my HVAC system.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry, Eleanor. It looks like you’ve reached a home healthcare agency.",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see! I’m so sorry about that. I must have dialed the wrong number.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "No worries at all! Is there anything related to home healthcare that I can assist you with?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, actually. I wanted to discuss my ongoing physical therapy and nursing care.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! Are you looking to schedule your next appointment?",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, I’d like to set up another session with Dr. Rodriguez for physical therapy.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great! Just to confirm, what days work best for you?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 37,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I prefer mornings, ideally between 10 AM and 12 PM, if that’s available.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check Dr. Rodriguez’s availability for that time frame. One moment, please.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you for your patience, Eleanor. It looks like he is available this Thursday at 10:30 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 68,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that works perfectly!",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Wonderful! I’ll book you for Thursday at 10:30 AM with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! Also, could we schedule a nursing visit around the same time?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Certainly! Would you like to have a nurse visit on the same day after your therapy session?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that would be great, perhaps around 12 PM?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Let me check on that for you. Just one moment, please.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No problem!",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It looks like we can schedule a nursing visit for you at 12 PM on Thursday as well.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect! Thank you so much for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome! I’d also like to mention we offer medication management services, if you’re interested?",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Oh really? What does that involve?",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It includes medication reminders, organization, and administration supervision.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That sounds useful! Could we discuss pricing and schedule that too?",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Absolutely! Our medication management services are priced between $65-$80 per visit. Would you like to add this service to your appointment?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 141,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Yes, let’s go ahead and include that as well.",
+          "speaker": "remote party",
+          "start_time": 141,
+          "end_time": 145,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Great! I’ll add that to your appointment for Thursday at 12 PM.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you, Margaret! I really appreciate your assistance.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "It’s my pleasure, Eleanor! We’ll see you on Thursday.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 159,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Thank you again!",
+          "speaker": "remote party",
+          "start_time": 159,
+          "end_time": 162,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "You’re welcome! Have a great day!",
+          "speaker": "local party",
+          "start_time": 162,
+          "end_time": 165,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a127ad9cda6b43c0baf27cb9",
+  "revision": "",
+  "status": "success"
+}
