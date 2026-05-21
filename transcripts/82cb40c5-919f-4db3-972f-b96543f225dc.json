@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-21T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1fbf6c9fbbc644e58000c73c",
+    "created": 1779346800,
+    "modified": 1779346800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946608641-ee20e4f2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1fbf6c9fbbc644e58000c73c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946566000,
+      "call_id": "1fbf6c9fbbc644e58000c73c",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1fbf6c9fbbc644e58000c73c",
+      "media_name": "c636820f5ecf4a1a8fa004877d26323a.mp3",
+      "scenario": "A prospect calls to get a quote for monthly cleaning services for their office. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi Margaret, this is George Williams. I’m calling to get a quote for cleaning services for my office. Hi George! I hope you’re doing well. Just to clarify, are you looking for regular cleaning services? Yes, that's right. It would be for a small office, about 1,500 square feet. Got it. We typically offer different packages. Do you have a specific frequency in mind, like weekly or bi-weekly? I was thinking weekly would be best. We want to keep it tidy and presentable for clients. That makes sense. I can provide a quote for weekly cleaning services. Let me gather the details. Sure, take your time. For weekly cleaning, our rates typically range from $150 to $200 depending on the specific services you want included. What kind of services does that cover? It includes dusting, vacuuming, mopping, restrooms sanitization, and waste disposal. Additional services can be added as needed. That sounds good, but I’d like to know about any additional costs for deep cleaning. Sure! Deep cleaning is an additional cost of about $250 to $300, depending on the size of the office and what’s required. Okay, that’s helpful to know. What about scheduling? We can typically start as soon as next week depending on our current schedule. Would you like me to check availability? Yes, please. That would be great. Alright. I can also send over a formal quote via email. Could you please provide your email address? Sure, it’s george.williams@email.com. Thank you, George. I’ll send that over shortly. Great! Is there anything else I should know about your services? Just that we also offer additional services like window cleaning and carpet shampooing if you ever need them. That’s good to know. I might consider that in the future. Perfect! I’ll follow up with the quote and the scheduling options. Thank you, Margaret. I appreciate your help! You’re welcome, George! Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I’m calling to get a quote for cleaning services for my office.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George! I hope you’re doing well. Just to clarify, are you looking for regular cleaning services?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, that's right. It would be for a small office, about 1,500 square feet.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Got it. We typically offer different packages. Do you have a specific frequency in mind, like weekly or bi-weekly?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I was thinking weekly would be best. We want to keep it tidy and presentable for clients.",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That makes sense. I can provide a quote for weekly cleaning services. Let me gather the details.",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "For weekly cleaning, our rates typically range from $150 to $200 depending on the specific services you want included.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "What kind of services does that cover?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It includes dusting, vacuuming, mopping, restrooms sanitization, and waste disposal. Additional services can be added as needed.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good, but I’d like to know about any additional costs for deep cleaning.",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Sure! Deep cleaning is an additional cost of about $250 to $300, depending on the size of the office and what’s required.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, that’s helpful to know. What about scheduling?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can typically start as soon as next week depending on our current schedule. Would you like me to check availability?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please. That would be great.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Alright. I can also send over a formal quote via email. Could you please provide your email address?",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sure, it’s george.williams@email.com.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you, George. I’ll send that over shortly.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great! Is there anything else I should know about your services?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Just that we also offer additional services like window cleaning and carpet shampooing if you ever need them.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That’s good to know. I might consider that in the future.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! I’ll follow up with the quote and the scheduling options.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, George! Have a great day!",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1fbf6c9fbbc644e58000c73c",
+  "revision": "",
+  "status": "success"
+}
