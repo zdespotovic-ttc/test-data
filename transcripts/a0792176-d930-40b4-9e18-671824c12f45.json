@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-21T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b42c118597894c46a27c48d4",
+    "created": 1779346800,
+    "modified": 1779346800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946608534-d09617b6",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b42c118597894c46a27c48d4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 116,
+      "duration_ms": 116000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946566000,
+      "call_id": "b42c118597894c46a27c48d4",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b42c118597894c46a27c48d4",
+      "media_name": "aedb9a6204ea480bacd0fba5e597869c.mp3",
+      "scenario": "A prospect calls asking for a quote on landscape design services for their new home. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 116.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is William Chen. I'm a current client, but I have a question about landscaping services. I'm glad to hear from you, William! However, we only offer home healthcare services, not landscaping. Oh, I see. I thought you might offer more services since you provide care at home. I understand the confusion. We specialize in skilled and non-skilled healthcare, like physical therapy and personal care. Got it! I’m actually looking for some help with my knee recovery and physical therapy. We can definitely assist with that. Just to confirm, you started your care plan three weeks ago, right? Yes, that's correct. My last visit was two days ago. Great! If you're looking for ongoing physical therapy, Dr. James Rodriguez is our specialist. Can you tell me more about what that would involve and the pricing? Sure! Physical therapy sessions are priced between $110 to $140 for a 45 to 60-minute session. That sounds reasonable. How often would you recommend I have sessions? Typically, we recommend at least two to three sessions per week for optimal recovery after surgery. That would fit my schedule. Should I coordinate with Dr. Rodriguez directly for booking? Yes, you can reach him directly at +13165559215 to schedule your sessions. Thanks! I’ll reach out to him. Also, I might need some personal care assistance soon. We can provide personal care assistance for activities like bathing and grooming. What’s the pricing for that? Personal care assistance ranges from $28 to $35 per hour, depending on the level of care required. That sounds good. I’ll think about it and let you know when I’m ready. Perfect! Would you like me to set up a follow-up call to check in on your needs next week? Yes, please. That would be helpful. Great! I'll call you next Monday at the same time. Thanks, Margaret. I appreciate your help! You’re welcome, William! Have a great day, and take care! You too! Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is William Chen. I'm a current client, but I have a question about landscaping services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm glad to hear from you, William! However, we only offer home healthcare services, not landscaping.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I thought you might offer more services since you provide care at home.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand the confusion. We specialize in skilled and non-skilled healthcare, like physical therapy and personal care.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Got it! I’m actually looking for some help with my knee recovery and physical therapy.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We can definitely assist with that. Just to confirm, you started your care plan three weeks ago, right?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that's correct. My last visit was two days ago.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 33,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great! If you're looking for ongoing physical therapy, Dr. James Rodriguez is our specialist.",
+          "speaker": "local party",
+          "start_time": 33,
+          "end_time": 37,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Can you tell me more about what that would involve and the pricing?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sure! Physical therapy sessions are priced between $110 to $140 for a 45 to 60-minute session.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds reasonable. How often would you recommend I have sessions?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Typically, we recommend at least two to three sessions per week for optimal recovery after surgery.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would fit my schedule. Should I coordinate with Dr. Rodriguez directly for booking?",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, you can reach him directly at +13165559215 to schedule your sessions.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thanks! I’ll reach out to him. Also, I might need some personal care assistance soon.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can provide personal care assistance for activities like bathing and grooming.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "What’s the pricing for that?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Personal care assistance ranges from $28 to $35 per hour, depending on the level of care required.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. I’ll think about it and let you know when I’m ready.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! Would you like me to set up a follow-up call to check in on your needs next week?",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I'll call you next Monday at the same time.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, William! Have a great day, and take care!",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too! Bye!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 116,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b42c118597894c46a27c48d4",
+  "revision": "",
+  "status": "success"
+}
