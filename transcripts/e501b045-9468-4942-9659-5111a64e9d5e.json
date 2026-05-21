@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-21T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b5402e9ec1b04f0caf19bb1d",
+    "created": 1779346800,
+    "modified": 1779346800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946608572-b2ecec1e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b5402e9ec1b04f0caf19bb1d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 168,
+      "duration_ms": 168000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946566000,
+      "call_id": "b5402e9ec1b04f0caf19bb1d",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b5402e9ec1b04f0caf19bb1d",
+      "media_name": "8852c64c21374f549d04ec14685f6c55.mp3",
+      "scenario": "A client calls to follow up on the status of their recent insurance claim. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 168.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Agnes Rodriguez. I'm calling to follow up on the status of my recent insurance claim. Hi Agnes! It's great to hear from you. Let me pull up your file. One moment, please. Sure, take your time. I just want to make sure everything is moving along with the claim. Okay, I see your claim was submitted for the companion care services you received last month. Right, I just want to confirm that it was received correctly. Yes, it was received, but it appears that the insurance company requested additional documentation. Oh no, what do they need? They’re asking for a detailed report of the services provided and a physician’s note. I see. Can you help me with that? Absolutely! I can prepare the service report for you, but we will need to get a note from your doctor as well. How soon do you think that can be done? I can have the report ready by tomorrow. As for the doctor’s note, it depends on their schedule. That makes sense. I'll reach out to them right after this call. Sounds good! Once you have the note, just send it over to us. Will do. And what happens after that? After we submit the additional documentation, it typically takes about 7-10 business days for the claim to be processed. Okay, thank you for clarifying. Of course! Is there anything else I can assist you with today? Actually, yes. I was wondering if I could schedule a few additional hours of companion care next week. Sure! We can definitely arrange that. How many hours are you thinking? Maybe three hours, spread out over a couple of days? That works! I can check the schedule and get back to you with the available times. Perfect, thank you. Just to recap, I’ll prepare the report by tomorrow, and you’ll request the doctor’s note. Yes, that’s correct. Great! I’ll follow up with you on the companion care schedule as well. Thank you so much, Margaret. I appreciate your help. You’re very welcome, Agnes! If you need anything else, don’t hesitate to call back. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I'm calling to follow up on the status of my recent insurance claim.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes! It's great to hear from you. Let me pull up your file. One moment, please.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, take your time. I just want to make sure everything is moving along with the claim.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Okay, I see your claim was submitted for the companion care services you received last month.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Right, I just want to confirm that it was received correctly.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, it was received, but it appears that the insurance company requested additional documentation.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 38,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh no, what do they need?",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "They’re asking for a detailed report of the services provided and a physician’s note.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I see. Can you help me with that?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely! I can prepare the service report for you, but we will need to get a note from your doctor as well.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How soon do you think that can be done?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can have the report ready by tomorrow. As for the doctor’s note, it depends on their schedule.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That makes sense. I'll reach out to them right after this call.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sounds good! Once you have the note, just send it over to us.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Will do. And what happens after that?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "After we submit the additional documentation, it typically takes about 7-10 business days for the claim to be processed.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, thank you for clarifying.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Actually, yes. I was wondering if I could schedule a few additional hours of companion care next week.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Sure! We can definitely arrange that. How many hours are you thinking?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 118,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Maybe three hours, spread out over a couple of days?",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "That works! I can check the schedule and get back to you with the available times.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect, thank you.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Just to recap, I’ll prepare the report by tomorrow, and you’ll request the doctor’s note.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 142,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Great! I’ll follow up with you on the companion care schedule as well.",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 147,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 147,
+          "end_time": 152,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re very welcome, Agnes! If you need anything else, don’t hesitate to call back. Have a great day!",
+          "speaker": "local party",
+          "start_time": 152,
+          "end_time": 160,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 164,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 164,
+          "end_time": 168,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b5402e9ec1b04f0caf19bb1d",
+  "revision": "",
+  "status": "success"
+}
