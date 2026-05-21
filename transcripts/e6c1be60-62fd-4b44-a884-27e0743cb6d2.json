@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-21T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-915144ee6c3a49ecb8e2a779",
+    "created": 1779346800,
+    "modified": 1779346800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946608699-2745b0ab",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-915144ee6c3a49ecb8e2a779",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 165,
+      "duration_ms": 165000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946566000,
+      "call_id": "915144ee6c3a49ecb8e2a779",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-915144ee6c3a49ecb8e2a779",
+      "media_name": "d1293f47a4c248228b4d251bcb244506.mp3",
+      "scenario": "A prospect calls to receive a quote for a custom-made furniture piece. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 165.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is David Anderson. I was referred by Dorothy Henderson. Hi David, it's great to hear from you! How can I assist you today? My wife is recovering from a stroke, and I’m looking for physical therapy and nursing care for her. We can certainly help with that. Are you looking for ongoing support or just temporary assistance? Ideally, ongoing support would be best for her recovery. Perfect! We offer skilled nursing care, and our physical therapy services can help her regain mobility. Okay, could you provide me with the details and pricing for those services? Yes, of course. Our skilled nursing care ranges from $95 to $125 for 1 to 2 hours. For physical therapy, the cost is between $110 and $140 for a session lasting 45 to 60 minutes. That sounds reasonable. Can you tell me how often we would need these services? Typically, we recommend 2 to 3 times a week for physical therapy, and nursing care can be adjusted based on her needs. Got it. What would the process be to get started? First, we would do an assessment to tailor a care plan specific to your wife's needs. After that, we can schedule her services based on your preferences and availability. That makes sense. How do I schedule the assessment? I can connect you with our Care Coordinator, Lisa Chen, to set that up. Would you like me to transfer you? Yes, please. Great! Also, would you like information on our medication management services? Yes, that might be helpful since she'll need help managing her prescriptions. Our medication management is priced at $65 to $80 for a session of 30 to 45 minutes. Okay, I’ll keep that in mind. I appreciate all this information. Of course, David! I’ll transfer you now to Lisa, and she can assist with the next steps. Thank you for considering CareFirst Home Health! Thank you for your help! You're welcome! Connecting you now.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is David Anderson. I was referred by Dorothy Henderson.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi David, it's great to hear from you! How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My wife is recovering from a stroke, and I’m looking for physical therapy and nursing care for her.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can certainly help with that. Are you looking for ongoing support or just temporary assistance?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Ideally, ongoing support would be best for her recovery.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Perfect! We offer skilled nursing care, and our physical therapy services can help her regain mobility.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, could you provide me with the details and pricing for those services?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 51,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, of course. Our skilled nursing care ranges from $95 to $125 for 1 to 2 hours.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "For physical therapy, the cost is between $110 and $140 for a session lasting 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 64,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That sounds reasonable. Can you tell me how often we would need these services?",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 71,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Typically, we recommend 2 to 3 times a week for physical therapy, and nursing care can be adjusted based on her needs.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 78,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Got it. What would the process be to get started?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 84,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "First, we would do an assessment to tailor a care plan specific to your wife's needs.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 91,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "After that, we can schedule her services based on your preferences and availability.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 99,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That makes sense. How do I schedule the assessment?",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can connect you with our Care Coordinator, Lisa Chen, to set that up. Would you like me to transfer you?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 113,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 116,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! Also, would you like information on our medication management services?",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that might be helpful since she'll need help managing her prescriptions.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 127,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Our medication management is priced at $65 to $80 for a session of 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 134,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Okay, I’ll keep that in mind. I appreciate all this information.",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 143,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Of course, David! I’ll transfer you now to Lisa, and she can assist with the next steps.",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 149,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you for considering CareFirst Home Health!",
+          "speaker": "local party",
+          "start_time": 149,
+          "end_time": 154,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 157,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You're welcome! Connecting you now.",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 160,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-915144ee6c3a49ecb8e2a779",
+  "revision": "",
+  "status": "success"
+}
