@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-21T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bced593e81344342a8e43821",
+    "created": 1779346800,
+    "modified": 1779346800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946608423-066d39ba",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bced593e81344342a8e43821",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946566000,
+      "call_id": "bced593e81344342a8e43821",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bced593e81344342a8e43821",
+      "media_name": "fbd6b1ca416544ce9cda07c6e10ad685.mp3",
+      "scenario": "A prospect calls seeking a quote for corporate wellness packages. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is Jennifer Taylor. I'm looking for some companion care for my elderly grandmother. Hi Jennifer, it's great to hear from you! Could you tell me a bit more about what services you're looking for? Sure! She needs help with daily activities and some companionship as well. That sounds like a wonderful way to support her. We offer personal care assistance and companion care services. What do those services include? Personal care assistance covers bathing, dressing, grooming, and hygiene, while companion care focuses on social interaction, light housekeeping, and meal prep. And what are the costs for those services? For personal care assistance, it's between $28 to $35 per hour, and companion care is $25 to $30 per hour. Okay, that sounds reasonable. How do I set this up? We can schedule an assessment to discuss your grandmother's needs in more detail. Does that sound good? Yes, definitely. How long does the assessment usually take? The assessment typically takes about an hour, and we can coordinate a time that works for you. Great! I'm available this week or next. Would you prefer to set it up for this week? I have openings on Thursday or Friday. Thursday works for me. What time do you have available? I have a slot open at 10 AM or 2 PM. Which would you prefer? Let’s go with 10 AM. Perfect! I’ll schedule the assessment for Thursday at 10 AM. Thank you! Is there anything else I need to prepare for this meeting? Just have any medical records or medication lists handy, if possible. Got it. I’ll make sure to have that ready. Excellent! One more thing—would you be interested in our medication management service as well? Oh, what does that involve? It includes medication reminders, organization, and administration supervision, priced between $65 and $80 per visit. That might be helpful. I’ll think about it and we can discuss it further during the assessment. Sounds good, Jennifer! I’ll confirm the appointment via email after our call. Thank you, Margaret! I appreciate all your help. You’re welcome! Looking forward to meeting you on Thursday. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Jennifer Taylor. I'm looking for some companion care for my elderly grandmother.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Jennifer, it's great to hear from you! Could you tell me a bit more about what services you're looking for?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure! She needs help with daily activities and some companionship as well.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds like a wonderful way to support her. We offer personal care assistance and companion care services.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "What do those services include?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Personal care assistance covers bathing, dressing, grooming, and hygiene, while companion care focuses on social interaction, light housekeeping, and meal prep.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "And what are the costs for those services?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "For personal care assistance, it's between $28 to $35 per hour, and companion care is $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, that sounds reasonable. How do I set this up?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can schedule an assessment to discuss your grandmother's needs in more detail. Does that sound good?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, definitely. How long does the assessment usually take?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The assessment typically takes about an hour, and we can coordinate a time that works for you.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great! I'm available this week or next.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Would you prefer to set it up for this week? I have openings on Thursday or Friday.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thursday works for me. What time do you have available?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I have a slot open at 10 AM or 2 PM. Which would you prefer?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Let’s go with 10 AM.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll schedule the assessment for Thursday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you! Is there anything else I need to prepare for this meeting?",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Just have any medical records or medication lists handy, if possible.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Got it. I’ll make sure to have that ready.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Excellent! One more thing—would you be interested in our medication management service as well?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Oh, what does that involve?",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 126,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It includes medication reminders, organization, and administration supervision, priced between $65 and $80 per visit.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 135,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That might be helpful. I’ll think about it and we can discuss it further during the assessment.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 142,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Sounds good, Jennifer! I’ll confirm the appointment via email after our call.",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 148,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret! I appreciate all your help.",
+          "speaker": "remote party",
+          "start_time": 148,
+          "end_time": 153,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome! Looking forward to meeting you on Thursday.",
+          "speaker": "local party",
+          "start_time": 153,
+          "end_time": 157,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 157,
+          "end_time": 160,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 163,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bced593e81344342a8e43821",
+  "revision": "",
+  "status": "success"
+}
