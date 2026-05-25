@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-72b834334b964a098876e82c",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968215-4a40ee1e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-72b834334b964a098876e82c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 175,
+      "duration_ms": 175000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "72b834334b964a098876e82c",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-72b834334b964a098876e82c",
+      "media_name": "04fdefe72dcb491d9103545f2fc4a798.mp3",
+      "scenario": "A prospect contacts the company to contest a service tax applied to their bill. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 175.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Edward Martinez. I'm calling about a billing issue I noticed on my last invoice. Hi Edward, I’m glad you called. What seems to be the issue with your bill? Well, I see a service tax applied that I wasn’t expecting. I’ve been a client for a year and didn’t have this charge before. I understand your concern. Let me pull up your account so I can take a closer look. Thank you, I appreciate it. It's been a bit confusing, especially with everything going on with my wife's care. Absolutely, I can imagine how stressful it can be. Just a moment while I check your billing details. Alright, I have your account here. Can you confirm the amount of the service tax? It’s $15, and it’s listed as a service tax on the statement. Okay, I see that now. This service tax is a new policy we implemented for certain services. I wasn’t informed about any changes. Is there a reason for this? Yes, we’re adjusting to comply with state regulations, but I understand that this wasn’t communicated clearly. I apologize for that. So, you’re saying this is an ongoing charge? Yes, it will apply to future invoices unless there are further changes to our policy. That’s frustrating. I wish I had more notice about this. I completely understand, Edward. Your feedback is valuable, and I will relay this to our management team. Thank you. But can I at least get a breakdown of the services I was billed for? Certainly! I can send you a detailed statement via email. What’s the best email for you? It’s edward.martinez@example.com. Great, I’ll send that over. Is there anything else you’d like me to address today? Actually, yes. Can we also discuss possibly increasing the hours for respite care for next month? My wife has more appointments coming up. Of course, we can assist with that. I can have Lisa Chen, our Care Coordinator, reach out to you to discuss your options. That would be perfect. I’ll make sure she connects with you soon. Is there a specific time you prefer? Any time during the day would be fine. Noted. I’ll ensure she contacts you during business hours. Thank you so much, Margaret. I appreciate your help with this billing issue. You’re welcome, Edward! I’m here to help. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I'm calling about a billing issue I noticed on my last invoice.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward, I’m glad you called. What seems to be the issue with your bill?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I see a service tax applied that I wasn’t expecting. I’ve been a client for a year and didn’t have this charge before.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account so I can take a closer look.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I appreciate it. It's been a bit confusing, especially with everything going on with my wife's care.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I can imagine how stressful it can be. Just a moment while I check your billing details.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Alright, I have your account here. Can you confirm the amount of the service tax?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "It’s $15, and it’s listed as a service tax on the statement.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Okay, I see that now. This service tax is a new policy we implemented for certain services.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I wasn’t informed about any changes. Is there a reason for this?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Yes, we’re adjusting to comply with state regulations, but I understand that this wasn’t communicated clearly. I apologize for that.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "So, you’re saying this is an ongoing charge?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Yes, it will apply to future invoices unless there are further changes to our policy.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That’s frustrating. I wish I had more notice about this.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I completely understand, Edward. Your feedback is valuable, and I will relay this to our management team.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Thank you. But can I at least get a breakdown of the services I was billed for?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Certainly! I can send you a detailed statement via email. What’s the best email for you?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "It’s edward.martinez@example.com.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Great, I’ll send that over. Is there anything else you’d like me to address today?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Actually, yes. Can we also discuss possibly increasing the hours for respite care for next month? My wife has more appointments coming up.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Of course, we can assist with that. I can have Lisa Chen, our Care Coordinator, reach out to you to discuss your options.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That would be perfect.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I’ll make sure she connects with you soon. Is there a specific time you prefer?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Any time during the day would be fine.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Noted. I’ll ensure she contacts you during business hours.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you so much, Margaret. I appreciate your help with this billing issue.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You’re welcome, Edward! I’m here to help. Have a great day!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-72b834334b964a098876e82c",
+  "revision": "",
+  "status": "success"
+}
