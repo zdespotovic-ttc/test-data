@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-35b75e2b5fed4e6db3dbc825",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946967972-eb534622",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-35b75e2b5fed4e6db3dbc825",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "35b75e2b5fed4e6db3dbc825",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-35b75e2b5fed4e6db3dbc825",
+      "media_name": "473b9ee1a73b4d5fbc354ec87cdb5808.mp3",
+      "scenario": "A long-time client is dissatisfied with the quality of the pest control service and seeks immediate attention. Category: Service Complaint. Flags: quality_complaint. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Jennifer Taylor. I’m reaching out about my grandmother's companion care service. Hi Jennifer! I'm glad you called. What seems to be the issue with the service? Well, I’ve noticed that the caregiver isn’t engaging with her as much as we expected. She seems a bit neglected during her activities. I’m really sorry to hear that. That’s definitely not the experience we want for our clients. It’s just that my grandmother really needs someone who can provide companionship and help her with daily tasks. I completely understand. Can you tell me a bit more about what activities you feel are being missed? Sure, she used to enjoy playing games and going for walks, but lately, the caregiver just seems to sit there instead of engaging her. Thank you for sharing that. I’ll make sure to address this with the caregiver and our care coordination team. I appreciate that. I just want her to have a positive experience at home. Absolutely, Jennifer. We’ll re-evaluate the caregiver match to ensure it meets your grandmother's needs better. That would be great. Also, can you ensure they help her with meal prep? That seems to be another area that’s lacking. Of course, I’ll make a note to emphasize meal preparation in the care plan. Would you like to discuss any other services? Actually, yes. I was thinking about adding some personal care assistance as well. We offer personal care assistance for bathing and grooming at $28 to $35 per hour. Would you like to add that to her services? Yes, that sounds good. Can we start with a couple of hours a week? Certainly. I’ll arrange for that right away. Thank you for your help, Margaret. I’ll look forward to the changes. You’re welcome, Jennifer. I’ll follow up with you by tomorrow to confirm the caregiver match update. That sounds perfect. Thank you! Thank you for bringing this to our attention, Jennifer. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Jennifer Taylor. I’m reaching out about my grandmother's companion care service.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Jennifer! I'm glad you called. What seems to be the issue with the service?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’ve noticed that the caregiver isn’t engaging with her as much as we expected. She seems a bit neglected during her activities.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that. That’s definitely not the experience we want for our clients.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s just that my grandmother really needs someone who can provide companionship and help her with daily tasks.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand. Can you tell me a bit more about what activities you feel are being missed?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, she used to enjoy playing games and going for walks, but lately, the caregiver just seems to sit there instead of engaging her.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for sharing that. I’ll make sure to address this with the caregiver and our care coordination team.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 63,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that. I just want her to have a positive experience at home.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, Jennifer. We’ll re-evaluate the caregiver match to ensure it meets your grandmother's needs better.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great. Also, can you ensure they help her with meal prep? That seems to be another area that’s lacking.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course, I’ll make a note to emphasize meal preparation in the care plan. Would you like to discuss any other services?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Actually, yes. I was thinking about adding some personal care assistance as well.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We offer personal care assistance for bathing and grooming at $28 to $35 per hour. Would you like to add that to her services?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 115,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that sounds good. Can we start with a couple of hours a week?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Certainly. I’ll arrange for that right away.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you for your help, Margaret. I’ll look forward to the changes.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome, Jennifer. I’ll follow up with you by tomorrow to confirm the caregiver match update.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds perfect. Thank you!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you for bringing this to our attention, Jennifer. Have a great day!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-35b75e2b5fed4e6db3dbc825",
+  "revision": "",
+  "status": "success"
+}
