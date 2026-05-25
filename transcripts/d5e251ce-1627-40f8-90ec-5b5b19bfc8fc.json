@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a3523988a0c84effabba8fa9",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968183-8b64ca30",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a3523988a0c84effabba8fa9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "a3523988a0c84effabba8fa9",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a3523988a0c84effabba8fa9",
+      "media_name": "e3324d89a33e4d579fe27a708ed57238.mp3",
+      "scenario": "A returning customer needs immediate assistance with a power outage affecting their entire property. Category: Urgent Request. Flags: urgent_request. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Jennifer Taylor. I'm a returning customer, and I'm in a bit of a pickle. Hi Jennifer! I'm sorry to hear that. Could you tell me what's going on? We just had a major power outage at my grandmother's place, and it’s affecting everything. I'm really worried about her. I understand your concern, Jennifer. Is she okay right now? Yes, she's fine, but she needs help with her daily activities, especially without power. Of course. Would you like us to send a personal care assistant over immediately? Yes, please. That would be a lifesaver. Alright, I can arrange for a personal care assistant to provide assistance with daily activities. Great! How long do you think it will take for someone to arrive? Typically, we can have someone there within the hour. Does that work for you? Yes, that's perfect! Thank you so much. Could you please confirm your grandmother's address for me? It's 1234 Maple Street, Wichita. Thank you. And do you have any specific tasks you want the assistant to focus on? Just help with her meals and make sure she's comfortable. Got it. I’ll make a note of that for the caregiver. Thank you, Margaret. I really appreciate it. You're welcome, Jennifer. Just to let you know, the rate for personal care assistance is $28 to $35 per hour. That’s fine. I just want her to be taken care of. I'll keep you updated. Is there another way we can assist you while we're at it? Actually, could you check if she needs any medication management? Absolutely. I can have someone assess her medication needs during the visit. Thank you so much! You're being so helpful. It’s my pleasure, Jennifer. I’ll follow up with you once the caregiver arrives. Sounds good. I really appreciate all your help today. No problem at all. We'll get this sorted for you. Have a great day! You too, Margaret. Thank you! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Jennifer Taylor. I'm a returning customer, and I'm in a bit of a pickle.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Jennifer! I'm sorry to hear that. Could you tell me what's going on?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "We just had a major power outage at my grandmother's place, and it’s affecting everything. I'm really worried about her.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern, Jennifer. Is she okay right now?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, she's fine, but she needs help with her daily activities, especially without power.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course. Would you like us to send a personal care assistant over immediately?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please. That would be a lifesaver.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Alright, I can arrange for a personal care assistant to provide assistance with daily activities.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Great! How long do you think it will take for someone to arrive?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Typically, we can have someone there within the hour. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that's perfect! Thank you so much.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Could you please confirm your grandmother's address for me?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "It's 1234 Maple Street, Wichita.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you. And do you have any specific tasks you want the assistant to focus on?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Just help with her meals and make sure she's comfortable.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Got it. I’ll make a note of that for the caregiver.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You're welcome, Jennifer. Just to let you know, the rate for personal care assistance is $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That’s fine. I just want her to be taken care of.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I'll keep you updated. Is there another way we can assist you while we're at it?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Actually, could you check if she needs any medication management?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely. I can have someone assess her medication needs during the visit.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much! You're being so helpful.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure, Jennifer. I’ll follow up with you once the caregiver arrives.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds good. I really appreciate all your help today.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "No problem at all. We'll get this sorted for you. Have a great day!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, Margaret. Thank you!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a3523988a0c84effabba8fa9",
+  "revision": "",
+  "status": "success"
+}
