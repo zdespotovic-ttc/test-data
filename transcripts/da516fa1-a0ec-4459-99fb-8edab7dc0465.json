@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1be981095ed54678931de3af",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946967960-0aa30bcf",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1be981095ed54678931de3af",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "1be981095ed54678931de3af",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1be981095ed54678931de3af",
+      "media_name": "1603fb28ce454dbc94a57e617985d1df.mp3",
+      "scenario": "A new customer is unhappy with the quality of the product received and asks for an exchange. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret, this is William Chen. I'm calling about the care I’ve been receiving since my knee surgery. Hi, William! I hope you're doing well. What seems to be the issue? Well, to be honest, I’m a bit disappointed with the quality of the physical therapy sessions. I’m really sorry to hear that. Can you tell me more about what specifically hasn’t met your expectations? The sessions feel rushed, and I don’t think I’m getting the personalized attention I need for my recovery. I understand your concerns. It’s important for us to provide the best care possible. Yes, exactly. I feel like I need a more tailored approach, especially since I’m recovering from surgery. Sure, that makes sense. Would you like me to arrange for a different therapist or discuss this further with Dr. Rodriguez? I would appreciate a different therapist, but I’d also like to discuss my care plan with Dr. Rodriguez. Absolutely. I’ll make a note to have a different therapist assigned and schedule a time for you to speak with Dr. Rodriguez. Thank you, I’d really appreciate that. No problem at all. I want to ensure you're comfortable and receiving quality care. Also, I noticed my last session was shorter than the usual time. Is that something you can address? Yes, I can certainly look into that. Sessions should be consistent with the agreed duration. Great, I just want to make sure I’m on track for my recovery. I understand completely, William. I’ll follow up with our scheduling team to ensure sessions are properly timed. Thank you, Margaret. I really appreciate your help with this. Of course! Just to confirm, I’ll arrange for a new therapist and coordinate a call with Dr. Rodriguez, is that correct? Yes, that sounds perfect. Great! Is there anything else you’d like to address while I have you on the line? Not at the moment, but I might want to discuss additional personal care services later. Absolutely, we can help with that too. Just let us know when you’re ready. Thank you, Margaret. I’ll look forward to hearing back soon. Thank you for your patience, William. You’ll hear from us shortly. Have a great day! You too, thanks! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is William Chen. I'm calling about the care I’ve been receiving since my knee surgery.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, William! I hope you're doing well. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, to be honest, I’m a bit disappointed with the quality of the physical therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that. Can you tell me more about what specifically hasn’t met your expectations?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The sessions feel rushed, and I don’t think I’m getting the personalized attention I need for my recovery.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concerns. It’s important for us to provide the best care possible.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, exactly. I feel like I need a more tailored approach, especially since I’m recovering from surgery.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Sure, that makes sense. Would you like me to arrange for a different therapist or discuss this further with Dr. Rodriguez?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I would appreciate a different therapist, but I’d also like to discuss my care plan with Dr. Rodriguez.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely. I’ll make a note to have a different therapist assigned and schedule a time for you to speak with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I’d really appreciate that.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "No problem at all. I want to ensure you're comfortable and receiving quality care.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Also, I noticed my last session was shorter than the usual time. Is that something you can address?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 81,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, I can certainly look into that. Sessions should be consistent with the agreed duration.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 86,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great, I just want to make sure I’m on track for my recovery.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand completely, William. I’ll follow up with our scheduling team to ensure sessions are properly timed.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course! Just to confirm, I’ll arrange for a new therapist and coordinate a call with Dr. Rodriguez, is that correct?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that sounds perfect.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! Is there anything else you’d like to address while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Not at the moment, but I might want to discuss additional personal care services later.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, we can help with that too. Just let us know when you’re ready.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 131,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I’ll look forward to hearing back soon.",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 136,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your patience, William. You’ll hear from us shortly. Have a great day!",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, thanks!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1be981095ed54678931de3af",
+  "revision": "",
+  "status": "success"
+}
