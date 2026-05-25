@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-39bc77f764234361bfe76fff",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968124-5764b8b9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-39bc77f764234361bfe76fff",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "39bc77f764234361bfe76fff",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-39bc77f764234361bfe76fff",
+      "media_name": "89f9a371c2414de08a1c99829c05578f.mp3",
+      "scenario": "A prospect questions unexpected setup fees on their initial bill. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is Patricia Wilson. I’m calling about post-surgery care for my mother after her hip replacement. Hi, Patricia! I’d be happy to assist you with that. When is her surgery scheduled? It's on the 15th of this month. We’d need care starting the day after. Great! We offer post-surgery recovery care, which includes specialized support. That sounds good. However, I received an initial bill that included some unexpected setup fees. I understand your concern. Could you provide me with more details about those fees? Yes, it seems there was a charge labeled 'setup fee' that I wasn't expecting. I see. Let me check our billing policy regarding setup fees for new clients. I would appreciate that. I wasn’t informed about any setup fees during the initial consultation. I completely understand. We aim for transparency, so let me clarify this for you. The setup fee can cover the initial assessment and coordination of care services. However, I will review your specific case to ensure it aligns with our policy. Thank you. I just want to ensure there are no hidden costs, especially since we need ongoing care. That’s absolutely fair, Patricia. I will look into it right now and follow up with you afterward. Thank you. Also, can you confirm what the ongoing care rates will be? Certainly! Our post-surgery recovery care ranges from $85 to $110 for 1-3 hours of care, depending on the level of assistance needed. That sounds reasonable. I’ll need more hours as her recovery progresses. We can definitely arrange that. I can also discuss options for additional services, like physical therapy, if that’s needed later on. Yes, that could be beneficial. Please include that in your follow-up. Absolutely, Patricia. I’ll outline everything and make sure to include our physical therapy options. Thank you, Margaret. I appreciate your help with this. You're very welcome! I'll call you within the next 24 hours with the information. Sounds good. I’ll be waiting for your call. Thank you for reaching out, Patricia! Have a great day. You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Patricia Wilson. I’m calling about post-surgery care for my mother after her hip replacement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Patricia! I’d be happy to assist you with that. When is her surgery scheduled?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's on the 15th of this month. We’d need care starting the day after.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Great! We offer post-surgery recovery care, which includes specialized support.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. However, I received an initial bill that included some unexpected setup fees.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. Could you provide me with more details about those fees?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, it seems there was a charge labeled 'setup fee' that I wasn't expecting.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I see. Let me check our billing policy regarding setup fees for new clients.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I would appreciate that. I wasn’t informed about any setup fees during the initial consultation.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand. We aim for transparency, so let me clarify this for you.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "The setup fee can cover the initial assessment and coordination of care services. However, I will review your specific case to ensure it aligns with our policy.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you. I just want to ensure there are no hidden costs, especially since we need ongoing care.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "That’s absolutely fair, Patricia. I will look into it right now and follow up with you afterward.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Thank you. Also, can you confirm what the ongoing care rates will be?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Certainly! Our post-surgery recovery care ranges from $85 to $110 for 1-3 hours of care, depending on the level of assistance needed.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That sounds reasonable. I’ll need more hours as her recovery progresses.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "We can definitely arrange that. I can also discuss options for additional services, like physical therapy, if that’s needed later on.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, that could be beneficial. Please include that in your follow-up.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely, Patricia. I’ll outline everything and make sure to include our physical therapy options.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're very welcome! I'll call you within the next 24 hours with the information.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Sounds good. I’ll be waiting for your call.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for reaching out, Patricia! Have a great day.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "right",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-39bc77f764234361bfe76fff",
+  "revision": "",
+  "status": "success"
+}
