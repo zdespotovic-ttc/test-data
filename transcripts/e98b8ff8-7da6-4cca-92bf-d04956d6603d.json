@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e027ed1548ef45a996098376",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968053-a276b100",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e027ed1548ef45a996098376",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 230,
+      "duration_ms": 230000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "e027ed1548ef45a996098376",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e027ed1548ef45a996098376",
+      "media_name": "44c0f4d5116b404dbae27084c214cb90.mp3",
+      "scenario": "A new customer calls fearing a recent charge might be incorrect and requests immediate verification. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 230.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you? Hi Margaret, this is Jennifer Taylor. I'm calling because I have a concern about a recent charge on my credit card. I'm sorry to hear that, Jennifer. Can you provide me with a bit more detail about the charge? Sure, I was charged $150 last week for what I thought was just an initial consultation, but I wasn't expecting that amount. I understand your concern. Let me pull up your account and verify that charge for you. One moment, please. Thank you, I appreciate it. I just want to make sure everything's correct. Okay, I see here that you scheduled both an initial consultation and a companion care service for your grandmother. The consultation is $50, and the companion care is billed at $100. Yes, I remember the consultation fee, but I thought the companion care would be less since it was just a few hours. Our companion care is priced at $25 to $30 per hour, but it can vary based on the specific needs and duration of the service. That makes sense, but could you break down the hours for me? I didn't realize it would add up like that. Of course. It looks like the caregiver was scheduled for four hours, which brings the total to $100 for that day. I see now. I guess I just didn't expect it to be that high for a single day of care. I completely understand. Would you like to adjust the hours for future care services? Yes, I think we should scale it back a bit. Maybe just two hours a day would be better for now. Not a problem, Jennifer. I can help you with that. We can also set up a care plan that fits your grandmother's needs. That would be great, thank you. I want to make sure she gets the help she needs without overextending financially. Absolutely, that’s important. I’ll have Lisa Chen, our Care Coordinator, reach out to you to discuss a tailored care plan. Thank you, I appreciate that. Can you confirm if my payment info is still on file? Yes, your payment information is secure and up to date. You won't have to provide that again unless there are changes. Great! And what’s the best time for Lisa to call me? She works Monday through Saturday, so I can schedule her to call you tomorrow during the day. Would that work? That sounds perfect, thank you so much for your help, Margaret. You’re welcome, Jennifer! Is there anything else I can assist you with today? No, that’ll be all for now. I appreciate your assistance! Thank you for calling CareFirst Home Health. Have a great day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Jennifer Taylor. I'm calling because I have a concern about a recent charge on my credit card.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Jennifer. Can you provide me with a bit more detail about the charge?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, I was charged $150 last week for what I thought was just an initial consultation, but I wasn't expecting that amount.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account and verify that charge for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I appreciate it. I just want to make sure everything's correct.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Okay, I see here that you scheduled both an initial consultation and a companion care service for your grandmother. The consultation is $50, and the companion care is billed at $100.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 55,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, I remember the consultation fee, but I thought the companion care would be less since it was just a few hours.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our companion care is priced at $25 to $30 per hour, but it can vary based on the specific needs and duration of the service.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That makes sense, but could you break down the hours for me? I didn't realize it would add up like that.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course. It looks like the caregiver was scheduled for four hours, which brings the total to $100 for that day.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I see now. I guess I just didn't expect it to be that high for a single day of care.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I completely understand. Would you like to adjust the hours for future care services?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I think we should scale it back a bit. Maybe just two hours a day would be better for now.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Not a problem, Jennifer. I can help you with that. We can also set up a care plan that fits your grandmother's needs.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be great, thank you. I want to make sure she gets the help she needs without overextending financially.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, that’s important. I’ll have Lisa Chen, our Care Coordinator, reach out to you to discuss a tailored care plan.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, I appreciate that. Can you confirm if my payment info is still on file?",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, your payment information is secure and up to date. You won't have to provide that again unless there are changes.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 170,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great! And what’s the best time for Lisa to call me?",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 180,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "She works Monday through Saturday, so I can schedule her to call you tomorrow during the day. Would that work?",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 190,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds perfect, thank you so much for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 190,
+          "end_time": 200,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Jennifer! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 200,
+          "end_time": 210,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’ll be all for now. I appreciate your assistance!",
+          "speaker": "remote party",
+          "start_time": 210,
+          "end_time": 220,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 220,
+          "end_time": 225,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 225,
+          "end_time": 230,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e027ed1548ef45a996098376",
+  "revision": "",
+  "status": "success"
+}
