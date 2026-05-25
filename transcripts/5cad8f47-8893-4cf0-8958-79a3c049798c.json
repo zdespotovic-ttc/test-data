@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3f2afb0b900d4ebdbc878a06",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968270-3533fd26",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3f2afb0b900d4ebdbc878a06",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "3f2afb0b900d4ebdbc878a06",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3f2afb0b900d4ebdbc878a06",
+      "media_name": "488e6ada6b0e4effb2149d94e6c33b7e.mp3",
+      "scenario": "A prospect urgently requests assistance with a water heater that stopped working. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, this is Mary O'Connor. I'm really in a bind right now. I'm sorry to hear that, Mary. What seems to be the issue? My water heater just stopped working, and I have no hot water! I understand how urgent that is. Let's see what we can do to help. I rely on hot water for my IV therapy, especially with the antibiotics. Absolutely, that's very important. When did the water heater stop working? It just happened this morning. I need someone to come look at it ASAP. Okay, I’ll make sure to prioritize this. Are you still receiving IV therapy at home? Yes, I had a nurse visit yesterday. I’m very anxious about interruptions in my care. I completely understand, Mary. We can arrange for a nurse to check on you as well. That would be great. I just need to feel secure during this. Let me check our schedule. Would you prefer a nurse this afternoon? Yes, please. I really need that reassurance. Alright, I’ll get a nurse to you, and I can also recommend someone for the water heater. Thank you! I really appreciate your help with both. No problem, Mary. I’ll notify Angela, our Client Services Manager. Great, what about the water heater? Do you have anyone for that? Yes, we can connect you with a handyman service we trust. Perfect! I need that sorted out quickly. I’ll give you their contact info right after scheduling the nurse visit. Sounds good. What will it cost for the nurse to come? For our skilled nursing care, it ranges from $95 to $125 for a visit. Okay, that’s manageable. Just keep me updated, please. Of course, I’ll make sure to keep you informed every step of the way. Thank you, Margaret. I feel better knowing I can count on you. You're welcome, Mary! I’ll take care of everything right now. Alright, I’ll wait for your call. Thank you for your patience. I’ll call back shortly with updates. Thank you! I really appreciate your help today. Anytime, Mary. Talk soon! Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Mary O'Connor. I'm really in a bind right now.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Mary. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My water heater just stopped working, and I have no hot water!",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how urgent that is. Let's see what we can do to help.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I rely on hot water for my IV therapy, especially with the antibiotics.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, that's very important. When did the water heater stop working?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It just happened this morning. I need someone to come look at it ASAP.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Okay, I’ll make sure to prioritize this. Are you still receiving IV therapy at home?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I had a nurse visit yesterday. I’m very anxious about interruptions in my care.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand, Mary. We can arrange for a nurse to check on you as well.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great. I just need to feel secure during this.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check our schedule. Would you prefer a nurse this afternoon?",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please. I really need that reassurance.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Alright, I’ll get a nurse to you, and I can also recommend someone for the water heater.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! I really appreciate your help with both.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "No problem, Mary. I’ll notify Angela, our Client Services Manager.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great, what about the water heater? Do you have anyone for that?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we can connect you with a handyman service we trust.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect! I need that sorted out quickly.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 91,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll give you their contact info right after scheduling the nurse visit.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good. What will it cost for the nurse to come?",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "For our skilled nursing care, it ranges from $95 to $125 for a visit.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Okay, that’s manageable. Just keep me updated, please.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Of course, I’ll make sure to keep you informed every step of the way.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I feel better knowing I can count on you.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome, Mary! I’ll take care of everything right now.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Alright, I’ll wait for your call.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Thank you for your patience. I’ll call back shortly with updates.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you! I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Anytime, Mary. Talk soon!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 144,
+          "end_time": 147,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3f2afb0b900d4ebdbc878a06",
+  "revision": "",
+  "status": "success"
+}
