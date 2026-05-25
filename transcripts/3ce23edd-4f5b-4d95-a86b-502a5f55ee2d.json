@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-999e499ec4224ff68f0d4e04",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968307-ad020170",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-999e499ec4224ff68f0d4e04",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 200,
+      "duration_ms": 200000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "999e499ec4224ff68f0d4e04",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-999e499ec4224ff68f0d4e04",
+      "media_name": "55105c3a0e8b42099acfa92ef663fb9c.mp3",
+      "scenario": "A loyal client calls to complain about the persistent issues with their internet service, threatening to cancel if unresolved. Category: Service Complaint. Flags: quality_complaint, cancellation_request. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 200.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Michael Brown. I'm calling about my father’s care. Hi Michael, it's nice to hear from you. What can I assist you with regarding your father? Well, I've been trying to get wound care and medication management set up for him, but I've encountered some issues. I understand. Can you elaborate on the issues you’re facing? Sure, the last few visits from the nurse have been inconsistent. Sometimes they don't show up when scheduled. I'm very sorry to hear that, Michael. That’s certainly not the standard we strive for. It’s been frustrating. My father really needs this care, and if it continues, I might have to consider other options. I completely understand your concern. Let’s get this resolved for you. Can you tell me the last date a nurse visited? Yes, it was last Wednesday, but they were supposed to come again the following Saturday, and no one showed up. Thank you for that information. I will follow up with our nursing staff to investigate what happened. I appreciate it, but if this doesn’t get resolved quickly, I really will have to look into other providers. I understand your frustration, and we value your loyalty as a client, Michael. I just want my father to get the care he deserves. It’s important for his diabetes management. Absolutely, and I can also assign a dedicated nurse to manage his care more consistently. Would that help? Yes, that would definitely make me feel better. Great! I’ll also ensure that his medication management is prioritized. Can we set up a follow-up appointment for next week? That sounds good. Can you guarantee that someone will show up? I will personally oversee this, and I'll confirm the schedule with you beforehand. Thank you, Margaret. I appreciate your help. You're welcome, Michael. I’ll make sure to get this sorted out. Is there anything else I can assist you with today? No, that covers it for now. Perfect! I’ll get started on this right away and keep you updated. Sounds good, thank you. Thank you for your understanding, Michael. Have a great day! You too, bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I'm calling about my father’s care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Michael, it's nice to hear from you. What can I assist you with regarding your father?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I've been trying to get wound care and medication management set up for him, but I've encountered some issues.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Can you elaborate on the issues you’re facing?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, the last few visits from the nurse have been inconsistent. Sometimes they don't show up when scheduled.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I'm very sorry to hear that, Michael. That’s certainly not the standard we strive for.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It’s been frustrating. My father really needs this care, and if it continues, I might have to consider other options.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand your concern. Let’s get this resolved for you. Can you tell me the last date a nurse visited?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, it was last Wednesday, but they were supposed to come again the following Saturday, and no one showed up.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 70,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for that information. I will follow up with our nursing staff to investigate what happened.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate it, but if this doesn’t get resolved quickly, I really will have to look into other providers.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand your frustration, and we value your loyalty as a client, Michael.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I just want my father to get the care he deserves. It’s important for his diabetes management.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, and I can also assign a dedicated nurse to manage his care more consistently. Would that help?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 115,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would definitely make me feel better.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll also ensure that his medication management is prioritized. Can we set up a follow-up appointment for next week?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good. Can you guarantee that someone will show up?",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I will personally oversee this, and I'll confirm the schedule with you beforehand.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, Michael. I’ll make sure to get this sorted out. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 170,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers it for now.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! I’ll get started on this right away and keep you updated.",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good, thank you.",
+          "speaker": "remote party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your understanding, Michael. Have a great day!",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-999e499ec4224ff68f0d4e04",
+  "revision": "",
+  "status": "success"
+}
