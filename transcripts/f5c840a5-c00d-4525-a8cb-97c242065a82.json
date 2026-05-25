@@ -1,0 +1,325 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-639114953033491d9c86f596",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968178-74608f49",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-639114953033491d9c86f596",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 227,
+      "duration_ms": 227000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "639114953033491d9c86f596",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-639114953033491d9c86f596",
+      "media_name": "1b25838d65994675acc10955b263dd72.mp3",
+      "scenario": "A VIP customer calls to resolve a billing error that has occurred for the second month in a row. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 227.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Eleanor Watson. I’m calling about a billing issue I’ve been having for the last two months. I’m sorry to hear that, Eleanor. Can you please tell me more about the issue? Yes, I noticed that I was charged incorrectly for my physical therapy and skilled nursing care again this month. I understand how frustrating that can be. What specific charges are you seeing that seem incorrect? Well, I was charged $140 for physical therapy when it should be between $110 and $140. And my skilled nursing care is showing $125, but it should be $95 to $125. Thank you for clarifying that. It looks like there may have been a miscommunication in how the charges were processed. This is the second month in a row this has happened. I really need it resolved before my next payment is due. Absolutely, I can help ensure this is corrected immediately. Let me check your account details. Yes, please do. I hate having to deal with this every month, especially since my daughter had to handle the last issue. I completely understand, and I sincerely apologize for the inconvenience. I’ll do my best to resolve this right now. Can you hold for just a moment while I pull up your account? Sure, I’ll wait. Thank you for your patience, Eleanor. I see that your last two invoices did have discrepancies. I’ll adjust them right now. Thank you, I appreciate that. It’s just been so stressful worrying about these bills. I can imagine. Once I process these adjustments, I will send you a revised invoice for your records. Great, can you confirm what the correct amounts will be? The corrected amount for physical therapy will be $110, and skilled nursing will be adjusted to $95. Okay, that sounds right. I just want to make sure I’m not overpaying. Of course, and I’ll also follow up with our billing team to prevent this from happening again. Thank you, that would be helpful. How long will it take for the adjustments to reflect in my account? You should see the adjustments reflected within 3-5 business days, and I’ll notify you once it’s completed. Perfect, thank you. Will someone contact my daughter about this too? Yes, I’ll ensure she’s informed. Can I have her best contact number, just to be sure? Sure, her number is +13165557650. Thank you, Eleanor. I’ll make sure to update that in our records. Thank you, Margaret. I hope this will be the last time I have to call about billing! I certainly hope so too! We appreciate your understanding and your continued trust in our services. Thank you! By the way, can you remind me of the physical therapy schedule next week? Yes, let me check that for you. You have a session on Tuesday at 11 AM with Dr. Rodriguez. Okay, great! Thank you so much for your help today. You’re welcome, Eleanor! If you need anything else, don’t hesitate to call us. Will do! Have a great day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I’m calling about a billing issue I’ve been having for the last two months.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Eleanor. Can you please tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed that I was charged incorrectly for my physical therapy and skilled nursing care again this month.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 23,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that can be. What specific charges are you seeing that seem incorrect?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Well, I was charged $140 for physical therapy when it should be between $110 and $140. And my skilled nursing care is showing $125, but it should be $95 to $125.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for clarifying that. It looks like there may have been a miscommunication in how the charges were processed.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "This is the second month in a row this has happened. I really need it resolved before my next payment is due.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I can help ensure this is corrected immediately. Let me check your account details.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please do. I hate having to deal with this every month, especially since my daughter had to handle the last issue.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand, and I sincerely apologize for the inconvenience. I’ll do my best to resolve this right now.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Can you hold for just a moment while I pull up your account?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Sure, I’ll wait.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 83,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Thank you for your patience, Eleanor. I see that your last two invoices did have discrepancies. I’ll adjust them right now.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 95,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Thank you, I appreciate that. It’s just been so stressful worrying about these bills.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 103,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I can imagine. Once I process these adjustments, I will send you a revised invoice for your records.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 110,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Great, can you confirm what the correct amounts will be?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 117,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "The corrected amount for physical therapy will be $110, and skilled nursing will be adjusted to $95.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 124,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Okay, that sounds right. I just want to make sure I’m not overpaying.",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 132,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Of course, and I’ll also follow up with our billing team to prevent this from happening again.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, that would be helpful. How long will it take for the adjustments to reflect in my account?",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 145,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You should see the adjustments reflected within 3-5 business days, and I’ll notify you once it’s completed.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 152,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Perfect, thank you. Will someone contact my daughter about this too?",
+          "speaker": "remote party",
+          "start_time": 152,
+          "end_time": 159,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Yes, I’ll ensure she’s informed. Can I have her best contact number, just to be sure?",
+          "speaker": "local party",
+          "start_time": 159,
+          "end_time": 167,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Sure, her number is +13165557650.",
+          "speaker": "remote party",
+          "start_time": 167,
+          "end_time": 173,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Eleanor. I’ll make sure to update that in our records.",
+          "speaker": "local party",
+          "start_time": 173,
+          "end_time": 179,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Margaret. I hope this will be the last time I have to call about billing!",
+          "speaker": "remote party",
+          "start_time": 179,
+          "end_time": 186,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "I certainly hope so too! We appreciate your understanding and your continued trust in our services.",
+          "speaker": "local party",
+          "start_time": 186,
+          "end_time": 192,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Thank you! By the way, can you remind me of the physical therapy schedule next week?",
+          "speaker": "remote party",
+          "start_time": 192,
+          "end_time": 200,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Yes, let me check that for you. You have a session on Tuesday at 11 AM with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 200,
+          "end_time": 207,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "Okay, great! Thank you so much for your help today.",
+          "speaker": "remote party",
+          "start_time": 207,
+          "end_time": 214,
+          "channel": "right",
+          "id": 30
+        },
+        {
+          "text": "You’re welcome, Eleanor! If you need anything else, don’t hesitate to call us.",
+          "speaker": "local party",
+          "start_time": 214,
+          "end_time": 219,
+          "channel": "left",
+          "id": 31
+        },
+        {
+          "text": "Will do! Have a great day!",
+          "speaker": "remote party",
+          "start_time": 219,
+          "end_time": 224,
+          "channel": "right",
+          "id": 32
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 224,
+          "end_time": 227,
+          "channel": "left",
+          "id": 33
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-639114953033491d9c86f596",
+  "revision": "",
+  "status": "success"
+}
