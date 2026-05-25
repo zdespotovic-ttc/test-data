@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f99aad5c967e48e0828d981b",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968037-7d530b97",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f99aad5c967e48e0828d981b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "f99aad5c967e48e0828d981b",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f99aad5c967e48e0828d981b",
+      "media_name": "0ded3d270e16411f8e76e11201b001a0.mp3",
+      "scenario": "A VIP client is unhappy with the quality of the consulting service and demands corrective action. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Harold Gonzalez. I’m calling because I'm really unhappy with the nursing service we received last week. I’m sorry to hear that, Harold. Can you tell me more about what happened? Well, the nurse didn't seem to check my vital signs properly. I felt rushed, and my wife was really uncomfortable with how it went. I understand your concerns, and I truly apologize for that experience. It’s important to us that you feel safe and cared for. Thank you, but it’s frustrating because I depend on these checks for my COPD and heart condition. Absolutely, and your health is our priority. Would you like me to arrange a follow-up visit with a different nurse? Yes, that would be helpful. Also, can I request a Spanish-speaking caregiver? Of course, I’ll make sure to note that for you. I’ll arrange for someone bilingual. That would be great, thanks. I just want to feel comfortable and assured during these visits. I completely understand, and I will personally oversee the arrangements. What day would you prefer for the next visit? Can we do this Tuesday? Mornings work best for us. Let me check… Yes, we can schedule a visit for Tuesday morning. Perfect, thank you. Is there anything else I can assist you with today? Actually, could we discuss potentially adding physical therapy to my care plan? I’ve been feeling weaker lately. Absolutely, Harold. Physical therapy can help improve your strength and mobility. Yes, that sounds good. I’d like to move forward with that. I’ll coordinate with Dr. Rodriguez, our physical therapist, and have him reach out to you after scheduling. Thank you, Margaret. I appreciate your help today. My pleasure, Harold. I apologize again for the previous visit, and we'll ensure this goes smoothly. I really appreciate that. See you on Tuesday then. Yes, see you Tuesday. Have a great day! You too, bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Harold Gonzalez. I’m calling because I'm really unhappy with the nursing service we received last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Harold. Can you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the nurse didn't seem to check my vital signs properly. I felt rushed, and my wife was really uncomfortable with how it went.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concerns, and I truly apologize for that experience. It’s important to us that you feel safe and cared for.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, but it’s frustrating because I depend on these checks for my COPD and heart condition.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, and your health is our priority. Would you like me to arrange a follow-up visit with a different nurse?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that would be helpful. Also, can I request a Spanish-speaking caregiver?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course, I’ll make sure to note that for you. I’ll arrange for someone bilingual.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great, thanks. I just want to feel comfortable and assured during these visits.",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand, and I will personally oversee the arrangements. What day would you prefer for the next visit?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Can we do this Tuesday? Mornings work best for us.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check… Yes, we can schedule a visit for Tuesday morning.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect, thank you.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, could we discuss potentially adding physical therapy to my care plan? I’ve been feeling weaker lately.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 98,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, Harold. Physical therapy can help improve your strength and mobility.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that sounds good. I’d like to move forward with that.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll coordinate with Dr. Rodriguez, our physical therapist, and have him reach out to you after scheduling.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 117,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "My pleasure, Harold. I apologize again for the previous visit, and we'll ensure this goes smoothly.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I really appreciate that. See you on Tuesday then.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, see you Tuesday. Have a great day!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f99aad5c967e48e0828d981b",
+  "revision": "",
+  "status": "success"
+}
