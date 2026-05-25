@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T22:42:39Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-039e2fab560f45e6b18f62a8",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968159-bb64cc74",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-039e2fab560f45e6b18f62a8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 144,
+      "duration_ms": 144000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946968159,
+      "call_id": "039e2fab560f45e6b18f62a8",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-039e2fab560f45e6b18f62a8",
+      "media_name": "4b667e515c394767b047c2ca57e64c42.mp3",
+      "scenario": "A prospect questions an unexpected fee on their initial service invoice. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 144.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Jennifer Taylor. I recently received the invoice for my grandmother's companion care, and I have a question about a fee on it. I’m happy to help, Jennifer. What specific fee are you concerned about? There’s an unexpected charge for “additional caregiver support” that I don't recall discussing. I understand your concern. Let me pull up your grandmother's account to review the details. One moment, please. ...Okay, I see that the charge for additional caregiver support was applied because we had to schedule an extra caregiver during the last visit for your grandmother's needs. But I wasn't informed about that. I thought it was just one caregiver for companion care. I apologize for the confusion, Jennifer. Our standard procedure is to ensure adequate support, especially for clients who need more assistance. I appreciate that, but I would’ve liked a heads-up. Is there any way to adjust this fee? I can definitely look into that for you. If you’d like, I can also review the care plan to ensure it aligns with your grandmother’s needs. Yes, that would be helpful. I want to make sure we’re on the same page. Great! I’ll also send you a detailed breakdown of the services provided during that visit. Thank you, I’d appreciate that. How long will it take to resolve this? I’ll follow up with our billing department and get back to you within 48 hours, if that works for you. That sounds reasonable, thank you. Also, while I have you on the line, I wanted to mention that we offer a variety of services, like personal care assistance and medication management. That might be useful for my grandmother. I’ll definitely consider it. Perfect! I can connect you with our Care Coordinator, Lisa, who can help develop a comprehensive care plan. Yes, please do. I want to ensure she gets the best care possible. I will arrange that for you. Is there anything else I can assist you with today? No, that covers everything for now. Thanks again, Margaret. You’re welcome, Jennifer. We’ll be in touch soon! Great! Have a good day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Jennifer Taylor. I recently received the invoice for my grandmother's companion care, and I have a question about a fee on it.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m happy to help, Jennifer. What specific fee are you concerned about?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "There’s an unexpected charge for “additional caregiver support” that I don't recall discussing.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your grandmother's account to review the details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "...Okay, I see that the charge for additional caregiver support was applied because we had to schedule an extra caregiver during the last visit for your grandmother's needs.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 45,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "But I wasn't informed about that. I thought it was just one caregiver for companion care.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I apologize for the confusion, Jennifer. Our standard procedure is to ensure adequate support, especially for clients who need more assistance.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I appreciate that, but I would’ve liked a heads-up. Is there any way to adjust this fee?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 65,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I can definitely look into that for you. If you’d like, I can also review the care plan to ensure it aligns with your grandmother’s needs.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that would be helpful. I want to make sure we’re on the same page.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Great! I’ll also send you a detailed breakdown of the services provided during that visit.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you, I’d appreciate that. How long will it take to resolve this?",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I’ll follow up with our billing department and get back to you within 48 hours, if that works for you.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That sounds reasonable, thank you.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Also, while I have you on the line, I wanted to mention that we offer a variety of services, like personal care assistance and medication management.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That might be useful for my grandmother. I’ll definitely consider it.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Perfect! I can connect you with our Care Coordinator, Lisa, who can help develop a comprehensive care plan.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 117,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, please do. I want to ensure she gets the best care possible.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 123,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I will arrange that for you. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 126,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "No, that covers everything for now. Thanks again, Margaret.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome, Jennifer. We’ll be in touch soon!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Great! Have a good day!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-039e2fab560f45e6b18f62a8",
+  "revision": "",
+  "status": "success"
+}
