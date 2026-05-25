@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-23bedba0b91045da81b5f81c",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968168-d400dc1d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-23bedba0b91045da81b5f81c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 153,
+      "duration_ms": 153000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "23bedba0b91045da81b5f81c",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-23bedba0b91045da81b5f81c",
+      "media_name": "4b0bfbfaf426481a8af39eaa9b747a8a.mp3",
+      "scenario": "A new customer is shocked by the additional charges in their bill and requests an itemized explanation. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 153.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Michael Brown. I'm calling about some unexpected charges on my father's bill. I’m sorry to hear that, Michael. I can help you with that. Can you tell me what specific charges you’re referring to? Yes, it seems there are some additional fees that I didn't expect for the wound care and medication management services. I understand. Let me look into your account and the billing details. One moment, please. Okay, I see here that your father received both wound care management and medication management services last week, which are billed separately. Yes, but the total seems much higher than I anticipated. Can you break it down for me? Absolutely. The wound care management was billed at $85, and medication management was billed at $75. That makes sense, but there are additional service fees listed here. What are those for? Those additional fees are for the time our nurse spent conducting the assessments and follow-ups. We charge based on the hours spent. I see, but it’s still confusing. I wasn’t aware of those extra charges. I completely understand, Michael. We aim to be transparent about services. I can provide an itemized statement for clarity. That would be very helpful. Thank you. Can you also explain how these services are scheduled? Yes, we typically schedule services based on the care plan developed by our care coordinator, Lisa. Okay, maybe we should revisit that since my father needs consistent care but not at such a high frequency. I can arrange for Lisa to contact you about adjusting the care plan to better suit your father's needs. That sounds good. I just want to ensure he gets the right level of care without the extra bill shock. Absolutely, I’ll make sure she reaches out. Would you like to schedule a follow-up call once you receive the itemized statement? Yes, please. That would help a lot. Can I also ask about other services like personal care assistance? Certainly! We offer personal care assistance starting at $28 per hour, which includes help with daily activities. That's great to know. I think that might be beneficial for my father as well. I can have Lisa include that in your care plan discussion as well. Thank you, Margaret. I appreciate your help today. You're welcome, Michael. I’ll follow up with the itemized statement and have Lisa reach out soon. Sounds good. Have a great day. You too, Michael! Thank you for calling CareFirst Home Health.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I'm calling about some unexpected charges on my father's bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Michael. I can help you with that. Can you tell me what specific charges you’re referring to?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it seems there are some additional fees that I didn't expect for the wound care and medication management services.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Let me look into your account and the billing details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, I see here that your father received both wound care management and medication management services last week, which are billed separately.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 37,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, but the total seems much higher than I anticipated. Can you break it down for me?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Absolutely. The wound care management was billed at $85, and medication management was billed at $75.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That makes sense, but there are additional service fees listed here. What are those for?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Those additional fees are for the time our nurse spent conducting the assessments and follow-ups. We charge based on the hours spent.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 65,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I see, but it’s still confusing. I wasn’t aware of those extra charges.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I completely understand, Michael. We aim to be transparent about services. I can provide an itemized statement for clarity.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That would be very helpful. Thank you. Can you also explain how these services are scheduled?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Yes, we typically schedule services based on the care plan developed by our care coordinator, Lisa.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 89,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Okay, maybe we should revisit that since my father needs consistent care but not at such a high frequency.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I can arrange for Lisa to contact you about adjusting the care plan to better suit your father's needs.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That sounds good. I just want to ensure he gets the right level of care without the extra bill shock.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 102,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely, I’ll make sure she reaches out. Would you like to schedule a follow-up call once you receive the itemized statement?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, please. That would help a lot. Can I also ask about other services like personal care assistance?",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 115,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Certainly! We offer personal care assistance starting at $28 per hour, which includes help with daily activities.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That's great to know. I think that might be beneficial for my father as well.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I can have Lisa include that in your care plan discussion as well.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You're welcome, Michael. I’ll follow up with the itemized statement and have Lisa reach out soon.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Sounds good. Have a great day.",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You too, Michael! Thank you for calling CareFirst Home Health.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-23bedba0b91045da81b5f81c",
+  "revision": "",
+  "status": "success"
+}
