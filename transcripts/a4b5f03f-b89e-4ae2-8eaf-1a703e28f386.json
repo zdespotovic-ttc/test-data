@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3a811280a28340e4b8f8471c",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968139-11cb1d7b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3a811280a28340e4b8f8471c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "3a811280a28340e4b8f8471c",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3a811280a28340e4b8f8471c",
+      "media_name": "e05bb9b221cc49c1a2b55bfc8550c994.mp3",
+      "scenario": "A returning customer disputes the late fee applied to their account despite timely payment. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Robert Jackson. I'm calling about a late fee that was applied to my account. Hi Robert, I hope you’re doing well. I understand your concern about the late fee. Can you tell me more about it? Sure. I always pay my bills on time, but I noticed a late fee of $25 on my last statement. I believe it’s a mistake. I see. Let me pull up your account to review the billing details. One moment, please. Of course, take your time. Thank you for your patience, Robert. I see that your last payment was processed three days ago, so it should not have incurred a late fee. Exactly! That’s what I thought. I’m really frustrated because I’ve never missed a payment in three years. I completely understand your frustration, Robert. It looks like there may have been an error in our billing system. So what happens now? Will the fee be removed? Yes, I can certainly initiate the process to remove that fee for you. Thank you, I appreciate that. What’s the timeline on getting this resolved? It typically takes about 3 to 5 business days for the adjustment to reflect on your account. Alright, thanks for clarifying. Is there anything else I need to do? Just to confirm, would you like me to send an updated statement once the fee is removed? Yes, please. That would be helpful. Great! I’ll also follow up with you on our ongoing services. Is everything satisfactory with your current care? Yes, but I might need some adjustments with my caregiver’s schedule next week. Absolutely, we can help with that. Would you like me to connect you with Lisa Chen, our Care Coordinator? Yes, that would be perfect. I have a few details to discuss with her. I’ll make a note for her to expect your call today. Is there anything else you need from us? No, that covers it for now. Thank you for your help, Margaret. You’re very welcome, Robert. I’m glad I could assist you. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I'm calling about a late fee that was applied to my account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Robert, I hope you’re doing well. I understand your concern about the late fee. Can you tell me more about it?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure. I always pay my bills on time, but I noticed a late fee of $25 on my last statement. I believe it’s a mistake.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. Let me pull up your account to review the billing details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Of course, take your time.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Robert. I see that your last payment was processed three days ago, so it should not have incurred a late fee.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Exactly! That’s what I thought. I’m really frustrated because I’ve never missed a payment in three years.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand your frustration, Robert. It looks like there may have been an error in our billing system.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "So what happens now? Will the fee be removed?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, I can certainly initiate the process to remove that fee for you.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I appreciate that. What’s the timeline on getting this resolved?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "It typically takes about 3 to 5 business days for the adjustment to reflect on your account.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Alright, thanks for clarifying. Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Just to confirm, would you like me to send an updated statement once the fee is removed?",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 92,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll also follow up with you on our ongoing services. Is everything satisfactory with your current care?",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 105,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, but I might need some adjustments with my caregiver’s schedule next week.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, we can help with that. Would you like me to connect you with Lisa Chen, our Care Coordinator?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that would be perfect. I have a few details to discuss with her.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll make a note for her to expect your call today. Is there anything else you need from us?",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 128,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers it for now. Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 133,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome, Robert. I’m glad I could assist you. Have a great day!",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 138,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3a811280a28340e4b8f8471c",
+  "revision": "",
+  "status": "success"
+}
