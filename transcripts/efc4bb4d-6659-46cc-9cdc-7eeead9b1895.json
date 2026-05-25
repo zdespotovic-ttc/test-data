@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9a4f4d402c6d41829fa95c05",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968294-58f24ec0",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9a4f4d402c6d41829fa95c05",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 136,
+      "duration_ms": 136000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "9a4f4d402c6d41829fa95c05",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9a4f4d402c6d41829fa95c05",
+      "media_name": "897c078007434faebd1098df994d3d85.mp3",
+      "scenario": "A prospect cancels their planned consultation appointment, expressing a lack of confidence in the services offered. Category: Cancellation. Flags: cancellation_request. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 136.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Robert Jackson. I wanted to talk about my upcoming consultation appointment. Hi Robert, it's great to hear from you. Is there a specific concern about the appointment? Well, I've been thinking it over, and honestly, I'm feeling a bit uncertain about your services. I understand, Robert. What specific concerns do you have? I just don't know if I can trust that the care will meet my specific needs. I completely understand your hesitation. Can you share what specific needs you're worried about? Mainly, I have detailed care instructions from my neurologist that I’m not sure will be followed properly. We appreciate you bringing that up. We take our clients' individual care plans very seriously. I see, but I've had some mixed experiences in the past with other agencies. That's understandable, Robert. Would it help if I set up a time for you to discuss your care plan directly with our nursing staff? Maybe, but I'm still not convinced it will really address my concerns. I assure you, we can tailor our services to fit your needs. We have skilled nursing staff like myself who specialize in comprehensive care. That sounds good, but I'm concerned it might not be worth the investment if I don't feel secure. We offer a range of services, and I can provide you with a detailed breakdown of our offerings and pricing. That would be helpful, yes. Great! I can send you information on our various services, including skilled nursing and personal care assistance. Okay, but I’m leaning towards canceling the appointment right now. I understand your decision. Would you like me to formalize the cancellation? Yes, please. I’ll go ahead and cancel your consultation. Would you like to keep the option open to reschedule in the future? Yes, that could be a possibility. Perfect. I’ll make a note to follow up with you in a couple of weeks to see how you're feeling about our services. That sounds fine. Thank you for your honesty, Robert. We truly value your feedback. Thanks for understanding. Of course. If you have any other questions or concerns, don’t hesitate to reach out. Will do. Goodbye, Margaret. Goodbye, Robert. Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I wanted to talk about my upcoming consultation appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Robert, it's great to hear from you. Is there a specific concern about the appointment?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I've been thinking it over, and honestly, I'm feeling a bit uncertain about your services.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, Robert. What specific concerns do you have?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I just don't know if I can trust that the care will meet my specific needs.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your hesitation. Can you share what specific needs you're worried about?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Mainly, I have detailed care instructions from my neurologist that I’m not sure will be followed properly.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We appreciate you bringing that up. We take our clients' individual care plans very seriously.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I see, but I've had some mixed experiences in the past with other agencies.",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That's understandable, Robert. Would it help if I set up a time for you to discuss your care plan directly with our nursing staff?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Maybe, but I'm still not convinced it will really address my concerns.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I assure you, we can tailor our services to fit your needs. We have skilled nursing staff like myself who specialize in comprehensive care.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good, but I'm concerned it might not be worth the investment if I don't feel secure.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We offer a range of services, and I can provide you with a detailed breakdown of our offerings and pricing.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be helpful, yes.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I can send you information on our various services, including skilled nursing and personal care assistance.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, but I’m leaning towards canceling the appointment right now.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I understand your decision. Would you like me to formalize the cancellation?",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 91,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll go ahead and cancel your consultation. Would you like to keep the option open to reschedule in the future?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that could be a possibility.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect. I’ll make a note to follow up with you in a couple of weeks to see how you're feeling about our services.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds fine.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your honesty, Robert. We truly value your feedback.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks for understanding.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Of course. If you have any other questions or concerns, don’t hesitate to reach out.",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 129,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Will do. Goodbye, Margaret.",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 133,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye, Robert. Take care.",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 136,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9a4f4d402c6d41829fa95c05",
+  "revision": "",
+  "status": "success"
+}
