@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bfd93b0dbe90490c8cb3594b",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968296-2421e6ba",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bfd93b0dbe90490c8cb3594b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "bfd93b0dbe90490c8cb3594b",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bfd93b0dbe90490c8cb3594b",
+      "media_name": "6d53765e2b8f43fea4e25ef181ed64b3.mp3",
+      "scenario": "A new customer reports a gas leak in their home and requires immediate attention. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Dorothy Henderson. I'm really worried right now. Oh no, Dorothy! What’s going on? I just got home, and I smell gas in my house. I think there’s a leak! That sounds serious. Have you contacted the gas company or emergency services yet? No, I was just about to call them, but I wanted to get help from you first. Absolutely, you should definitely call them immediately for safety. I will. But what if I need care while I’m waiting for them to arrive? We can help arrange for immediate support if you require it. What kind of care do you think you might need? I might need someone to help me with my therapy exercises and personal care. We can send a personal care assistant your way. Do you have a preference for a female caregiver? Yes, I prefer female caregivers only. Got it. Let me check our availability for you. Thank you, I appreciate it. This is really stressing me out. I understand, Dorothy. Let’s get you the support you need. I see we have a female caregiver available in about 30 minutes. That sounds great! Can we schedule her for that time? Yes, I’ll arrange that right away. Just to confirm, you’ll be home by then, correct? Yes, I’ll be here. Perfect. I’ve scheduled a female personal care assistant to arrive at your home at 1:30 PM. Thank you so much, Margaret! You’re welcome! Just remember to call the gas company if you haven’t already. I will do that right now. Is there anything else you need while we have you on the line? No, that’s it for now. Just the caregiver and the gas leak. Understood. I’ll follow up with you later today to ensure everything is okay. Thank you, Margaret. I really appreciate your help. Of course, Dorothy. Take care and stay safe. I will, thanks again! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Dorothy Henderson. I'm really worried right now.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, Dorothy! What’s going on?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I just got home, and I smell gas in my house. I think there’s a leak!",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds serious. Have you contacted the gas company or emergency services yet?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "No, I was just about to call them, but I wanted to get help from you first.",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, you should definitely call them immediately for safety.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 26,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I will. But what if I need care while I’m waiting for them to arrive?",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 31,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We can help arrange for immediate support if you require it. What kind of care do you think you might need?",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I might need someone to help me with my therapy exercises and personal care.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can send a personal care assistant your way. Do you have a preference for a female caregiver?",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I prefer female caregivers only.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 49,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Got it. Let me check our availability for you.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, I appreciate it. This is really stressing me out.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I understand, Dorothy. Let’s get you the support you need.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I see we have a female caregiver available in about 30 minutes.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That sounds great! Can we schedule her for that time?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Yes, I’ll arrange that right away. Just to confirm, you’ll be home by then, correct?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, I’ll be here.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect. I’ve scheduled a female personal care assistant to arrive at your home at 1:30 PM.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you so much, Margaret!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome! Just remember to call the gas company if you haven’t already.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "I will do that right now.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Is there anything else you need while we have you on the line?",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "No, that’s it for now. Just the caregiver and the gas leak.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Understood. I’ll follow up with you later today to ensure everything is okay.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 116,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Of course, Dorothy. Take care and stay safe.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "I will, thanks again!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "right",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bfd93b0dbe90490c8cb3594b",
+  "revision": "",
+  "status": "success"
+}
