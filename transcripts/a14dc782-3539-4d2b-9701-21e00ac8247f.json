@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-86b05536866c48a9bd38751a",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968084-cc6adbff",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-86b05536866c48a9bd38751a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 176,
+      "duration_ms": 176000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "86b05536866c48a9bd38751a",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-86b05536866c48a9bd38751a",
+      "media_name": "c6169648ae794f308c2ab18c07ed3064.mp3",
+      "scenario": "A returning customer noticed an unauthorized charge on their account and requests immediate correction. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 176.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Patricia Wilson. I'm calling about an issue I noticed on my mother's account. Hi, Patricia. I’m sorry to hear that. Can you please tell me what the issue is? Yes, I saw an unauthorized charge on her account, and I’d like to get that corrected as soon as possible. I understand how concerning that can be. Can you provide me with the details of the charge? It was for a service that we didn’t request last month. It’s listed as “Personal Care Assistance.” Thank you for that information. Let me look into it right now. Can I have your mother’s name for verification? Yes, her name is Eleanor Wilson. Thank you, Patricia. One moment while I pull up her account... Okay, I found her account. I can see the charge you mentioned. It seems there was a mix-up in our scheduling system. That’s frustrating. How quickly can you resolve this? I can initiate the refund process right away. It typically takes 3 to 5 business days for the funds to return to your account. That sounds good. Can you confirm that the refund is processed? Absolutely. I’ll follow up with you once it’s completed. Can I get your best contact number? Yes, it's the same number I’m calling from, +13165558471. Great, Patricia. I’ll make a note to contact you once the refund is processed. Thank you. Is there anything else I should be aware of? Just a reminder that your mother is eligible for post-surgery care after her upcoming hip replacement. Oh, right! I’d like to discuss those services as well. Perfect. We offer Post-Surgery Recovery Care. It ranges from $85 to $110 for 1 to 3 hours. That sounds reasonable. Can you schedule that care in advance? Yes, I can set that up for you. Could you provide the date of her surgery? It’s on March 15th. Thanks, Patricia. I will schedule the care starting March 16th and keep you updated on the refund. That works for me. I appreciate your help, Margaret. You’re welcome! If you have any more questions, feel free to call us anytime. I will. Have a great day! You too, Patricia. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Patricia Wilson. I'm calling about an issue I noticed on my mother's account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Patricia. I’m sorry to hear that. Can you please tell me what the issue is?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I saw an unauthorized charge on her account, and I’d like to get that corrected as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 23,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that can be. Can you provide me with the details of the charge?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was for a service that we didn’t request last month. It’s listed as “Personal Care Assistance.”",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 38,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for that information. Let me look into it right now. Can I have your mother’s name for verification?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, her name is Eleanor Wilson.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you, Patricia. One moment while I pull up her account...",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, I found her account. I can see the charge you mentioned. It seems there was a mix-up in our scheduling system.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 70,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That’s frustrating. How quickly can you resolve this?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I can initiate the refund process right away. It typically takes 3 to 5 business days for the funds to return to your account.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That sounds good. Can you confirm that the refund is processed?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 90,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Absolutely. I’ll follow up with you once it’s completed. Can I get your best contact number?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, it's the same number I’m calling from, +13165558471.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Great, Patricia. I’ll make a note to contact you once the refund is processed.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Thank you. Is there anything else I should be aware of?",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Just a reminder that your mother is eligible for post-surgery care after her upcoming hip replacement.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Oh, right! I’d like to discuss those services as well.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect. We offer Post-Surgery Recovery Care. It ranges from $85 to $110 for 1 to 3 hours.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That sounds reasonable. Can you schedule that care in advance?",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 137,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Yes, I can set that up for you. Could you provide the date of her surgery?",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 144,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "It’s on March 15th.",
+          "speaker": "remote party",
+          "start_time": 144,
+          "end_time": 150,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thanks, Patricia. I will schedule the care starting March 16th and keep you updated on the refund.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "That works for me. I appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 162,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome! If you have any more questions, feel free to call us anytime.",
+          "speaker": "local party",
+          "start_time": 162,
+          "end_time": 167,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 167,
+          "end_time": 174,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You too, Patricia. Goodbye!",
+          "speaker": "local party",
+          "start_time": 174,
+          "end_time": 176,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-86b05536866c48a9bd38751a",
+  "revision": "",
+  "status": "success"
+}
