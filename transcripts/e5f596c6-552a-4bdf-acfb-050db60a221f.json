@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b597bd58f4ef4049b7893f7c",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968049-4370f471",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b597bd58f4ef4049b7893f7c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "b597bd58f4ef4049b7893f7c",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b597bd58f4ef4049b7893f7c",
+      "media_name": "a964ebb109004e849b14a4e7a2d032f1.mp3",
+      "scenario": "A customer calls to dispute an unexpected charge on their recent bill, claiming it was not agreed upon. Category: Billing. Flags: billing_dispute. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Robert Jackson. I'm calling about a charge on my recent bill that I didn't agree to. I’m sorry to hear that, Robert. Can you tell me which charge you’re referring to? Yes, there’s a $95 charge for wound care, but I thought that was included in my personal care plan. I understand your concern. Let me pull up your account and take a look at the details. One moment, please. Alright, I see here that your plan does include nursing care, but the wound care management is billed separately. It seems there was a visit for wound care last week. Is that correct? Yes, but I wasn’t informed about any extra charges when the nurse came by. I apologize for the confusion, Robert. Let me check with our billing department to clarify this. That would be great. I just don’t want to be charged for something I wasn’t aware of. Absolutely, I completely understand. I will follow up with you as soon as I get that information. Thank you, Margaret. Do you think this will take long? I’ll try to get back to you by the end of the day. Is that alright? Yes, that works for me. Also, while I have you on the line, would you like to discuss any additional services we can offer? Well, actually, my neurologist mentioned I might need more physical therapy sessions soon. We can definitely assist with that. Dr. Rodriguez, our physical therapist, specializes in post-surgery rehabilitation and mobility training. That sounds useful. Can you give me more details? Sure! His sessions are priced at $110 to $140 for 45 to 60 minutes. Would you like me to schedule a consultation? Yes, please. That would be helpful. Alright, I’ll take care of that along with following up about the billing dispute. Thank you for your help, Margaret. You’re welcome, Robert. I’ll be in touch soon! Looking forward to it. Have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I'm calling about a charge on my recent bill that I didn't agree to.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Robert. Can you tell me which charge you’re referring to?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, there’s a $95 charge for wound care, but I thought that was included in my personal care plan.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account and take a look at the details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Alright, I see here that your plan does include nursing care, but the wound care management is billed separately. It seems there was a visit for wound care last week. Is that correct?",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 45,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, but I wasn’t informed about any extra charges when the nurse came by.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 51,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I apologize for the confusion, Robert. Let me check with our billing department to clarify this.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That would be great. I just don’t want to be charged for something I wasn’t aware of.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Absolutely, I completely understand. I will follow up with you as soon as I get that information.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thank you, Margaret. Do you think this will take long?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I’ll try to get back to you by the end of the day. Is that alright?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, that works for me.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Also, while I have you on the line, would you like to discuss any additional services we can offer?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Well, actually, my neurologist mentioned I might need more physical therapy sessions soon.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 98,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "We can definitely assist with that. Dr. Rodriguez, our physical therapist, specializes in post-surgery rehabilitation and mobility training.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That sounds useful. Can you give me more details?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Sure! His sessions are priced at $110 to $140 for 45 to 60 minutes. Would you like me to schedule a consultation?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Alright, I’ll take care of that along with following up about the billing dispute.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome, Robert. I’ll be in touch soon!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Looking forward to it. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b597bd58f4ef4049b7893f7c",
+  "revision": "",
+  "status": "success"
+}
