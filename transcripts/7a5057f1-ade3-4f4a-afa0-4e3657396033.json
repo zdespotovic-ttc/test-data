@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f45f81e90ef943269053ea0b",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968209-4940df4a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f45f81e90ef943269053ea0b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 146,
+      "duration_ms": 146000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "f45f81e90ef943269053ea0b",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f45f81e90ef943269053ea0b",
+      "media_name": "7fce4a93fc5045f697d2ee55604b2520.mp3",
+      "scenario": "A new customer calls in distress, requesting an urgent repair for their leaking roof during a heavy rainstorm. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 146.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. My name is Thomas White, and I need urgent help. My mother has Alzheimer's, and I’m really worried. I'm so sorry to hear that, Thomas. Can you tell me what specifically is happening? It's her care. I need someone who can provide specialized dementia care and also some respite services for me. Absolutely, I can help with that. We offer specialized dementia care services. When do you need assistance? I need someone to start as soon as possible. I can’t manage everything right now. I understand. We can get someone scheduled for you quickly. Would you like to discuss our dementia care services now? Yes, please. I really need to know more about what you can do. Our dementia and Alzheimer’s care is priced at $32 to $40 per hour. It includes specialized support for your mother’s needs. That sounds good, but I’m also really stressed about the cost. I need help. I understand, Thomas. We can work on developing a care plan that fits your budget. That would be great. I just want to ensure she’s in good hands. I can assure you our caregivers are well-trained in dementia care. Okay, what’s the next step? Can someone come over today? Let me see what we can arrange. I’ll need to check our caregiver availability. Please, I really need someone right now. I understand the urgency. I’ll prioritize finding someone for you. Thank you, Margaret. I appreciate that. You're welcome! I’ll also need to gather some information for our records. Can I have your address? Yes, we live at 1234 Elm Street, Wichita, KS. Thank you, Thomas. And is your mother’s name also on the service? Yes, her name is Evelyn White. Great. I’ll add her to our system. Will someone call me back to confirm? Yes, I’ll make sure someone contacts you shortly with an update. Thank you. Is there anything else I need to do? That’s all for now. Just keep your phone handy for the follow-up call. Okay, I’ll do that. Thank you so much for your help! You’re welcome, Thomas. We’re here for you. Take care! Bye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Thomas White, and I need urgent help. My mother has Alzheimer's, and I’m really worried.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm so sorry to hear that, Thomas. Can you tell me what specifically is happening?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's her care. I need someone who can provide specialized dementia care and also some respite services for me.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, I can help with that. We offer specialized dementia care services. When do you need assistance?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I need someone to start as soon as possible. I can’t manage everything right now.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. We can get someone scheduled for you quickly. Would you like to discuss our dementia care services now?",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please. I really need to know more about what you can do.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our dementia and Alzheimer’s care is priced at $32 to $40 per hour. It includes specialized support for your mother’s needs.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds good, but I’m also really stressed about the cost. I need help.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand, Thomas. We can work on developing a care plan that fits your budget.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great. I just want to ensure she’s in good hands.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can assure you our caregivers are well-trained in dementia care.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, what’s the next step? Can someone come over today?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me see what we can arrange. I’ll need to check our caregiver availability.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Please, I really need someone right now.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand the urgency. I’ll prioritize finding someone for you.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 91,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You're welcome! I’ll also need to gather some information for our records. Can I have your address?",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, we live at 1234 Elm Street, Wichita, KS.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Thomas. And is your mother’s name also on the service?",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, her name is Evelyn White.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great. I’ll add her to our system.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 112,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Will someone call me back to confirm?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Yes, I’ll make sure someone contacts you shortly with an update.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you. Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "That’s all for now. Just keep your phone handy for the follow-up call.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Okay, I’ll do that. Thank you so much for your help!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Thomas. We’re here for you. Take care!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 146,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f45f81e90ef943269053ea0b",
+  "revision": "",
+  "status": "success"
+}
