@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-797f7219656d4e4f9c96f0a2",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968180-b0f496f7",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-797f7219656d4e4f9c96f0a2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "797f7219656d4e4f9c96f0a2",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-797f7219656d4e4f9c96f0a2",
+      "media_name": "d79add50c2c744499a47650650a4dab9.mp3",
+      "scenario": "A returning customer calls in a panic, needing urgent assistance with their freezing computer system. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret, this is Jennifer Taylor. I’m really panicking right now! My grandmother's computer has frozen, and she can't access her care schedule. I’m sorry to hear that, Jennifer. Let’s get this sorted out. Can you tell me more about the issue? Yes, she was trying to check her appointments, and suddenly the screen just locked up. I need to know when her caregiver is coming. I understand how urgent this is. Let me check our system for her schedule. Can you confirm her name and address for me? Sure! Her name is Gladys Taylor, and she lives at 123 Elm Street, Wichita. Thank you, Jennifer. Let me pull that up… [pause] Okay, I have her schedule here. Her caregiver is scheduled to arrive tomorrow at 10 AM. Thank goodness! I was worried that we might have missed it. I can imagine. Would you like me to send you a confirmation email with the details? Yes, please! That would be really helpful. No problem. I’ll send that over right after our call. Thank you! Also, I was wondering if we could set up some companion care for her as well. Absolutely, we offer companion care. It’s $25 to $30 per hour. How many hours are you considering? I think she would benefit from a few hours each day. Maybe 3 hours to start? That sounds great. I’ll note that down. Would you prefer mornings or afternoons for those visits? Mornings would be best, around the same time as her caregiver. Perfect, I’ll arrange that for you. Can I get your email address to send you the confirmation for this as well? Yes, it’s jennifer.taylor@email.com. Thank you, Jennifer. I’ll make sure to send you all the details for both the caregiver and the companion care. I really appreciate your help, Margaret. This was so stressful! You’re welcome! I’m glad I could help. Is there anything else I can assist you with today? No, that’s all for now. Thank you again! You’re very welcome. Have a great day, Jennifer! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Jennifer Taylor. I’m really panicking right now! My grandmother's computer has frozen, and she can't access her care schedule.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Jennifer. Let’s get this sorted out. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, she was trying to check her appointments, and suddenly the screen just locked up. I need to know when her caregiver is coming.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how urgent this is. Let me check our system for her schedule. Can you confirm her name and address for me?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure! Her name is Gladys Taylor, and she lives at 123 Elm Street, Wichita.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you, Jennifer. Let me pull that up… [pause] Okay, I have her schedule here. Her caregiver is scheduled to arrive tomorrow at 10 AM.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank goodness! I was worried that we might have missed it.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I can imagine. Would you like me to send you a confirmation email with the details?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please! That would be really helpful.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "No problem. I’ll send that over right after our call.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you! Also, I was wondering if we could set up some companion care for her as well.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, we offer companion care. It’s $25 to $30 per hour. How many hours are you considering?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I think she would benefit from a few hours each day. Maybe 3 hours to start?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 85,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That sounds great. I’ll note that down. Would you prefer mornings or afternoons for those visits?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Mornings would be best, around the same time as her caregiver.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect, I’ll arrange that for you. Can I get your email address to send you the confirmation for this as well?",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, it’s jennifer.taylor@email.com.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Jennifer. I’ll make sure to send you all the details for both the caregiver and the companion care.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 113,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I really appreciate your help, Margaret. This was so stressful!",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! I’m glad I could help. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s all for now. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 128,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome. Have a great day, Jennifer!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-797f7219656d4e4f9c96f0a2",
+  "revision": "",
+  "status": "success"
+}
