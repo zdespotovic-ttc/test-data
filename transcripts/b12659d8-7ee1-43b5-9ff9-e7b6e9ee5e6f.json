@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-8ff629d32633469287f1d02c",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946967995-f4c44e60",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-8ff629d32633469287f1d02c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 155,
+      "duration_ms": 155000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "8ff629d32633469287f1d02c",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-8ff629d32633469287f1d02c",
+      "media_name": "7dd5f476fd754bc6b33234741b3d3919.mp3",
+      "scenario": "A new customer reports dissatisfaction with the installation service and requires a fix. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 155.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Mark Johnson. I'm calling about some concerns I have with your services. I’m sorry to hear that, Mark. What seems to be the issue? Well, I recently arranged for medication management and transportation for my elderly parents, but the service hasn’t been satisfactory. I understand your frustration. Can you tell me specifically what went wrong? The caregiver assigned to help with medication management seemed rushed and didn’t follow up with my parents as promised. That’s certainly not the level of care we strive for. I apologize for the inconvenience. And the transportation service was late to one of their appointments last week. It really stressed them out. I completely understand how that could be upsetting, especially for your parents. Let’s see how we can fix this. I’d appreciate that. What can be done? First, I’d like to talk to the caregiver and investigate what happened. Can I get your parents' names? Sure, it’s John and Mary Johnson. Thank you, Mark. I’ll reach out to them and get their feedback as well. Sounds good. I’d also like to ensure we have a reliable caregiver going forward. Absolutely, I can arrange a different caregiver who specializes in medication management. That would be great. When can that happen? I can schedule a new caregiver starting this Tuesday. Would that work for you? Yes, that sounds good. Perfect. I’ll also follow up on the transportation issue and make sure it’s addressed. Thank you, I really appreciate your help. You're welcome, Mark. Would you like me to set up a recurring schedule for the new caregiver? Yes, please. I think daily visits would be best for them. Great. I’ll get that arranged and confirm the details with you via email. Thank you! And can you ensure they are on time for appointments? Absolutely, I’ll stress the importance of punctuality with the new caregiver. That’s reassuring to hear. Is there anything else you’d like to discuss while I have you on the line? No, I think that covers it. Thank you again for your prompt attention. My pleasure, Mark. I’ll follow up with you soon. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mark Johnson. I'm calling about some concerns I have with your services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Mark. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I recently arranged for medication management and transportation for my elderly parents, but the service hasn’t been satisfactory.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration. Can you tell me specifically what went wrong?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The caregiver assigned to help with medication management seemed rushed and didn’t follow up with my parents as promised.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That’s certainly not the level of care we strive for. I apologize for the inconvenience.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "And the transportation service was late to one of their appointments last week. It really stressed them out.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand how that could be upsetting, especially for your parents. Let’s see how we can fix this.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I’d appreciate that. What can be done?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "First, I’d like to talk to the caregiver and investigate what happened. Can I get your parents' names?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, it’s John and Mary Johnson.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you, Mark. I’ll reach out to them and get their feedback as well.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sounds good. I’d also like to ensure we have a reliable caregiver going forward.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, I can arrange a different caregiver who specializes in medication management.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be great. When can that happen?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 81,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can schedule a new caregiver starting this Tuesday. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that sounds good.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect. I’ll also follow up on the transportation issue and make sure it’s addressed.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, Mark. Would you like me to set up a recurring schedule for the new caregiver?",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. I think daily visits would be best for them.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great. I’ll get that arranged and confirm the details with you via email.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! And can you ensure they are on time for appointments?",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, I’ll stress the importance of punctuality with the new caregiver.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That’s reassuring to hear.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 131,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Is there anything else you’d like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "No, I think that covers it. Thank you again for your prompt attention.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "My pleasure, Mark. I’ll follow up with you soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-8ff629d32633469287f1d02c",
+  "revision": "",
+  "status": "success"
+}
