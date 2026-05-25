@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a7534aabf1dc4ed29ada1b7f",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968187-76bbd9e8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a7534aabf1dc4ed29ada1b7f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 240,
+      "duration_ms": 240000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "a7534aabf1dc4ed29ada1b7f",
+      "caller_id_number": "+13165559012",
+      "caller_id_name": "Lucille Davis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a7534aabf1dc4ed29ada1b7f",
+      "media_name": "708ab4f425554a7582ed935178a74978.mp3",
+      "scenario": "A new customer is confused about the breakdown of charges on their latest bill and demands clarification. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 240.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Lucille Davis. I'm calling about my latest bill. I'm a bit confused about the charges. Of course, Lucille. I’d be happy to help with that. What specifically are you confused about? Well, I noticed a charge for \"Personal Care Assistance\" that seems higher than usual, and then there's an additional fee I don't recognize. I understand. Let me pull up your billing details. One moment, please. Sure, take your time. Thank you for your patience. I see here that the personal care assistance charge is $28 per hour, but it looks like you had an additional hour added for a special request last week. Special request? I don’t recall requesting anything extra. Let me clarify. Last week, your caregiver provided additional assistance due to your mobility issues, which added that extra hour. Oh, I see. But why is that extra hour more expensive? The charges vary based on the complexity of care provided. If specialized assistance is needed, it can increase the hourly rate slightly to accommodate that. That makes sense, but I wish I had been informed about the extra costs beforehand. I apologize for the oversight, Lucille. We strive for clear communication. I can follow up with your caregiver to ensure they provide details of any extra assistance in the future. Thank you, I'd appreciate that. Also, what was the additional fee on my bill? The extra fee appears to be for a supply charge related to the assistance provided. It includes items used during your care. That wasn’t mentioned in the bill breakdown either. I apologize, Lucille. I can update our billing department to provide itemized breakdowns for all charges in the future. Yes, that would be really helpful moving forward. Absolutely. I’ll document that feedback. Is there anything else I can assist you with today? Actually, could I schedule an extra visit for next week? I want some additional help around the house. Certainly! Would you prefer the same caregiver, or would you like to try someone new for that visit? Same caregiver, please. They've been wonderful. Great choice! I’ll arrange that. Can you confirm the date and time that works for you? How about Wednesday at 10 AM? Wednesday at 10 AM works perfectly. I’ll ensure that’s scheduled. Thank you so much, Margaret. I feel much better about everything now. You’re welcome, Lucille! I’ll follow up on the billing issues and confirm your new visit shortly. Thank you again! Have a great day. You too, Lucille! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Lucille Davis. I'm calling about my latest bill. I'm a bit confused about the charges.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Lucille. I’d be happy to help with that. What specifically are you confused about?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed a charge for \"Personal Care Assistance\" that seems higher than usual, and then there's an additional fee I don't recognize.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Let me pull up your billing details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience. I see here that the personal care assistance charge is $28 per hour, but it looks like you had an additional hour added for a special request last week.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 55,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Special request? I don’t recall requesting anything extra.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me clarify. Last week, your caregiver provided additional assistance due to your mobility issues, which added that extra hour.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Oh, I see. But why is that extra hour more expensive?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "The charges vary based on the complexity of care provided. If specialized assistance is needed, it can increase the hourly rate slightly to accommodate that.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 85,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That makes sense, but I wish I had been informed about the extra costs beforehand.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 92,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I apologize for the oversight, Lucille. We strive for clear communication. I can follow up with your caregiver to ensure they provide details of any extra assistance in the future.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 100,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, I'd appreciate that. Also, what was the additional fee on my bill?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The extra fee appears to be for a supply charge related to the assistance provided. It includes items used during your care.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That wasn’t mentioned in the bill breakdown either.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I apologize, Lucille. I can update our billing department to provide itemized breakdowns for all charges in the future.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that would be really helpful moving forward.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 143,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely. I’ll document that feedback. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Actually, could I schedule an extra visit for next week? I want some additional help around the house.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Certainly! Would you prefer the same caregiver, or would you like to try someone new for that visit?",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 170,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Same caregiver, please. They've been wonderful.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 180,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great choice! I’ll arrange that. Can you confirm the date and time that works for you?",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 190,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "How about Wednesday at 10 AM?",
+          "speaker": "remote party",
+          "start_time": 190,
+          "end_time": 200,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Wednesday at 10 AM works perfectly. I’ll ensure that’s scheduled.",
+          "speaker": "local party",
+          "start_time": 200,
+          "end_time": 210,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much, Margaret. I feel much better about everything now.",
+          "speaker": "remote party",
+          "start_time": 210,
+          "end_time": 220,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Lucille! I’ll follow up on the billing issues and confirm your new visit shortly.",
+          "speaker": "local party",
+          "start_time": 220,
+          "end_time": 230,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you again! Have a great day.",
+          "speaker": "remote party",
+          "start_time": 230,
+          "end_time": 237,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, Lucille! Goodbye!",
+          "speaker": "local party",
+          "start_time": 237,
+          "end_time": 240,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559012",
+    "ooma_remote_name": "Lucille Davis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a7534aabf1dc4ed29ada1b7f",
+  "revision": "",
+  "status": "success"
+}
