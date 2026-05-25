@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-619675a03ca14b6b950651e1",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968133-4466f5a7",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-619675a03ca14b6b950651e1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 144,
+      "duration_ms": 144000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "619675a03ca14b6b950651e1",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-619675a03ca14b6b950651e1",
+      "media_name": "5500cf1d9f3f4616bb0a819769c6bc7f.mp3",
+      "scenario": "A VIP customer calls to dispute a late fee added to their account, asserting that the payment was made on time. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 144.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Edward Martinez. I’m calling about a late fee on my account. Hi, Edward! I see you’ve been a valued client with us. Can you tell me more about the issue? Yes, I just noticed a late fee added, but I made my payment on time. I’m pretty sure of it. I understand your concern. Let me pull up your account to check the payment history. One moment, please. Sure, take your time. I just want to resolve this quickly. My wife needs the respite care as usual. Thank you for your patience, Edward. I see that your last payment was recorded, but it was received one day late. That doesn’t sound right. I have the confirmation from my bank that it was sent on time. I appreciate you sharing that. Would you mind providing the confirmation details? Yes, I can email it to you. It shows the transaction date and time. Perfect. Please send it to our billing department, and I’ll escalate this issue. I will do that. Can you confirm who to send it to? You can send it to billing@carefirsthomehealth.com. Got it. I’ll send that right after our call. Thank you. I’ll follow up on this personally once I receive it. Okay, I appreciate that. Is there a way to waive the late fee if everything checks out? I can certainly advocate for that, especially given your long-standing relationship with us. That would really help. I just want to ensure my wife continues to get the care she needs. Absolutely, and we want to keep providing the best care for you both. Also, I wanted to ask about increasing the hours for respite care next month. We can certainly arrange that. How many additional hours are you considering? I think we might need an extra 10 hours for family appointments and errands. Let me note that down, and I’ll discuss it with our scheduling team. Great, I’d like to finalize that as soon as possible. Of course! I’ll have Lisa, our Care Coordinator, follow up with you. Sounds good. I appreciate your help today, Margaret. You’re welcome, Edward! Thank you for being a loyal client. I’ll send that email shortly. Have a great day! You too, Edward! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 4,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I’m calling about a late fee on my account.",
+          "speaker": "remote party",
+          "start_time": 4,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Edward! I see you’ve been a valued client with us. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I just noticed a late fee added, but I made my payment on time. I’m pretty sure of it.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account to check the payment history. One moment, please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time. I just want to resolve this quickly. My wife needs the respite care as usual.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Edward. I see that your last payment was recorded, but it was received one day late.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That doesn’t sound right. I have the confirmation from my bank that it was sent on time.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I appreciate you sharing that. Would you mind providing the confirmation details?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I can email it to you. It shows the transaction date and time.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Perfect. Please send it to our billing department, and I’ll escalate this issue.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I will do that. Can you confirm who to send it to?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You can send it to billing@carefirsthomehealth.com.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Got it. I’ll send that right after our call.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you. I’ll follow up on this personally once I receive it.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, I appreciate that. Is there a way to waive the late fee if everything checks out?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can certainly advocate for that, especially given your long-standing relationship with us.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would really help. I just want to ensure my wife continues to get the care she needs.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, and we want to keep providing the best care for you both.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Also, I wanted to ask about increasing the hours for respite care next month.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We can certainly arrange that. How many additional hours are you considering?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I think we might need an extra 10 hours for family appointments and errands.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Let me note that down, and I’ll discuss it with our scheduling team.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great, I’d like to finalize that as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Of course! I’ll have Lisa, our Care Coordinator, follow up with you.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds good. I appreciate your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Edward! Thank you for being a loyal client.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I’ll send that email shortly. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, Edward! Take care.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-619675a03ca14b6b950651e1",
+  "revision": "",
+  "status": "success"
+}
