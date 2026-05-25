@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d645594521294b74ac08f13a",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968158-54f939ab",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d645594521294b74ac08f13a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 121,
+      "duration_ms": 121000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "d645594521294b74ac08f13a",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d645594521294b74ac08f13a",
+      "media_name": "e2187096d2334cae815a752af1359840.mp3",
+      "scenario": "A prospect disputes a charge for a trial service they were told would be free of cost. Category: Billing. Flags: billing_dispute. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 121.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret Thompson speaking. How can I help you today? Hi Margaret, this is Karen Lewis. I was referred to your agency by my husband's cardiac surgeon's office. Hi Karen, it's nice to meet you! How can I assist with your husband's care? Well, my husband needs post-operative care after his surgery next month, but... I have a concern about a charge I was told would be free of cost. Oh, I’m sorry to hear that. Can you tell me more about the charge in question? Yes, I was mentioned that the initial consultation would be complimentary, but I received a bill for $95. I understand your concern, Karen. Let me look into that for you. Can you provide me with the date when you scheduled the consultation? It was last week, on Tuesday. They said someone would reach out for follow-up care. Thank you. I’ll check our records for that consultation to clarify the billing. In the meantime, I can assure you that our post-surgery recovery care starts at $85. Yes, I saw that. I'm concerned if this billing issue isn't resolved, I won’t be able to proceed. I completely understand, and I want to make this right for you. I’ll follow up with our billing department after we finish this call. That would be great. I just want to ensure everything is set for my husband’s care. Absolutely! We can also schedule the skilled nursing care for his recovery as soon as you’re ready. Right, let's focus on that once we get the billing sorted out. Of course, I appreciate your patience. I'll also send you an email summarizing our conversation today. Thank you, I appreciate that. When can I expect a follow-up? I should have an update for you by the end of the day. Does that work for you? Yes, that works perfectly. Thank you for your help, Margaret. You’re welcome, Karen! I’ll be in touch soon. Have a great day! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret Thompson speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Karen Lewis. I was referred to your agency by my husband's cardiac surgeon's office.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Karen, it's nice to meet you! How can I assist with your husband's care?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my husband needs post-operative care after his surgery next month, but...",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I have a concern about a charge I was told would be free of cost.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Oh, I’m sorry to hear that. Can you tell me more about the charge in question?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, I was mentioned that the initial consultation would be complimentary, but I received a bill for $95.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 37,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I understand your concern, Karen. Let me look into that for you.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Can you provide me with the date when you scheduled the consultation?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It was last week, on Tuesday. They said someone would reach out for follow-up care.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you. I’ll check our records for that consultation to clarify the billing.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "In the meantime, I can assure you that our post-surgery recovery care starts at $85.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, I saw that. I'm concerned if this billing issue isn't resolved, I won’t be able to proceed.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 71,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I completely understand, and I want to make this right for you.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I’ll follow up with our billing department after we finish this call.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be great. I just want to ensure everything is set for my husband’s care.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! We can also schedule the skilled nursing care for his recovery as soon as you’re ready.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Right, let's focus on that once we get the billing sorted out.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, I appreciate your patience. I'll also send you an email summarizing our conversation today.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 101,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, I appreciate that. When can I expect a follow-up?",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I should have an update for you by the end of the day. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that works perfectly. Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Karen! I’ll be in touch soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d645594521294b74ac08f13a",
+  "revision": "",
+  "status": "success"
+}
