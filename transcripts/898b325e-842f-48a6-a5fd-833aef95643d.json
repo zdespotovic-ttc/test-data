@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d7ea37306d254e80b6b3c84e",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968109-29065aeb",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d7ea37306d254e80b6b3c84e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 167,
+      "duration_ms": 167000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "d7ea37306d254e80b6b3c84e",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d7ea37306d254e80b6b3c84e",
+      "media_name": "bff3913b05af41879dafed92baf5dae3.mp3",
+      "scenario": "A new customer disputes the charges incurred during their trial period, seeking a refund. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 167.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Charles Thompson. I'm calling about a billing dispute regarding the charges during my trial period. I'm sorry to hear that, Charles. Can you provide me with some details about the charges in question? Sure, I was billed for services I thought were supposed to be covered under the trial. It seems higher than expected. I understand your concern. Let me pull up your account and review the billing details. One moment, please. Okay, thank you. It's just frustrating because I thought everything was clear before the trial started. I completely understand, and I appreciate your patience. I have your account now. Can you tell me which specific charges are in dispute? The charges for personal care assistance and wound care management. They add up to more than I was told initially. I see, let me check those items. Our personal care assistance is $28-$35 per hour, and wound care is $75-$95. How many hours were billed for each? I believe it was about five hours for personal care and three for wound care. Alright, based on that, the charges should align with our pricing. But let me verify if any adjustments are due to the trial. I appreciate that, but I really thought I was supposed to be covered for the trial period. I understand, Charles. Trials can sometimes lead to confusion. I’ll escalate this to our billing department for a detailed review. That sounds good. I really hope we can resolve this quickly. Absolutely, I’ll make sure to follow up with you. Is there anything else I can help you with today? Yes, actually, I wanted to ask if there are services for ongoing support after my recovery. Yes, we offer companion care and personal care assistance that could be beneficial. Would you like to hear more about those? Yes, please. I think some companionship would help a lot during my recovery. Great! Companion care starts at $25 per hour. Our caregivers can assist with light housekeeping and meals as well. That sounds helpful. Can I schedule a consultation for that? Of course! I can connect you with Lisa Chen, our Care Coordinator, to discuss a personalized care plan. Perfect, thank you. Just to recap, I'll escalate your billing dispute and connect you with Lisa for ongoing care. That sounds good. I appreciate your help today, Margaret. You’re welcome, Charles! Thank you for your call, and I’ll keep you updated. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I'm calling about a billing dispute regarding the charges during my trial period.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Charles. Can you provide me with some details about the charges in question?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, I was billed for services I thought were supposed to be covered under the trial. It seems higher than expected.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account and review the billing details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, thank you. It's just frustrating because I thought everything was clear before the trial started.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand, and I appreciate your patience. I have your account now. Can you tell me which specific charges are in dispute?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "The charges for personal care assistance and wound care management. They add up to more than I was told initially.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 54,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I see, let me check those items. Our personal care assistance is $28-$35 per hour, and wound care is $75-$95. How many hours were billed for each?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 62,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I believe it was about five hours for personal care and three for wound care.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Alright, based on that, the charges should align with our pricing. But let me verify if any adjustments are due to the trial.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 74,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate that, but I really thought I was supposed to be covered for the trial period.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand, Charles. Trials can sometimes lead to confusion. I’ll escalate this to our billing department for a detailed review.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 88,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. I really hope we can resolve this quickly.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 96,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, I’ll make sure to follow up with you. Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, actually, I wanted to ask if there are services for ongoing support after my recovery.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 107,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we offer companion care and personal care assistance that could be beneficial. Would you like to hear more about those?",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 114,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. I think some companionship would help a lot during my recovery.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 121,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! Companion care starts at $25 per hour. Our caregivers can assist with light housekeeping and meals as well.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 128,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds helpful. Can I schedule a consultation for that?",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 135,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course! I can connect you with Lisa Chen, our Care Coordinator, to discuss a personalized care plan.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect, thank you.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 147,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Just to recap, I'll escalate your billing dispute and connect you with Lisa for ongoing care.",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 152,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds good. I appreciate your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 152,
+          "end_time": 158,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Charles! Thank you for your call, and I’ll keep you updated. Have a great day!",
+          "speaker": "local party",
+          "start_time": 158,
+          "end_time": 164,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 164,
+          "end_time": 166,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 166,
+          "end_time": 167,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d7ea37306d254e80b6b3c84e",
+  "revision": "",
+  "status": "success"
+}
