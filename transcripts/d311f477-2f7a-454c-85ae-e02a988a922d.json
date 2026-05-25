@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5f47ecc05aff4fff89b319a7",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968101-b54c77d5",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5f47ecc05aff4fff89b319a7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "5f47ecc05aff4fff89b319a7",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5f47ecc05aff4fff89b319a7",
+      "media_name": "a7fad85a30cf497c83377f7ce27aaf2e.mp3",
+      "scenario": "A prospect calls to dispute a charge on their credit card, claiming they never authorized a purchase. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Michael Brown. I'm calling about a charge on my credit card that I didn't authorize. I’m sorry to hear that, Michael. Can you provide me with some details about the charge? Yes, I noticed a $95 charge for a service that I never authorized for my father. I understand your concern. Let me check our records to see what that charge pertains to. Thank you. My father has diabetes, and I had inquired about wound care and medication management, but I didn’t agree to any charges yet. I see. Please hold for a moment while I pull up your father's account. Sure, take your time. Thank you for your patience. It looks like there was a charge for a skilled nursing visit on [insert date]. Did you perhaps miss the confirmation call? No, I didn’t receive a call, and I definitely didn’t approve any visit. I apologize for the inconvenience, Michael. Let me check with our scheduling team about that. I appreciate that. It’s really important to resolve this quickly. Absolutely. In the meantime, would you like me to assist you in scheduling the wound care and medication management for your father? We can set that up as a recurring service if you’d like. Yes, that would be great, but I want to resolve this billing issue first. Of course. I’ll make that my priority. Let me reach out to our billing department right now. Thank you, that would help a lot. I can also provide you with my direct number, in case you need to follow up. It's +13165559201. Great, I’ll keep that handy. I’ll ensure that someone from our billing department contacts you within the next 24 hours with an update. Sounds good, I appreciate your help with this. Thank you for your understanding, Michael. And just to confirm, you'll be hearing from us soon regarding the billing issue. Yes, thank you again, Margaret. You’re welcome! If there's anything else, don’t hesitate to call. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I'm calling about a charge on my credit card that I didn't authorize.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Michael. Can you provide me with some details about the charge?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed a $95 charge for a service that I never authorized for my father.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me check our records to see what that charge pertains to.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. My father has diabetes, and I had inquired about wound care and medication management, but I didn’t agree to any charges yet.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 36,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see. Please hold for a moment while I pull up your father's account.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for your patience. It looks like there was a charge for a skilled nursing visit on [insert date]. Did you perhaps miss the confirmation call?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "No, I didn’t receive a call, and I definitely didn’t approve any visit.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I apologize for the inconvenience, Michael. Let me check with our scheduling team about that.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate that. It’s really important to resolve this quickly.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely. In the meantime, would you like me to assist you in scheduling the wound care and medication management for your father? We can set that up as a recurring service if you’d like.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 95,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great, but I want to resolve this billing issue first.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course. I’ll make that my priority. Let me reach out to our billing department right now.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, that would help a lot.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can also provide you with my direct number, in case you need to follow up. It's +13165559201.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 120,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great, I’ll keep that handy.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll ensure that someone from our billing department contacts you within the next 24 hours with an update.",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 135,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good, I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you for your understanding, Michael. And just to confirm, you'll be hearing from us soon regarding the billing issue.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, thank you again, Margaret.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! If there's anything else, don’t hesitate to call. Have a great day!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 164,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 164,
+          "end_time": 170,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5f47ecc05aff4fff89b319a7",
+  "revision": "",
+  "status": "success"
+}
