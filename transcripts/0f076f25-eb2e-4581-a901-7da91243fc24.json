@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T22:42:52Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9515f71e693045b7ae96e7b1",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968172-376df8f8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9515f71e693045b7ae96e7b1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 148,
+      "duration_ms": 148000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946968172,
+      "call_id": "9515f71e693045b7ae96e7b1",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9515f71e693045b7ae96e7b1",
+      "media_name": "46f766e094ab4c2dac983620a1601841.mp3",
+      "scenario": "A returning customer disputes a late fee added to their account, requesting a refund. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 148.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Betty Lou Smith. I'm calling about a late fee that was added to my account. Hi Betty, I’m happy to help. Can you please provide me with some details about that? Sure. I noticed a $25 late fee on my bill, but I always pay on time. I don’t think it should be there. I understand your concern, Betty. Let me pull up your account to look into this. Thank you. I’ve been a client for ten months, and I really appreciate the care I get, but unexpected fees are frustrating. I completely understand. It looks like the fee was added due to a delay in processing your last payment. But I mailed my payment on time! Can you check when it was received? Let me verify that for you. Just one moment, please. *[pauses]* Okay, it appears your payment was received two days late due to postal delays. That’s really frustrating. I wish I had known; I would have called instead. I understand, Betty. To resolve this, we can waive the late fee this time. Really? That would be great, thank you! You’re welcome! I’ll process that adjustment right away. You should see it reflected in your next statement. I appreciate that. Just to confirm, when is my next payment due? Your next payment is due on the 15th of this month. Got it. Thank you for clarifying. Is there anything else I can assist you with today, like adjusting your care schedule? Actually, yes. I would love to discuss increasing my mobility assistance sessions. Absolutely! I can have one of our care coordinators reach out to you about that. That sounds perfect. Thank you so much for your help today! You’re very welcome, Betty. I’ll also note that you prefer consistent caregivers for future reference. Yes, thank you! Consistency is really important for me. I completely understand. I’ll make a note of that in your file. Great! I look forward to hearing from the care coordinator soon. Thank you for calling, Betty. Have a wonderful day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I'm calling about a late fee that was added to my account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty, I’m happy to help. Can you please provide me with some details about that?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure. I noticed a $25 late fee on my bill, but I always pay on time. I don’t think it should be there.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern, Betty. Let me pull up your account to look into this.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I’ve been a client for ten months, and I really appreciate the care I get, but unexpected fees are frustrating.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand. It looks like the fee was added due to a delay in processing your last payment.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "But I mailed my payment on time! Can you check when it was received?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me verify that for you. Just one moment, please.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "*[pauses]* Okay, it appears your payment was received two days late due to postal delays.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 58,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That’s really frustrating. I wish I had known; I would have called instead.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I understand, Betty. To resolve this, we can waive the late fee this time.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Really? That would be great, thank you!",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "You’re welcome! I’ll process that adjustment right away. You should see it reflected in your next statement.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I appreciate that. Just to confirm, when is my next payment due?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 85,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Your next payment is due on the 15th of this month.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Got it. Thank you for clarifying.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Is there anything else I can assist you with today, like adjusting your care schedule?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Actually, yes. I would love to discuss increasing my mobility assistance sessions.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 107,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely! I can have one of our care coordinators reach out to you about that.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That sounds perfect. Thank you so much for your help today!",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re very welcome, Betty. I’ll also note that you prefer consistent caregivers for future reference.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, thank you! Consistency is really important for me.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I completely understand. I’ll make a note of that in your file.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Great! I look forward to hearing from the care coordinator soon.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Thank you for calling, Betty. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 142,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 148,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9515f71e693045b7ae96e7b1",
+  "revision": "",
+  "status": "success"
+}
