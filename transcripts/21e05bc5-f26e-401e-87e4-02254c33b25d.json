@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b2a13151a4c345aeb368a4c1",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968091-eebf5537",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b2a13151a4c345aeb368a4c1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "b2a13151a4c345aeb368a4c1",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b2a13151a4c345aeb368a4c1",
+      "media_name": "eb1b8dab85a74ab893434d582de7a27d.mp3",
+      "scenario": "A VIP client is concerned about discrepancies in their monthly billing statement and demands a review. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is David Anderson. I'm calling because I have a concern about my wife’s billing statement. I’m sorry to hear that, David. What specific discrepancies are you noticing? Well, it seems like the charges for her physical therapy sessions don’t match what we initially agreed on. There are extra fees listed. I understand how concerning that must be. Let me look into this for you. Can you confirm the date of the billing statement you received? Yes, it was dated last Friday. Thank you. I'll pull that up right now. One moment, please. Okay, I have the statement in front of me. It appears we charged you for three physical therapy sessions instead of two. Is that correct? Yes, but we only had two sessions last month. I see. Let me check the records to confirm the sessions scheduled. It looks like there was an error in our scheduling system. I apologize for the confusion. Thank you, I appreciate you checking that. We will definitely adjust your billing statement accordingly. I’ll make a note for our billing department. When can I expect the corrected statement? You should receive it within the next three to five business days. Alright, sounds good. Is there anything else you’d like me to assist you with today? Actually, yes. I wanted to inquire about additional physical therapy sessions for my wife. Sure! We can arrange more sessions. How often were you considering? Maybe twice a week if possible. That sounds great. I can put you in touch with Dr. James Rodriguez, our physical therapist, to discuss the plan. That would be helpful, thank you. Let me get you his direct line. It’s +13165559215. Would you like me to set up an initial appointment for you? Yes, please. I’ll connect with him and have him reach out to you. Thank you, Margaret. I appreciate your help today. You’re very welcome, David. I apologize again for the billing error and thank you for your understanding. No problem at all. Have a great day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is David Anderson. I'm calling because I have a concern about my wife’s billing statement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, David. What specific discrepancies are you noticing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, it seems like the charges for her physical therapy sessions don’t match what we initially agreed on. There are extra fees listed.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that must be. Let me look into this for you.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Can you confirm the date of the billing statement you received?",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, it was dated last Friday.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Thank you. I'll pull that up right now. One moment, please.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Okay, I have the statement in front of me. It appears we charged you for three physical therapy sessions instead of two. Is that correct?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, but we only had two sessions last month.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I see. Let me check the records to confirm the sessions scheduled.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 59,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It looks like there was an error in our scheduling system. I apologize for the confusion.",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 70,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you, I appreciate you checking that.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "We will definitely adjust your billing statement accordingly. I’ll make a note for our billing department.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "When can I expect the corrected statement?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "You should receive it within the next three to five business days.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Alright, sounds good.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Is there anything else you’d like me to assist you with today?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Actually, yes. I wanted to inquire about additional physical therapy sessions for my wife.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Sure! We can arrange more sessions. How often were you considering?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Maybe twice a week if possible.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "That sounds great. I can put you in touch with Dr. James Rodriguez, our physical therapist, to discuss the plan.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That would be helpful, thank you.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Let me get you his direct line. It’s +13165559215. Would you like me to set up an initial appointment for you?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Yes, please.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "I’ll connect with him and have him reach out to you.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You’re very welcome, David. I apologize again for the billing error and thank you for your understanding.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "No problem at all. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b2a13151a4c345aeb368a4c1",
+  "revision": "",
+  "status": "success"
+}
