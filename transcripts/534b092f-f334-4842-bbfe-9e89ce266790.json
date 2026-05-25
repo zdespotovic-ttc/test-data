@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e667d79ca5674737b8cbb6fd",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968220-a8898898",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e667d79ca5674737b8cbb6fd",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "e667d79ca5674737b8cbb6fd",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e667d79ca5674737b8cbb6fd",
+      "media_name": "f74afc519cfa4e23949eab0f8e927164.mp3",
+      "scenario": "A VIP customer demands an emergency service to restore electricity after a power outage in their home. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Dorothy Henderson. I need urgent help—my power is out, and I really need assistance right away. Oh no, Dorothy! I'm so sorry to hear that. Can you tell me more about the situation? Well, the outage has made it really difficult for me to manage. I need my physical therapy and personal care, and I can't get around without lights. I understand how urgent that is. We can definitely arrange for a caregiver to come by. Yes, please! I really need someone here as soon as possible. Let me check our caregiver availability for you. One moment, please. Thank you, I appreciate it. I don’t want to miss my therapy session today; it’s so important for my recovery. Absolutely! Your recovery is a priority. Alright, I see we have a female caregiver available. That’s great! Can she come within the hour? Yes, she can arrive in about 30 minutes. Would that work for you? Yes, that would be perfect! Fantastic. I’ll confirm her arrival shortly. Just to clarify, you still prefer morning visits for your therapy, correct? Yes, I do. Morning visits are best for me. Great! I’ll ensure the caregiver is briefed about your preferences. Thank you so much, Margaret. I feel much better knowing help is on the way. You’re welcome, Dorothy. Is there anything else you need right now? Well, if the power doesn’t return soon, I might need extra sessions. I can certainly help set that up. Would you like me to check on additional personal care hours just in case? Yes, please do that. I really want to make sure I’m taken care of. I’ll arrange for that and keep you updated. Expect a follow-up call from me soon. Thank you, Margaret! I appreciate all your help. Of course, Dorothy! I’m here for you. Take care, and I’ll talk to you shortly. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Dorothy Henderson. I need urgent help—my power is out, and I really need assistance right away.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, Dorothy! I'm so sorry to hear that. Can you tell me more about the situation?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the outage has made it really difficult for me to manage. I need my physical therapy and personal care, and I can't get around without lights.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how urgent that is. We can definitely arrange for a caregiver to come by.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, please! I really need someone here as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check our caregiver availability for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you, I appreciate it. I don’t want to miss my therapy session today; it’s so important for my recovery.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely! Your recovery is a priority. Alright, I see we have a female caregiver available.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s great! Can she come within the hour?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, she can arrive in about 30 minutes. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be perfect!",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Fantastic. I’ll confirm her arrival shortly. Just to clarify, you still prefer morning visits for your therapy, correct?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I do. Morning visits are best for me.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll ensure the caregiver is briefed about your preferences.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you so much, Margaret. I feel much better knowing help is on the way.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome, Dorothy. Is there anything else you need right now?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Well, if the power doesn’t return soon, I might need extra sessions.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I can certainly help set that up. Would you like me to check on additional personal care hours just in case?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please do that. I really want to make sure I’m taken care of.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll arrange for that and keep you updated. Expect a follow-up call from me soon.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret! I appreciate all your help.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Of course, Dorothy! I’m here for you. Take care, and I’ll talk to you shortly.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e667d79ca5674737b8cbb6fd",
+  "revision": "",
+  "status": "success"
+}
