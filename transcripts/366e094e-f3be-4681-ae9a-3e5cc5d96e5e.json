@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T22:41:20Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-17e25fdd117542d9a65f195a",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968080-fff6065c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-17e25fdd117542d9a65f195a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946968080,
+      "call_id": "17e25fdd117542d9a65f195a",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-17e25fdd117542d9a65f195a",
+      "media_name": "566d8ffba4ef4e5c96d9bba31ade0cda.mp3",
+      "scenario": "A new customer reports a service quality issue with the carpet cleaning performed last week. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Thomas White. I’m calling about a service issue we had last week. I’m sorry to hear that, Thomas. Can you please tell me more about the issue? Yes, we had carpet cleaning done, but it wasn't up to standard. There are still stains left. I understand how frustrating that can be. When exactly did the cleaning take place? It was last Wednesday. We expected better results, honestly. Thank you for that information. I’ll need to document this complaint. Can you describe the stains? Sure, there are several dark spots in the living room area and a couple in the hallway. Thank you, Thomas. I’ll escalate this to our cleaning team for further review. Are you available for a follow-up call? Yes, that would be great. I’d like to know what actions will be taken. Absolutely. I’ll make sure someone reaches out to you within the next 24 hours. Also, I wanted to inquire about services for my mother. She has Alzheimer's and needs specialized care. We can definitely help with that. We offer specialized dementia care services. That sounds good. Can you tell me more about what's included? Sure! Our dementia care includes personal care assistance and companionship, tailored to her needs. What are the rates for that? The rate is between $32 and $40 per hour, depending on the level of care required. That’s reasonable. I’d like to explore that further after we resolve the cleaning issue. That sounds like a plan. I’ll make a note to follow up on that as well. Thank you, Margaret. I appreciate your assistance. You’re welcome, Thomas. I’ll ensure we take care of both issues promptly. Great, I look forward to your call. Thank you for your understanding and have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Thomas White. I’m calling about a service issue we had last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Thomas. Can you please tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, we had carpet cleaning done, but it wasn't up to standard. There are still stains left.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that can be. When exactly did the cleaning take place?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was last Wednesday. We expected better results, honestly.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for that information. I’ll need to document this complaint. Can you describe the stains?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, there are several dark spots in the living room area and a couple in the hallway.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you, Thomas. I’ll escalate this to our cleaning team for further review. Are you available for a follow-up call?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be great. I’d like to know what actions will be taken.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely. I’ll make sure someone reaches out to you within the next 24 hours.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Also, I wanted to inquire about services for my mother. She has Alzheimer's and needs specialized care.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can definitely help with that. We offer specialized dementia care services.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. Can you tell me more about what's included?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! Our dementia care includes personal care assistance and companionship, tailored to her needs.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 84,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "What are the rates for that?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "The rate is between $32 and $40 per hour, depending on the level of care required.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That’s reasonable. I’d like to explore that further after we resolve the cleaning issue.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "That sounds like a plan. I’ll make a note to follow up on that as well.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your assistance.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Thomas. I’ll ensure we take care of both issues promptly.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Great, I look forward to your call.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for your understanding and have a great day!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-17e25fdd117542d9a65f195a",
+  "revision": "",
+  "status": "success"
+}
