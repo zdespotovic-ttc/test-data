@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-520280c09acf4854b79c16f5",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968231-1f6e717a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-520280c09acf4854b79c16f5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "520280c09acf4854b79c16f5",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-520280c09acf4854b79c16f5",
+      "media_name": "d546e96d2aeb42f8adaab6e9974a35eb.mp3",
+      "scenario": "A prospect needs immediate help with a sudden plumbing failure that is flooding their premises. Category: Urgent Request. Flags: urgent_request. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, this is William Chen. I need urgent help right now! I’m so sorry to hear that, William. What’s going on? There’s a plumbing failure in my house, and water is flooding everywhere! Oh no! That sounds really stressful. Can you tell me where the leak is coming from? It's coming from under the kitchen sink—water is pouring out! I understand. Unfortunately, we don't handle plumbing issues directly, but I can assist you in finding emergency repairs. Please, I need to get someone here fast! Absolutely, let me guide you. I recommend calling a local plumbing service immediately. Do you have a recommendation? Yes, there's a company called Plumbing Pros. Their number is +13165559900. Thank you, I’ll call them right away! You're welcome. Is there anything else I can assist you with regarding your home healthcare? Actually, I had a physical therapy session scheduled for tomorrow. Should I still go ahead with that? If you’re safe and your home is manageable after the plumbing issue, yes, we can proceed as planned. That makes sense. I want to make sure everything is stable first. Of course. I’ll check in with you tomorrow to confirm the session. Thank you for doing that. I really appreciate it! Not a problem, William! Also, if you need assistance with personal care or respite services while you're dealing with this, let me know. I might need that—my family is out of town, and I could use some help. We can provide personal care assistance at $28 to $35 per hour. Would you like me to arrange that? Yes, please. That would be incredibly helpful. Great! I’ll have our Care Coordinator, Lisa Chen, reach out to you today to discuss the details. Thank you so much for your help! You’re very welcome, William. Stay safe, and I’ll be in touch soon. Will do, thanks again! Bye for now!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is William Chen. I need urgent help right now!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m so sorry to hear that, William. What’s going on?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "There’s a plumbing failure in my house, and water is flooding everywhere!",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no! That sounds really stressful. Can you tell me where the leak is coming from?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It's coming from under the kitchen sink—water is pouring out!",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. Unfortunately, we don't handle plumbing issues directly, but I can assist you in finding emergency repairs.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Please, I need to get someone here fast!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, let me guide you. I recommend calling a local plumbing service immediately.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Do you have a recommendation?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, there's a company called Plumbing Pros. Their number is +13165559900.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 47,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I’ll call them right away!",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 51,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You're welcome. Is there anything else I can assist you with regarding your home healthcare?",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Actually, I had a physical therapy session scheduled for tomorrow. Should I still go ahead with that?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "If you’re safe and your home is manageable after the plumbing issue, yes, we can proceed as planned.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That makes sense. I want to make sure everything is stable first.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course. I’ll check in with you tomorrow to confirm the session.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you for doing that. I really appreciate it!",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Not a problem, William! Also, if you need assistance with personal care or respite services while you're dealing with this, let me know.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I might need that—my family is out of town, and I could use some help.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We can provide personal care assistance at $28 to $35 per hour. Would you like me to arrange that?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. That would be incredibly helpful.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I’ll have our Care Coordinator, Lisa Chen, reach out to you today to discuss the details.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much for your help!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, William. Stay safe, and I’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Will do, thanks again!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye for now!",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-520280c09acf4854b79c16f5",
+  "revision": "",
+  "status": "success"
+}
