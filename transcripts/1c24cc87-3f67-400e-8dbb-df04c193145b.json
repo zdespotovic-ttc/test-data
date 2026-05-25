@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-740a6b3d3842459d989c89cc",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968295-e882546a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-740a6b3d3842459d989c89cc",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "740a6b3d3842459d989c89cc",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-740a6b3d3842459d989c89cc",
+      "media_name": "a0ed9f5425b44692a14c0c509c2f04f1.mp3",
+      "scenario": "A prospect decides to cancel their scheduled service appointment, citing a change in needs. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Rose Patterson. I wanted to talk about my mom's care services. Hi Rose! It's nice to hear from you. How's your mom doing? Well, that’s the thing. I need to cancel her companion care appointment for next week. I see. Can I ask what prompted the decision to cancel? Yes, we’ve had a change in our needs. My son is going to be around more and can help with her care. I understand, family support is very important. How is your mom adjusting to this change? She’s been okay, but I worry about her comfort with familiar caregivers. That's been key for her. Absolutely, continuity can really help with her comfort. Right, and I want to make sure we don’t lose that connection with her caregivers. Would you like to pause her services instead of canceling? We can keep her caregivers in the loop. That might be a good idea. What would that look like? We could schedule a follow-up call in a month to reassess her needs. Yes, I think that would be helpful. Great! I’ll set that up for you. And is there anything else we can assist with right now? Actually, I was wondering if we could still have someone come for extra support on days my son is busy? Absolutely, we can arrange for that. Would you like to keep the same caregivers? Yes, definitely. They know her well. Perfect, I’ll make a note of that. We can offer Companion Care on an as-needed basis. That sounds good. What's the rate for that? It's $25 to $30 per hour, depending on the specific needs during the visit. Okay, I’ll discuss that with my son. Sounds good, Rose. Let’s also schedule that follow-up in a month. Yes, please! I’ll handle that, and I’ll confirm via email. Thank you, Margaret, I appreciate your help! Of course, Rose! Take care, and we’ll talk soon. You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I wanted to talk about my mom's care services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose! It's nice to hear from you. How's your mom doing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, that’s the thing. I need to cancel her companion care appointment for next week.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. Can I ask what prompted the decision to cancel?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, we’ve had a change in our needs. My son is going to be around more and can help with her care.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, family support is very important. How is your mom adjusting to this change?",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "She’s been okay, but I worry about her comfort with familiar caregivers. That's been key for her.",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, continuity can really help with her comfort.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 43,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Right, and I want to make sure we don’t lose that connection with her caregivers.",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Would you like to pause her services instead of canceling? We can keep her caregivers in the loop.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That might be a good idea. What would that look like?",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We could schedule a follow-up call in a month to reassess her needs.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I think that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll set that up for you. And is there anything else we can assist with right now?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 73,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, I was wondering if we could still have someone come for extra support on days my son is busy?",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, we can arrange for that. Would you like to keep the same caregivers?",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, definitely. They know her well.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect, I’ll make a note of that. We can offer Companion Care on an as-needed basis.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. What's the rate for that?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It's $25 to $30 per hour, depending on the specific needs during the visit.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Okay, I’ll discuss that with my son.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sounds good, Rose. Let’s also schedule that follow-up in a month.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, please!",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I’ll handle that, and I’ll confirm via email.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret, I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Of course, Rose! Take care, and we’ll talk soon.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 131,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 133,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-740a6b3d3842459d989c89cc",
+  "revision": "",
+  "status": "success"
+}
