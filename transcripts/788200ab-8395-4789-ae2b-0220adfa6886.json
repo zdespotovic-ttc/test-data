@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a6f35e1bb3e54b82a6ca7ee4",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968100-74b74f88",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a6f35e1bb3e54b82a6ca7ee4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "a6f35e1bb3e54b82a6ca7ee4",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a6f35e1bb3e54b82a6ca7ee4",
+      "media_name": "96925c463068496587f26d50c0b39ac3.mp3",
+      "scenario": "A returning customer calls about an overcharge on their account and requests immediate correction. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Betty Lou Smith. I’m calling about a billing issue. Hi Betty, it’s great to hear from you. What seems to be the problem with the billing? Well, I noticed an overcharge on my account from last week, and I’d like it corrected immediately. I’m sorry to hear that, Betty. Let me pull up your account. One moment, please. Okay, I see your account here. It looks like there was an extra hour charged for personal care assistance last week. Yes, that’s right! I only needed my usual two hours. I understand, and I apologize for the error. I can correct that charge for you right now. Thank you! I really appreciate your help with this. Of course! I’ll issue a refund for that overcharge. It should reflect in your account within 3-5 business days. That sounds good. Can you also confirm the new caregiver schedule? Absolutely, let me check the schedule for you. It looks like your caregiver will be coming in at the usual times, on Tuesday and Thursday from 1 PM to 3 PM. Perfect! I like that routine. Great to hear. Is there anything else I can help you with today? Yes, actually, I heard you also offer physical therapy services. Yes, we do. Dr. James Rodriguez handles physical therapy. Would you like more information? Yes, I could use some help with my mobility. What are the rates? Our physical therapy sessions are priced between $110 to $140 for 45 to 60 minutes. That sounds reasonable. Can I schedule a session for next week? Certainly! I’ll connect you with Lisa Chen, our Care Coordinator, for scheduling. Thank you! I appreciate your assistance with everything. You’re welcome, Betty. Just to recap, I’ve issued the refund and will connect you with Lisa. Sounds good. I look forward to hearing from her. Thank you for calling, Betty. Have a great day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I’m calling about a billing issue.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty, it’s great to hear from you. What seems to be the problem with the billing?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed an overcharge on my account from last week, and I’d like it corrected immediately.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that, Betty. Let me pull up your account. One moment, please.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 18,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, I see your account here. It looks like there was an extra hour charged for personal care assistance last week.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, that’s right! I only needed my usual two hours.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I understand, and I apologize for the error. I can correct that charge for you right now.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Thank you! I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Of course! I’ll issue a refund for that overcharge. It should reflect in your account within 3-5 business days.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That sounds good. Can you also confirm the new caregiver schedule?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, let me check the schedule for you.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "It looks like your caregiver will be coming in at the usual times, on Tuesday and Thursday from 1 PM to 3 PM.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect! I like that routine.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great to hear. Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, actually, I heard you also offer physical therapy services.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we do. Dr. James Rodriguez handles physical therapy. Would you like more information?",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I could use some help with my mobility. What are the rates?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our physical therapy sessions are priced between $110 to $140 for 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds reasonable. Can I schedule a session for next week?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Certainly! I’ll connect you with Lisa Chen, our Care Coordinator, for scheduling.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you! I appreciate your assistance with everything.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Betty. Just to recap, I’ve issued the refund and will connect you with Lisa.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. I look forward to hearing from her.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for calling, Betty. Have a great day!",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a6f35e1bb3e54b82a6ca7ee4",
+  "revision": "",
+  "status": "success"
+}
