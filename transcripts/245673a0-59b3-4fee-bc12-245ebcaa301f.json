@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-8bf1ec8097dc4467bd55ee9b",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946967976-c8c17552",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-8bf1ec8097dc4467bd55ee9b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "8bf1ec8097dc4467bd55ee9b",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-8bf1ec8097dc4467bd55ee9b",
+      "media_name": "6e2716528835429f8f99a3ba8af9158d.mp3",
+      "scenario": "A new customer is unhappy with the recent HVAC maintenance service, complaining about continued issues with the system. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is William Chen. I’m calling about a concern I have regarding my care plan after my knee surgery. Hi William! I remember you. What seems to be the issue? Well, I feel like the physical therapy sessions aren't as effective as I expected. My knee is still quite stiff. I’m sorry to hear that. Can you tell me a bit more about what you’re experiencing during the sessions? Sure, the exercises seem too easy, and I don’t feel any improvement. I thought I’d be further along by now. I understand. It’s important that your therapy sessions feel challenging yet effective. Let me look into this for you. I appreciate that, but I also believe I should have seen more progress by now. Absolutely, and I want to ensure you receive the best care. I can arrange for Dr. Rodriguez to reassess your therapy plan. That would be great. I just want to make sure I’m on the right track to recovery. Of course. I’ll also check if any adjustments need to be made to your care plan overall. Thank you, Margaret. I just want to ensure I’m doing everything right. I completely understand. We can set up a follow-up appointment with Dr. Rodriguez for next week. That sounds good. Can you also make sure my physical therapist is aware of these concerns? Yes, I’ll communicate your feedback to your therapist as well. Is there anything else you’d like to discuss? Well, I would like to know more about your other services, just in case I need additional support later. Certainly! We offer a range of services like personal care assistance and companion care. Would you like me to email you a brochure? Yes, please. That would be helpful. Great! I’ll include details about our services and pricing in the email. Thank you, Margaret. I really appreciate your help. You’re welcome, William! Just to confirm, I’ll set a follow-up appointment and send you the brochure. Perfect, thank you! Alright, have a great day, William. You too, goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I’m calling about a concern I have regarding my care plan after my knee surgery.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William! I remember you. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I feel like the physical therapy sessions aren't as effective as I expected. My knee is still quite stiff.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Can you tell me a bit more about what you’re experiencing during the sessions?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, the exercises seem too easy, and I don’t feel any improvement. I thought I’d be further along by now.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. It’s important that your therapy sessions feel challenging yet effective. Let me look into this for you.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that, but I also believe I should have seen more progress by now.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, and I want to ensure you receive the best care. I can arrange for Dr. Rodriguez to reassess your therapy plan.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great. I just want to make sure I’m on the right track to recovery.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course. I’ll also check if any adjustments need to be made to your care plan overall.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 64,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, Margaret. I just want to ensure I’m doing everything right.",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I completely understand. We can set up a follow-up appointment with Dr. Rodriguez for next week.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. Can you also make sure my physical therapist is aware of these concerns?",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 83,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, I’ll communicate your feedback to your therapist as well. Is there anything else you’d like to discuss?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Well, I would like to know more about your other services, just in case I need additional support later.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 98,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Certainly! We offer a range of services like personal care assistance and companion care. Would you like me to email you a brochure?",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll include details about our services and pricing in the email.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 123,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, William! Just to confirm, I’ll set a follow-up appointment and send you the brochure.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 130,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Alright, have a great day, William.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-8bf1ec8097dc4467bd55ee9b",
+  "revision": "",
+  "status": "success"
+}
