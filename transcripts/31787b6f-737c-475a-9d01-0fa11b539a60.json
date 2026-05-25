@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T22:42:26Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-721761269da84e13a2cdffa9",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968146-c98fe197",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-721761269da84e13a2cdffa9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946968146,
+      "call_id": "721761269da84e13a2cdffa9",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-721761269da84e13a2cdffa9",
+      "media_name": "d78d76f3972c42d79785f585ff4cb152.mp3",
+      "scenario": "A VIP customer calls about a billing error on their monthly statement, seeking immediate correction. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is William Chen. I’m calling about a billing error on my recent statement. Hi William! I'm glad you called. I’m here to help. What seems to be the issue with your billing? Well, I noticed I was charged for two sessions of physical therapy this month, but I only had one. I see. Let me pull up your account and check that for you. One moment, please. Okay, I have your account open. Yes, I see the charge for two sessions this month. The first one was on the 10th and the second on the 15th. But I only had the session on the 10th. The 15th was cancelled. I understand. Let me verify the cancellation. One moment, please. Yes, you’re correct. The session on the 15th was indeed cancelled due to your follow-up appointment. I apologize for this error. Thank you. I’d like to have that corrected, please. Absolutely, I’ll process that correction now. It will reflect on your next statement. Great! I appreciate your quick response. You're welcome! Is there anything else I can assist you with today? Actually, yes. I was thinking about adding a companion care service for a few hours a week. That’s a wonderful idea! Companion care is priced at $25 to $30 per hour. How many hours are you considering? I think about three hours twice a week should be good. Perfect! That would be about $150 to $180 per week, depending on the hours. Would you like to schedule that now? Yes, let’s schedule that for early next week. Great! I’ll coordinate with our caregivers and confirm the schedule with you shortly. Thank you, Margaret. I really appreciate your help today. It’s my pleasure, William! I’ll resolve the billing issue and get back to you on the companion care schedule. Sounds good. Have a great day! You too! Thank you for calling CareFirst Home Health.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I’m calling about a billing error on my recent statement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William! I'm glad you called. I’m here to help. What seems to be the issue with your billing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed I was charged for two sessions of physical therapy this month, but I only had one.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. Let me pull up your account and check that for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, I have your account open. Yes, I see the charge for two sessions this month. The first one was on the 10th and the second on the 15th.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "But I only had the session on the 10th. The 15th was cancelled.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I understand. Let me verify the cancellation. One moment, please.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Yes, you’re correct. The session on the 15th was indeed cancelled due to your follow-up appointment. I apologize for this error.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you. I’d like to have that corrected, please.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I’ll process that correction now. It will reflect on your next statement.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great! I appreciate your quick response.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You're welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Actually, yes. I was thinking about adding a companion care service for a few hours a week.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That’s a wonderful idea! Companion care is priced at $25 to $30 per hour. How many hours are you considering?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I think about three hours twice a week should be good.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect! That would be about $150 to $180 per week, depending on the hours. Would you like to schedule that now?",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 103,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, let’s schedule that for early next week.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll coordinate with our caregivers and confirm the schedule with you shortly.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It’s my pleasure, William! I’ll resolve the billing issue and get back to you on the companion care schedule.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 127,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too! Thank you for calling CareFirst Home Health.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-721761269da84e13a2cdffa9",
+  "revision": "",
+  "status": "success"
+}
