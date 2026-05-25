@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d7de9caca3784f7a9847e7c3",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968297-3ac31f1d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d7de9caca3784f7a9847e7c3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "d7de9caca3784f7a9847e7c3",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d7de9caca3784f7a9847e7c3",
+      "media_name": "ec55693e731b411abaa0365476462928.mp3",
+      "scenario": "A prospect decides to cancel an upcoming appointment due to a change in their schedule and requests confirmation. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Jennifer Taylor. I'm calling about my grandmother’s upcoming appointment. Hi Jennifer! It's nice to speak with you. How is your grandmother doing? She's doing okay, but we need to make some changes to her schedule. I understand. What changes do you need to make? We need to cancel her companion care appointment for this Friday. I see. I can help you with that. Can you tell me the reason for the cancellation? Yes, something came up, and I won't be able to be there. No problem, I can confirm that for you. Would you like to reschedule the appointment? I’m not sure yet. Is there a fee for rescheduling? No, we don’t charge a fee for rescheduling or canceling an appointment. Oh, that’s great to hear. So just to confirm, I will cancel your grandmother’s appointment for this Friday, correct? Yes, please confirm the cancellation. Absolutely, Jennifer. I will email you a confirmation right after our call. Thank you! I appreciate that. Will you need any additional services for your grandmother during this time? Perhaps. She could use some help with personal care a few times a week. That’s great to hear. Our Personal Care Assistance service is available at $28 to $35 per hour. That sounds reasonable. I’ll think about it and get back to you. Please do! I can help with care plan development if you decide to proceed. Yes, I would like that. Perfect! I will follow up with you next week to see how you're doing. I’d appreciate that, Margaret. Thank you again for your help. You’re very welcome, Jennifer! Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Jennifer Taylor. I'm calling about my grandmother’s upcoming appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Jennifer! It's nice to speak with you. How is your grandmother doing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She's doing okay, but we need to make some changes to her schedule.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. What changes do you need to make?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We need to cancel her companion care appointment for this Friday.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see. I can help you with that. Can you tell me the reason for the cancellation?",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, something came up, and I won't be able to be there.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "No problem, I can confirm that for you. Would you like to reschedule the appointment?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I’m not sure yet. Is there a fee for rescheduling?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "No, we don’t charge a fee for rescheduling or canceling an appointment.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 47,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Oh, that’s great to hear.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 51,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "So just to confirm, I will cancel your grandmother’s appointment for this Friday, correct?",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 55,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please confirm the cancellation.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, Jennifer. I will email you a confirmation right after our call.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Will you need any additional services for your grandmother during this time?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perhaps. She could use some help with personal care a few times a week.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "That’s great to hear. Our Personal Care Assistance service is available at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds reasonable. I’ll think about it and get back to you.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Please do! I can help with care plan development if you decide to proceed.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, I would like that.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! I will follow up with you next week to see how you're doing.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I’d appreciate that, Margaret. Thank you again for your help.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, Jennifer! Have a great day!",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d7de9caca3784f7a9847e7c3",
+  "revision": "",
+  "status": "success"
+}
