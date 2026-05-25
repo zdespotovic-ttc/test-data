@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f0d31195ac774cd9ac321f98",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968206-8c5049a7",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f0d31195ac774cd9ac321f98",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "f0d31195ac774cd9ac321f98",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f0d31195ac774cd9ac321f98",
+      "media_name": "5c33a441420e47aca29c3856756a2b8f.mp3",
+      "scenario": "A VIP calls with an urgent requirement for pest control due to an unexpected infestation. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you? Hi, Margaret, this is Harold Gonzalez. I need urgent help with a pest control issue at my home. Oh, Mr. Gonzalez, I understand that can be quite stressful. Can you tell me more about the situation? We’ve just discovered an infestation in our kitchen. I’m really worried about the impact on my health, especially with my COPD. That’s definitely concerning. I will do my best to assist you. Have you noticed what type of pests they are? I think they're cockroaches. I’m really worried about the cleanliness and my health. I completely understand. We can schedule a visit from our pest control partner. Would you prefer this to happen today? Yes, as soon as possible. My wife is also concerned and is here with me. Great, let me confirm our pest control service availability. Can I put you on a brief hold? Sure, thank you. [pause] Thank you for holding, Mr. Gonzalez. I have confirmed that our pest control partner can be at your home within two hours. That’s perfect! What do I need to do to prepare? Just ensure the kitchen area is clear, and let them know if you have any specific concerns when they arrive. I will do that. Thank you for your quick response, Margaret. You’re welcome! Also, just to note, are you in need of any additional support from us during this time? Well, since I have COPD, I could use a skilled nurse visit for vital sign checks after this. Absolutely! We can schedule a nursing visit for you. Would you prefer tomorrow morning? Yes, that works for me. Can you arrange for a Spanish-speaking nurse? Of course! I’ll make sure to note that preference for you. Thank you so much, Margaret. I really appreciate your help. You're very welcome, Mr. Gonzalez. Just to recap, we have the pest control coming in two hours and a nursing visit scheduled for tomorrow morning. That sounds perfect. What if I need to reach out again? You can call us anytime at our main number, or you can reach my direct line at +13165559201. Got it. Thank you again, Margaret. You’ve been a great help. It’s my pleasure. Take care, and I hope everything goes smoothly today! Thanks! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Harold Gonzalez. I need urgent help with a pest control issue at my home.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, Mr. Gonzalez, I understand that can be quite stressful. Can you tell me more about the situation?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "We’ve just discovered an infestation in our kitchen. I’m really worried about the impact on my health, especially with my COPD.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s definitely concerning. I will do my best to assist you. Have you noticed what type of pests they are?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I think they're cockroaches. I’m really worried about the cleanliness and my health.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand. We can schedule a visit from our pest control partner. Would you prefer this to happen today?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, as soon as possible. My wife is also concerned and is here with me.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great, let me confirm our pest control service availability. Can I put you on a brief hold?",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure, thank you.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "[pause] Thank you for holding, Mr. Gonzalez. I have confirmed that our pest control partner can be at your home within two hours.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s perfect! What do I need to do to prepare?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Just ensure the kitchen area is clear, and let them know if you have any specific concerns when they arrive.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I will do that. Thank you for your quick response, Margaret.",
+          "speaker": "remote party",
+          "start_time": 59,
+          "end_time": 64,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You’re welcome! Also, just to note, are you in need of any additional support from us during this time?",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Well, since I have COPD, I could use a skilled nurse visit for vital sign checks after this.",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 73,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! We can schedule a nursing visit for you. Would you prefer tomorrow morning?",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that works for me. Can you arrange for a Spanish-speaking nurse?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course! I’ll make sure to note that preference for you.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 86,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're very welcome, Mr. Gonzalez. Just to recap, we have the pest control coming in two hours and a nursing visit scheduled for tomorrow morning.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds perfect. What if I need to reach out again?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You can call us anytime at our main number, or you can reach my direct line at +13165559201.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Got it. Thank you again, Margaret. You’ve been a great help.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure. Take care, and I hope everything goes smoothly today!",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 114,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f0d31195ac774cd9ac321f98",
+  "revision": "",
+  "status": "success"
+}
