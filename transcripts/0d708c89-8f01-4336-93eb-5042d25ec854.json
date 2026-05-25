@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T22:44:22Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e741b95177fd4faeaae7fd05",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968262-7a9c0930",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e741b95177fd4faeaae7fd05",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946968262,
+      "call_id": "e741b95177fd4faeaae7fd05",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e741b95177fd4faeaae7fd05",
+      "media_name": "3ea2849a749a4e229b5a77a5d1c17319.mp3",
+      "scenario": "A new customer wishes to cancel their subscription due to financial constraints. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Rose Patterson. I hope you’re doing well. Hi Rose, I'm doing well, thank you! How can I assist you today? I’m calling because I need to discuss my mom's care and... unfortunately, we’re facing some financial difficulties. I'm sorry to hear that, Rose. Are you considering making any changes to her care plan? Yes, we might need to cancel her companion care and personal assistance services. I understand. That must be a tough decision. Can you share what specific concerns you have regarding the costs? Well, the daily charges are adding up, and we just can't keep up with the expenses right now. Thank you for sharing that, Rose. Just to clarify, your mom has been receiving companion care and personal assistance daily, correct? Yes, that's right. She really relies on the caregivers for her daily routines. I completely understand. We value her comfort and the familiarity with her caregivers. Exactly! It’s hard to think about changing things when she’s already adjusted. Would it help if we looked into adjusting her care schedule or reducing the hours instead of canceling outright? That might be an option. What would that look like in terms of cost? For companion care, we could reduce it to a few hours a week, which could bring the cost down to around $25-$30 per hour. That does sound more manageable. But I’m still worried about the financial strain. I understand. We could also explore potential financial assistance options or look at your insurance coverage together. That could be helpful. I didn’t realize there might be options like that. Absolutely. Let me arrange a meeting with our Care Coordinator, Lisa Chen, who can assist with insurance questions. That would be great. I appreciate you helping us explore alternatives. No problem at all! I’ll note that you’re looking to keep some care while exploring options. Yes, I want to ensure my mom's needs are still met. I’ll follow up with you after speaking to Lisa. When would be a good time to call back? I’m available after 2 PM tomorrow. Great! I’ll set that up. Thank you for calling, Rose. Thank you, Margaret. I appreciate your help! You’re welcome! Have a good day. You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I hope you’re doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose, I'm doing well, thank you! How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m calling because I need to discuss my mom's care and... unfortunately, we’re facing some financial difficulties.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm sorry to hear that, Rose. Are you considering making any changes to her care plan?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, we might need to cancel her companion care and personal assistance services.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. That must be a tough decision. Can you share what specific concerns you have regarding the costs?",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Well, the daily charges are adding up, and we just can't keep up with the expenses right now.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for sharing that, Rose. Just to clarify, your mom has been receiving companion care and personal assistance daily, correct?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that's right. She really relies on the caregivers for her daily routines.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand. We value her comfort and the familiarity with her caregivers.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Exactly! It’s hard to think about changing things when she’s already adjusted.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Would it help if we looked into adjusting her care schedule or reducing the hours instead of canceling outright?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That might be an option. What would that look like in terms of cost?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "For companion care, we could reduce it to a few hours a week, which could bring the cost down to around $25-$30 per hour.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That does sound more manageable. But I’m still worried about the financial strain.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand. We could also explore potential financial assistance options or look at your insurance coverage together.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That could be helpful. I didn’t realize there might be options like that.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely. Let me arrange a meeting with our Care Coordinator, Lisa Chen, who can assist with insurance questions.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be great. I appreciate you helping us explore alternatives.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "No problem at all! I’ll note that you’re looking to keep some care while exploring options.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, I want to ensure my mom's needs are still met.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll follow up with you after speaking to Lisa. When would be a good time to call back?",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I’m available after 2 PM tomorrow.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 128,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! I’ll set that up. Thank you for calling, Rose.",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Have a good day.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e741b95177fd4faeaae7fd05",
+  "revision": "",
+  "status": "success"
+}
