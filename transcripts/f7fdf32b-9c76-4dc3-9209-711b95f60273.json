@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-88cde751dcc54cd9842eb099",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968072-e60fca64",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-88cde751dcc54cd9842eb099",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "88cde751dcc54cd9842eb099",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-88cde751dcc54cd9842eb099",
+      "media_name": "8fb00f9a3f204dee87b8d981759b0be6.mp3",
+      "scenario": "A returning customer reports unauthorized charges on their account, seeking clarification. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Michael Brown. I'm calling because I noticed some unauthorized charges on my account. I’m sorry to hear that, Michael. I’d be happy to help you sort this out. Can you provide me with your account details? Sure, my account number is 12345678. I found two charges that don't seem right. Thank you for that information. Can you tell me the amounts and dates of those charges? One charge was for $95 on September 15th, and the other was for $110 on September 20th. Okay, let me check those charges in our system. Please hold for just a moment. Sure, no problem. Thank you for your patience, Michael. I see that the $95 charge was for skilled nursing care, but the $110 charge appears to be a duplicate entry. A duplicate? That’s concerning. I only received services for the $95 charge. I understand your concern. I can initiate a refund process for that duplicate charge. That would be great, thank you. How long will that take? Typically, refunds take about 5 to 7 business days to process. Okay, I appreciate it. Is there anything else I need to do? No additional action is needed from you at this time. I’ll take care of it. Thank you, Margaret. By the way, I also wanted to inquire about care for my father. Of course! What specific services are you interested in for your father? He has diabetes and needs wound care as well as medication management. We can definitely help with that. Our wound care management is $75 to $95, and medication management is $65 to $80. That sounds reasonable. What would be the next steps to get him started? I can set up a consultation with our care coordinator, Lisa Chen, to develop a care plan. Would you like me to connect you with her? Yes, please! That would be very helpful. Great! I'll have her give you a call later today. Thank you so much for your help, Margaret. I really appreciate it. You’re very welcome, Michael. I’m glad I could assist you today. Have a good day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 4,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I'm calling because I noticed some unauthorized charges on my account.",
+          "speaker": "remote party",
+          "start_time": 4,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Michael. I’d be happy to help you sort this out. Can you provide me with your account details?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, my account number is 12345678. I found two charges that don't seem right.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you for that information. Can you tell me the amounts and dates of those charges?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "One charge was for $95 on September 15th, and the other was for $110 on September 20th.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Okay, let me check those charges in our system. Please hold for just a moment.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, no problem.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for your patience, Michael. I see that the $95 charge was for skilled nursing care, but the $110 charge appears to be a duplicate entry.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "A duplicate? That’s concerning. I only received services for the $95 charge.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand your concern. I can initiate a refund process for that duplicate charge.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great, thank you. How long will that take?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Typically, refunds take about 5 to 7 business days to process.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, I appreciate it. Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "No additional action is needed from you at this time. I’ll take care of it.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. By the way, I also wanted to inquire about care for my father.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course! What specific services are you interested in for your father?",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "He has diabetes and needs wound care as well as medication management.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can definitely help with that. Our wound care management is $75 to $95, and medication management is $65 to $80.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds reasonable. What would be the next steps to get him started?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I can set up a consultation with our care coordinator, Lisa Chen, to develop a care plan. Would you like me to connect you with her?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 117,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please! That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I'll have her give you a call later today.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much for your help, Margaret. I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, Michael. I’m glad I could assist you today.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Have a good day!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-88cde751dcc54cd9842eb099",
+  "revision": "",
+  "status": "success"
+}
