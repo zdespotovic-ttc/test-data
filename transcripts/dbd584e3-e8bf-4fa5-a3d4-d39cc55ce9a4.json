@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7825d2cffad049778195ab26",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968258-699cb12c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7825d2cffad049778195ab26",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "7825d2cffad049778195ab26",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7825d2cffad049778195ab26",
+      "media_name": "2bae6ebe78134eeda5459c9cd94911d1.mp3",
+      "scenario": "A returning customer calls to cancel their upcoming lawn maintenance service due to dissatisfaction with past experiences. Category: Cancellation. Flags: cancellation_request. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Eleanor Watson. I'm calling to discuss my upcoming appointments. Hi Eleanor! It’s great to hear from you. Is everything okay? Well, I’m afraid not. I need to cancel the next scheduled physical therapy and nursing visits. I’m really sorry to hear that. Can I ask what led to your decision to cancel? I’ve just been really dissatisfied with the service recently. The last couple of visits didn’t meet my expectations. I understand how frustrating that can be. Can you share more about what specifically didn’t meet your expectations? The therapists seemed rushed, and I didn’t feel like my concerns were heard. It just felt like they were not fully focused on my recovery. I truly apologize for that experience, Eleanor. Your recovery is our priority, and we aim to provide the best care possible. Thank you, Margaret. I really appreciate that. But right now, I just don't want to continue. I completely respect your decision. Would you like me to assist you with the cancellation process? Yes, please. I’d like to cancel all upcoming appointments. All right, I’ll take care of that for you. Just to confirm, you’d like to cancel both physical therapy and skilled nursing visits? Yes, that’s correct. Okay, I’m processing that now. And if I may ask, would you be willing to provide any feedback for improvement? Sure, I think better communication and a more personalized approach would help a lot. Thank you, Eleanor. Your feedback is invaluable and will help us enhance our services. I hope so. I just don’t want others to have the same experience. Absolutely, I will make sure to relay your concerns to our management team. Thank you for understanding. Of course! Before you go, would you be interested in a follow-up call in a few weeks to discuss any potential changes? I’m not sure—I need time to think about everything. That’s completely understandable. Just know that we’re here if you decide to return. Thank you, Margaret. I appreciate your kindness and support. You’re very welcome, Eleanor. I’ll finalize those cancellations now. Great, thank you. Thank you for calling, and take care of yourself! You too, bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I'm calling to discuss my upcoming appointments.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Eleanor! It’s great to hear from you. Is everything okay?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’m afraid not. I need to cancel the next scheduled physical therapy and nursing visits.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that. Can I ask what led to your decision to cancel?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I’ve just been really dissatisfied with the service recently. The last couple of visits didn’t meet my expectations.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how frustrating that can be. Can you share more about what specifically didn’t meet your expectations?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "The therapists seemed rushed, and I didn’t feel like my concerns were heard. It just felt like they were not fully focused on my recovery.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I truly apologize for that experience, Eleanor. Your recovery is our priority, and we aim to provide the best care possible.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate that. But right now, I just don't want to continue.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 57,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely respect your decision. Would you like me to assist you with the cancellation process?",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please. I’d like to cancel all upcoming appointments.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "All right, I’ll take care of that for you. Just to confirm, you’d like to cancel both physical therapy and skilled nursing visits?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Okay, I’m processing that now. And if I may ask, would you be willing to provide any feedback for improvement?",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, I think better communication and a more personalized approach would help a lot.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Eleanor. Your feedback is invaluable and will help us enhance our services.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I hope so. I just don’t want others to have the same experience.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I will make sure to relay your concerns to our management team.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you for understanding.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 113,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course! Before you go, would you be interested in a follow-up call in a few weeks to discuss any potential changes?",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I’m not sure—I need time to think about everything.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "That’s completely understandable. Just know that we’re here if you decide to return.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your kindness and support.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, Eleanor. I’ll finalize those cancellations now.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 136,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Great, thank you.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for calling, and take care of yourself!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7825d2cffad049778195ab26",
+  "revision": "",
+  "status": "success"
+}
