@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f5fc130d796a4177a7b91ee7",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968289-e1c16b02",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f5fc130d796a4177a7b91ee7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 142,
+      "duration_ms": 142000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "f5fc130d796a4177a7b91ee7",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f5fc130d796a4177a7b91ee7",
+      "media_name": "5bcaa2bb987c4f6fa8b0e5e061df8a1e.mp3",
+      "scenario": "A prospect decides to cancel their order due to a lack of confidence in the service quality. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 142.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret, this is Dorothy Henderson. I'm calling to discuss my care services. Hi, Dorothy! It’s great to hear from you. What would you like to discuss? Well, I wanted to let you know that I'm considering canceling my service. Oh no, I’m sorry to hear that. Can you share why you feel that way? I just don’t feel confident in the quality of care I’ve been receiving lately. I had some concerns after my last visit. I understand. Can you tell me more about your concerns? The physical therapy sessions seem rushed, and I don't feel like I'm making the progress I hoped for after my hip replacement. I’m really sorry to hear you feel that way, Dorothy. That’s definitely not our standard. Yeah, and sometimes my personal care assistant seems distracted during visits. It’s frustrating. I completely understand. That’s concerning to hear, and I appreciate you bringing it to my attention. I just want to make sure I’m getting the best care possible, especially after my surgery. Absolutely, your care is our priority. Would you be open to discussing this further? I guess so. But I’m still leaning towards canceling. I understand. What if we set up a meeting with Dr. Rodriguez, your physical therapist? That might help. But I need to know he can give me more focused attention. I will ensure that he prioritizes your sessions. We want to see you progress. Okay, I appreciate that. But I still have concerns about my personal care assistant. I can arrange for you to meet with a different personal care assistant as well. Would that work? Yes, that might make me feel more comfortable. Great! I’ll set up a meeting for you with Dr. Rodriguez and arrange a new personal care assistant. Thank you. I’d like to try this one more time before I decide to cancel. Of course, Dorothy. I’ll follow up with you by the end of the week with the details. Sounds good. I appreciate your help, Margaret. You’re welcome! Please don’t hesitate to reach out if you need anything else in the meantime. I will. Thank you again. Take care, Dorothy. Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Dorothy Henderson. I'm calling to discuss my care services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Dorothy! It’s great to hear from you. What would you like to discuss?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I wanted to let you know that I'm considering canceling my service.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no, I’m sorry to hear that. Can you share why you feel that way?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I just don’t feel confident in the quality of care I’ve been receiving lately. I had some concerns after my last visit.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. Can you tell me more about your concerns?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "The physical therapy sessions seem rushed, and I don't feel like I'm making the progress I hoped for after my hip replacement.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’m really sorry to hear you feel that way, Dorothy. That’s definitely not our standard.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yeah, and sometimes my personal care assistant seems distracted during visits. It’s frustrating.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand. That’s concerning to hear, and I appreciate you bringing it to my attention.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I just want to make sure I’m getting the best care possible, especially after my surgery.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, your care is our priority. Would you be open to discussing this further?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I guess so. But I’m still leaning towards canceling.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I understand. What if we set up a meeting with Dr. Rodriguez, your physical therapist?",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That might help. But I need to know he can give me more focused attention.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I will ensure that he prioritizes your sessions. We want to see you progress.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, I appreciate that. But I still have concerns about my personal care assistant.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I can arrange for you to meet with a different personal care assistant as well. Would that work?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 101,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that might make me feel more comfortable.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll set up a meeting for you with Dr. Rodriguez and arrange a new personal care assistant.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you. I’d like to try this one more time before I decide to cancel.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 117,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Of course, Dorothy. I’ll follow up with you by the end of the week with the details.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. I appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! Please don’t hesitate to reach out if you need anything else in the meantime.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 131,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will. Thank you again.",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Take care, Dorothy. Have a great day!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 142,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f5fc130d796a4177a7b91ee7",
+  "revision": "",
+  "status": "success"
+}
