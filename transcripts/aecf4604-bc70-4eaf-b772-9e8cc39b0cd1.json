@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c817f87266cf46f6a5d37147",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968200-f6e1e4cb",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c817f87266cf46f6a5d37147",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 128,
+      "duration_ms": 128000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "c817f87266cf46f6a5d37147",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c817f87266cf46f6a5d37147",
+      "media_name": "784d3481d89a4e5fa5d709c1b84c2b39.mp3",
+      "scenario": "A VIP client calls to dispute a double billing incident for a service rendered last month. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 128.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Frank Miller. I'm calling about a billing issue I noticed on my last statement. Hi Frank, it's great to hear from you. I'm sorry to hear about the billing issue. What seems to be the problem? Well, I was double billed for my wound care service last month. I want to dispute that charge. I understand your concern. Let me pull up your account details. One moment, please. Sure, take your time. I’ve been a client for two years, and this is the first time I’ve encountered this. Thank you for your patience, Frank. I see that there was indeed a double billing for the wound care service. Yes, it was charged twice for the same date. Can you tell me how we can resolve this? Absolutely. I can initiate a refund for one of the charges right away. Would that work for you? Yes, that would be great. How long will it take to process? It typically takes 5-7 business days to process refunds. I’ll follow up with you once it’s completed. Alright, I appreciate that. Is there anything else I need to do? No, I’ll handle everything on my end. But I’ll also send you a confirmation email. Perfect, thank you. By the way, I also need my usual transportation to the endocrinologist next month. Of course! I can schedule that for you. What day and time do you need the transportation? It’s usually the first Wednesday of every month at 10 AM. Got it. I’ll set that up. Just to confirm, I’ll also make notes for your driver to assist you with any mobility issues. That would be helpful, thank you. Is there anything else I can assist you with today, Frank? No, I think that covers everything. I really appreciate your help with the billing issue. You're very welcome! Thank you for being such a loyal client. I’ll ensure the refund and transportation are taken care of. Thank you, Margaret. Have a great day! You too, Frank! Take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I'm calling about a billing issue I noticed on my last statement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Frank, it's great to hear from you. I'm sorry to hear about the billing issue. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was double billed for my wound care service last month. I want to dispute that charge.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time. I’ve been a client for two years, and this is the first time I’ve encountered this.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 37,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Frank. I see that there was indeed a double billing for the wound care service.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, it was charged twice for the same date. Can you tell me how we can resolve this?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely. I can initiate a refund for one of the charges right away. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be great. How long will it take to process?",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It typically takes 5-7 business days to process refunds. I’ll follow up with you once it’s completed.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 66,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Alright, I appreciate that. Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "No, I’ll handle everything on my end. But I’ll also send you a confirmation email.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect, thank you. By the way, I also need my usual transportation to the endocrinologist next month.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 83,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course! I can schedule that for you. What day and time do you need the transportation?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "It’s usually the first Wednesday of every month at 10 AM.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Got it. I’ll set that up. Just to confirm, I’ll also make notes for your driver to assist you with any mobility issues.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 99,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be helpful, thank you.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Is there anything else I can assist you with today, Frank?",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No, I think that covers everything. I really appreciate your help with the billing issue.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're very welcome! Thank you for being such a loyal client. I’ll ensure the refund and transportation are taken care of.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too, Frank! Take care!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c817f87266cf46f6a5d37147",
+  "revision": "",
+  "status": "success"
+}
