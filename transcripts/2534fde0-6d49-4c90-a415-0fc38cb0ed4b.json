@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T22:43:50Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5aa7da8564eb4ba6a2753e3b",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968230-253a2c9c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5aa7da8564eb4ba6a2753e3b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 147,
+      "duration_ms": 147000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946968230,
+      "call_id": "5aa7da8564eb4ba6a2753e3b",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5aa7da8564eb4ba6a2753e3b",
+      "media_name": "9fb0752c605f4c7588cdc08358169484.mp3",
+      "scenario": "A returning customer is concerned about a sudden increase in their subscription fee and requests a thorough review. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 147.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Frank Miller. I’m calling about my billing. I noticed an increase in my subscription fee. Hi Frank! Thanks for reaching out. I’d be happy to help you with that. Can you specify when you noticed the increase? It was on my latest invoice, and it seems quite a bit higher than usual. I understand your concern. Let me pull up your account to review the recent charges. One moment, please. Sure, take your time. I just want to make sure I’m not being overcharged. Thank you for your patience, Frank. I see that your last visit included both diabetic management and wound care services. Yes, that’s right. But the increase still doesn’t make sense to me. I completely understand. It looks like the increase is due to a rise in our service rates as of this month. I see, but I wasn’t notified about this beforehand. It feels unfair. I apologize for the oversight, Frank. We strive to keep our clients informed, and I’m sorry this didn’t happen in your case. It’s just frustrating, especially since I’ve been compliant with my care plan for two years. I appreciate your loyalty, Frank. Let’s see how we can make this right. Would you like me to send you a detailed breakdown of the charges? Yes, that would be really helpful. Great, I can email that over to you. Can I confirm your email on file? Yes, it’s frank.miller@email.com. Thank you! I’ll send that breakdown right after our call. I appreciate it, Margaret. Also, will there be any options for reducing my costs moving forward? We do offer some package deals for ongoing services, which might help. Would you like me to discuss that with you? Yes, please! I’d like to explore any potential savings. Absolutely, I can have Lisa Chen, our Care Coordinator, reach out to you about that option. That sounds perfect. I’ll look forward to her call. Thank you, Frank. I’ll make sure Lisa contacts you soon. Thanks again, Margaret. I appreciate your help with this. You’re welcome! If you have any more questions, don’t hesitate to call back. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I’m calling about my billing. I noticed an increase in my subscription fee.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Frank! Thanks for reaching out. I’d be happy to help you with that. Can you specify when you noticed the increase?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It was on my latest invoice, and it seems quite a bit higher than usual.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account to review the recent charges. One moment, please.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time. I just want to make sure I’m not being overcharged.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 33,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Frank. I see that your last visit included both diabetic management and wound care services.",
+          "speaker": "local party",
+          "start_time": 33,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that’s right. But the increase still doesn’t make sense to me.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand. It looks like the increase is due to a rise in our service rates as of this month.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I see, but I wasn’t notified about this beforehand. It feels unfair.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I apologize for the oversight, Frank. We strive to keep our clients informed, and I’m sorry this didn’t happen in your case.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It’s just frustrating, especially since I’ve been compliant with my care plan for two years.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I appreciate your loyalty, Frank. Let’s see how we can make this right. Would you like me to send you a detailed breakdown of the charges?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be really helpful.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great, I can email that over to you. Can I confirm your email on file?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, it’s frank.miller@email.com.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you! I’ll send that breakdown right after our call.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I appreciate it, Margaret. Also, will there be any options for reducing my costs moving forward?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 101,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We do offer some package deals for ongoing services, which might help. Would you like me to discuss that with you?",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 107,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please! I’d like to explore any potential savings.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 113,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, I can have Lisa Chen, our Care Coordinator, reach out to you about that option.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds perfect. I’ll look forward to her call.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 124,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Frank. I’ll make sure Lisa contacts you soon.",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 128,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks again, Margaret. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! If you have any more questions, don’t hesitate to call back. Have a great day!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 147,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5aa7da8564eb4ba6a2753e3b",
+  "revision": "",
+  "status": "success"
+}
