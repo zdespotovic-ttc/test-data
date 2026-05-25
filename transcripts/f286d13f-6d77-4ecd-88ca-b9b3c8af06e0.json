@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0b491149056d449d832d00bd",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968051-ef43628e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0b491149056d449d832d00bd",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "0b491149056d449d832d00bd",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0b491149056d449d832d00bd",
+      "media_name": "4d1f96839e174e6aae212fd3067b182d.mp3",
+      "scenario": "A new customer calls to dispute an unexpected fee on their first bill, seeking clarification and resolution. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Thomas White. I'm calling about a billing issue I noticed on my first bill. I'm sorry to hear that, Thomas. Can you tell me a bit more about the issue? Yes, there’s an unexpected charge for services I wasn’t informed about. I understand your concern. Let me look into that for you. Could you provide me with your account number? Sure, it’s 789456. My mother received dementia care last month. Thank you, Thomas. Please hold for just a moment while I pull up your account details. Okay, I see the service you mentioned here. It appears there’s a charge for \"Dementia and Alzheimer's Care\" that is higher than expected. Right, I was quoted a lower rate. Can you explain why there's a discrepancy? Certainly. Sometimes additional hours or services may add to the total. But I wasn’t informed about any extra time. It’s quite frustrating. I completely understand, and I'm here to help resolve this. Let me check the service logs. It looks like your mother was scheduled for 4 hours instead of the 2 hours we initially discussed. Would you like me to go over the visit details with you? Yes, I’d appreciate that. I thought it was a one-time visit. I see where the confusion might be. I’ll clarify the care plan we set up. It includes recurring visits that may have been misunderstood. Okay, that makes more sense. Great! Would you like me to adjust the billing to reflect the correct charge based on the plan? Yes, please do that. And can we confirm the schedule going forward as well? Absolutely, I’ll send you a revised care plan via email, along with the updated billing. Thank you. Is there a way to get respite care added for this month? Yes, we offer Respite Care services. It’s $30-$38 per hour. How many hours do you need? I might need about 10 hours this month. I can arrange that and include it in your new billing statement. That sounds good. Thank you for your help today, Margaret. You’re welcome, Thomas. I’ll follow up once everything is processed. I appreciate it. Have a great day! You too! Thank you for choosing CareFirst Home Health.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Thomas White. I'm calling about a billing issue I noticed on my first bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Thomas. Can you tell me a bit more about the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, there’s an unexpected charge for services I wasn’t informed about.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me look into that for you. Could you provide me with your account number?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, it’s 789456. My mother received dementia care last month.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you, Thomas. Please hold for just a moment while I pull up your account details.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see the service you mentioned here. It appears there’s a charge for \"Dementia and Alzheimer's Care\" that is higher than expected.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Right, I was quoted a lower rate. Can you explain why there's a discrepancy?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Certainly. Sometimes additional hours or services may add to the total.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "But I wasn’t informed about any extra time. It’s quite frustrating.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I completely understand, and I'm here to help resolve this. Let me check the service logs.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "It looks like your mother was scheduled for 4 hours instead of the 2 hours we initially discussed. Would you like me to go over the visit details with you?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I’d appreciate that. I thought it was a one-time visit.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I see where the confusion might be. I’ll clarify the care plan we set up. It includes recurring visits that may have been misunderstood.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, that makes more sense.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! Would you like me to adjust the billing to reflect the correct charge based on the plan?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please do that. And can we confirm the schedule going forward as well?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I’ll send you a revised care plan via email, along with the updated billing.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you. Is there a way to get respite care added for this month?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we offer Respite Care services. It’s $30-$38 per hour. How many hours do you need?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I might need about 10 hours this month.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I can arrange that and include it in your new billing statement.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds good. Thank you for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Thomas. I’ll follow up once everything is processed.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I appreciate it. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Thank you for choosing CareFirst Home Health.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0b491149056d449d832d00bd",
+  "revision": "",
+  "status": "success"
+}
