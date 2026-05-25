@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T22:40:17Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bfbc60a9d9fd4ff1b98d0a86",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968017-a6361563",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bfbc60a9d9fd4ff1b98d0a86",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 153,
+      "duration_ms": 153000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946968017,
+      "call_id": "bfbc60a9d9fd4ff1b98d0a86",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bfbc60a9d9fd4ff1b98d0a86",
+      "media_name": "a88d55b30d934cd0b02563e5f12cba2f.mp3",
+      "scenario": "A prospect calls to complain about an incorrect item being delivered and wants a replacement. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 153.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Betty Lou Smith. I'm calling because I received the wrong item during my last visit. I'm sorry to hear that, Betty. Can you tell me more about the issue? Yes, I ordered some mobility aids, but instead, I got some personal care items that I didn't request. I understand how frustrating that must be. Let me check the details of your last order. One moment, please. Okay, thank you. I just want to make sure I get the right items since I've been relying on them for my fall prevention. Absolutely, and your safety is our priority. I’m checking right now. It looks like there was a mix-up in our inventory system. I apologize for that. Would you like me to arrange for the correct mobility aids to be sent out to you? Yes, please. I really need them, especially with my history of falls. Of course. We’ll prioritize that. I’ll also make sure to verify your address to avoid any further issues. Thanks, I appreciate it. I live at the same address, just to confirm: 1234 Maple Street. Thank you for that confirmation, Betty. I’ll get the order placed right away. Additionally, I noticed you’ve been receiving personal care assistance. Would you be interested in adding a companion care service to help with social interaction? That sounds interesting, but I’m not sure. What does it involve? Companion care includes social interaction, light housekeeping, and help with meal preparation. It can be a great support, especially since you live alone. I see. I’ll think about it, but right now, I just need those mobility aids. Understood. I’ll focus on getting those to you first. I’ll send you a confirmation email with the details, and we’ll aim to have the correct items delivered by tomorrow. Great, thank you! Will someone call me to confirm the delivery? Yes, I’ll have our client services manager, Angela, reach out to you later today to confirm everything. Perfect! Thank you for your help, Margaret. You're welcome, Betty. I’m glad I could assist you. Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I'm calling because I received the wrong item during my last visit.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Betty. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I ordered some mobility aids, but instead, I got some personal care items that I didn't request.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be. Let me check the details of your last order. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, thank you. I just want to make sure I get the right items since I've been relying on them for my fall prevention.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, and your safety is our priority. I’m checking right now.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It looks like there was a mix-up in our inventory system. I apologize for that. Would you like me to arrange for the correct mobility aids to be sent out to you?",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 58,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Yes, please. I really need them, especially with my history of falls.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 64,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Of course. We’ll prioritize that. I’ll also make sure to verify your address to avoid any further issues.",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 71,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thanks, I appreciate it. I live at the same address, just to confirm: 1234 Maple Street.",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 77,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Thank you for that confirmation, Betty. I’ll get the order placed right away.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 85,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Additionally, I noticed you’ve been receiving personal care assistance. Would you be interested in adding a companion care service to help with social interaction?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 92,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds interesting, but I’m not sure. What does it involve?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 99,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Companion care includes social interaction, light housekeeping, and help with meal preparation. It can be a great support, especially since you live alone.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 110,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I see. I’ll think about it, but right now, I just need those mobility aids.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 118,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Understood. I’ll focus on getting those to you first.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I’ll send you a confirmation email with the details, and we’ll aim to have the correct items delivered by tomorrow.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 129,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Great, thank you! Will someone call me to confirm the delivery?",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 135,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Yes, I’ll have our client services manager, Angela, reach out to you later today to confirm everything.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Perfect! Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're welcome, Betty. I’m glad I could assist you. Have a great day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 148,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 148,
+          "end_time": 150,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bfbc60a9d9fd4ff1b98d0a86",
+  "revision": "",
+  "status": "success"
+}
