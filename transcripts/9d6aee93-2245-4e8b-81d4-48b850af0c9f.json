@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f8b43283d3b64bfaae051e2f",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968210-fbec5808",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f8b43283d3b64bfaae051e2f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "f8b43283d3b64bfaae051e2f",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f8b43283d3b64bfaae051e2f",
+      "media_name": "c69885bdbb5e45cba75f8f46cb348153.mp3",
+      "scenario": "A new customer urgently needs a replacement part for their device that's stopped working. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Robert Jackson. I hope you’re doing well. I'm calling because we have an urgent issue with my equipment. Hi Robert, I'm doing well, thank you. What seems to be the problem? My mobility device has stopped working, and I need a replacement part urgently to ensure I can keep moving. I understand, Robert. Can you tell me which part you need? It’s the battery pack. Without it, I can’t use the device, and it’s crucial for my daily activities. I see. Let me check our stock and see if we have the battery pack available. Just one moment, please. [pause] Yes, we do have the battery pack in stock. I can arrange for it to be delivered today. That would be fantastic! How long would the delivery take? It typically takes about 2-3 hours for delivery. Would that work for you? Yes, that sounds perfect. Thank you! You're welcome! Can I confirm your address for the delivery? Sure, it’s 123 Elm Street, Wichita, KS 67205. Great, I’ve got that. I’ll arrange the delivery right away. Also, while I have you on the line, is there any additional care you need? Actually, I could use some assistance with personal care later this week. We can definitely help with that. Would you like to schedule a Personal Care Assistant for this week? Yes, please. I think Tuesday or Wednesday would work. Let me check the availability for those days. [pause] We have openings on both days. Let's go with Tuesday, then. Perfect. I’ll schedule a Personal Care Assistant for Tuesday. Is there anything else I can assist you with today? No, that's everything for now. Thank you so much for your help! You’re very welcome, Robert. I’ll make sure everything is arranged. Expect the battery pack delivery in about 2-3 hours and I’ll confirm your PCA for Tuesday. Thank you again, Margaret. You always make this so easy! It’s my pleasure, Robert! Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I hope you’re doing well. I'm calling because we have an urgent issue with my equipment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Robert, I'm doing well, thank you. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My mobility device has stopped working, and I need a replacement part urgently to ensure I can keep moving.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, Robert. Can you tell me which part you need?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s the battery pack. Without it, I can’t use the device, and it’s crucial for my daily activities.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see. Let me check our stock and see if we have the battery pack available.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Just one moment, please. [pause] Yes, we do have the battery pack in stock. I can arrange for it to be delivered today.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 51,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That would be fantastic! How long would the delivery take?",
+          "speaker": "remote party",
+          "start_time": 51,
+          "end_time": 57,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "It typically takes about 2-3 hours for delivery. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 64,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that sounds perfect. Thank you!",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 68,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "You're welcome! Can I confirm your address for the delivery?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Sure, it’s 123 Elm Street, Wichita, KS 67205.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Great, I’ve got that. I’ll arrange the delivery right away.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Also, while I have you on the line, is there any additional care you need?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 91,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, I could use some assistance with personal care later this week.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 97,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can definitely help with that. Would you like to schedule a Personal Care Assistant for this week?",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 104,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. I think Tuesday or Wednesday would work.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Let me check the availability for those days. [pause] We have openings on both days.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Let's go with Tuesday, then.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect. I’ll schedule a Personal Care Assistant for Tuesday.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 133,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that's everything for now. Thank you so much for your help!",
+          "speaker": "remote party",
+          "start_time": 133,
+          "end_time": 139,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re very welcome, Robert. I’ll make sure everything is arranged.",
+          "speaker": "local party",
+          "start_time": 139,
+          "end_time": 144,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Expect the battery pack delivery in about 2-3 hours and I’ll confirm your PCA for Tuesday.",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 150,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you again, Margaret. You always make this so easy!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 156,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "It’s my pleasure, Robert! Have a great day!",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 160,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f8b43283d3b64bfaae051e2f",
+  "revision": "",
+  "status": "success"
+}
