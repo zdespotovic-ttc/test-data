@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-22bd56eaf5e5468eb1bcb774",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968151-ed621d73",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-22bd56eaf5e5468eb1bcb774",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 180,
+      "duration_ms": 180000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "22bd56eaf5e5468eb1bcb774",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-22bd56eaf5e5468eb1bcb774",
+      "media_name": "433ac3bd48bc463ba505e8c5d9545a97.mp3",
+      "scenario": "A returning customer requests a detailed breakdown of the charges on their bill, suspecting an error in the calculation. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 180.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Susan Garcia. I'm calling about a bill I received. Hi Susan, I’m happy to help with that. What seems to be the issue? Well, I noticed some charges that don’t seem right. I’d like a detailed breakdown, please. Absolutely, I can assist with that. Can I have your account number or the name on the account? Yes, it’s under my father, John Garcia. His account number is 456789. Thank you, let me pull that up for you. One moment please. Alright, I have his bill in front of me. It looks like there are charges for skilled nursing care, medication management, and personal care assistance. Can you break down those charges? They seem higher than expected. Sure, the skilled nursing care is billed at $95-$125 per visit, depending on the duration, and you've had three visits this month. Okay, that makes sense. What about the medication management? The medication management is charged at $65-$80. He had two sessions, each at the higher end of that range. I see. And personal care assistance? That service is billed hourly at $28-$35. He had a total of five hours of assistance last week. That does add up, but I thought the total was higher than that. Let me double-check the overall total for you. Can you hold for just a moment? Yes, of course. I reviewed the charges, and it looks like there was an additional fee for a late evening visit. That might have caused the discrepancy. Oh, I wasn’t aware of that. Can you explain that visit? Certainly, it was after hours, which incurs a higher rate for the personal care assistance. That makes sense now. Thank you for clarifying! You’re welcome! Would you like me to assist you with anything else? Actually, yes. Can you tell me about your respiratory care services? My father needs assistance with his COPD. We provide skilled nursing care that includes respiratory support and medication management for COPD patients. That sounds perfect. Can you get someone to call me about setting that up? Absolutely! I’ll have our Care Coordinator, Lisa, reach out to you. Great, I appreciate your help today, Margaret. You’re very welcome, Susan. Thank you for calling CareFirst Home Health! Thank you!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Susan Garcia. I'm calling about a bill I received.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Susan, I’m happy to help with that. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed some charges that don’t seem right. I’d like a detailed breakdown, please.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, I can assist with that. Can I have your account number or the name on the account?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it’s under my father, John Garcia. His account number is 456789.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you, let me pull that up for you. One moment please.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Alright, I have his bill in front of me. It looks like there are charges for skilled nursing care, medication management, and personal care assistance.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Can you break down those charges? They seem higher than expected.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Sure, the skilled nursing care is billed at $95-$125 per visit, depending on the duration, and you've had three visits this month.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 65,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Okay, that makes sense. What about the medication management?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "The medication management is charged at $65-$80. He had two sessions, each at the higher end of that range.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 77,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "I see. And personal care assistance?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 80,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "That service is billed hourly at $28-$35. He had a total of five hours of assistance last week.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 89,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That does add up, but I thought the total was higher than that.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Let me double-check the overall total for you. Can you hold for just a moment?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, of course.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I reviewed the charges, and it looks like there was an additional fee for a late evening visit. That might have caused the discrepancy.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 115,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Oh, I wasn’t aware of that. Can you explain that visit?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Certainly, it was after hours, which incurs a higher rate for the personal care assistance.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 130,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That makes sense now. Thank you for clarifying!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 136,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome! Would you like me to assist you with anything else?",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Actually, yes. Can you tell me about your respiratory care services? My father needs assistance with his COPD.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 147,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "We provide skilled nursing care that includes respiratory support and medication management for COPD patients.",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 156,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "That sounds perfect. Can you get someone to call me about setting that up?",
+          "speaker": "remote party",
+          "start_time": 156,
+          "end_time": 161,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Absolutely! I’ll have our Care Coordinator, Lisa, reach out to you.",
+          "speaker": "local party",
+          "start_time": 161,
+          "end_time": 166,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Great, I appreciate your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 166,
+          "end_time": 173,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You’re very welcome, Susan. Thank you for calling CareFirst Home Health!",
+          "speaker": "local party",
+          "start_time": 173,
+          "end_time": 177,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Thank you!",
+          "speaker": "remote party",
+          "start_time": 177,
+          "end_time": 180,
+          "channel": "right",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-22bd56eaf5e5468eb1bcb774",
+  "revision": "",
+  "status": "success"
+}
