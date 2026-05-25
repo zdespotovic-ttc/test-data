@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-233679051d7f4105a1395197",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968351-a9dab65a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-233679051d7f4105a1395197",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "233679051d7f4105a1395197",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-233679051d7f4105a1395197",
+      "media_name": "e20f7e1b49244919a263f2281eb76fef.mp3",
+      "scenario": "A prospect decides to cancel their upcoming appointment after receiving negative feedback from a friend. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Karen Lewis. I'm calling about post-operative care for my husband after his cardiac surgery next month. Hi, Karen! Thank you for reaching out. We’d be happy to help with that. Can you tell me a bit more about his needs? Well, I was hoping to schedule skilled nursing care, maybe a couple of hours a day for medication management and recovery support. That sounds great. Our skilled nursing care ranges from $95 to $125 for 1-2 hours. Okay, that’s reasonable. I had an appointment set up for next week, but… Sure, I understand. What were you thinking? I actually just spoke with a friend who had a bad experience with your service, and now I'm feeling hesitant. I’m really sorry to hear that, Karen. Can I ask what specifically concerned her? She mentioned issues with communication and delays in caregiver arrivals. I don’t want that for my husband. I completely understand your concerns. We strive for excellent communication and punctuality. I appreciate that, but I’m just not sure now. I can assure you that our Director of Nursing, who oversees care coordination, is dedicated to ensuring everything runs smoothly. That sounds good, but I’m still feeling uncertain. Would it be helpful if I shared some testimonials from other clients? Maybe, but I still think I want to cancel the appointment for now. I understand. Can we at least schedule a follow-up call to address any questions you might have? Yeah, I could consider that. Great! How about I follow up with you next week? We can discuss your husband's needs at that time. That works. I’m still nervous, though. That’s totally understandable. We'll make sure to provide all the information and support you need. Thank you, Margaret. I’ll think about it. Thank you for considering us, Karen. I’ll be sure to reach out. Okay, thank you. You’re welcome. Have a great day! You too, bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Karen Lewis. I'm calling about post-operative care for my husband after his cardiac surgery next month.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Karen! Thank you for reaching out. We’d be happy to help with that. Can you tell me a bit more about his needs?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was hoping to schedule skilled nursing care, maybe a couple of hours a day for medication management and recovery support.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds great. Our skilled nursing care ranges from $95 to $125 for 1-2 hours.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, that’s reasonable. I had an appointment set up for next week, but…",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure, I understand. What were you thinking?",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I actually just spoke with a friend who had a bad experience with your service, and now I'm feeling hesitant.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’m really sorry to hear that, Karen. Can I ask what specifically concerned her?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "She mentioned issues with communication and delays in caregiver arrivals. I don’t want that for my husband.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand your concerns. We strive for excellent communication and punctuality.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate that, but I’m just not sure now.",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can assure you that our Director of Nursing, who oversees care coordination, is dedicated to ensuring everything runs smoothly.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 63,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good, but I’m still feeling uncertain.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Would it be helpful if I shared some testimonials from other clients?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Maybe, but I still think I want to cancel the appointment for now.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand. Can we at least schedule a follow-up call to address any questions you might have?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yeah, I could consider that.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! How about I follow up with you next week? We can discuss your husband's needs at that time.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That works. I’m still nervous, though.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "That’s totally understandable. We'll make sure to provide all the information and support you need.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 98,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I’ll think about it.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for considering us, Karen. I’ll be sure to reach out.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Okay, thank you.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome. Have a great day!",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 115,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-233679051d7f4105a1395197",
+  "revision": "",
+  "status": "success"
+}
