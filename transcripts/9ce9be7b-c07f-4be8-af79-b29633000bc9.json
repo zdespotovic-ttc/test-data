@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-01065c0f95d647a9b3e9ac85",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968202-6b74d833",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-01065c0f95d647a9b3e9ac85",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 155,
+      "duration_ms": 155000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "01065c0f95d647a9b3e9ac85",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-01065c0f95d647a9b3e9ac85",
+      "media_name": "50bb1f79bc1c49d4a98cf5a0d613cc17.mp3",
+      "scenario": "A new customer calls urgently, needing same-day pest control service for an unexpected infestation. Category: Urgent Request. Flags: urgent_request. Customer type: new_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 155.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Mary O'Connor. I'm calling because I need help urgently with my IV therapy. Hi, Mary! I see you're one of our long-term clients. Can you tell me what's going on? I just had my visit yesterday, but I'm feeling really anxious about the next one. I think I need someone to come by today. I understand. It's important to feel comfortable, especially with your therapy. Let’s see what we can do for you today. Thank you! I just really need someone reassuring since I'm really anxious about medical procedures. Absolutely, I can arrange for a nurse to visit you today. Would you prefer a specific time? As soon as possible would be great. I really don’t want to wait longer. Let me check the schedule for you. We have a nurse available between 1 PM and 3 PM. Does that work? Yes, that works. Thank you! Can it be someone who understands my anxiety? Of course! I’ll send Robert Davis. He’s great at providing support during procedures. Perfect! I feel more relaxed just knowing that. I’m glad to hear that, Mary. I’ll schedule him for 1 PM. Thank you! Will he also bring my medication for the IV? Yes, he will bring everything you need for the therapy session. Just to confirm, you’re still on the same dosage, right? Yes, it's the same as always. I appreciate you checking! No problem at all! I’ll also remind him to take extra time with you to ensure you feel comfortable. That sounds wonderful. I feel much better already. Great! I’ll also follow up with you after the visit to see how everything went. Yes, please do! I like to keep track of everything. Absolutely! That’s very important. I'll make a note to check in later today. Thank you so much for your help, Margaret. I really needed this today. You’re very welcome, Mary! We’re here to support you. I’ll see you at 1 PM with Robert. Sounds good! Have a great day! You too, Mary! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Mary O'Connor. I'm calling because I need help urgently with my IV therapy.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Mary! I see you're one of our long-term clients. Can you tell me what's going on?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I just had my visit yesterday, but I'm feeling really anxious about the next one. I think I need someone to come by today.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. It's important to feel comfortable, especially with your therapy. Let’s see what we can do for you today.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you! I just really need someone reassuring since I'm really anxious about medical procedures.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I can arrange for a nurse to visit you today. Would you prefer a specific time?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "As soon as possible would be great. I really don’t want to wait longer.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check the schedule for you. We have a nurse available between 1 PM and 3 PM. Does that work?",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that works. Thank you! Can it be someone who understands my anxiety?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course! I’ll send Robert Davis. He’s great at providing support during procedures.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 66,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Perfect! I feel more relaxed just knowing that.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’m glad to hear that, Mary. I’ll schedule him for 1 PM.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! Will he also bring my medication for the IV?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, he will bring everything you need for the therapy session. Just to confirm, you’re still on the same dosage, right?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, it's the same as always. I appreciate you checking!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "No problem at all! I’ll also remind him to take extra time with you to ensure you feel comfortable.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 103,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds wonderful. I feel much better already.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll also follow up with you after the visit to see how everything went.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please do! I like to keep track of everything.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely! That’s very important. I'll make a note to check in later today.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 127,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you so much for your help, Margaret. I really needed this today.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome, Mary! We’re here to support you. I’ll see you at 1 PM with Robert.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 142,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good! Have a great day!",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 150,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, Mary! Take care.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-01065c0f95d647a9b3e9ac85",
+  "revision": "",
+  "status": "success"
+}
