@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2fb09185f0df4b008ac42739",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968283-9adbcd5c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2fb09185f0df4b008ac42739",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 190,
+      "duration_ms": 190000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "2fb09185f0df4b008ac42739",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2fb09185f0df4b008ac42739",
+      "media_name": "7d578e24d5264c27b711def63d17fce5.mp3",
+      "scenario": "A returning customer contacts the company for an urgent pest control service due to a sudden infestation. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 190.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is Thomas White. I'm reaching out because my mother, who has Alzheimer's, needs immediate specialized dementia care. I'm sorry to hear that, Thomas. Can you tell me more about her current needs? Well, she's been particularly agitated and confused lately, and I think she could really use some companionship and help with her daily activities. That makes sense. We offer specialized dementia care that includes personal care assistance. That sounds great. How quickly could we get someone out there? We can schedule a caregiver to start as soon as tomorrow, depending on availability. Would that work for you? Yes, that would be perfect. What are the rates for that service? Our rates for dementia care range from $32 to $40 per hour, based on the level of care needed. Okay, that sounds reasonable. I may also need respite care for myself. We offer respite care as well, priced between $30 and $38 per hour. This can provide you with the relief you need. That’s good to know. Can we add that to the schedule too? Absolutely! Would you like to book both services for the same caregiver? Yes, that would be ideal. Great! Let’s set that up. I’ll need to gather some information to complete the booking. Can I have your mother's full name and address? Sure, her name is Evelyn White, and we live at 123 Elm Street, Wichita, KS. Thank you, Thomas. And what’s the best contact number for you? You can reach me at +13165558962. Perfect. I’ll have a caregiver reach out to you to confirm the schedule. Thank you so much, Margaret. I really appreciate your help. It’s my pleasure, Thomas. Is there anything else you’d like assistance with today? No, that covers everything for now. Just hoping this will help my mother feel a bit more comfortable. I understand, and we’re here to support you both. I’ll follow up later today to ensure everything is in order. Sounds good, thanks again! You’re welcome, Thomas. Take care, and we’ll speak soon! Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Thomas White. I'm reaching out because my mother, who has Alzheimer's, needs immediate specialized dementia care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Thomas. Can you tell me more about her current needs?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, she's been particularly agitated and confused lately, and I think she could really use some companionship and help with her daily activities.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That makes sense. We offer specialized dementia care that includes personal care assistance.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds great. How quickly could we get someone out there?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We can schedule a caregiver to start as soon as tomorrow, depending on availability. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that would be perfect. What are the rates for that service?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our rates for dementia care range from $32 to $40 per hour, based on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, that sounds reasonable. I may also need respite care for myself.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We offer respite care as well, priced between $30 and $38 per hour. This can provide you with the relief you need.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s good to know. Can we add that to the schedule too?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! Would you like to book both services for the same caregiver?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be ideal.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! Let’s set that up. I’ll need to gather some information to complete the booking. Can I have your mother's full name and address?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, her name is Evelyn White, and we live at 123 Elm Street, Wichita, KS.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 115,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Thomas. And what’s the best contact number for you?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "You can reach me at +13165558962.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect. I’ll have a caregiver reach out to you to confirm the schedule.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It’s my pleasure, Thomas. Is there anything else you’d like assistance with today?",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers everything for now. Just hoping this will help my mother feel a bit more comfortable.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I understand, and we’re here to support you both. I’ll follow up later today to ensure everything is in order.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 170,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good, thanks again!",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Thomas. Take care, and we’ll speak soon!",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2fb09185f0df4b008ac42739",
+  "revision": "",
+  "status": "success"
+}
