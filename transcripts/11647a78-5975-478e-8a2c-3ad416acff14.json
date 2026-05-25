@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T22:40:50Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6f8d720b2ab94954a37833f3",
+    "created": 0,
+    "modified": 0
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968050-09c5be88",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6f8d720b2ab94954a37833f3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946968050,
+      "call_id": "6f8d720b2ab94954a37833f3",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6f8d720b2ab94954a37833f3",
+      "media_name": "35a4197ccb8347a4ac77eae1824ec9cd.mp3",
+      "scenario": "A new customer calls to complain about the unclean state left by the cleaning team. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret, this is Edward Martinez. I’m calling because I have a concern about the cleaning services. I'm sorry to hear that, Edward. Can you tell me more about the issue? Well, after the last visit from the cleaning team, the house was still quite dirty. I understand how frustrating that must be. When did this service take place? It was just five days ago. My wife and I expected the place to be cleaner since we rely on that help. I completely understand. We aim for high standards, and it sounds like we fell short. Yes, and it’s not the first time this has happened, which is concerning. I apologize for the inconvenience, Edward. I’d like to escalate this to our Client Services Manager for further review. That sounds good. I just want to ensure this gets addressed. Absolutely, I’ll make sure Angela Martinez follows up with you on this matter. Thank you. I’d appreciate that. Is there anything specific you’d like us to address with the cleaning team? Just that they need to do a more thorough job next time. I’ll ensure that feedback is included in our report. Thank you. Also, can I schedule some respite care for this weekend? Of course! Just to confirm, how many hours do you need? We usually go for about four hours on Saturdays. I can arrange that. Would you like the same caregiver as before? Yes, please. That would be great. Alright, let me summarize: I’ll have Angela contact you regarding the cleaning issue, and I’ll book four hours of respite care for Saturday. Perfect. Thank you for handling this. It’s my pleasure, Edward. Your satisfaction is important to us. I appreciate that, Margaret. Have a good day! You too, Edward! Thank you for calling CareFirst. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Edward Martinez. I’m calling because I have a concern about the cleaning services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Edward. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, after the last visit from the cleaning team, the house was still quite dirty.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be. When did this service take place?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was just five days ago. My wife and I expected the place to be cleaner since we rely on that help.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand. We aim for high standards, and it sounds like we fell short.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, and it’s not the first time this has happened, which is concerning.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I apologize for the inconvenience, Edward. I’d like to escalate this to our Client Services Manager for further review.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds good. I just want to ensure this gets addressed.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I’ll make sure Angela Martinez follows up with you on this matter.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you. I’d appreciate that.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Is there anything specific you’d like us to address with the cleaning team?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Just that they need to do a more thorough job next time.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll ensure that feedback is included in our report.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. Also, can I schedule some respite care for this weekend?",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course! Just to confirm, how many hours do you need?",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "We usually go for about four hours on Saturdays.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I can arrange that. Would you like the same caregiver as before?",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please. That would be great.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Alright, let me summarize: I’ll have Angela contact you regarding the cleaning issue, and I’ll book four hours of respite care for Saturday.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect. Thank you for handling this.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It’s my pleasure, Edward. Your satisfaction is important to us.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate that, Margaret. Have a good day!",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, Edward! Thank you for calling CareFirst.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6f8d720b2ab94954a37833f3",
+  "revision": "",
+  "status": "success"
+}
