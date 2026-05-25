@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6eaeffc6c4634ed4bc4c709a",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968161-f8adc191",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6eaeffc6c4634ed4bc4c709a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "6eaeffc6c4634ed4bc4c709a",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6eaeffc6c4634ed4bc4c709a",
+      "media_name": "3b578ba49a274ce783e1c7dad6705f9b.mp3",
+      "scenario": "A customer demands a refund for erroneous charges on their bill. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Jennifer Taylor. I'm calling about some charges on my grandmother's bill. Hi Jennifer, I’m happy to help you with that. Can you tell me a bit more about the charges in question? Yes, I noticed there are charges for services we never requested. I see. Can you provide me with the specific services you're referring to? There’s a charge for companion care, but we only needed help with daily activities. Thank you for that information. Let me pull up your grandmother's account. One moment, please. Okay, I have the account here. I see the charge for companion care, which is $25 to $30 per hour. Can you tell me when the service was scheduled? It looks like it was supposed to be on the 10th, but we didn’t use it. I understand. Let me check our records to confirm that service was not provided. It appears there was a scheduling error on our end, and the service was indeed marked as provided. I apologize for the oversight. So, what happens now? Can we get a refund for that charge? Yes, we can issue a refund for that charge, and I’ll start that process for you right away. Thank you! How long will that take? Typically, it takes about 5-7 business days for the refund to process back to your account. Okay, that sounds good. Also, can you confirm if my grandmother's regular services will continue without interruption? Yes, her regular services for personal care assistance will continue as scheduled. Great! I’m also interested in companion care for her during the weekdays. We can set that up. Companion care is $25 to $30 per hour, depending on the caregiver matched. That sounds good, can we schedule that? Absolutely! Can I take your grandmother's preferred times for weekdays? Yes, she would need help on Mondays and Wednesdays, from 10 AM to 2 PM. Perfect. I’ll schedule that and ensure a caregiver is assigned. Thank you so much for your help today, Margaret. You’re welcome, Jennifer! I’ll send you a confirmation email with the details shortly. I appreciate it. Goodbye! Goodbye! Thank you for calling CareFirst Home Health.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Jennifer Taylor. I'm calling about some charges on my grandmother's bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Jennifer, I’m happy to help you with that. Can you tell me a bit more about the charges in question?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed there are charges for services we never requested.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. Can you provide me with the specific services you're referring to?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "There’s a charge for companion care, but we only needed help with daily activities.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for that information. Let me pull up your grandmother's account. One moment, please.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I have the account here. I see the charge for companion care, which is $25 to $30 per hour. Can you tell me when the service was scheduled?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "It looks like it was supposed to be on the 10th, but we didn’t use it.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I understand. Let me check our records to confirm that service was not provided.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "It appears there was a scheduling error on our end, and the service was indeed marked as provided. I apologize for the oversight.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "So, what happens now? Can we get a refund for that charge?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we can issue a refund for that charge, and I’ll start that process for you right away.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! How long will that take?",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Typically, it takes about 5-7 business days for the refund to process back to your account.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, that sounds good. Also, can you confirm if my grandmother's regular services will continue without interruption?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, her regular services for personal care assistance will continue as scheduled.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great! I’m also interested in companion care for her during the weekdays.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can set that up. Companion care is $25 to $30 per hour, depending on the caregiver matched.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good, can we schedule that?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely! Can I take your grandmother's preferred times for weekdays?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, she would need help on Mondays and Wednesdays, from 10 AM to 2 PM.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect. I’ll schedule that and ensure a caregiver is assigned.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Jennifer! I’ll send you a confirmation email with the details shortly.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I appreciate it. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye! Thank you for calling CareFirst Home Health.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6eaeffc6c4634ed4bc4c709a",
+  "revision": "",
+  "status": "success"
+}
