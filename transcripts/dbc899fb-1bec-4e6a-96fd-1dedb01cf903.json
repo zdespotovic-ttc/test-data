@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-572bb8adcd824e68a086f881",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968129-3684e61d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-572bb8adcd824e68a086f881",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "572bb8adcd824e68a086f881",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-572bb8adcd824e68a086f881",
+      "media_name": "38c51b32eee64df59687680ef6a98e75.mp3",
+      "scenario": "A prospect calls in to dispute a service charge they were not informed about. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Frank Miller. I've got an issue with a service charge on my recent billing statement. Hi Frank, I’m glad you called. Can you tell me more about the charge you’re disputing? Sure, I was charged for wound care on my last visit, but I wasn't informed about any additional fees. I understand your concern. Let me pull up your account and review the details. One moment please. Okay, take your time. Thank you for your patience, Frank. I see that there was an extra charge for a nurse's overtime due to an extended visit yesterday. It appears we didn’t communicate this properly. Well, I wasn't aware that was going to happen, and it seems unfair. I completely understand, and I apologize for the oversight. We strive for transparency in our billing. So, what can we do about this charge? I can initiate a review of this charge, and depending on the findings, we can issue a credit if it was an error. That sounds good. How long will that take? Typically, it takes 3-5 business days to complete the review. I’ll ensure you’re updated via email. Great, I appreciate that. Also, while I have you on the line, would you like to discuss your monthly transportation needs for your endocrinologist visits? Yes, that’d be helpful. I need a ride once a month. We offer transportation services for $45 to $65 per trip. Would you like to set that up? Yes, I’d like to go ahead and arrange that. Perfect! I’ll include that in our follow-up email, along with the billing update. Thank you, Margaret. I appreciate your help with this. You're welcome, Frank. Is there anything else I can assist you with today? No, that's everything for now. Okay, thank you for calling CareFirst. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I've got an issue with a service charge on my recent billing statement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Frank, I’m glad you called. Can you tell me more about the charge you’re disputing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, I was charged for wound care on my last visit, but I wasn't informed about any additional fees.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account and review the details. One moment please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, take your time.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Frank. I see that there was an extra charge for a nurse's overtime due to an extended visit yesterday. It appears we didn’t communicate this properly.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 50,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Well, I wasn't aware that was going to happen, and it seems unfair.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand, and I apologize for the oversight. We strive for transparency in our billing.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "So, what can we do about this charge?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can initiate a review of this charge, and depending on the findings, we can issue a credit if it was an error.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good. How long will that take?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Typically, it takes 3-5 business days to complete the review. I’ll ensure you’re updated via email.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 85,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great, I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Also, while I have you on the line, would you like to discuss your monthly transportation needs for your endocrinologist visits?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that’d be helpful. I need a ride once a month.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We offer transportation services for $45 to $65 per trip. Would you like to set that up?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I’d like to go ahead and arrange that.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 113,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll include that in our follow-up email, along with the billing update.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 123,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, Frank. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 127,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that's everything for now.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Okay, thank you for calling CareFirst. Have a great day!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-572bb8adcd824e68a086f881",
+  "revision": "",
+  "status": "success"
+}
