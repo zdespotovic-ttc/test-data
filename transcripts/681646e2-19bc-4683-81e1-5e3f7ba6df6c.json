@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c9cf7c15067b4da8aa11d02d",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968118-e62f697a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c9cf7c15067b4da8aa11d02d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 157,
+      "duration_ms": 157000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "c9cf7c15067b4da8aa11d02d",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c9cf7c15067b4da8aa11d02d",
+      "media_name": "ebdca50b5dc840ae9dd406fdcc0b4812.mp3",
+      "scenario": "A new customer questions a double charge on their statement and requests a review of the transaction history. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 157.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Mark Johnson. I'm calling because I noticed a double charge on my statement. I'm sorry to hear that, Mark. Let’s get that sorted out. Can you provide me with your account details? Sure, my phone number is +13165555832, and my last name is Johnson. Thank you, Mark. Let me pull up your account… Okay, I see your recent transactions. Can you tell me which charges seem to be duplicated? Yes, I see two charges for medication management services from last week. They both show up for the same date. I understand your concern. Let me take a closer look at those charges. One moment, please. Sure, take your time. I just want to make sure I'm not being overcharged here. I appreciate your patience, Mark. I see that we did process two transactions for the same service. I will flag this for review. Thank you, Margaret. I really hope this can be fixed. Absolutely, I’ll make sure it gets reviewed. I’ll also keep you updated via email. What’s the best address for you? It's mark.johnson@email.com. Got it, Mark. I’ll send a confirmation and any updates regarding the review. I appreciate that. While I have you, could you tell me more about the transportation services you offer? Sure! Our transportation services range from $45 to $65 per trip and cover medical appointments as well as essential errands. That sounds great. My parents will need help getting to their appointments. I can set up a care plan for your parents that includes medication management and transportation. Would you like to discuss that? Yes, let’s definitely go ahead with that. Perfect! I’ll connect you with our Care Coordinator, Lisa. She can help with scheduling and insurance questions. Sounds good. I look forward to speaking with her. Great! I’ll also follow up on the billing issue and make sure you’re notified as soon as possible. Thank you, Margaret. I appreciate your help today. You’re very welcome, Mark. Have a wonderful day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Mark Johnson. I'm calling because I noticed a double charge on my statement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Mark. Let’s get that sorted out. Can you provide me with your account details?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, my phone number is +13165555832, and my last name is Johnson.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you, Mark. Let me pull up your account… Okay, I see your recent transactions. Can you tell me which charges seem to be duplicated?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I see two charges for medication management services from last week. They both show up for the same date.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. Let me take a closer look at those charges. One moment, please.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time. I just want to make sure I'm not being overcharged here.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I appreciate your patience, Mark. I see that we did process two transactions for the same service. I will flag this for review.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 58,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, Margaret. I really hope this can be fixed.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I’ll make sure it gets reviewed. I’ll also keep you updated via email. What’s the best address for you?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It's mark.johnson@email.com.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Got it, Mark. I’ll send a confirmation and any updates regarding the review.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I appreciate that. While I have you, could you tell me more about the transportation services you offer?",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 93,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! Our transportation services range from $45 to $65 per trip and cover medical appointments as well as essential errands.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 100,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds great. My parents will need help getting to their appointments.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 107,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can set up a care plan for your parents that includes medication management and transportation. Would you like to discuss that?",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, let’s definitely go ahead with that.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll connect you with our Care Coordinator, Lisa. She can help with scheduling and insurance questions.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 128,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good. I look forward to speaking with her.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 135,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll also follow up on the billing issue and make sure you’re notified as soon as possible.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 142,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 147,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome, Mark. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 157,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c9cf7c15067b4da8aa11d02d",
+  "revision": "",
+  "status": "success"
+}
