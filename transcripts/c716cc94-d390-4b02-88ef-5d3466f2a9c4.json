@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2d8cc1f48ac4425cb21ec18f",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968068-cf74678a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2d8cc1f48ac4425cb21ec18f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 225,
+      "duration_ms": 225000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "2d8cc1f48ac4425cb21ec18f",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2d8cc1f48ac4425cb21ec18f",
+      "media_name": "0460a75b9c8541dd9d8e53eda01b36b3.mp3",
+      "scenario": "A VIP customer questions a discrepancy in the billed amount versus the quoted price for a recent service package. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 225.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is George Williams. I have a question about my recent bill. Hi George! It's great to hear from you. What seems to be the issue with your bill? Well, I was billed for cardiac care monitoring, but the amount is higher than the quoted price we discussed last week. I see. Let me pull up your account and take a closer look at the details. One moment, please. Sure, take your time. I just want to make sure everything is accurate. Alright, I have your account here. It looks like you were quoted $80 to $100 for cardiac monitoring, but the bill is showing $120. Yes, that's exactly what I'm talking about. Can you explain why there’s a discrepancy? It appears there was an additional charge for extra time spent during the last visit. Our nurse recorded some extra assessments that day. I appreciate the thoroughness, but I wasn't informed that it would incur extra charges. I completely understand your concern, George. I’ll definitely look into this further and see if we can adjust the bill for you. Thank you, I’d really appreciate that. I want to make sure we’re all on the same page. Of course! I’ll also review our billing practices to prevent any confusion in the future. That sounds good. While I have you, could you let me know if there are any new services available? Yes, we’ve recently introduced a new service for mobility training with Dr. Rodriguez. That sounds interesting. How does that work? It focuses on improving strength and balance, especially for clients recovering from surgery. The sessions are 45-60 minutes long, priced at $110 to $140. I might want to consider that. Could you send me more details via email? Absolutely, I can do that. What’s the best email address for you? Please use george.williams@email.com. Got it! I’ll send you the information shortly. Thank you, Margaret. I look forward to your follow-up on the billing issue as well. You're welcome, George! I’ll investigate that today and reach out to you with an update. Great, I appreciate you taking the time. No problem at all! Thank you for calling and have a wonderful day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 4,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I have a question about my recent bill.",
+          "speaker": "remote party",
+          "start_time": 4,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George! It's great to hear from you. What seems to be the issue with your bill?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was billed for cardiac care monitoring, but the amount is higher than the quoted price we discussed last week.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. Let me pull up your account and take a closer look at the details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time. I just want to make sure everything is accurate.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Alright, I have your account here. It looks like you were quoted $80 to $100 for cardiac monitoring, but the bill is showing $120.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that's exactly what I'm talking about. Can you explain why there’s a discrepancy?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It appears there was an additional charge for extra time spent during the last visit. Our nurse recorded some extra assessments that day.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate the thoroughness, but I wasn't informed that it would incur extra charges.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand your concern, George. I’ll definitely look into this further and see if we can adjust the bill for you.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I’d really appreciate that. I want to make sure we’re all on the same page.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! I’ll also review our billing practices to prevent any confusion in the future.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 115,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. While I have you, could you let me know if there are any new services available?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we’ve recently introduced a new service for mobility training with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds interesting. How does that work?",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "It focuses on improving strength and balance, especially for clients recovering from surgery. The sessions are 45-60 minutes long, priced at $110 to $140.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 155,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I might want to consider that. Could you send me more details via email?",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 165,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I can do that. What’s the best email address for you?",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Please use george.williams@email.com.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Got it! I’ll send you the information shortly.",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 185,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I look forward to your follow-up on the billing issue as well.",
+          "speaker": "remote party",
+          "start_time": 185,
+          "end_time": 195,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, George! I’ll investigate that today and reach out to you with an update.",
+          "speaker": "local party",
+          "start_time": 195,
+          "end_time": 205,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great, I appreciate you taking the time.",
+          "speaker": "remote party",
+          "start_time": 205,
+          "end_time": 210,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "No problem at all! Thank you for calling and have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 210,
+          "end_time": 215,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 215,
+          "end_time": 220,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 220,
+          "end_time": 225,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2d8cc1f48ac4425cb21ec18f",
+  "revision": "",
+  "status": "success"
+}
