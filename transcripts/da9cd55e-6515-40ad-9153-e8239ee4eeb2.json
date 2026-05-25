@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6b78db39c0604ed287f9bccc",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968192-62e8a002",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6b78db39c0604ed287f9bccc",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 134,
+      "duration_ms": 134000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "6b78db39c0604ed287f9bccc",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6b78db39c0604ed287f9bccc",
+      "media_name": "07ccaa23261843d0868ae6200bfbee1e.mp3",
+      "scenario": "An existing customer's pet is in distress and they need an emergency veterinary appointment immediately. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 134.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Eleanor Watson. I need urgent help. Hi Eleanor! Is everything okay? Not really. My dog, Max, seems to be in distress. Oh no, I’m sorry to hear that. What seems to be the problem? He’s been whining a lot, and I think he might be in pain. I need to get him to the vet immediately. I understand. Have you tried to contact your vet for an emergency appointment? I called them, but they’re fully booked and can’t see him for hours. That’s really tough. Would you like me to help you find an emergency vet nearby? Yes, please! I can’t wait that long. Let me check for you. One moment, please. *[pause]* I found an emergency clinic called PetCare Plus. They can see him right away. It's just a 15-minute drive from your place. That’s perfect! What’s their number? Their number is +13165551234. Do you need help arranging transportation? I can drive him myself, but I’m not sure I can handle him in this condition. Would you prefer if I scheduled a caregiver for you? It could help manage the stress. Yes, that would be very helpful. Alright, I’ll arrange for a Personal Care Assistant to be at your home before you leave. Thank you so much! You're welcome! I’ll also send you a confirmation email with all the details. I appreciate it. How long will the assistant take to arrive? They should be there within 30 minutes. Does that work for you? Yes, it does. Thank you for being so prompt. Just to confirm, I’ll set up the transport and the assistant. Is there anything else you need? No, that’s everything. I really appreciate your help today. Of course, Eleanor. I hope Max feels better soon! Thank you. I’ll call back once we’re back from the vet. Sounds good. Take care and drive safely! Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I need urgent help.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Eleanor! Is everything okay?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Not really. My dog, Max, seems to be in distress.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no, I’m sorry to hear that. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "He’s been whining a lot, and I think he might be in pain. I need to get him to the vet immediately.",
+          "speaker": "remote party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. Have you tried to contact your vet for an emergency appointment?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I called them, but they’re fully booked and can’t see him for hours.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That’s really tough. Would you like me to help you find an emergency vet nearby?",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please! I can’t wait that long.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "*[pause]* I found an emergency clinic called PetCare Plus. They can see him right away. It's just a 15-minute drive from your place.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 55,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That’s perfect! What’s their number?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 58,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Their number is +13165551234. Do you need help arranging transportation?",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I can drive him myself, but I’m not sure I can handle him in this condition.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Would you prefer if I scheduled a caregiver for you? It could help manage the stress.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, that would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Alright, I’ll arrange for a Personal Care Assistant to be at your home before you leave.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thank you so much!",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You're welcome! I’ll also send you a confirmation email with all the details.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I appreciate it. How long will the assistant take to arrive?",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "They should be there within 30 minutes. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, it does. Thank you for being so prompt.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Just to confirm, I’ll set up the transport and the assistant. Is there anything else you need?",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 109,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "No, that’s everything. I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Of course, Eleanor. I hope Max feels better soon!",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you. I’ll call back once we’re back from the vet.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Sounds good. Take care and drive safely!",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6b78db39c0604ed287f9bccc",
+  "revision": "",
+  "status": "success"
+}
