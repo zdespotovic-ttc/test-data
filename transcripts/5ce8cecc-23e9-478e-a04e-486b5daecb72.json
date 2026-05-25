@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-554c790aef094dc2a8e50dd6",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946967992-1eb3f33b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-554c790aef094dc2a8e50dd6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 175,
+      "duration_ms": 175000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "554c790aef094dc2a8e50dd6",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-554c790aef094dc2a8e50dd6",
+      "media_name": "625062d415854af097d32b98e77fe167.mp3",
+      "scenario": "A VIP customer complains about the quality of the premium service they subscribed to and demands immediate improvements. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 175.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Patricia Wilson. I'm calling because I need to discuss some issues we've been having with the service. I’m sorry to hear that, Patricia. Can you tell me more about the issues you're experiencing? Well, my mother is supposed to receive post-surgery care after her hip replacement, but the quality of care has been inconsistent. I understand how important that is. Can you provide specific examples of the inconsistencies? Yes, sometimes the caregivers arrive late or don't seem to follow the care plan that was set up. It's very frustrating, especially with her recovery at stake. I sincerely apologize for that, Patricia. I assure you we take these concerns very seriously. I appreciate that, but we've been paying for the premium service, and we expect better quality. Absolutely, I completely understand. Let me ensure we address this right away. Thank you, I just want to make sure my mother is getting the care she needs during this critical recovery period. Of course. Would you like me to escalate this to our Client Services Manager, Angela Martinez? Yes, that would be helpful. I need to speak with someone who can make immediate changes. I’ll have Angela reach out to you today. Can I confirm your contact number as +13165558471? Yes, that's correct. Great. I will also personally follow up on the caregiver's attendance and adherence to the care plan. Thank you. I just want to be sure we're on the right path moving forward. I understand completely. Besides speaking with Angela, would you be interested in additional skilled nursing visits to enhance care? Possibly, if that would help ensure better quality. We can discuss that in detail during Angela's call. I think additional skilled visits could help with medication management and recovery. That sounds good. I appreciate your willingness to address this issue. Thank you for bringing this to my attention, Patricia. We will work hard to improve the service for your mother. Thank you, Margaret. I'll look out for Angela's call. You're welcome! Have a great day, and take care. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Patricia Wilson. I'm calling because I need to discuss some issues we've been having with the service.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Patricia. Can you tell me more about the issues you're experiencing?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my mother is supposed to receive post-surgery care after her hip replacement, but the quality of care has been inconsistent.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how important that is. Can you provide specific examples of the inconsistencies?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, sometimes the caregivers arrive late or don't seem to follow the care plan that was set up. It's very frustrating, especially with her recovery at stake.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I sincerely apologize for that, Patricia. I assure you we take these concerns very seriously.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that, but we've been paying for the premium service, and we expect better quality.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I completely understand. Let me ensure we address this right away.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, I just want to make sure my mother is getting the care she needs during this critical recovery period.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course. Would you like me to escalate this to our Client Services Manager, Angela Martinez?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be helpful. I need to speak with someone who can make immediate changes.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll have Angela reach out to you today. Can I confirm your contact number as +13165558471?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that's correct.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great. I will also personally follow up on the caregiver's attendance and adherence to the care plan.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. I just want to be sure we're on the right path moving forward.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand completely. Besides speaking with Angela, would you be interested in additional skilled nursing visits to enhance care?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Possibly, if that would help ensure better quality.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can discuss that in detail during Angela's call. I think additional skilled visits could help with medication management and recovery.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. I appreciate your willingness to address this issue.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you for bringing this to my attention, Patricia. We will work hard to improve the service for your mother.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 155,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I'll look out for Angela's call.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome! Have a great day, and take care.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-554c790aef094dc2a8e50dd6",
+  "revision": "",
+  "status": "success"
+}
