@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9392436e7686473eb56863ee",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968236-1eaf33d9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9392436e7686473eb56863ee",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "9392436e7686473eb56863ee",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9392436e7686473eb56863ee",
+      "media_name": "57ff587e39d04dfb966a711a5b046fa9.mp3",
+      "scenario": "A prospect requires urgent pest control services as a sudden infestation threatens the health of their family. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Charles Thompson. I need urgent help with something. Hi Charles, it’s good to hear from you. What seems to be the issue? Well, we’ve got a sudden pest infestation at home, and it’s really concerning for my family’s health. I’m really sorry to hear that. This sounds urgent. Are you looking for pest control services? Yes, exactly! I need someone to come out and take care of it as soon as possible. I understand. However, we don’t provide pest control services directly. Oh no, that’s frustrating. I thought you might assist with that. I completely understand your concern, Charles. What I can do is recommend a local pest control service. That would be great! I appreciate any help you can provide. I’ll get you that information. Just to clarify, do you need someone to come immediately? Yes, preferably today or tomorrow. This can’t wait. Absolutely, let me find a reliable service that can respond quickly. Thank you! I’m really worried about my kids and their health. It’s understandable. Keeping your family safe is a priority. Is there anything else you can do for me while I have you? Well, if you’re facing health concerns from this, we can offer post-surgical recovery care or a nurse consultation. I might need that too, given my recent surgery. How does that work? Our skilled nursing services include medication management and wound care, ranging from $95 to $125. That sounds reasonable. I might want to set that up after the pest issue is resolved. Certainly! Would you like me to put a note in the system for follow-up? Yes, please. I’d like to be contacted in a couple of days. Got it. I'll have Lisa reach out to you then. Thank you, Margaret. I appreciate your help! You’re welcome, Charles! I’ll send you the pest control info right away. Perfect, I’ll keep an eye out for it. Take care, and don’t hesitate to call back if you need anything else. I will. Thanks again! Goodbye! Goodbye, Charles!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I need urgent help with something.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Charles, it’s good to hear from you. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, we’ve got a sudden pest infestation at home, and it’s really concerning for my family’s health.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that. This sounds urgent. Are you looking for pest control services?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, exactly! I need someone to come out and take care of it as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. However, we don’t provide pest control services directly.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh no, that’s frustrating. I thought you might assist with that.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand your concern, Charles. What I can do is recommend a local pest control service.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great! I appreciate any help you can provide.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’ll get you that information. Just to clarify, do you need someone to come immediately?",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, preferably today or tomorrow. This can’t wait.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, let me find a reliable service that can respond quickly.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! I’m really worried about my kids and their health.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "It’s understandable. Keeping your family safe is a priority.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Is there anything else you can do for me while I have you?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Well, if you’re facing health concerns from this, we can offer post-surgical recovery care or a nurse consultation.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I might need that too, given my recent surgery. How does that work?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our skilled nursing services include medication management and wound care, ranging from $95 to $125.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds reasonable. I might want to set that up after the pest issue is resolved.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Certainly! Would you like me to put a note in the system for follow-up?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. I’d like to be contacted in a couple of days.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Got it. I'll have Lisa reach out to you then.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Charles! I’ll send you the pest control info right away.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect, I’ll keep an eye out for it.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Take care, and don’t hesitate to call back if you need anything else.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will. Thanks again! Goodbye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye, Charles!",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 125,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9392436e7686473eb56863ee",
+  "revision": "",
+  "status": "success"
+}
