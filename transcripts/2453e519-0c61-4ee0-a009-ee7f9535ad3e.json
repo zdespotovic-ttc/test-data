@@ -1,0 +1,325 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-fe21c00e5fd04175baf9ded9",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968303-76d5ec2c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-fe21c00e5fd04175baf9ded9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 190,
+      "duration_ms": 190000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "fe21c00e5fd04175baf9ded9",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-fe21c00e5fd04175baf9ded9",
+      "media_name": "f4f8e46d98e741099cee05f550ab1fc9.mp3",
+      "scenario": "A new customer wants to cancel their contract because their initial expectations were not met. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 190.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Robert Jackson. I’m calling to discuss my care services. Hi Robert, it’s great to hear from you. What can I assist you with? Well, I’ve been thinking about my care situation, and I’m considering canceling my contract. I’m sorry to hear that. Can you tell me what led you to this decision? Honestly, I feel like my initial expectations weren’t fully met. I expected more personalized attention. I understand. Can you elaborate on what specific expectations you had? I assumed I’d have more consistent visits and that caregivers would be more familiar with my needs. I appreciate your honesty, Robert. We strive for personalized care. Have there been any particular instances that stood out to you? Yes, there were times when caregivers seemed unsure about my specific requirements. I’m really sorry to hear that. We definitely want you to feel confident in your care. I just feel like I’m not getting what I signed up for. I'd like to gather more information so we can address these concerns. Can we schedule a follow-up meeting? I guess that would be okay, but I’m still leaning toward cancellation. Of course, I understand. It's important we find a solution that works for you. We can review your care plan and explore options for more personalized service. I’d appreciate that. What does that entail? We can have a Care Coordinator reach out to discuss a more tailored approach and potential caregiver matching. Okay, that sounds like a plan. Great! Would you prefer to keep the same schedule or look into adjustments? I think adjustments would be better, especially for familiarity. Understood. I’ll have our Care Coordinator, Lisa, call you. Would that work? Yes, please. Also, Robert, if you’re open to it, we can discuss additional supportive services we offer, like companionship care. You mean like just having someone there to talk to? Exactly! It could enhance your experience with us. That might help. I’ll ensure Lisa mentions this when she calls. Sounds good. Thank you, Robert. We really value your feedback and hope to improve your experience. I appreciate that, Margaret. Thank you for calling, and we’ll be in touch soon. Thanks, bye. Bye, take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I’m calling to discuss my care services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Robert, it’s great to hear from you. What can I assist you with?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’ve been thinking about my care situation, and I’m considering canceling my contract.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Can you tell me what led you to this decision?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Honestly, I feel like my initial expectations weren’t fully met. I expected more personalized attention.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. Can you elaborate on what specific expectations you had?",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I assumed I’d have more consistent visits and that caregivers would be more familiar with my needs.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I appreciate your honesty, Robert. We strive for personalized care. Have there been any particular instances that stood out to you?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, there were times when caregivers seemed unsure about my specific requirements.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m really sorry to hear that. We definitely want you to feel confident in your care.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I just feel like I’m not getting what I signed up for.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I'd like to gather more information so we can address these concerns. Can we schedule a follow-up meeting?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I guess that would be okay, but I’m still leaning toward cancellation.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, I understand. It's important we find a solution that works for you.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "We can review your care plan and explore options for more personalized service.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 94,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I’d appreciate that. What does that entail?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "We can have a Care Coordinator reach out to discuss a more tailored approach and potential caregiver matching.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 107,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Okay, that sounds like a plan.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Great! Would you prefer to keep the same schedule or look into adjustments?",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I think adjustments would be better, especially for familiarity.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 124,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Understood. I’ll have our Care Coordinator, Lisa, call you. Would that work?",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 130,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, please.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Also, Robert, if you’re open to it, we can discuss additional supportive services we offer, like companionship care.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You mean like just having someone there to talk to?",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 147,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Exactly! It could enhance your experience with us.",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 152,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "That might help.",
+          "speaker": "remote party",
+          "start_time": 152,
+          "end_time": 156,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "I’ll ensure Lisa mentions this when she calls.",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 160,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Sounds good.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Thank you, Robert. We really value your feedback and hope to improve your experience.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "I appreciate that, Margaret.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 176,
+          "channel": "right",
+          "id": 30
+        },
+        {
+          "text": "Thank you for calling, and we’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 176,
+          "end_time": 180,
+          "channel": "left",
+          "id": 31
+        },
+        {
+          "text": "Thanks, bye.",
+          "speaker": "remote party",
+          "start_time": 180,
+          "end_time": 186,
+          "channel": "right",
+          "id": 32
+        },
+        {
+          "text": "Bye, take care.",
+          "speaker": "local party",
+          "start_time": 186,
+          "end_time": 190,
+          "channel": "left",
+          "id": 33
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-fe21c00e5fd04175baf9ded9",
+  "revision": "",
+  "status": "success"
+}
