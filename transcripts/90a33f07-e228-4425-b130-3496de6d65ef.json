@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1601736fb7034f74aff57e22",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968242-c0dd7230",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1601736fb7034f74aff57e22",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "1601736fb7034f74aff57e22",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1601736fb7034f74aff57e22",
+      "media_name": "b0ce16f739094a388c6184cc87fc0f24.mp3",
+      "scenario": "A prospect is urgently looking for a locksmith to unlock their car. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi, Margaret! I really need help. My grandmother is locked out of her car, and I can’t find a locksmith. I’m sorry to hear that, Jennifer. That sounds urgent. But just to clarify, we provide home healthcare services. I understand, but I'm just really stressed! Can you recommend someone? Unfortunately, we don’t have locksmith services. I recommend searching for local locksmiths on your phone or online. I see. I was hoping you might know a service or have a contact. She’s really anxious. I completely understand. It’s tough when emergencies happen. Maybe there’s a local listing on your app? Yes, I can look that up. But while I have you, my grandmother also needs companion care and help with daily activities. We can definitely assist with that. We offer companion care starting at $25 per hour. That sounds good. What does that include exactly? Companion care includes social interaction, light housekeeping, meal preparation, and help with daily activities. That’s exactly what she needs. Can you tell me about scheduling? We can set up a schedule that works for you and your grandmother. Would you like to discuss specific days? Yes, that would be great. I think she might need someone every day for a few hours. We can accommodate that. I can connect you with our Care Coordinator, Lisa, for scheduling and planning. That sounds perfect. Can you give me her number? Sure, Lisa Chen is available at extension 203. Her direct number is +13165559203. Great! I’ll call her right after this. Is there anything else I should know? Just that we can also assist with medication management and skilled nursing if needed. That’s good to know. I’ll keep that in mind for later. Absolutely! I’m here to help. Would you like me to follow up with you after you speak with Lisa? Yes, please! That would be very helpful. Perfect, I’ll note that down. I’ll check back with you tomorrow. Thank you so much, Margaret. You've been really kind. You’re very welcome, Jennifer! Good luck with everything. Thanks! Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret! I really need help. My grandmother is locked out of her car, and I can’t find a locksmith.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Jennifer. That sounds urgent. But just to clarify, we provide home healthcare services.",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I understand, but I'm just really stressed! Can you recommend someone?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Unfortunately, we don’t have locksmith services. I recommend searching for local locksmiths on your phone or online.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I see. I was hoping you might know a service or have a contact. She’s really anxious.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand. It’s tough when emergencies happen. Maybe there’s a local listing on your app?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, I can look that up. But while I have you, my grandmother also needs companion care and help with daily activities.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We can definitely assist with that. We offer companion care starting at $25 per hour.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds good. What does that include exactly?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Companion care includes social interaction, light housekeeping, meal preparation, and help with daily activities.",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s exactly what she needs. Can you tell me about scheduling?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can set up a schedule that works for you and your grandmother. Would you like to discuss specific days?",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great. I think she might need someone every day for a few hours.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can accommodate that. I can connect you with our Care Coordinator, Lisa, for scheduling and planning.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds perfect. Can you give me her number?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure, Lisa Chen is available at extension 203. Her direct number is +13165559203.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great! I’ll call her right after this. Is there anything else I should know?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Just that we can also assist with medication management and skilled nursing if needed.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That’s good to know. I’ll keep that in mind for later.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely! I’m here to help. Would you like me to follow up with you after you speak with Lisa?",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please! That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect, I’ll note that down. I’ll check back with you tomorrow.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much, Margaret. You've been really kind.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, Jennifer! Good luck with everything.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks! Bye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1601736fb7034f74aff57e22",
+  "revision": "",
+  "status": "success"
+}
