@@ -1,0 +1,389 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9a3a66f5c41840cbb963c36f",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968258-9014016a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9a3a66f5c41840cbb963c36f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 184,
+      "duration_ms": 184000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "9a3a66f5c41840cbb963c36f",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9a3a66f5c41840cbb963c36f",
+      "media_name": "174b8351093d46f2acc318b30c2c240f.mp3",
+      "scenario": "A VIP client urgently requires additional IT support for a critical system failure. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 184.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, my name is Jennifer Taylor. I found your number online. Hi, Jennifer! What can I assist you with today? I need companion care for my elderly grandmother. Of course. Can you tell me a bit more about what services she needs? She needs help with daily activities and companionship. Absolutely, we provide personal care assistance and companion care for those needs. That sounds great. What are your rates for that? Our companion care services range from $25 to $30 per hour. Okay, how do I get started with that? I can help you with that. I’ll need to gather some information about your grandmother and her needs. Sure, what do you need from me? Can you provide her medical history and any specific assistance she requires? Yes, I can prepare that. Will you send someone to assess her needs? Yes, we offer a care plan development service to tailor our support. Sounds good, when could someone come out? I can schedule an assessment as early as tomorrow. How does that work for you? Tomorrow works. What time? We have availability at 10 AM or 2 PM. Let’s go with 10 AM. Great! I’ll confirm that with you. Just a moment, please. Oh, excuse me, I need to take this. CareFirst, how can I assist you? Yes, I understand it's urgent. I will escalate it right away. Please hold for just a moment. Thank you for your patience. I’m back! Sorry about that. No problem! Is everything okay? Yes, just a VIP client needed urgent IT support. Now, about your grandmother... I hope everything gets resolved! Thank you! I appreciate your understanding. I’ll also send you some information about our services via email. That would be great, thank you! Can I have your email address, please? It's jennifertaylor@email.com. Perfect! I’ll send that over shortly. Is there anything else I can assist you with right now? No, that covers it for now. Great! I look forward to speaking with you tomorrow. Thank you for your help! You’re welcome, have a wonderful day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Jennifer Taylor. I found your number online.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Jennifer! What can I assist you with today?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I need companion care for my elderly grandmother.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course. Can you tell me a bit more about what services she needs?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "She needs help with daily activities and companionship.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, we provide personal care assistance and companion care for those needs.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 28,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds great. What are your rates for that?",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our companion care services range from $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, how do I get started with that?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can help you with that. I’ll need to gather some information about your grandmother and her needs.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, what do you need from me?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Can you provide her medical history and any specific assistance she requires?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I can prepare that. Will you send someone to assess her needs?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we offer a care plan development service to tailor our support.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds good, when could someone come out?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can schedule an assessment as early as tomorrow. How does that work for you?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Tomorrow works. What time?",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We have availability at 10 AM or 2 PM.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Let’s go with 10 AM.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 82,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll confirm that with you. Just a moment, please.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Oh, excuse me, I need to take this.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "CareFirst, how can I assist you?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, I understand it's urgent. I will escalate it right away.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Please hold for just a moment.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you for your patience. I’m back! Sorry about that.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "No problem! Is everything okay?",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Yes, just a VIP client needed urgent IT support. Now, about your grandmother...",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "I hope everything gets resolved!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Thank you! I appreciate your understanding.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "I’ll also send you some information about our services via email.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "That would be great, thank you!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Can I have your email address, please?",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 147,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "It's jennifertaylor@email.com.",
+          "speaker": "remote party",
+          "start_time": 147,
+          "end_time": 151,
+          "channel": "right",
+          "id": 33
+        },
+        {
+          "text": "Perfect! I’ll send that over shortly.",
+          "speaker": "local party",
+          "start_time": 151,
+          "end_time": 155,
+          "channel": "left",
+          "id": 34
+        },
+        {
+          "text": "Is there anything else I can assist you with right now?",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 35
+        },
+        {
+          "text": "No, that covers it for now.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 164,
+          "channel": "right",
+          "id": 36
+        },
+        {
+          "text": "Great! I look forward to speaking with you tomorrow.",
+          "speaker": "local party",
+          "start_time": 164,
+          "end_time": 168,
+          "channel": "left",
+          "id": 37
+        },
+        {
+          "text": "Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 168,
+          "end_time": 172,
+          "channel": "right",
+          "id": 38
+        },
+        {
+          "text": "You’re welcome, have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 172,
+          "end_time": 175,
+          "channel": "left",
+          "id": 39
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "right",
+          "id": 40
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 184,
+          "channel": "left",
+          "id": 41
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9a3a66f5c41840cbb963c36f",
+  "revision": "",
+  "status": "success"
+}
