@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b207200781ad43ee871c3bcb",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968260-1c5328d2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b207200781ad43ee871c3bcb",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 180,
+      "duration_ms": 180000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "b207200781ad43ee871c3bcb",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b207200781ad43ee871c3bcb",
+      "media_name": "a77b7db945494a29ad6c4349c6b0c3db.mp3",
+      "scenario": "A new customer calls to cancel their membership due to dissatisfaction with customer service and requests to ensure there are no cancellation fees. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 180.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Thomas White. I'm calling to cancel my mother’s membership. I'm sorry to hear that, Thomas. May I ask what prompted your decision? Honestly, we've been unhappy with the customer service lately. It’s been really frustrating. I understand, and I truly apologize for your experience. Your feedback is important to us. I just want to ensure that there are no cancellation fees involved. There are no cancellation fees for your membership. I can process that for you right now. That’s good to know. I just feel like we didn’t get the support we needed for my mother’s Alzheimer’s care. I'm really sorry to hear that. Can you share more about the issues you faced? It was mainly the responsiveness of the caregivers. There were delays, and it just created more stress. I completely understand how critical timely support is in such situations. Exactly. I just wish it had gone better. I’d like to follow up on this. Can I take your feedback to improve our services? Sure, that would be helpful. Thank you. Additionally, would you be open to discussing specialized dementia care or respite services? I’m not sure. I just want to cancel for now. I understand. If you decide in the future, our dementia care is tailored for clients like your mother, at $32-$40 per hour. I appreciate that, but I just need to cancel for the moment. Absolutely, I’ll proceed with the cancellation. Can I confirm your mother’s name and the services she was receiving? Yes, her name is Helen White, and she was getting dementia care and personal assistance. Thank you, Thomas. I’ll make sure the cancellation is processed today. Thank you. You're welcome. I will also send you a confirmation email for your records. That sounds good. If you have any further questions, don’t hesitate to reach out. I appreciate your help, Margaret. Thank you for calling, Thomas. Take care. Bye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Thomas White. I'm calling to cancel my mother’s membership.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Thomas. May I ask what prompted your decision?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 16,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Honestly, we've been unhappy with the customer service lately. It’s been really frustrating.",
+          "speaker": "remote party",
+          "start_time": 16,
+          "end_time": 24,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, and I truly apologize for your experience. Your feedback is important to us.",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I just want to ensure that there are no cancellation fees involved.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "There are no cancellation fees for your membership. I can process that for you right now.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That’s good to know. I just feel like we didn’t get the support we needed for my mother’s Alzheimer’s care.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 49,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I'm really sorry to hear that. Can you share more about the issues you faced?",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 56,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It was mainly the responsiveness of the caregivers. There were delays, and it just created more stress.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand how critical timely support is in such situations.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Exactly. I just wish it had gone better.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’d like to follow up on this. Can I take your feedback to improve our services?",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sure, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you. Additionally, would you be open to discussing specialized dementia care or respite services?",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I’m not sure. I just want to cancel for now.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 101,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand. If you decide in the future, our dementia care is tailored for clients like your mother, at $32-$40 per hour.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 109,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I appreciate that, but I just need to cancel for the moment.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 116,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I’ll proceed with the cancellation. Can I confirm your mother’s name and the services she was receiving?",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 123,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, her name is Helen White, and she was getting dementia care and personal assistance.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 131,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Thomas. I’ll make sure the cancellation is processed today.",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 138,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome. I will also send you a confirmation email for your records.",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds good.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 156,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "If you have any further questions, don’t hesitate to reach out.",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 160,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for calling, Thomas. Take care.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b207200781ad43ee871c3bcb",
+  "revision": "",
+  "status": "success"
+}
