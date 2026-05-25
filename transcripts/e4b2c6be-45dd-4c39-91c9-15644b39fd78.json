@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a82d6410171b4f02ae35c108",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968036-0f898b91",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a82d6410171b4f02ae35c108",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "a82d6410171b4f02ae35c108",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a82d6410171b4f02ae35c108",
+      "media_name": "cf7fa7007a7c4a56bb040cc625342b25.mp3",
+      "scenario": "A returning customer disputes a billing error on their latest invoice, claiming they were overcharged for services not rendered. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Mary O'Connor. I'm calling about a billing issue I noticed on my latest invoice. Hi Mary, I’m glad you called. What seems to be the problem with the invoice? Well, I was charged for services I didn’t receive. I’ve been on IV therapy, but there’s an extra two hours billed for personal care that didn’t happen. I’m sorry to hear that, Mary. Let’s take a look at the details. Can you hold for just a moment? Sure, no problem. Thank you for your patience. I see that the invoice does show two hours of personal care charged on the date of your last visit. When was that? That was yesterday, and I only had the IV therapy. No personal care was provided. I understand. I’ll need to verify this with the caregiver who visited. Would you prefer I call you back or send an email once I have the information? An email would be great. I’d like to have a record of it. Absolutely, I can do that. I’ll also check if there were any notes about why the charge was added. Thank you, I appreciate it. I just want to make sure I’m not overcharged. Of course, Mary. It’s important to us that you feel confident in your billing. Is there anything else I can help you with today? Well, I’ve been feeling anxious about the IV therapy lately. If there’s a way to have a caregiver who can reassure me, that would be helpful. I can definitely note that in your file for future visits. Would you like me to arrange for a specific caregiver? Yes, that would really help. Maybe someone who’s worked with me before? I can look for someone familiar with your case. Let me check our records. Thank you, that would make me feel a lot better. Alright, I’ll follow up with you about the billing and the caregiver preferences. Expect to hear from me soon via email. Great! I appreciate your help, Margaret. You're welcome, Mary! Thank you for being a valued client. Have a good day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mary O'Connor. I'm calling about a billing issue I noticed on my latest invoice.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Mary, I’m glad you called. What seems to be the problem with the invoice?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was charged for services I didn’t receive. I’ve been on IV therapy, but there’s an extra two hours billed for personal care that didn’t happen.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that, Mary. Let’s take a look at the details. Can you hold for just a moment?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, no problem.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience. I see that the invoice does show two hours of personal care charged on the date of your last visit. When was that?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 55,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That was yesterday, and I only had the IV therapy. No personal care was provided.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand. I’ll need to verify this with the caregiver who visited. Would you prefer I call you back or send an email once I have the information?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 70,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "An email would be great. I’d like to have a record of it.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I can do that. I’ll also check if there were any notes about why the charge was added.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I appreciate it. I just want to make sure I’m not overcharged.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 90,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course, Mary. It’s important to us that you feel confident in your billing. Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 98,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Well, I’ve been feeling anxious about the IV therapy lately. If there’s a way to have a caregiver who can reassure me, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can definitely note that in your file for future visits. Would you like me to arrange for a specific caregiver?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would really help. Maybe someone who’s worked with me before?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 120,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can look for someone familiar with your case. Let me check our records.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, that would make me feel a lot better.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Alright, I’ll follow up with you about the billing and the caregiver preferences. Expect to hear from me soon via email.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great! I appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, Mary! Thank you for being a valued client.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Have a good day!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 163,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a82d6410171b4f02ae35c108",
+  "revision": "",
+  "status": "success"
+}
