@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b0a30ab195cd439e8e514f03",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946967960-5b1ee2a2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b0a30ab195cd439e8e514f03",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "b0a30ab195cd439e8e514f03",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b0a30ab195cd439e8e514f03",
+      "media_name": "c7276d784d0c4b2d9b2e64dc78cf5379.mp3",
+      "scenario": "A returning customer reports a decline in the quality of the monthly pool maintenance service, noting several issues left unresolved. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Michael Brown. I'm calling about my father’s care. Hi, Michael. It's nice to hear from you. What can I help you with regarding your father's care? Well, I've noticed a decline in the quality of the wound care and medication management services. I’m really sorry to hear that. Can you tell me a bit more about the issues you’re experiencing? Sure. The wound care hasn’t been done properly lately. There are still signs of infection, and the medication reminders have been inconsistent. That sounds concerning, Michael. It’s important that we address these issues right away. Yes, it is. I just want to make sure my father is getting the care he needs. Absolutely. I’ll make sure to escalate this to our nursing team immediately. Would you like me to schedule a follow-up visit? Yes, that would be great. When can someone come out? I can have one of our skilled nurses come by as early as tomorrow. Does that work for you? Tomorrow works. Can you ensure they address both the wound care and medication management? Yes, I’ll make a note to have them focus on both areas. Thank you. I appreciate that. I’ll also follow up with our medication management team to ensure reminders are timely. That sounds good. I just want to avoid any further complications. Of course. Your father's health is our priority. Would you like to discuss additional services that might help? Like what? We offer comprehensive diabetes management services, which include blood sugar monitoring and education. That could be helpful. Can you provide more details? Sure! It’s priced at $70 to $85 for a 45-60 minute session. I’ll think about that. Right now, I just want to make sure the current issues are resolved first. I completely understand. I’ll ensure our team prioritizes your father's care. Thank you, Margaret. I appreciate your help. You're welcome, Michael. I’ll be in touch after tomorrow’s visit. Sounds good. Have a great day. You too! Goodbye. Bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Michael Brown. I'm calling about my father’s care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Michael. It's nice to hear from you. What can I help you with regarding your father's care?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I've noticed a decline in the quality of the wound care and medication management services.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 21,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that. Can you tell me a bit more about the issues you’re experiencing?",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure. The wound care hasn’t been done properly lately. There are still signs of infection, and the medication reminders have been inconsistent.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds concerning, Michael. It’s important that we address these issues right away.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, it is. I just want to make sure my father is getting the care he needs.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely. I’ll make sure to escalate this to our nursing team immediately. Would you like me to schedule a follow-up visit?",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 51,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be great. When can someone come out?",
+          "speaker": "remote party",
+          "start_time": 51,
+          "end_time": 57,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can have one of our skilled nurses come by as early as tomorrow. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 63,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Tomorrow works. Can you ensure they address both the wound care and medication management?",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, I’ll make a note to have them focus on both areas.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you. I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll also follow up with our medication management team to ensure reminders are timely.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good. I just want to avoid any further complications.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course. Your father's health is our priority. Would you like to discuss additional services that might help?",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 93,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Like what?",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We offer comprehensive diabetes management services, which include blood sugar monitoring and education.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That could be helpful. Can you provide more details?",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 113,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Sure! It’s priced at $70 to $85 for a 45-60 minute session.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I’ll think about that. Right now, I just want to make sure the current issues are resolved first.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I completely understand. I’ll ensure our team prioritizes your father's care.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Michael. I’ll be in touch after tomorrow’s visit.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 139,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds good. Have a great day.",
+          "speaker": "remote party",
+          "start_time": 139,
+          "end_time": 143,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 147,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b0a30ab195cd439e8e514f03",
+  "revision": "",
+  "status": "success"
+}
