@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-da2de44e701542289e08a566",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946967989-bdea22cd",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-da2de44e701542289e08a566",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "da2de44e701542289e08a566",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-da2de44e701542289e08a566",
+      "media_name": "cf3c3a44b9154a6f833b2f8dc97e0af7.mp3",
+      "scenario": "A VIP customer calls to complain about the quality of the catering service at their recent event, citing cold and improperly prepared food. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Eleanor Watson. I'm calling because I have a concern regarding the quality of care lately. I'm sorry to hear that, Eleanor. Could you please provide me with more details? Well, I noticed that the skilled nursing care and physical therapy were not as thorough as usual during my last visit. I appreciate you bringing this to my attention. When did you last receive care? It was just three days ago, and I felt the therapy session didn't meet the standards we've had before. I understand your concern. Can you elaborate on what specifically felt lacking? The therapist seemed rushed, and I didn't get the proper exercises I usually do. It's important for my recovery. I'm very sorry to hear that, Eleanor. Your recovery is our top priority. I'll make sure we address this. Thank you. I just want to ensure that I'm receiving the best care possible. Absolutely. I will speak with the therapist and the nursing staff to ensure we meet your needs better moving forward. I’d appreciate that. Also, my daughter mentioned we might need more frequent visits. We can certainly discuss increasing the frequency. Would you like me to connect you with Lisa, our Care Coordinator? Yes, that would be great. I think she can help with that. I’ll have her give you a call today. Is there a good time for her to reach you? Between 10 AM and 2 PM is perfect since that’s when I’m usually available. Great, I'll let Lisa know to call you during that window. Thank you so much, Margaret. I really appreciate your help. It’s my pleasure, Eleanor. And once again, I apologize for the recent service issues. I hope it can be resolved quickly. I’m looking forward to better care. We will make sure to improve. Thank you for your understanding, Eleanor! You're welcome. Have a good day! You too! Goodbye. (Note to self: Follow up with the therapy team and coordinate with Lisa for Eleanor's care plan.)",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I'm calling because I have a concern regarding the quality of care lately.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Eleanor. Could you please provide me with more details?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed that the skilled nursing care and physical therapy were not as thorough as usual during my last visit.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I appreciate you bringing this to my attention. When did you last receive care?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was just three days ago, and I felt the therapy session didn't meet the standards we've had before.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. Can you elaborate on what specifically felt lacking?",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "The therapist seemed rushed, and I didn't get the proper exercises I usually do. It's important for my recovery.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I'm very sorry to hear that, Eleanor. Your recovery is our top priority. I'll make sure we address this.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you. I just want to ensure that I'm receiving the best care possible.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely. I will speak with the therapist and the nursing staff to ensure we meet your needs better moving forward.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I’d appreciate that. Also, my daughter mentioned we might need more frequent visits.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can certainly discuss increasing the frequency. Would you like me to connect you with Lisa, our Care Coordinator?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great. I think she can help with that.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll have her give you a call today. Is there a good time for her to reach you?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Between 10 AM and 2 PM is perfect since that’s when I’m usually available.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great, I'll let Lisa know to call you during that window.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It’s my pleasure, Eleanor. And once again, I apologize for the recent service issues.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I hope it can be resolved quickly. I’m looking forward to better care.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We will make sure to improve. Thank you for your understanding, Eleanor!",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You're welcome. Have a good day!",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "(Note to self: Follow up with the therapy team and coordinate with Lisa for Eleanor's care plan.)",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-da2de44e701542289e08a566",
+  "revision": "",
+  "status": "success"
+}
