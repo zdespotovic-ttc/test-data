@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-22T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-72cf0ae5d1b446adb694a3c2",
+    "created": 1779433200,
+    "modified": 1779433200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946968110-b4f8495f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-72cf0ae5d1b446adb694a3c2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946652400,
+      "call_id": "72cf0ae5d1b446adb694a3c2",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-72cf0ae5d1b446adb694a3c2",
+      "media_name": "ffd661cad3034341a0ec364adc709c66.mp3",
+      "scenario": "A new customer reaches out to settle a billing error where they were charged for services not rendered. Category: Billing. Flags: billing_dispute. Customer type: new_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, this is Mary O'Connor. I need to discuss a billing issue I encountered. I’m sorry to hear that, Mary. Can you tell me more about the issue? Yes, I was charged for services I didn’t receive last week, and it's causing me some anxiety. I understand how concerning that can be. Let me look into that for you. Thank you, I appreciate it. It was for the IV therapy. Okay, just a moment while I pull up your account information. I see here that you were scheduled for IV therapy, but it appears there was a system error that charged you for a missed appointment. That’s frustrating. I thought everything was in order after my visit yesterday. I’m really sorry for the confusion. We’ll certainly resolve this. What steps do we need to take? First, I’ll make a note for our billing department to reverse that charge. Great, how long will that take? Usually, it takes about 3-5 business days to process. Okay, I can wait for that. Is there anything else I need to do? Just to confirm your account details, can you verify your address and phone number? Sure, it’s 123 Maple Street, Wichita, and my number is +13165556789. Thank you! Also, I see you’ve been a long-term client. Would you be interested in our companion care services for additional support? Companion care? What does that involve? It’s for social interaction, light housekeeping, and meal prep. It could ease some of your daily stress. That sounds helpful. What’s the cost? It’s $25 to $30 per hour. Would you like me to set up an appointment to discuss this further? Yes, I’d be interested in that. Great! I’ll have our Care Coordinator, Lisa, reach out to you. Perfect, thank you! You’re welcome, Mary. I’ll follow up on the billing issue and the companion care. Sounds good. I appreciate your help! Thank you for calling CareFirst Home Health. Have a great day! You too, goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Mary O'Connor. I need to discuss a billing issue I encountered.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Mary. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I was charged for services I didn’t receive last week, and it's causing me some anxiety.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that can be. Let me look into that for you.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I appreciate it. It was for the IV therapy.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Okay, just a moment while I pull up your account information.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I see here that you were scheduled for IV therapy, but it appears there was a system error that charged you for a missed appointment.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That’s frustrating. I thought everything was in order after my visit yesterday.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I’m really sorry for the confusion. We’ll certainly resolve this.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "What steps do we need to take?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "First, I’ll make a note for our billing department to reverse that charge.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 66,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Great, how long will that take?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Usually, it takes about 3-5 business days to process.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Okay, I can wait for that. Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Just to confirm your account details, can you verify your address and phone number?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Sure, it’s 123 Maple Street, Wichita, and my number is +13165556789.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 92,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Thank you! Also, I see you’ve been a long-term client. Would you be interested in our companion care services for additional support?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Companion care? What does that involve?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 105,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "It’s for social interaction, light housekeeping, and meal prep. It could ease some of your daily stress.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That sounds helpful. What’s the cost?",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "It’s $25 to $30 per hour. Would you like me to set up an appointment to discuss this further?",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, I’d be interested in that.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Great! I’ll have our Care Coordinator, Lisa, reach out to you.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 134,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome, Mary. I’ll follow up on the billing issue and the companion care.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Sounds good. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 144,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 148,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 148,
+          "end_time": 150,
+          "channel": "right",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-72cf0ae5d1b446adb694a3c2",
+  "revision": "",
+  "status": "success"
+}
