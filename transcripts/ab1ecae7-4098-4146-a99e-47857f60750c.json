@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a25070664d044be396365ca8",
+    "created": 1779692400,
+    "modified": 1779692400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946992147-3e888337",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a25070664d044be396365ca8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 116,
+      "duration_ms": 116000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946911600,
+      "call_id": "a25070664d044be396365ca8",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a25070664d044be396365ca8",
+      "media_name": "c10912b4d8684942bd2a2249ff6581f1.mp3",
+      "scenario": "A potential client calls to ask about the qualifications of the physical therapists available at the clinic. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 116.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Betty Lou Smith. I'm calling to ask about the physical therapists you have available. Hi Betty, it’s great to hear from you! I can definitely provide you with that information. Thank you. I'm interested in their qualifications and specialties. Our physical therapist, Dr. James Rodriguez, specializes in post-surgery rehabilitation, fall prevention, and mobility training. That sounds good. What kind of qualifications does he have? Dr. Rodriguez is a licensed physical therapist with over 10 years of experience in home health care. Wow, that’s impressive! Does he have experience with clients who have had multiple falls? Yes, he has extensive experience in fall prevention and has worked with many clients in similar situations. That’s reassuring. How does the scheduling work for sessions with him? Dr. Rodriguez is available Monday through Friday, and sessions can be scheduled based on your needs. Great! How long is each session, and what’s the cost? Each session typically lasts 45 to 60 minutes, and the cost ranges from $110 to $140 per visit. Okay, that sounds reasonable. Do you accept insurance? Yes, we do accept various insurances, and I can help you with the authorization process. That would be helpful. Can you tell me how I can get started with this? Sure! I can connect you with our care coordinator, Lisa Chen, to handle the intake process. Perfect! What’s her extension? Lisa’s extension is 203. She’s available Monday through Saturday. Thank you, Margaret. I’ll reach out to her. You’re welcome! Would you like me to note down your interest for follow-up? Yes, please. I’d appreciate a follow-up call after I speak with Lisa. Absolutely! I’ll make a note to follow up with you in a couple of days. Thank you so much. I feel much more informed now! It’s my pleasure, Betty. If you have any other questions, don’t hesitate to call. I will! Have a great day. You too! Bye now.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I'm calling to ask about the physical therapists you have available.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty, it’s great to hear from you! I can definitely provide you with that information.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Thank you. I'm interested in their qualifications and specialties.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Our physical therapist, Dr. James Rodriguez, specializes in post-surgery rehabilitation, fall prevention, and mobility training.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. What kind of qualifications does he have?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Dr. Rodriguez is a licensed physical therapist with over 10 years of experience in home health care.",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Wow, that’s impressive! Does he have experience with clients who have had multiple falls?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, he has extensive experience in fall prevention and has worked with many clients in similar situations.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s reassuring. How does the scheduling work for sessions with him?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Dr. Rodriguez is available Monday through Friday, and sessions can be scheduled based on your needs.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great! How long is each session, and what’s the cost?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Each session typically lasts 45 to 60 minutes, and the cost ranges from $110 to $140 per visit.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, that sounds reasonable. Do you accept insurance?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we do accept various insurances, and I can help you with the authorization process.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be helpful. Can you tell me how I can get started with this?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure! I can connect you with our care coordinator, Lisa Chen, to handle the intake process.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect! What’s her extension?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Lisa’s extension is 203. She’s available Monday through Saturday.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I’ll reach out to her.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! Would you like me to note down your interest for follow-up?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. I’d appreciate a follow-up call after I speak with Lisa.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! I’ll make a note to follow up with you in a couple of days.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much. I feel much more informed now!",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure, Betty. If you have any other questions, don’t hesitate to call.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will! Have a great day.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Bye now.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 116,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a25070664d044be396365ca8",
+  "revision": "",
+  "status": "success"
+}
