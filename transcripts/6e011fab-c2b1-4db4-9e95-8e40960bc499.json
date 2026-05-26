@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-359ff9f2b70743bf80aaa797",
+    "created": 1779692400,
+    "modified": 1779692400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946992067-f92a70c2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-359ff9f2b70743bf80aaa797",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 129,
+      "duration_ms": 129000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946911600,
+      "call_id": "359ff9f2b70743bf80aaa797",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-359ff9f2b70743bf80aaa797",
+      "media_name": "79fb86064cba4d59b5232f3b505008ff.mp3",
+      "scenario": "A new customer wants to schedule an appointment for a nutritional counseling session. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 129.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Jennifer Taylor, and I'm looking for some care for my elderly grandmother. Hi, Jennifer! We’d be happy to help. What specific services are you interested in? She's in need of companion care and help with daily activities. That sounds great. We offer companion care services to assist with daily living activities. That’s perfect. Can you tell me more about the pricing for companion care? Absolutely! Our companion care services are priced at $25 to $30 per hour. Okay, that sounds reasonable. How do I schedule an appointment? I can help with that. What day and time would work best for you and your grandmother? How about this Friday? We are generally free in the morning. Let me check… Yes, we have availability this Friday morning. What time were you thinking? Would 10 AM work for you? Yes, 10 AM is perfect. I’ll book that for you. Great! Is there anything else I need to prepare? Just have your grandmother ready, and if there are any specific needs or preferences, please let us know. Got it, I will. Do you offer any additional services we might consider? Yes, we also provide personal care assistance, medication management, and even post-surgery recovery care if needed. That’s interesting! I might want to discuss medication management later on. Absolutely, I can provide you with details on that at our appointment. Thank you. So just to confirm, we’re set for this Friday at 10 AM for companion care? Yes, that's all booked! You’ll receive a confirmation call the day before. Thank you, Margaret. I really appreciate your help! You’re welcome, Jennifer! We look forward to meeting you and your grandmother. Have a great day! You too! Bye now.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Jennifer Taylor, and I'm looking for some care for my elderly grandmother.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Jennifer! We’d be happy to help. What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She's in need of companion care and help with daily activities.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds great. We offer companion care services to assist with daily living activities.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That’s perfect. Can you tell me more about the pricing for companion care?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! Our companion care services are priced at $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that sounds reasonable. How do I schedule an appointment?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I can help with that. What day and time would work best for you and your grandmother?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "How about this Friday? We are generally free in the morning.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check… Yes, we have availability this Friday morning. What time were you thinking?",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 59,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Would 10 AM work for you?",
+          "speaker": "remote party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, 10 AM is perfect. I’ll book that for you.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great! Is there anything else I need to prepare?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Just have your grandmother ready, and if there are any specific needs or preferences, please let us know.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Got it, I will. Do you offer any additional services we might consider?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we also provide personal care assistance, medication management, and even post-surgery recovery care if needed.",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 92,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That’s interesting! I might want to discuss medication management later on.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I can provide you with details on that at our appointment.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you. So just to confirm, we’re set for this Friday at 10 AM for companion care?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, that's all booked! You’ll receive a confirmation call the day before.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Jennifer! We look forward to meeting you and your grandmother.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Have a great day!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too! Bye now.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 129,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-359ff9f2b70743bf80aaa797",
+  "revision": "",
+  "status": "success"
+}
