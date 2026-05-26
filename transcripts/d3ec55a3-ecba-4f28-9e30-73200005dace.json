@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9f1f330dfdd14968b43a2455",
+    "created": 1779692400,
+    "modified": 1779692400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946992107-480dd658",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9f1f330dfdd14968b43a2455",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946911600,
+      "call_id": "9f1f330dfdd14968b43a2455",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9f1f330dfdd14968b43a2455",
+      "media_name": "78a6a2df29ec45228d4f87063568daac.mp3",
+      "scenario": "A customer expresses dissatisfaction with the cleanliness of the facility during their last visit. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, my name is David Anderson. I'm calling about my wife who needs care after her stroke. Hi David, I’m glad you called. I’m here to assist you. Can you tell me a bit more about her needs? Yes, she needs both physical therapy and some nursing care. However, I also have a concern about the service we received during our last visit. I’m sorry to hear that. Can you share what your concern was regarding the service? Well, I wasn't happy with the cleanliness of the facility when we arrived. It didn't seem up to standard. I apologize for that experience, David. Cleanliness is very important to us. Can you elaborate on what you noticed? There were some areas that clearly needed attention, like the waiting area and some equipment that looked unclean. It made me uncomfortable. I completely understand your concerns. Thank you for bringing it to my attention. We take such feedback seriously. I appreciate that, but I want to know what steps are being taken to address these issues. I will escalate this matter to our management team and ensure they look into it. Do you mind if I follow up with you after they review it? That would be great, thank you. I just want to make sure this doesn’t happen again. Absolutely, I’ll make sure to keep you updated. Now, regarding your wife's care needs—when is she scheduled for therapy? We haven’t set anything up yet. I was hoping to get some guidance on that. I can help you with that. Our physical therapy sessions are priced between $110 and $140 and focus on mobility improvement. Would you like to schedule an initial evaluation? Yes, definitely. I think she could start as soon as possible. Great! I’ll need to coordinate with our physical therapist, Dr. James Rodriguez. He can start next week if that works for you. That sounds perfect. What about nursing care? Our skilled nursing care ranges from $95 to $125. We can provide medication management and post-surgical support. Would you like that? Yes, I think that would be very helpful. I’ll set up an initial plan for both services, and we can adjust as needed. Thank you, Margaret. I appreciate your help today. You're welcome, David! I’ll follow up regarding the facility cleanliness and your wife's care. Sounds good. I look forward to hearing back from you. Thank you for your understanding, and we’ll talk soon. Have a great day! You too, Margaret. Bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is David Anderson. I'm calling about my wife who needs care after her stroke.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi David, I’m glad you called. I’m here to assist you. Can you tell me a bit more about her needs?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, she needs both physical therapy and some nursing care. However, I also have a concern about the service we received during our last visit.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Can you share what your concern was regarding the service?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Well, I wasn't happy with the cleanliness of the facility when we arrived. It didn't seem up to standard.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I apologize for that experience, David. Cleanliness is very important to us. Can you elaborate on what you noticed?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "There were some areas that clearly needed attention, like the waiting area and some equipment that looked unclean. It made me uncomfortable.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand your concerns. Thank you for bringing it to my attention. We take such feedback seriously.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that, but I want to know what steps are being taken to address these issues.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I will escalate this matter to our management team and ensure they look into it. Do you mind if I follow up with you after they review it?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great, thank you. I just want to make sure this doesn’t happen again.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, I’ll make sure to keep you updated. Now, regarding your wife's care needs—when is she scheduled for therapy?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "We haven’t set anything up yet. I was hoping to get some guidance on that.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can help you with that. Our physical therapy sessions are priced between $110 and $140 and focus on mobility improvement. Would you like to schedule an initial evaluation?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, definitely. I think she could start as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll need to coordinate with our physical therapist, Dr. James Rodriguez. He can start next week if that works for you.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds perfect. What about nursing care?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our skilled nursing care ranges from $95 to $125. We can provide medication management and post-surgical support. Would you like that?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, I think that would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll set up an initial plan for both services, and we can adjust as needed.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, David! I’ll follow up regarding the facility cleanliness and your wife's care.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. I look forward to hearing back from you.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your understanding, and we’ll talk soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, Margaret. Bye.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9f1f330dfdd14968b43a2455",
+  "revision": "",
+  "status": "success"
+}
