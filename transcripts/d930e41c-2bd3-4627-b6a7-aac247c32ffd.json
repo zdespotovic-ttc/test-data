@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f9e2933d47a9431a823d2a22",
+    "created": 1779692400,
+    "modified": 1779692400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946992093-b3313a52",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f9e2933d47a9431a823d2a22",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946911600,
+      "call_id": "f9e2933d47a9431a823d2a22",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f9e2933d47a9431a823d2a22",
+      "media_name": "9d33f3d0763b423daa7f76b0a49fb8be.mp3",
+      "scenario": "A client calls to report that the equipment used during their session seemed unclean and below standard. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Betty Lou Smith. I’m calling about a concern I have regarding my last visit. Hi Betty, it's good to hear from you! What seems to be the issue? Well, during my last session, I noticed that the equipment used for my mobility assistance seemed unclean. I’m really sorry to hear that. We strive for high standards, and your feedback is important. Can you tell me more about what you saw? It looked like there was some residue on the equipment. I felt it was not up to the standards I expected. I completely understand your concern, Betty. Health and safety are our top priorities. Yes, and I appreciate that. I just want to make sure that this doesn’t happen again. Absolutely. I’ll make sure to address this with our team immediately. Can I get the date of your last visit? It was four days ago, on Tuesday. Thank you for that. I’ll follow up with the staff who were present during your session. Okay, I hope this gets handled quickly. I rely on the equipment being clean for my safety. Of course, Betty. We take these matters very seriously. Would you like me to arrange for a follow-up visit? Yes, I would appreciate that. I want to ensure everything is up to standard. Alright, I can schedule a follow-up visit with Robert this week. Would Thursday at 10 AM work for you? Yes, that works perfectly for me. Great! I’ll also ensure that he checks all the equipment thoroughly. Thank you, Margaret. I feel better knowing that you’re taking this seriously. It’s my pleasure, Betty. I also wanted to mention that we offer additional services like housekeeping, which could help with your living situation. Oh, I hadn’t considered that. Can you tell me more about it? Sure! Our Companion Care service includes light housekeeping and meal preparation. It’s $25 to $30 per hour. That sounds interesting. I’ll think about it and let you know. Perfect! I’ll add that to our follow-up notes. Your satisfaction is our priority. Thank you, Margaret. I really appreciate your help today. You’re welcome, Betty! If you have any further concerns, don’t hesitate to call. I will, thank you. Have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I’m calling about a concern I have regarding my last visit.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty, it's good to hear from you! What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, during my last session, I noticed that the equipment used for my mobility assistance seemed unclean.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that. We strive for high standards, and your feedback is important. Can you tell me more about what you saw?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It looked like there was some residue on the equipment. I felt it was not up to the standards I expected.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your concern, Betty. Health and safety are our top priorities.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, and I appreciate that. I just want to make sure that this doesn’t happen again.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely. I’ll make sure to address this with our team immediately. Can I get the date of your last visit?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It was four days ago, on Tuesday.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for that. I’ll follow up with the staff who were present during your session.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, I hope this gets handled quickly. I rely on the equipment being clean for my safety.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course, Betty. We take these matters very seriously. Would you like me to arrange for a follow-up visit?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I would appreciate that. I want to ensure everything is up to standard.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Alright, I can schedule a follow-up visit with Robert this week. Would Thursday at 10 AM work for you?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that works perfectly for me.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll also ensure that he checks all the equipment thoroughly.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I feel better knowing that you’re taking this seriously.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 91,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It’s my pleasure, Betty. I also wanted to mention that we offer additional services like housekeeping, which could help with your living situation.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 97,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Oh, I hadn’t considered that. Can you tell me more about it?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Sure! Our Companion Care service includes light housekeeping and meal preparation. It’s $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 109,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds interesting. I’ll think about it and let you know.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! I’ll add that to our follow-up notes. Your satisfaction is our priority.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Betty! If you have any further concerns, don’t hesitate to call.",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 127,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will, thank you. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f9e2933d47a9431a823d2a22",
+  "revision": "",
+  "status": "success"
+}
