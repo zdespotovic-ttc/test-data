@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bc5b098782184acc8618e7d4",
+    "created": 1779692400,
+    "modified": 1779692400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946992227-c6e6ec4e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bc5b098782184acc8618e7d4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 129,
+      "duration_ms": 129000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946911600,
+      "call_id": "bc5b098782184acc8618e7d4",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bc5b098782184acc8618e7d4",
+      "media_name": "d4be75857a7a4754827f7da810103cb9.mp3",
+      "scenario": "A local gym inquires about the cost of hosting a series of nutritional seminars for its members. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 129.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Harold Gonzalez. I'm calling to get some information. Hi, Harold! It’s great to hear from you. What information do you need today? Well, I recently joined a local gym, and they’re interested in hosting a series of nutritional seminars. That sounds like a wonderful idea! Are they looking for a specific type of seminar? Yes, they want something that caters to health-conscious individuals, focusing on meal planning and balanced diets. Got it. I can definitely help with that! We can provide a nutritionist to conduct the seminars. Perfect! Can I get an estimated cost for hosting these seminars? Sure thing. Our pricing for nutritional seminars typically ranges from $150 to $300 per session, depending on the duration and specifics. And how long does each session usually last? Each session lasts about an hour, including time for Q&A. Would they be interested in a series or just a single session? They’re thinking about a series of three sessions to engage members more effectively. In that case, we could offer a package deal for three sessions, which would be around $400 total. That sounds reasonable! Can I get that in writing? Absolutely, I can email you a formal quote. What’s the best email address for you? Please send it to haroldgonzalez@example.com. Got it. I’ll send that over right after our call. Thank you! Also, do you think we could schedule the first seminar for next month? Let me check our availability. We can discuss suitable dates when I send the quote. That works for me. I’d also like to know if you provide materials for the seminars. Yes, we can provide handouts and resources for each session at no extra charge. That’s great to hear! Anything else I should know? Just that we can also tailor the content based on the members’ dietary needs or preferences. Perfect! I think that would be very beneficial. I agree, it will help ensure everyone gets the most out of it. Thanks for your help, Margaret. I appreciate it! You’re welcome, Harold! I’ll follow up with that quote shortly. Looking forward to it. Have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Harold Gonzalez. I'm calling to get some information.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 6,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Harold! It’s great to hear from you. What information do you need today?",
+          "speaker": "local party",
+          "start_time": 6,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I recently joined a local gym, and they’re interested in hosting a series of nutritional seminars.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds like a wonderful idea! Are they looking for a specific type of seminar?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, they want something that caters to health-conscious individuals, focusing on meal planning and balanced diets.",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Got it. I can definitely help with that! We can provide a nutritionist to conduct the seminars.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Perfect! Can I get an estimated cost for hosting these seminars?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Sure thing. Our pricing for nutritional seminars typically ranges from $150 to $300 per session, depending on the duration and specifics.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "And how long does each session usually last?",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Each session lasts about an hour, including time for Q&A. Would they be interested in a series or just a single session?",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "They’re thinking about a series of three sessions to engage members more effectively.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "In that case, we could offer a package deal for three sessions, which would be around $400 total.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds reasonable! Can I get that in writing?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, I can email you a formal quote. What’s the best email address for you?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Please send it to haroldgonzalez@example.com.",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Got it. I’ll send that over right after our call.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 78,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you! Also, do you think we could schedule the first seminar for next month?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Let me check our availability. We can discuss suitable dates when I send the quote.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That works for me. I’d also like to know if you provide materials for the seminars.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we can provide handouts and resources for each session at no extra charge.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That’s great to hear! Anything else I should know?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Just that we can also tailor the content based on the members’ dietary needs or preferences.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect! I think that would be very beneficial.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I agree, it will help ensure everyone gets the most out of it.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks for your help, Margaret. I appreciate it!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Harold! I’ll follow up with that quote shortly.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Looking forward to it. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 126,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 129,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bc5b098782184acc8618e7d4",
+  "revision": "",
+  "status": "success"
+}
