@@ -1,0 +1,221 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-56fbd14e93934803b5a20b3c",
+    "created": 1779692400,
+    "modified": 1779692400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946992185-53ddedd8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-56fbd14e93934803b5a20b3c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946911600,
+      "call_id": "56fbd14e93934803b5a20b3c",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-56fbd14e93934803b5a20b3c",
+      "media_name": "1b64427e68274d00b92f0471baf9464e.mp3",
+      "scenario": "A client is confused about a discrepancy between the quoted price and the amount charged on their bill. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret, this is Harold Gonzalez. I'm calling about a billing issue I noticed. Hi, Harold! I’m glad you called. Can you tell me more about the issue? Yes, I was quoted $95 for my last nursing visit, but I was charged $115. I don’t understand why there’s a discrepancy. I’m sorry to hear that, Harold. Let me pull up your account and details on that visit. Thank you. My wife was present during the visit, and we both heard the quoted price. I appreciate your patience. It looks like there was an additional fee for extended service time. But I wasn’t informed about any extra charges. It's very confusing. I understand, Harold. I’ll investigate this further to ensure you’re charged correctly. That would be great. I just want to make sure everything is clear and accurate. Of course. I’ll review your service notes and reach out to you by tomorrow with an explanation. Okay, I appreciate that. Can I also request a Spanish-speaking caregiver for my next visit? Absolutely! I’ll make a note to ensure a Spanish-speaking nurse is assigned. Thank you! I just want my wife to feel comfortable during the visits. That’s very important, and we’ll make sure of it. Is there anything else I can help you with today? No, that’s all for now. Just the billing issue and caregiver preference. Got it. I’ll follow up on the billing by tomorrow and confirm the caregiver. Thanks, Margaret. I really appreciate your help with this. You’re welcome, Harold! Thank you for being a valued client. Take care! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Harold Gonzalez. I'm calling about a billing issue I noticed.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Harold! I’m glad you called. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I was quoted $95 for my last nursing visit, but I was charged $115. I don’t understand why there’s a discrepancy.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that, Harold. Let me pull up your account and details on that visit.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. My wife was present during the visit, and we both heard the quoted price.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I appreciate your patience. It looks like there was an additional fee for extended service time.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "But I wasn’t informed about any extra charges. It's very confusing.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand, Harold. I’ll investigate this further to ensure you’re charged correctly.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great. I just want to make sure everything is clear and accurate.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course. I’ll review your service notes and reach out to you by tomorrow with an explanation.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 90,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, I appreciate that. Can I also request a Spanish-speaking caregiver for my next visit?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! I’ll make a note to ensure a Spanish-speaking nurse is assigned.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! I just want my wife to feel comfortable during the visits.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That’s very important, and we’ll make sure of it. Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "No, that’s all for now. Just the billing issue and caregiver preference.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Got it. I’ll follow up on the billing by tomorrow and confirm the caregiver.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thanks, Margaret. I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome, Harold! Thank you for being a valued client. Take care!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 153,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 153,
+          "end_time": 160,
+          "channel": "left",
+          "id": 20
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-56fbd14e93934803b5a20b3c",
+  "revision": "",
+  "status": "success"
+}
