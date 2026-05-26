@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3c9faccd24a74442a14a87cc",
+    "created": 1779692400,
+    "modified": 1779692400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946992303-4aab7d40",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3c9faccd24a74442a14a87cc",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 105,
+      "duration_ms": 105000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946911600,
+      "call_id": "3c9faccd24a74442a14a87cc",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3c9faccd24a74442a14a87cc",
+      "media_name": "6614ba6bf54749b9971ffadd5d8fd658.mp3",
+      "scenario": "A caller seeks general information about the clinic's operating hours and location. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 105.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is Jennifer Taylor. I'm looking for some information about your services. Of course, Jennifer! What specific information are you looking for? I need to know your operating hours and location. Sure! We are located at 2847 North Ridge Road, Suite 205, Wichita, KS 67205. Great, and what are your hours? We’re open Monday to Friday from 7:00 AM to 7:00 PM, Saturday from 8:00 AM to 5:00 PM. On Sundays, we’re available for on-call emergencies only. Perfect, that's helpful. I’m interested in companion care for my elderly grandmother. That’s wonderful! Our companion care service is designed to assist with daily activities and provide social interaction. It typically costs between $25 and $30 per hour. Okay, that sounds reasonable. Do you have any availability soon? I can check that for you. Could you please provide me with your grandmother's needs and preferred days? She needs help with bathing, dressing, and companionship. Maybe a couple of days a week? Absolutely, we can work with that. Would you like me to connect you with our Care Coordinator, Lisa Chen, for scheduling? Yes, that would be great, thank you! I’ll make sure she follows up with you. Would you like her to call you on this number? Yes, please. My number is +13165554817. Got it! I’ll note that down. Is there anything else you’d like to ask? No, I think that covers everything for now. Great! Lisa will reach out to you soon. Thank you for considering CareFirst Home Health! Thank you for your help! Have a great day! You too, Jennifer! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Jennifer Taylor. I'm looking for some information about your services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Jennifer! What specific information are you looking for?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I need to know your operating hours and location.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Sure! We are located at 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great, and what are your hours?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We’re open Monday to Friday from 7:00 AM to 7:00 PM, Saturday from 8:00 AM to 5:00 PM.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "On Sundays, we’re available for on-call emergencies only.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Perfect, that's helpful. I’m interested in companion care for my elderly grandmother.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "That’s wonderful! Our companion care service is designed to assist with daily activities and provide social interaction.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 43,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "It typically costs between $25 and $30 per hour.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, that sounds reasonable. Do you have any availability soon?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can check that for you. Could you please provide me with your grandmother's needs and preferred days?",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "She needs help with bathing, dressing, and companionship. Maybe a couple of days a week?",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, we can work with that.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Would you like me to connect you with our Care Coordinator, Lisa Chen, for scheduling?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, that would be great, thank you!",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I’ll make sure she follows up with you. Would you like her to call you on this number?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, please. My number is +13165554817.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Got it! I’ll note that down. Is there anything else you’d like to ask?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "No, I think that covers everything for now.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Great! Lisa will reach out to you soon. Thank you for considering CareFirst Home Health!",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you for your help! Have a great day!",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You too, Jennifer! Goodbye!",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 105,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3c9faccd24a74442a14a87cc",
+  "revision": "",
+  "status": "success"
+}
