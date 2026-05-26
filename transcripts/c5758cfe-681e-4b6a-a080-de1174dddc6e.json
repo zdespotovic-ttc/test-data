@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e656d62a020240009713420d",
+    "created": 1779692400,
+    "modified": 1779692400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946992039-da1c0696",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e656d62a020240009713420d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 115,
+      "duration_ms": 115000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946911600,
+      "call_id": "e656d62a020240009713420d",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e656d62a020240009713420d",
+      "media_name": "2f9df09cfffd4f9582071df49919674e.mp3",
+      "scenario": "A VIP client calls to reschedule their regular chiropractic appointment for a more convenient time. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 115.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you? Hi Margaret, this is Mary O'Connor. I'm calling to reschedule my IV therapy appointment. Hi Mary! Of course, I can help you with that. When would you like to reschedule? Well, I was hoping for a little later in the day, maybe around 2 PM if that’s available? Let me check the schedule... Yes, we can accommodate that time. Great! That’s such a relief. I always get so anxious about these appointments. I completely understand, Mary. We always try to make these visits as comfortable as possible. I appreciate that. It really helps me feel better. Would you like me to note any specific caregiver preferences for your appointment? Yes, if possible, I would prefer someone who is really reassuring, like the nurse I had yesterday. Absolutely, I’ll make a note to request the same nurse for your appointment. Thank you, that would be wonderful. So just to confirm, I have rescheduled your IV therapy for 2 PM tomorrow. Yes, that’s correct! Is there anything else you need from us today? Well, I did have a question about whether you offer any other services for home care? Yes, we offer a variety of services, including personal care assistance, companion care, and physical therapy. Oh, I didn't realize that. How much is the companion care? Companion care is priced at $25 to $30 per hour. It includes social interaction and support with daily activities. That sounds helpful! I might consider that if I need someone to help me at home. Absolutely, just let us know if you would like to set that up in the future. I will, thank you! You're welcome, Mary! I’ll see you tomorrow at 2 PM then. Take care! Thank you, Margaret! I appreciate all your help. It’s my pleasure. Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mary O'Connor. I'm calling to reschedule my IV therapy appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Mary! Of course, I can help you with that. When would you like to reschedule?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was hoping for a little later in the day, maybe around 2 PM if that’s available?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me check the schedule... Yes, we can accommodate that time.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! That’s such a relief. I always get so anxious about these appointments.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand, Mary. We always try to make these visits as comfortable as possible.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that. It really helps me feel better.",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Would you like me to note any specific caregiver preferences for your appointment?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, if possible, I would prefer someone who is really reassuring, like the nurse I had yesterday.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I’ll make a note to request the same nurse for your appointment.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, that would be wonderful.",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "So just to confirm, I have rescheduled your IV therapy for 2 PM tomorrow.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that’s correct!",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Is there anything else you need from us today?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Well, I did have a question about whether you offer any other services for home care?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we offer a variety of services, including personal care assistance, companion care, and physical therapy.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Oh, I didn't realize that. How much is the companion care?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Companion care is priced at $25 to $30 per hour. It includes social interaction and support with daily activities.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds helpful! I might consider that if I need someone to help me at home.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 91,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, just let us know if you would like to set that up in the future.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I will, thank you!",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Mary! I’ll see you tomorrow at 2 PM then. Take care!",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret! I appreciate all your help.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure. Have a great day!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e656d62a020240009713420d",
+  "revision": "",
+  "status": "success"
+}
