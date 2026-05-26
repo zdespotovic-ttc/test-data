@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dfdf682776144035b085434d",
+    "created": 1779692400,
+    "modified": 1779692400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946992247-bd8bbc95",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dfdf682776144035b085434d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 115,
+      "duration_ms": 115000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946911600,
+      "call_id": "dfdf682776144035b085434d",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dfdf682776144035b085434d",
+      "media_name": "827effaf4a29419f8c8bbf6f1aeced2e.mp3",
+      "scenario": "An event planner calls to obtain a quote for providing on-site physical therapy services during a sports event. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 115.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is George Williams. I hope you're doing well. Hi George! I'm doing well, thank you. How can I help you today? I’m actually reaching out because I’m planning a local sports event and need a quote for on-site physical therapy services. Of course! We’d be happy to provide that. Can you tell me more about the event? Sure! It’s a charity sports event for heart health awareness. We expect a few hundred attendees. That sounds great! How many physical therapists do you need on-site, and for how long? I think two therapists would be ideal, and we’d need them for about four hours during the event. Alright, we can arrange that. Our physical therapy services are priced at $110 to $140 per session. So, for two therapists over four hours, what would that come to in total? Based on a four-hour commitment with two therapists, it would range from $880 to $1,120. That’s within our budget. What’s included in that price? That price includes on-site assessments, mobility training, and injury prevention exercises. Perfect! What’s the next step if I’d like to proceed with booking? I can prepare a formal proposal for you, requiring a deposit to secure the therapists. Sounds good. How much is the deposit? The deposit is usually 50% of the total cost. Okay, I can work with that. Can you also send over any credentials or details about the therapists? Absolutely! I’ll include their credentials and specialties in the proposal. Great! Do you have a timeline for when you can send that over? I can have it ready for you by the end of the day. That works perfectly, thank you. You're welcome! Is there anything else I can assist you with? No, that should be it for now. I appreciate your help! My pleasure, George. I’ll follow up with that proposal soon! Looking forward to it. Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I hope you're doing well.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 6,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George! I'm doing well, thank you. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 6,
+          "end_time": 9,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m actually reaching out because I’m planning a local sports event and need a quote for on-site physical therapy services.",
+          "speaker": "remote party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course! We’d be happy to provide that. Can you tell me more about the event?",
+          "speaker": "local party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure! It’s a charity sports event for heart health awareness. We expect a few hundred attendees.",
+          "speaker": "remote party",
+          "start_time": 18,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds great! How many physical therapists do you need on-site, and for how long?",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I think two therapists would be ideal, and we’d need them for about four hours during the event.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Alright, we can arrange that. Our physical therapy services are priced at $110 to $140 per session.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "So, for two therapists over four hours, what would that come to in total?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Based on a four-hour commitment with two therapists, it would range from $880 to $1,120.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s within our budget. What’s included in that price?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That price includes on-site assessments, mobility training, and injury prevention exercises.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect! What’s the next step if I’d like to proceed with booking?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can prepare a formal proposal for you, requiring a deposit to secure the therapists.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds good. How much is the deposit?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "The deposit is usually 50% of the total cost.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, I can work with that. Can you also send over any credentials or details about the therapists?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely! I’ll include their credentials and specialties in the proposal.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great! Do you have a timeline for when you can send that over?",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 93,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I can have it ready for you by the end of the day.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That works perfectly, thank you.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome! Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 102,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that should be it for now. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "My pleasure, George. I’ll follow up with that proposal soon!",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Looking forward to it. Bye!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 112,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 115,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dfdf682776144035b085434d",
+  "revision": "",
+  "status": "success"
+}
