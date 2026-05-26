@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-25T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-044e19ab21fe42309b5212a3",
+    "created": 1779692400,
+    "modified": 1779692400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63946992122-e8ceb3fb",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-044e19ab21fe42309b5212a3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946911600,
+      "call_id": "044e19ab21fe42309b5212a3",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-044e19ab21fe42309b5212a3",
+      "media_name": "d4a9a642157d42728c28b845d317a080.mp3",
+      "scenario": "A client is upset about the unprofessional behavior of the staff during their last appointment. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Robert Jackson. I’m calling about my last visit three days ago. I’m really upset about the service I received. I'm sorry to hear that, Robert. Can you tell me what happened during your visit? The staff was unprofessional, and they didn’t follow the care instructions I provided. I felt ignored, and it really upset me. I truly apologize for your experience. That is not the level of service we strive for. It’s really concerning, especially given my condition. I rely on you guys for proper care. I completely understand, and I appreciate you bringing this to my attention. I’ll make sure to follow up on this. Thank you. I just want to make sure it doesn’t happen again. Absolutely. I can investigate who was assigned to your case and address this directly with them. I’d like that. It’s really frustrating when I have specific needs. I understand. Would you like me to schedule a follow-up appointment with a different caregiver for your next visit? Yes, please. I want to make sure my needs are met properly. That’s a good idea. I’ll coordinate with our scheduling team to ensure we find someone who can meet your requirements. Thank you. I appreciate that. Is there anything else specific you’d like me to address regarding your care? Just ensure they review the care instructions I emailed last week. It’s really important. I will make it a priority. Can you remind me of those specific instructions? Sure, it's mainly about my medication schedule and handling my mobility equipment properly. Got it. I’ll ensure the caregiver is fully briefed on that. Great, thank you. Also, if you’re interested, we have a new service for mobility training that might benefit you. I might be interested. Can you send me more information about that? Certainly, I’ll include that in our follow-up email. Awesome, thank you. You're welcome, Robert. I’ll ensure we follow up on your concerns and schedule your next appointment. Thank you, Margaret. I appreciate your help. Thank you for your patience, Robert. Have a good day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Robert Jackson. I’m calling about my last visit three days ago. I’m really upset about the service I received.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Robert. Can you tell me what happened during your visit?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "The staff was unprofessional, and they didn’t follow the care instructions I provided. I felt ignored, and it really upset me.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I truly apologize for your experience. That is not the level of service we strive for.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s really concerning, especially given my condition. I rely on you guys for proper care.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand, and I appreciate you bringing this to my attention. I’ll make sure to follow up on this.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you. I just want to make sure it doesn’t happen again.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely. I can investigate who was assigned to your case and address this directly with them.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I’d like that. It’s really frustrating when I have specific needs.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand. Would you like me to schedule a follow-up appointment with a different caregiver for your next visit?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please. I want to make sure my needs are met properly.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That’s a good idea. I’ll coordinate with our scheduling team to ensure we find someone who can meet your requirements.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you. I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Is there anything else specific you’d like me to address regarding your care?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Just ensure they review the care instructions I emailed last week. It’s really important.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I will make it a priority. Can you remind me of those specific instructions?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sure, it's mainly about my medication schedule and handling my mobility equipment properly.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Got it. I’ll ensure the caregiver is fully briefed on that.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great, thank you.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Also, if you’re interested, we have a new service for mobility training that might benefit you.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I might be interested. Can you send me more information about that?",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Certainly, I’ll include that in our follow-up email.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Awesome, thank you.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Robert. I’ll ensure we follow up on your concerns and schedule your next appointment.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for your patience, Robert. Have a good day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-044e19ab21fe42309b5212a3",
+  "revision": "",
+  "status": "success"
+}
