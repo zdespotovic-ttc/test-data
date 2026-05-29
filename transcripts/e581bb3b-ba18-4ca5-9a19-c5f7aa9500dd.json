@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f25622474c9a48068a61a160",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315958-c581a3ed",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f25622474c9a48068a61a160",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "f25622474c9a48068a61a160",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f25622474c9a48068a61a160",
+      "media_name": "33f939dbf6c74da1908e6b7cd9d5a3f5.mp3",
+      "scenario": "A VIP customer calls to cancel an upcoming event booking, citing a breach of contract by the service provider. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. This is Michael Brown. I need to cancel my father's upcoming appointment for wound care and medication management. I'm sorry to hear that, Michael. Can I ask why you're canceling? Well, I believe there’s been a breach of contract on your end, and it's really concerning. I understand. Can you provide me with more details about the breach? Yes, we were promised a registered nurse for the appointment, but I've learned that someone else will be sent instead. I apologize for this mix-up. Let me check our records to see what happened regarding your father's appointment. Okay, I appreciate that. It just feels like this is not what we agreed upon, and I want to ensure my father receives the right care. Absolutely, I completely understand your concerns. Please hold for just a moment while I look into this. Sure, thank you. Thank you for your patience. I see that there was a scheduling error, and I truly apologize. We can definitely get a registered nurse assigned for your father. That's good to know, but I still want to cancel the appointment. Understood. I will process the cancellation for you. Just to confirm, would you like to reschedule for a future date? Not at the moment, but I might need your services later on. That’s completely fine. If you change your mind, we’d be happy to assist you at any time. Thank you, I appreciate that. Just to clarify, what happens next with my cancellation? I will send you a confirmation email regarding the cancellation and make sure no charges are incurred. Perfect, thank you for that. I hope this doesn't happen again in the future. We are committed to improving our service, and your feedback is invaluable. I appreciate your understanding, Margaret. Is there anything else I can assist you with today? No, that will be all for now. Thank you for calling, Michael. If you need anything in the future, please don’t hesitate to reach out. Will do. Have a good day. You too, take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Michael Brown. I need to cancel my father's upcoming appointment for wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Michael. Can I ask why you're canceling?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I believe there’s been a breach of contract on your end, and it's really concerning.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Can you provide me with more details about the breach?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, we were promised a registered nurse for the appointment, but I've learned that someone else will be sent instead.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I apologize for this mix-up. Let me check our records to see what happened regarding your father's appointment.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I appreciate that. It just feels like this is not what we agreed upon, and I want to ensure my father receives the right care.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 54,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I completely understand your concerns. Please hold for just a moment while I look into this.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure, thank you.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 70,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for your patience. I see that there was a scheduling error, and I truly apologize. We can definitely get a registered nurse assigned for your father.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That's good to know, but I still want to cancel the appointment.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Understood. I will process the cancellation for you. Just to confirm, would you like to reschedule for a future date?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 92,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Not at the moment, but I might need your services later on.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 99,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That’s completely fine. If you change your mind, we’d be happy to assist you at any time.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 106,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, I appreciate that. Just to clarify, what happens next with my cancellation?",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 115,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I will send you a confirmation email regarding the cancellation and make sure no charges are incurred.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect, thank you for that. I hope this doesn't happen again in the future.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 130,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We are committed to improving our service, and your feedback is invaluable.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 136,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I appreciate your understanding, Margaret.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 144,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 151,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that will be all for now.",
+          "speaker": "remote party",
+          "start_time": 151,
+          "end_time": 156,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for calling, Michael. If you need anything in the future, please don’t hesitate to reach out.",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 162,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Will do. Have a good day.",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 167,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, take care.",
+          "speaker": "local party",
+          "start_time": 167,
+          "end_time": 170,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f25622474c9a48068a61a160",
+  "revision": "",
+  "status": "success"
+}
