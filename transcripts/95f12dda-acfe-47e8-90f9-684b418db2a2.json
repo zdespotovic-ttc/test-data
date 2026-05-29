@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ba78742bb93448f88fd95902",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315597-9704a0c6",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ba78742bb93448f88fd95902",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "ba78742bb93448f88fd95902",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ba78742bb93448f88fd95902",
+      "media_name": "8478e0f015034cbd99d23c839c01c025.mp3",
+      "scenario": "A prospect calls complaining about a poor installation service they received from a technician who was rude and unprofessional. They are considering not choosing the service. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today? Hi Margaret, this is Helen Johnson. I’m calling because I’m quite frustrated about the service I received recently. I’m sorry to hear that, Helen. Can you tell me a bit more about what happened? Well, during my last physical therapy session, the technician was really rude and didn’t seem to care about my needs at all. I apologize for that experience, Helen. That’s definitely not the standard we aim for at CareFirst. I know things can get hectic, but I expected more professionalism, especially since I’m a returning client. I completely understand your concerns. Would you like to provide details about the technician? This will help us address the issue. His name was Ryan. I just felt he was dismissive and not interested in my rehabilitation process. Thank you for that information, Helen. I’ll make sure to follow up with our team regarding Ryan’s conduct. I'd appreciate that. I’m considering whether I want to continue with your service after this experience. I understand your hesitation. We value your feedback, and I’d like to earn back your trust. Can we schedule a follow-up appointment? I suppose I could give it one more try, but I’m not sure when. How about this: I can arrange for a different therapist to work with you, and we can schedule it at your convenience. That sounds reasonable. I’d be more comfortable with that. Perfect! When would you like to schedule your session? I’m available next Tuesday afternoon. Let me check... Yes, we can schedule you for Tuesday at 2 PM. That works for me. Thank you for handling this. You’re welcome, Helen. I’ll also make a note to ensure quality assurance checks on future visits. I appreciate that. Will someone follow up with me about this complaint? Absolutely! I’ll have our Client Services Manager, Angela, contact you to discuss this further. Great, thank you. I hope this gets resolved. Thank you for your understanding, Helen. We’re committed to improving your experience. I look forward to hearing from Angela. Thank you for calling, Helen. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I’m calling because I’m quite frustrated about the service I received recently.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Helen. Can you tell me a bit more about what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, during my last physical therapy session, the technician was really rude and didn’t seem to care about my needs at all.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 23,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for that experience, Helen. That’s definitely not the standard we aim for at CareFirst.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I know things can get hectic, but I expected more professionalism, especially since I’m a returning client.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your concerns. Would you like to provide details about the technician? This will help us address the issue.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "His name was Ryan. I just felt he was dismissive and not interested in my rehabilitation process.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for that information, Helen. I’ll make sure to follow up with our team regarding Ryan’s conduct.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I'd appreciate that. I’m considering whether I want to continue with your service after this experience.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand your hesitation. We value your feedback, and I’d like to earn back your trust. Can we schedule a follow-up appointment?",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I suppose I could give it one more try, but I’m not sure when.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "How about this: I can arrange for a different therapist to work with you, and we can schedule it at your convenience.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 83,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds reasonable. I’d be more comfortable with that.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 91,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect! When would you like to schedule your session?",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I’m available next Tuesday afternoon.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 103,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check... Yes, we can schedule you for Tuesday at 2 PM.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That works for me. Thank you for handling this.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome, Helen. I’ll also make a note to ensure quality assurance checks on future visits.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 119,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I appreciate that. Will someone follow up with me about this complaint?",
+          "speaker": "remote party",
+          "start_time": 119,
+          "end_time": 125,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely! I’ll have our Client Services Manager, Angela, contact you to discuss this further.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 132,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Great, thank you. I hope this gets resolved.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for your understanding, Helen. We’re committed to improving your experience.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 145,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I look forward to hearing from Angela.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for calling, Helen. Have a great day!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 157,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 160,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ba78742bb93448f88fd95902",
+  "revision": "",
+  "status": "success"
+}
