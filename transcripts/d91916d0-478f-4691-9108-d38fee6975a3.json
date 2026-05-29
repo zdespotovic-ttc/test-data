@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-213abbc63b5a4aa9a71ca149",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315768-86c4fdf2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-213abbc63b5a4aa9a71ca149",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 165,
+      "duration_ms": 165000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "213abbc63b5a4aa9a71ca149",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-213abbc63b5a4aa9a71ca149",
+      "media_name": "7aa9d2e2be3d46148ac964eb70074b5b.mp3",
+      "scenario": "A prospect questions a service fee that appeared on their bill, which was not disclosed during the initial agreement. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 165.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi Margaret, this is Dorothy Henderson. I’m calling because I noticed a service fee on my bill that wasn’t disclosed when we set up the care. I’m sorry to hear that, Dorothy. Can you please provide me with the details of the fee in question? Yes, it’s a $45 charge for “additional caregiver support.” I wasn’t informed about this at all. I understand your concern. Let me check your account details to get more information on that charge. One moment, please. Thank you for holding, Dorothy. I see that the additional caregiver support was billed due to an unexpected increase in your care hours last week. It seems there was a last-minute need for extra assistance during your physical therapy session. But I was never told about needing an extra caregiver. I understood my plan included only the regular visits. I completely understand your frustration, and I apologize for any miscommunication. We strive to keep our clients informed about any changes. I appreciate that, but I don’t think I should be responsible for this charge since it wasn’t disclosed. I can certainly review this charge with our billing department and possibly reverse it for you. Would that be acceptable? Yes, that would be great. I just want to make sure I’m not charged for something I didn't agree to. Of course, I’ll make that my priority. Can I also confirm your preferred method of contact for the follow-up? Yes, please call me at my number, +13165558734. Got it, I’ll reach out once I have updates on the billing issue. Is there anything else you need help with today? Actually, I was wondering if I could add an extra personal care session next week? Absolutely, we can certainly arrange that. What day and time are you looking for? I’d prefer Wednesday morning if possible, around 10 AM. Let me check the scheduler… Yes, we have availability at that time. I’ll go ahead and book it for you. Thank you, Margaret. I appreciate your help with everything today. You’re very welcome, Dorothy. Just to recap, I’ll follow up on the billing dispute and confirm your session for Wednesday at 10 AM. Sounds perfect. Thanks again! Thank you for calling, have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Dorothy Henderson. I’m calling because I noticed a service fee on my bill that wasn’t disclosed when we set up the care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Dorothy. Can you please provide me with the details of the fee in question?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it’s a $45 charge for “additional caregiver support.” I wasn’t informed about this at all.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me check your account details to get more information on that charge. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you for holding, Dorothy. I see that the additional caregiver support was billed due to an unexpected increase in your care hours last week. It seems there was a last-minute need for extra assistance during your physical therapy session.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 54,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "But I was never told about needing an extra caregiver. I understood my plan included only the regular visits.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 62,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I completely understand your frustration, and I apologize for any miscommunication. We strive to keep our clients informed about any changes.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I appreciate that, but I don’t think I should be responsible for this charge since it wasn’t disclosed.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I can certainly review this charge with our billing department and possibly reverse it for you. Would that be acceptable?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that would be great. I just want to make sure I’m not charged for something I didn't agree to.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 90,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Of course, I’ll make that my priority. Can I also confirm your preferred method of contact for the follow-up?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, please call me at my number, +13165558734.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Got it, I’ll reach out once I have updates on the billing issue. Is there anything else you need help with today?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Actually, I was wondering if I could add an extra personal care session next week?",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 115,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Absolutely, we can certainly arrange that. What day and time are you looking for?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 123,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I’d prefer Wednesday morning if possible, around 10 AM.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Let me check the scheduler… Yes, we have availability at that time. I’ll go ahead and book it for you.",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 135,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with everything today.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 142,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You’re very welcome, Dorothy. Just to recap, I’ll follow up on the billing dispute and confirm your session for Wednesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 147,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Sounds perfect. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 147,
+          "end_time": 155,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Thank you for calling, have a great day!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 158,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 158,
+          "end_time": 161,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 161,
+          "end_time": 165,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-213abbc63b5a4aa9a71ca149",
+  "revision": "",
+  "status": "success"
+}
