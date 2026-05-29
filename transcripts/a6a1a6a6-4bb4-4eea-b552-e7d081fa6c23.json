@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b6fd8401b18b4ce7a7ae6258",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315984-7aa04b38",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b6fd8401b18b4ce7a7ae6258",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "b6fd8401b18b4ce7a7ae6258",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b6fd8401b18b4ce7a7ae6258",
+      "media_name": "92e1db4f83704b248b88eb5405aeb732.mp3",
+      "scenario": "A returning customer is dissatisfied with the cleaning service quality and is considering cancelling their contract due to repeated issues. Category: Service Complaint. Flags: quality_complaint, cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Mark Johnson. I'm calling because I'm quite dissatisfied with the cleaning service quality for my parents. I'm sorry to hear that, Mark. Can you tell me more about the issues you're facing? Well, the cleaners have been missing several spots and the house isn't being maintained as it should be. I understand how frustrating that must be. How long has this been going on? It's been two months now, and I’ve raised my concerns multiple times without any improvement. I appreciate you bringing this to our attention. Would you like to discuss the possibility of cancelling the service? Yes, I think that's where I'm headed unless we can find a solution. I definitely want to help you resolve this first. What specific areas have been the most problematic? The kitchen and living room mainly. They seem to clean superficially and miss the details. Thank you for that information. I can arrange for a supervisor to assess the situation. That would be helpful, but I’m also concerned about my parents’ medication management. We can help with that too. Would you be interested in our medication management service? Yes, I think that could be beneficial, considering their needs. Great! Our medication management service is priced between $65 and $80 per visit. That sounds reasonable. Can we set that up while addressing the cleaning issue? Absolutely. I’ll note that down. How often would you like the medication management service? I think a weekly visit would be best to start. Perfect. I’ll arrange for that. When is a good time for the supervisor to come by about the cleaning? Maybe this Friday in the afternoon? Let me check that... Yes, we can schedule a supervisor visit for Friday at 2 PM. Sounds good. Thank you for being understanding. Of course, Mark. I want to ensure your parents receive the best care possible. I appreciate that. I’ll look forward to the follow-up call. You’ll receive a call from us after the supervisor’s visit, and we’ll confirm the medication management schedule. Thank you, Margaret. I feel more hopeful about this now. You’re very welcome. Have a great day, Mark! You too, goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 4,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mark Johnson. I'm calling because I'm quite dissatisfied with the cleaning service quality for my parents.",
+          "speaker": "remote party",
+          "start_time": 4,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Mark. Can you tell me more about the issues you're facing?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the cleaners have been missing several spots and the house isn't being maintained as it should be.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be. How long has this been going on?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It's been two months now, and I’ve raised my concerns multiple times without any improvement.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I appreciate you bringing this to our attention. Would you like to discuss the possibility of cancelling the service?",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, I think that's where I'm headed unless we can find a solution.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I definitely want to help you resolve this first. What specific areas have been the most problematic?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "The kitchen and living room mainly. They seem to clean superficially and miss the details.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for that information. I can arrange for a supervisor to assess the situation.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be helpful, but I’m also concerned about my parents’ medication management.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 63,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can help with that too. Would you be interested in our medication management service?",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I think that could be beneficial, considering their needs.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! Our medication management service is priced between $65 and $80 per visit.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reasonable. Can we set that up while addressing the cleaning issue?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely. I’ll note that down. How often would you like the medication management service?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I think a weekly visit would be best to start.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect. I’ll arrange for that. When is a good time for the supervisor to come by about the cleaning?",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Maybe this Friday in the afternoon?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Let me check that... Yes, we can schedule a supervisor visit for Friday at 2 PM.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good. Thank you for being understanding.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Of course, Mark. I want to ensure your parents receive the best care possible.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate that. I’ll look forward to the follow-up call.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’ll receive a call from us after the supervisor’s visit, and we’ll confirm the medication management schedule.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I feel more hopeful about this now.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re very welcome. Have a great day, Mark!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 139,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 139,
+          "end_time": 143,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b6fd8401b18b4ce7a7ae6258",
+  "revision": "",
+  "status": "success"
+}
