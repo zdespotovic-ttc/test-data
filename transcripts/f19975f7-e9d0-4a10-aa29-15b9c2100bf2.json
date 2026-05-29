@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4c6df8daee784e7ca0917b39",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315700-10d8207b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4c6df8daee784e7ca0917b39",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "4c6df8daee784e7ca0917b39",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4c6df8daee784e7ca0917b39",
+      "media_name": "584f5de55f224cdf844e0d95cf80a118.mp3",
+      "scenario": "A VIP customer calls to complain about the catering service at their recent event, highlighting that the food was served cold and the staff was unresponsive. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is George Williams. I’m calling because I have a serious concern regarding the service I received during my last visit. Oh, I'm sorry to hear that, George. Could you tell me more about the issue you encountered? Absolutely. I recently had some caregivers come by for cardiac care monitoring, and I found the experience disappointing. The staff seemed unresponsive, and the care felt rushed. I sincerely apologize for that, George. That is not the standard we strive for. I appreciate that, but it’s concerning. I expect punctual and professional service, especially given my ongoing needs after the surgery. I completely understand your frustration, and I want to assure you we take this feedback seriously. When did this occur? It was just last week during my scheduled visit. The caregivers didn't check my vitals properly, and I felt a bit neglected. I’m so sorry to hear that. I will personally follow up with the team to address this. Would you like to provide specific details about the caregivers? I didn’t catch their names, but one was a woman who seemed quite new. I felt they weren't following through with the care plan. Thank you for that information, George. I will make a note to review your care plan and the staff’s performance. That would be helpful. I just want to ensure I’m receiving the best care possible. Absolutely, your health is our priority. I also want to discuss whether you would be interested in adding a skilled nursing visit to your routine care. What would that involve? It would typically include medication management and health monitoring for around $95 to $125 per visit. Would having a skilled nurse support you be beneficial? It might be, especially if it ensures a higher level of care. Great! I can include that in your care plan. Would you like to set up a meeting to discuss this further? Yes, let’s do that. I will also reach out to you once I have more information regarding the recent incident and any changes made. Thank you, Margaret. I appreciate your prompt attention to this matter. You're welcome, George. Thank you for bringing this to my attention. We value your feedback immensely. I look forward to hearing back from you soon. Absolutely, have a great day, George! You too, goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I’m calling because I have a serious concern regarding the service I received during my last visit.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I'm sorry to hear that, George. Could you tell me more about the issue you encountered?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Absolutely. I recently had some caregivers come by for cardiac care monitoring, and I found the experience disappointing. The staff seemed unresponsive, and the care felt rushed.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I sincerely apologize for that, George. That is not the standard we strive for.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I appreciate that, but it’s concerning. I expect punctual and professional service, especially given my ongoing needs after the surgery.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your frustration, and I want to assure you we take this feedback seriously. When did this occur?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It was just last week during my scheduled visit. The caregivers didn't check my vitals properly, and I felt a bit neglected.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’m so sorry to hear that. I will personally follow up with the team to address this. Would you like to provide specific details about the caregivers?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I didn’t catch their names, but one was a woman who seemed quite new. I felt they weren't following through with the care plan.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for that information, George. I will make a note to review your care plan and the staff’s performance.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be helpful. I just want to ensure I’m receiving the best care possible.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, your health is our priority. I also want to discuss whether you would be interested in adding a skilled nursing visit to your routine care.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "What would that involve?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "It would typically include medication management and health monitoring for around $95 to $125 per visit. Would having a skilled nurse support you be beneficial?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 95,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "It might be, especially if it ensures a higher level of care.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I can include that in your care plan. Would you like to set up a meeting to discuss this further?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, let’s do that.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 108,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I will also reach out to you once I have more information regarding the recent incident and any changes made.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your prompt attention to this matter.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, George. Thank you for bringing this to my attention. We value your feedback immensely.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 123,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I look forward to hearing back from you soon.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 127,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, have a great day, George!",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4c6df8daee784e7ca0917b39",
+  "revision": "",
+  "status": "success"
+}
