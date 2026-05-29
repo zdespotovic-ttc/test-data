@@ -1,0 +1,341 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-02fa35946ebe442fa4ab16e3",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315944-ba1f4a05",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-02fa35946ebe442fa4ab16e3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 210,
+      "duration_ms": 210000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "02fa35946ebe442fa4ab16e3",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-02fa35946ebe442fa4ab16e3",
+      "media_name": "c0e34ea316684c9396a403189f7fa73f.mp3",
+      "scenario": "A returning customer cancels their subscription service, citing continuous delivery issues and poor customer service. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 210.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Frank Miller. I'm calling to discuss my account. Hi Frank! It’s great to hear from you. What would you like to discuss? Well, I’ve been having some issues with my service lately—specifically, continuous delivery issues. I’m really sorry to hear that, Frank. Can you tell me more about the delivery issues? Sure, it seems like there have been delays with my medication management visits and wound care. I understand how frustrating that must be. We strive for timely service. It’s not just that. I’ve also experienced some poor customer service when I reached out for help. I apologize for the inconvenience, Frank. Your feedback is important. Can you give me an example of the service issues? Well, I called last week about my nurse not showing up, and it took me several calls to get a response. That’s unacceptable, and I’m truly sorry for the delay in response. We will address this with our team. Thank you, but honestly, I’m considering canceling my subscription. I understand, Frank, and I respect your decision. Would you mind sharing what led to that? It just feels like I can’t rely on the service, and I hate being stressed about my care. I completely understand, and I’m truly sorry for the impact this has had on you. It’s been tough. I need to prioritize my health, and I’m not sure I can do that here anymore. I hear you, Frank. If we could improve your experience, would you be willing to reconsider? I don't know. I feel like I’ve given it ample time. What if I could personally oversee your care and ensure you have consistent visits? That might be helpful, but I need assurances that it will be different. I can promise to follow up directly with your nurse and ensure you receive timely care. Okay, I’d be willing to try that for a while longer if I can have that assurance. Thank you for considering it, Frank. I’ll set up a plan for consistent nursing visits and follow-ups. That sounds good. What happens if this continues? If service issues persist, we can discuss cancellation again or explore other options. Fair enough. I appreciate your help, Margaret. Of course, Frank. I want to make sure you’re taken care of. What about my transportation to my endocrinologist next month? We can schedule that as well. I’ll ensure it’s arranged. Great, I’d like that. Can you confirm the date with me later? Absolutely, I’ll call you tomorrow with the details. Thank you, Margaret. I hope this works out. Thank you for your understanding, Frank. We’ll work hard to meet your needs. Talk to you soon. Goodbye, Frank. Bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I'm calling to discuss my account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Frank! It’s great to hear from you. What would you like to discuss?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’ve been having some issues with my service lately—specifically, continuous delivery issues.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that, Frank. Can you tell me more about the delivery issues?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, it seems like there have been delays with my medication management visits and wound care.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how frustrating that must be. We strive for timely service.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It’s not just that. I’ve also experienced some poor customer service when I reached out for help.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 43,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I apologize for the inconvenience, Frank. Your feedback is important. Can you give me an example of the service issues?",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Well, I called last week about my nurse not showing up, and it took me several calls to get a response.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 57,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That’s unacceptable, and I’m truly sorry for the delay in response. We will address this with our team.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 63,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, but honestly, I’m considering canceling my subscription.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand, Frank, and I respect your decision. Would you mind sharing what led to that?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "It just feels like I can’t rely on the service, and I hate being stressed about my care.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I completely understand, and I’m truly sorry for the impact this has had on you.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "It’s been tough. I need to prioritize my health, and I’m not sure I can do that here anymore.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 93,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I hear you, Frank. If we could improve your experience, would you be willing to reconsider?",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I don't know. I feel like I’ve given it ample time.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 107,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "What if I could personally oversee your care and ensure you have consistent visits?",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 113,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That might be helpful, but I need assurances that it will be different.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I can promise to follow up directly with your nurse and ensure you receive timely care.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Okay, I’d be willing to try that for a while longer if I can have that assurance.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 132,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for considering it, Frank. I’ll set up a plan for consistent nursing visits and follow-ups.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 139,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds good. What happens if this continues?",
+          "speaker": "remote party",
+          "start_time": 139,
+          "end_time": 146,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "If service issues persist, we can discuss cancellation again or explore other options.",
+          "speaker": "local party",
+          "start_time": 146,
+          "end_time": 153,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Fair enough. I appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 153,
+          "end_time": 159,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Of course, Frank. I want to make sure you’re taken care of.",
+          "speaker": "local party",
+          "start_time": 159,
+          "end_time": 164,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "What about my transportation to my endocrinologist next month?",
+          "speaker": "remote party",
+          "start_time": 164,
+          "end_time": 170,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "We can schedule that as well. I’ll ensure it’s arranged.",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 174,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Great, I’d like that. Can you confirm the date with me later?",
+          "speaker": "remote party",
+          "start_time": 174,
+          "end_time": 180,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Absolutely, I’ll call you tomorrow with the details.",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Thank you, Margaret. I hope this works out.",
+          "speaker": "remote party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Thank you for your understanding, Frank. We’ll work hard to meet your needs.",
+          "speaker": "local party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "Talk to you soon.",
+          "speaker": "remote party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "right",
+          "id": 33
+        },
+        {
+          "text": "Goodbye, Frank.",
+          "speaker": "local party",
+          "start_time": 200,
+          "end_time": 205,
+          "channel": "left",
+          "id": 34
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 205,
+          "end_time": 210,
+          "channel": "right",
+          "id": 35
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-02fa35946ebe442fa4ab16e3",
+  "revision": "",
+  "status": "success"
+}
