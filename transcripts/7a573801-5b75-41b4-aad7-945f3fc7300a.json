@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c204707519754c11bcae5cf4",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315742-f3abad32",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c204707519754c11bcae5cf4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "c204707519754c11bcae5cf4",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c204707519754c11bcae5cf4",
+      "media_name": "472e9c3e387349a2ad58834b4b6bc867.mp3",
+      "scenario": "A returning customer disputes an additional charge on their invoice, claiming it was not part of the agreed service package. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Frank Miller. I'm calling about a charge on my latest invoice. Hi Frank, nice to hear from you! Can you tell me more about the charge you're disputing? Yes, I noticed an additional $50 charge that I don't think was part of our agreement. I understand your concern. Let me pull up your invoice and take a closer look. One moment, please. Okay, I've got your invoice here. It looks like this charge is for a transportation service to your last appointment. Is that correct? Yes, but I was under the impression that transportation was included in our diabetic management package. I see. Our records show that transportation services are billed separately unless otherwise specified. I really thought that was part of the service. Can you confirm that? Absolutely, I can check our service agreement and get back to you on that. I would appreciate that. I don’t want to pay for something I thought was included. I completely understand. Let me also review our policy on transportation services for you. Thank you. I also need to confirm my routine visits with the same nurse, Robert. I can definitely help with that. He’s scheduled for your next visit. Perfect. Can you add the transportation for my monthly endocrinologist visits? Yes, I can set that up for you right now. Great, I’d like to have that scheduled for the first Monday of every month. Noted. That’s $45 per trip. Does that work for you? Yes, that sounds reasonable. Perfect, I’ll add that to your care plan. Now, regarding the invoice, I will follow up with you by tomorrow. Thank you, Margaret. I appreciate your help with this. You're welcome, Frank! I’ll be sure to keep you updated. Sounds good. Have a great day! You too, Frank! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I'm calling about a charge on my latest invoice.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Frank, nice to hear from you! Can you tell me more about the charge you're disputing?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed an additional $50 charge that I don't think was part of our agreement.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your invoice and take a closer look. One moment, please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, I've got your invoice here. It looks like this charge is for a transportation service to your last appointment. Is that correct?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 37,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, but I was under the impression that transportation was included in our diabetic management package.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I see. Our records show that transportation services are billed separately unless otherwise specified.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I really thought that was part of the service. Can you confirm that?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Absolutely, I can check our service agreement and get back to you on that.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I would appreciate that. I don’t want to pay for something I thought was included.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I completely understand. Let me also review our policy on transportation services for you.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you. I also need to confirm my routine visits with the same nurse, Robert.",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 73,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I can definitely help with that. He’s scheduled for your next visit.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Perfect. Can you add the transportation for my monthly endocrinologist visits?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Yes, I can set that up for you right now.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 85,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Great, I’d like to have that scheduled for the first Monday of every month.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Noted. That’s $45 per trip. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, that sounds reasonable.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect, I’ll add that to your care plan. Now, regarding the invoice, I will follow up with you by tomorrow.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're welcome, Frank! I’ll be sure to keep you updated.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Sounds good. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You too, Frank! Take care.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c204707519754c11bcae5cf4",
+  "revision": "",
+  "status": "success"
+}
