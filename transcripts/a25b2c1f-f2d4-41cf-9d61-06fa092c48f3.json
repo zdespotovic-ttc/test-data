@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c04ac26d78424de7a56a0db5",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315630-6505a642",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c04ac26d78424de7a56a0db5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "c04ac26d78424de7a56a0db5",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c04ac26d78424de7a56a0db5",
+      "media_name": "2933e94c84dd4a6e94f66257b389f80d.mp3",
+      "scenario": "A VIP customer is upset about the landscaping service provided as the plants were not pruned properly. They want immediate remediation. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is Betty Lou Smith. I'm really upset about the service I received last week. I'm sorry to hear that, Betty. Can you tell me what happened? Well, I’ve been noticing that my plants weren’t pruned properly. It looks like no one even touched them! I thought I was getting care for my home, not just for myself. I understand your frustration. We strive for quality in all aspects of our service. When did you notice the issue? It was when I came home after my last therapy session four days ago. They looked terrible! I apologize for the oversight, Betty. I’ll make sure to escalate this to our team immediately. I need this fixed right away. I can’t have my home looking like this. Absolutely, I will prioritize this. Can I get your address to ensure we send someone out today? Yes, it's 2847 North Ridge Road, Suite 205, Wichita, KS 67205. Thank you. I’ll arrange for someone to come out and address the landscaping issue today. And what if they don't fix it properly again? We can schedule a follow-up appointment with our quality assurance team to ensure everything meets your expectations. That sounds good, but I also want to discuss my upcoming physical therapy sessions. Sure! We can definitely do that. How have your sessions been going? They've been fine, but I think I need more focus on my fall prevention exercises. I can arrange for Dr. James Rodriguez to tailor a plan specifically for that. That would be wonderful. I want to make sure I stay safe. Absolutely, Betty. I’ll set that up. Would you prefer a specific day for Dr. Rodriguez? Maybe Tuesday? That usually works for me. Perfect, I’ll confirm that for you. And can you also ensure someone calls me back about the landscaping? Yes, I’ll make sure we follow up with you after today’s visit and keep you updated. Thank you, Margaret. I appreciate your help. You're welcome, Betty! We value your feedback and will do our best to resolve this quickly. Okay, I look forward to hearing back. Thank you, Betty. Have a great day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I'm really upset about the service I received last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Betty. Can you tell me what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’ve been noticing that my plants weren’t pruned properly. It looks like no one even touched them! I thought I was getting care for my home, not just for myself.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration. We strive for quality in all aspects of our service. When did you notice the issue?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was when I came home after my last therapy session four days ago. They looked terrible!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I apologize for the oversight, Betty. I’ll make sure to escalate this to our team immediately.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I need this fixed right away. I can’t have my home looking like this.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I will prioritize this. Can I get your address to ensure we send someone out today?",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, it's 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you. I’ll arrange for someone to come out and address the landscaping issue today.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "And what if they don't fix it properly again?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can schedule a follow-up appointment with our quality assurance team to ensure everything meets your expectations.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good, but I also want to discuss my upcoming physical therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! We can definitely do that. How have your sessions been going?",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "They've been fine, but I think I need more focus on my fall prevention exercises.",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can arrange for Dr. James Rodriguez to tailor a plan specifically for that.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be wonderful. I want to make sure I stay safe.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, Betty. I’ll set that up. Would you prefer a specific day for Dr. Rodriguez?",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Maybe Tuesday? That usually works for me.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect, I’ll confirm that for you.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "And can you also ensure someone calls me back about the landscaping?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, I’ll make sure we follow up with you after today’s visit and keep you updated.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Betty! We value your feedback and will do our best to resolve this quickly.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Okay, I look forward to hearing back.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 133,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you, Betty. Have a great day!",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 136,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c04ac26d78424de7a56a0db5",
+  "revision": "",
+  "status": "success"
+}
