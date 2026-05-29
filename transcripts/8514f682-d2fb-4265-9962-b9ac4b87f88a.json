@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-85c13c1464dc4217a1ecaebf",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315800-ef961e8a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-85c13c1464dc4217a1ecaebf",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 190,
+      "duration_ms": 190000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "85c13c1464dc4217a1ecaebf",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-85c13c1464dc4217a1ecaebf",
+      "media_name": "6500f322dda243bf82a48be8331883d4.mp3",
+      "scenario": "A VIP customer complains about an unexplained surcharge on their recent purchase and requests a detailed breakdown of the billing. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 190.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Patricia Wilson. I'm calling because I've noticed an unexplained surcharge on my mother's recent billing. I'm sorry to hear that, Patricia. Let me take a look at the details. Can you please provide your mother's name? Yes, her name is Evelyn Wilson. She received post-surgery care recently after her hip replacement. Thank you for that information. One moment while I pull up her account. Sure, take your time. Alright, I see her account here. I can see a charge labeled as \"additional support services.\" Yes, I don’t recall agreeing to any additional services. Can you explain what that charge is for? That charge often applies to extra caregiver hours that might have been needed if your mother required more assistance during her recovery. Let me check the details. Please do, because it seems higher than expected. I understand your concern. It looks like there were some additional hours recorded for her care on specific days. Would you like me to go over those dates with you? Yes, that would be helpful. On July 15th and July 17th, it shows she required more support than initially planned due to increased pain management needs. I see. But I still think it was a bit excessive. Can you clarify how those hours added up to that surcharge? Sure! The additional care was billed at our standard rate for post-surgery care, which is $85 to $110 per hour. Let me calculate it based on the recorded hours. Okay, that makes sense. After reviewing, the total for those extra hours does account for that surcharge. I can send you a detailed breakdown via email if you’d like. Yes, please do that. That would be very helpful. Can I confirm your email address is patricia.wilson@email.com? Yes, that’s correct. Great! I’ll send that breakdown right away. Is there anything else I can help you with today? Actually, yes. I’d like to inquire about scheduling ongoing care for my mother, as her recovery continues. Absolutely! We offer post-surgery recovery care. Would you like to discuss the schedule? Yes, that sounds good. We might need daily visits for at least a week. I can help set that up. I’ll have one of our care coordinators reach out to you shortly. Thank you, Margaret. I appreciate your help. You're welcome, Patricia! We’ll be in touch soon. Have a great day! You too, thanks!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 4,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Patricia Wilson. I'm calling because I've noticed an unexplained surcharge on my mother's recent billing.",
+          "speaker": "remote party",
+          "start_time": 4,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Patricia. Let me take a look at the details. Can you please provide your mother's name?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, her name is Evelyn Wilson. She received post-surgery care recently after her hip replacement.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you for that information. One moment while I pull up her account.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Alright, I see her account here. I can see a charge labeled as \"additional support services.\"",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, I don’t recall agreeing to any additional services. Can you explain what that charge is for?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That charge often applies to extra caregiver hours that might have been needed if your mother required more assistance during her recovery. Let me check the details.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Please do, because it seems higher than expected.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand your concern. It looks like there were some additional hours recorded for her care on specific days. Would you like me to go over those dates with you?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "On July 15th and July 17th, it shows she required more support than initially planned due to increased pain management needs.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I see. But I still think it was a bit excessive. Can you clarify how those hours added up to that surcharge?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! The additional care was billed at our standard rate for post-surgery care, which is $85 to $110 per hour. Let me calculate it based on the recorded hours.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, that makes sense.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "After reviewing, the total for those extra hours does account for that surcharge. I can send you a detailed breakdown via email if you’d like.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please do that. That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Can I confirm your email address is patricia.wilson@email.com?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll send that breakdown right away. Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Actually, yes. I’d like to inquire about scheduling ongoing care for my mother, as her recovery continues.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! We offer post-surgery recovery care. Would you like to discuss the schedule?",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that sounds good. We might need daily visits for at least a week.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I can help set that up. I’ll have one of our care coordinators reach out to you shortly.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 175,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome, Patricia! We’ll be in touch soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, thanks!",
+          "speaker": "remote party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-85c13c1464dc4217a1ecaebf",
+  "revision": "",
+  "status": "success"
+}
