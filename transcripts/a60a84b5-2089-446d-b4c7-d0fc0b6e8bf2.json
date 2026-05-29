@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6e2642ec98b94edc9f998a9b",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315970-5a245e22",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6e2642ec98b94edc9f998a9b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "6e2642ec98b94edc9f998a9b",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6e2642ec98b94edc9f998a9b",
+      "media_name": "4b9986f297af472b94daefd98ccdea8f.mp3",
+      "scenario": "A prospect cancels their planned consultation session, stating that they found a competitor offering better terms and services. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Eleanor Watson. I wanted to talk about my upcoming consultation session. Hi Eleanor! It’s great to hear from you. What would you like to discuss regarding the consultation? Well, unfortunately, I need to cancel it. I found another provider who is offering better terms and services. I’m really sorry to hear that. Can I ask what specific terms or services they’re offering that influenced your decision? They have more flexible hours and a slightly lower rate for physical therapy. Plus, my daughter prefers their approach. I understand how important those factors are. We strive to provide the best service possible. I appreciate that, but it’s hard to pass up the better deal right now. Absolutely, I completely understand. Just to be clear, you’re looking to cancel all upcoming services? Yes, that’s right. I’d like to cancel everything. I’ll make sure to process that for you, but may I ask if there’s anything specific we could do to keep you with us? Honestly, I’m not sure. Maybe if you could match their rates or hours? I can certainly discuss the possibility of adjusting our rates or scheduling options. Would you be open to that? I mean, if you could make it work, I would consider it. Great! Let me follow up with our management and see what we can offer. Can I confirm your number is still +13165557642? Yes, that’s correct. Thank you, Eleanor. I’ll reach out to you shortly with any new options we come up with. That sounds good, thank you for understanding. Of course! I appreciate your honesty and we value your time with us. No problem. I’ll be waiting to hear from you. I’ll make it a priority. Thank you for calling, Eleanor, and have a wonderful day! Thank you, Margaret. You too! Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I wanted to talk about my upcoming consultation session.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Eleanor! It’s great to hear from you. What would you like to discuss regarding the consultation?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, unfortunately, I need to cancel it. I found another provider who is offering better terms and services.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that. Can I ask what specific terms or services they’re offering that influenced your decision?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "They have more flexible hours and a slightly lower rate for physical therapy. Plus, my daughter prefers their approach.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how important those factors are. We strive to provide the best service possible.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that, but it’s hard to pass up the better deal right now.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I completely understand. Just to be clear, you’re looking to cancel all upcoming services?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that’s right. I’d like to cancel everything.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’ll make sure to process that for you, but may I ask if there’s anything specific we could do to keep you with us?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Honestly, I’m not sure. Maybe if you could match their rates or hours?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can certainly discuss the possibility of adjusting our rates or scheduling options. Would you be open to that?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I mean, if you could make it work, I would consider it.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! Let me follow up with our management and see what we can offer. Can I confirm your number is still +13165557642?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Eleanor. I’ll reach out to you shortly with any new options we come up with.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good, thank you for understanding.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course! I appreciate your honesty and we value your time with us.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No problem. I’ll be waiting to hear from you.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll make it a priority. Thank you for calling, Eleanor, and have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. You too!",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6e2642ec98b94edc9f998a9b",
+  "revision": "",
+  "status": "success"
+}
