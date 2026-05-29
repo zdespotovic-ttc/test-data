@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2de6fd3e2b0847d5a5273aba",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315785-6d78241e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2de6fd3e2b0847d5a5273aba",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "2de6fd3e2b0847d5a5273aba",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2de6fd3e2b0847d5a5273aba",
+      "media_name": "643ca1407ebf4bd6be4f6de9c5891e51.mp3",
+      "scenario": "A returning customer calls to dispute late fees applied to their account, insisting they made payments on time. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Michael Brown. I’m calling about some late fees on my father’s account that I don't think are correct. I’m sorry to hear that, Michael. Let me help you with that. Can you provide me with your father's account number? Sure, it’s 456789. I just received a notice saying we had late fees. I thought we made all the payments on time. Thank you for that information. Let me pull up the account and review the payment history. One moment, please. Alright, I have the account open. I see that there were payments made, but it appears there were some delays in processing that led to those late fees being applied. Delays? We sent the payments on time. This is really frustrating. I’m sure there’s a mistake somewhere. I completely understand your frustration, Michael. Let’s review the payment dates together to clarify this. The payments were recorded on the 1st and the 15th of the month, but they were not processed until a few days later. I see, but we sent them out on time. I just don’t think it’s fair to charge us late fees for that. I understand your concern. What I can do is raise this issue to our billing department for a review. That would be great. I’d really appreciate it if you could do that. Absolutely. Can I take down your email address to follow up once we have an update? Yes, it’s michaelbrown@email.com. Thank you, Michael. I’ll make sure to include you in the update. Also, while I have you on the line, would you be interested in discussing additional services for your father, like wound care or medication management? Actually, yes. He does need some wound care. Can you tell me more about that? Certainly! We offer wound care management, which includes professional assessment and dressing changes, typically priced between $75 and $95 per visit. That sounds helpful. I’ll consider it after we resolve the billing issue. Of course! I’ll make a note to follow up on that as well. Is there anything else I can assist you with today? No, that’s everything for now. Thank you for your help! You’re welcome, Michael! Thank you for calling CareFirst Home Health. Have a great day! You too, bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I’m calling about some late fees on my father’s account that I don't think are correct.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Michael. Let me help you with that. Can you provide me with your father's account number?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, it’s 456789. I just received a notice saying we had late fees. I thought we made all the payments on time.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you for that information. Let me pull up the account and review the payment history. One moment, please.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Alright, I have the account open. I see that there were payments made, but it appears there were some delays in processing that led to those late fees being applied.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Delays? We sent the payments on time. This is really frustrating. I’m sure there’s a mistake somewhere.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I completely understand your frustration, Michael. Let’s review the payment dates together to clarify this.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "The payments were recorded on the 1st and the 15th of the month, but they were not processed until a few days later.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 56,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I see, but we sent them out on time. I just don’t think it’s fair to charge us late fees for that.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand your concern. What I can do is raise this issue to our billing department for a review.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 69,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great. I’d really appreciate it if you could do that.",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely. Can I take down your email address to follow up once we have an update?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 78,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, it’s michaelbrown@email.com.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you, Michael. I’ll make sure to include you in the update.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Also, while I have you on the line, would you be interested in discussing additional services for your father, like wound care or medication management?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 94,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Actually, yes. He does need some wound care. Can you tell me more about that?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 102,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Certainly! We offer wound care management, which includes professional assessment and dressing changes, typically priced between $75 and $95 per visit.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 110,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That sounds helpful. I’ll consider it after we resolve the billing issue.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Of course! I’ll make a note to follow up on that as well. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "No, that’s everything for now. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome, Michael! Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "right",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2de6fd3e2b0847d5a5273aba",
+  "revision": "",
+  "status": "success"
+}
