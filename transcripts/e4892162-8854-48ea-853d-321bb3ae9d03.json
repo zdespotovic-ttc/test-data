@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-30a853a82517461a9d0d4005",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315871-46ca3063",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-30a853a82517461a9d0d4005",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 210,
+      "duration_ms": 210000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "30a853a82517461a9d0d4005",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-30a853a82517461a9d0d4005",
+      "media_name": "830abbb2307d41628d76b17d154a1d52.mp3",
+      "scenario": "A new customer urgently needs technical support as their server is down, affecting all operations. They stress the need for immediate resolution. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 210.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, my name is Michael Brown. I'm calling because my father, who has diabetes, needs urgent wound care and medication management. I understand, Michael. I’m here to help you with that. Can you please tell me a bit more about his situation? Sure! He recently had a wound that’s not healing well, and his diabetes management has been off lately. We really need someone to come out as soon as possible. Absolutely, I can arrange for a skilled nurse to assist with wound care and medication management. What’s the process for getting that set up? First, I’ll collect some information about your father and then we’ll schedule a visit. The cost for skilled nursing care is between $95 and $125 per visit. Okay, that sounds reasonable. Is there any way to get someone out today? Let me check our availability. We do have a nurse available for a visit today. That’s great! What do you need from me to proceed? I’ll need your father’s full name, address, and any specific instructions regarding his care. Also, do you have his insurance information? Yes, his name is Robert Brown, and he lives at 123 Elm Street. His insurance is with Blue Cross. Perfect, and I’ll need your contact information too. Can I have your phone number? It’s +13165557923. Thank you, Michael. We’ll also need to discuss his specific wound care and medication management needs to ensure the right nurse is assigned. Of course, he has a diabetic ulcer and requires regular insulin. Got it. I’ll make sure the nurse is prepared for both the wound care and diabetes management. Thank you, I really appreciate the quick response! You're welcome! I’ll set up the visit for today and confirm the time with you shortly. That would be perfect. Will someone call me beforehand? Yes, we’ll give you a call before the nurse arrives. And what if we also need ongoing assistance a few times a week? We can definitely arrange for regular visits. I’ll go over those options during our call. Sounds good, thank you again! You’re welcome, Michael! I’ll follow up shortly with all the details. I look forward to it. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Michael Brown. I'm calling because my father, who has diabetes, needs urgent wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I understand, Michael. I’m here to help you with that. Can you please tell me a bit more about his situation?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure! He recently had a wound that’s not healing well, and his diabetes management has been off lately. We really need someone to come out as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, I can arrange for a skilled nurse to assist with wound care and medication management.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "What’s the process for getting that set up?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "First, I’ll collect some information about your father and then we’ll schedule a visit. The cost for skilled nursing care is between $95 and $125 per visit.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that sounds reasonable. Is there any way to get someone out today?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check our availability. We do have a nurse available for a visit today.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s great! What do you need from me to proceed?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’ll need your father’s full name, address, and any specific instructions regarding his care. Also, do you have his insurance information?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, his name is Robert Brown, and he lives at 123 Elm Street. His insurance is with Blue Cross.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect, and I’ll need your contact information too. Can I have your phone number?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "It’s +13165557923.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you, Michael. We’ll also need to discuss his specific wound care and medication management needs to ensure the right nurse is assigned.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Of course, he has a diabetic ulcer and requires regular insulin.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Got it. I’ll make sure the nurse is prepared for both the wound care and diabetes management.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, I really appreciate the quick response!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You're welcome! I’ll set up the visit for today and confirm the time with you shortly.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be perfect. Will someone call me beforehand?",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 155,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we’ll give you a call before the nurse arrives.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "And what if we also need ongoing assistance a few times a week?",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 170,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "We can definitely arrange for regular visits. I’ll go over those options during our call.",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good, thank you again!",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 185,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Michael! I’ll follow up shortly with all the details.",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I look forward to it.",
+          "speaker": "remote party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Have a great day!",
+          "speaker": "local party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 200,
+          "end_time": 205,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 205,
+          "end_time": 210,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-30a853a82517461a9d0d4005",
+  "revision": "",
+  "status": "success"
+}
