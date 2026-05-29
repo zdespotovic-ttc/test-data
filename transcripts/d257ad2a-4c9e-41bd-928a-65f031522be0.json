@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6863b63119274b0385ed942f",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315927-37d989e4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6863b63119274b0385ed942f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "6863b63119274b0385ed942f",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6863b63119274b0385ed942f",
+      "media_name": "415a61558ad5495597faea5156838645.mp3",
+      "scenario": "A new customer calls to cancel their gym membership, expressing dissatisfaction with the facilities and lack of equipment maintenance. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is George Williams. I've been receiving cardiac care monitoring at home for a while now. Hi George! It’s great to hear from you. How can I help today? Well, I wanted to discuss my last visit and maybe look into some changes. Sure, I can help with that. What specifically would you like to change? Actually, it’s not about the service. I’m considering cancelling my gym membership, and I wanted to share my dissatisfaction with them. I see. That's unfortunate to hear. What issues have you been facing at the gym? Well, the facilities aren't well maintained, and there's always a shortage of equipment. I'm just not satisfied with the experience. That sounds frustrating, especially when you’re trying to keep active. Exactly! I feel like I'm not getting my money's worth. I understand. If you're looking for an alternative, we do offer physical therapy and exercise support at home. Oh really? How does that work? Our physical therapist, Dr. James Rodriguez, provides in-home sessions focused on rehabilitation and mobility training. That sounds interesting. What are the costs associated with that? The sessions range from $110 to $140 for about 45 to 60 minutes of therapy. That’s reasonable. I might be interested in that. Absolutely! Would you like me to arrange a consultation with Dr. Rodriguez? Yes, that would be great! Perfect! I’ll take care of scheduling that. Any specific days that work for you? I’m usually available on weekdays after 2 PM. Got it. I’ll confirm the appointment and send you a reminder. Thank you, Margaret. I really appreciate your help. You're welcome, George! Is there anything else you’d like to discuss or any questions? No, that covers it for now. Thank you! Great! I’ll follow up shortly with the details. Have a wonderful day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I've been receiving cardiac care monitoring at home for a while now.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George! It’s great to hear from you. How can I help today?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I wanted to discuss my last visit and maybe look into some changes.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Sure, I can help with that. What specifically would you like to change?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Actually, it’s not about the service. I’m considering cancelling my gym membership, and I wanted to share my dissatisfaction with them.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see. That's unfortunate to hear. What issues have you been facing at the gym?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Well, the facilities aren't well maintained, and there's always a shortage of equipment. I'm just not satisfied with the experience.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That sounds frustrating, especially when you’re trying to keep active.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Exactly! I feel like I'm not getting my money's worth.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand. If you're looking for an alternative, we do offer physical therapy and exercise support at home.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Oh really? How does that work?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Our physical therapist, Dr. James Rodriguez, provides in-home sessions focused on rehabilitation and mobility training.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds interesting. What are the costs associated with that?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The sessions range from $110 to $140 for about 45 to 60 minutes of therapy.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That’s reasonable. I might be interested in that.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! Would you like me to arrange a consultation with Dr. Rodriguez?",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that would be great!",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll take care of scheduling that. Any specific days that work for you?",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I’m usually available on weekdays after 2 PM.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Got it. I’ll confirm the appointment and send you a reminder.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, George! Is there anything else you’d like to discuss or any questions?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that covers it for now. Thank you!",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! I’ll follow up shortly with the details. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 120,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6863b63119274b0385ed942f",
+  "revision": "",
+  "status": "success"
+}
