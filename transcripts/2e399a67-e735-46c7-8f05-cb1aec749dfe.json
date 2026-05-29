@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e5f18dc72f5a4c0dadc1697e",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315655-ff2ff099",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e5f18dc72f5a4c0dadc1697e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "e5f18dc72f5a4c0dadc1697e",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e5f18dc72f5a4c0dadc1697e",
+      "media_name": "167ba0ad6e7d400797a701052c3b9a00.mp3",
+      "scenario": "A returning customer reports that the paint job done at their home is already peeling, indicating poor quality. They demand a re-do of the service. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Charles Thompson. I’m calling about the paint job done at my home. It’s already peeling. I’m sorry to hear that, Charles. Can you provide me with more details about the issue? Yes, I was expecting a good quality job, but it looks like it was poorly done. I need it redone as soon as possible. I understand your frustration, Charles. We strive for quality. When was the paint job completed? It was finished just a week ago. I can’t believe it’s already peeling. That’s certainly not the standard we aim to uphold. I’ll need to escalate this issue to our quality assurance team. I hope so. I really need this fixed quickly. Absolutely, I’ll ensure someone reaches out to you today. Would you prefer a specific time for that call? The sooner, the better. Maybe this afternoon? I’ll make a note for them to contact you by this afternoon. Thank you. I appreciate that. In addition to addressing the peeling paint, would you be interested in our home healthcare services? We can assist with post-surgical recovery if needed. Actually, I might need some help with my recovery. I had complex abdominal surgery a few months ago. We can definitely provide skilled nursing or personal care assistance if you require it. Yes, I would like more information on that. Great! We offer several services tailored for recovery, like medication management and wound care. That sounds good. Can you send me some details? Absolutely, I’ll have our Care Coordinator, Lisa, reach out to you with more information. Perfect. I appreciate your help with everything, Margaret. You’re welcome, Charles. I’ll ensure that the quality issue is addressed and that you receive the information you need. Thank you, Margaret. I look forward to hearing from you. Thank you for calling, Charles. Have a great day! You too, bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Charles Thompson. I’m calling about the paint job done at my home. It’s already peeling.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Charles. Can you provide me with more details about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I was expecting a good quality job, but it looks like it was poorly done. I need it redone as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration, Charles. We strive for quality. When was the paint job completed?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was finished just a week ago. I can’t believe it’s already peeling.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That’s certainly not the standard we aim to uphold. I’ll need to escalate this issue to our quality assurance team.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I hope so. I really need this fixed quickly.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I’ll ensure someone reaches out to you today. Would you prefer a specific time for that call?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "The sooner, the better. Maybe this afternoon?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’ll make a note for them to contact you by this afternoon.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you. I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "In addition to addressing the peeling paint, would you be interested in our home healthcare services? We can assist with post-surgical recovery if needed.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Actually, I might need some help with my recovery. I had complex abdominal surgery a few months ago.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can definitely provide skilled nursing or personal care assistance if you require it.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I would like more information on that.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! We offer several services tailored for recovery, like medication management and wound care.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good. Can you send me some details?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I’ll have our Care Coordinator, Lisa, reach out to you with more information.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect. I appreciate your help with everything, Margaret.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Charles. I’ll ensure that the quality issue is addressed and that you receive the information you need.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I look forward to hearing from you.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for calling, Charles. Have a great day!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e5f18dc72f5a4c0dadc1697e",
+  "revision": "",
+  "status": "success"
+}
