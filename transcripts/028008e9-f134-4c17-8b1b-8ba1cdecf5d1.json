@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5beaeab439194741b7276ca6",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315901-eefd8a69",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5beaeab439194741b7276ca6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 117,
+      "duration_ms": 117000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "5beaeab439194741b7276ca6",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5beaeab439194741b7276ca6",
+      "media_name": "b670bcccc5ae4ea89a1ae2ef0d696ca8.mp3",
+      "scenario": "A VIP customer calls for emergency medical equipment repair for their clinic, which is critical for patient care. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 117.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is George Williams. I need urgent assistance with some medical equipment at my clinic. Hi George, it’s good to hear from you. Can you tell me what the issue is? Yes, one of our critical cardiac monitors is malfunctioning, and we need it fixed ASAP. I understand how important that is, especially for patient care. When did this issue start? It just happened this morning, and we have patients scheduled for monitoring throughout the day. Okay, let me prioritize this. Do you know what exactly is wrong with the monitor? It keeps shutting off randomly. It’s been unreliable for a few days, but now it’s completely unusable. I see. I’ll arrange for a technician to come by right away. Can I confirm your clinic address? Yes, it’s 1234 Health Way, Wichita. Please hurry, we need it for our patients. I’ll dispatch someone immediately. Can I also grab a contact number for you just in case? Sure, it's +13165555678. Please keep me updated. Got it. I’ll update you as soon as the technician is on their way. Thank you, Margaret. I really appreciate your quick response. Of course, George. While I have you, have you considered scheduling an additional round of cardiac care monitoring? Actually, yes. We could use more regular visits given our current patient load. Great! I can connect you with Robert Davis, our Registered Nurse, who specializes in cardiac care. That would be helpful. Can we arrange a time for that? Let me check his availability. I will follow up with you on that once the equipment issue is resolved. Sounds good. Thanks for being so efficient! It’s my pleasure, George. I’ll get on this right away and keep you posted. Thank you, Margaret. I’ll be waiting for your call. You’re welcome. Talk soon! Bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I need urgent assistance with some medical equipment at my clinic.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George, it’s good to hear from you. Can you tell me what the issue is?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, one of our critical cardiac monitors is malfunctioning, and we need it fixed ASAP.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how important that is, especially for patient care. When did this issue start?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It just happened this morning, and we have patients scheduled for monitoring throughout the day.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Okay, let me prioritize this. Do you know what exactly is wrong with the monitor?",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It keeps shutting off randomly. It’s been unreliable for a few days, but now it’s completely unusable.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I see. I’ll arrange for a technician to come by right away. Can I confirm your clinic address?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, it’s 1234 Health Way, Wichita. Please hurry, we need it for our patients.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’ll dispatch someone immediately. Can I also grab a contact number for you just in case?",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, it's +13165555678. Please keep me updated.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Got it. I’ll update you as soon as the technician is on their way.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your quick response.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, George. While I have you, have you considered scheduling an additional round of cardiac care monitoring?",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, yes. We could use more regular visits given our current patient load.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I can connect you with Robert Davis, our Registered Nurse, who specializes in cardiac care.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be helpful. Can we arrange a time for that?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Let me check his availability. I will follow up with you on that once the equipment issue is resolved.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good. Thanks for being so efficient!",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It’s my pleasure, George. I’ll get on this right away and keep you posted.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I’ll be waiting for your call.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome. Talk soon!",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5beaeab439194741b7276ca6",
+  "revision": "",
+  "status": "success"
+}
