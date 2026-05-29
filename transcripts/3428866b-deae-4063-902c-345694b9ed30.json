@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-31357e29ca904f9a88513917",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315685-5e989385",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-31357e29ca904f9a88513917",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "31357e29ca904f9a88513917",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-31357e29ca904f9a88513917",
+      "media_name": "9d5294ab9fca48f9b859e891175f505a.mp3",
+      "scenario": "A new customer is unhappy with the product they received, stating it was damaged and not as described. They want a replacement or refund. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi Margaret, this is Helen Johnson. I’m calling about an issue I’m having. Hi Helen! It's good to hear from you. What seems to be the problem? Well, I had a physical therapy session last week, and honestly, I felt like the service was not what I expected. I'm sorry to hear that. Can you tell me more about what specifically was not satisfactory? The therapist seemed rushed and didn’t really address my concerns about my shoulder. I felt like I wasn't getting the care I needed. I understand how important it is to feel cared for, especially in your recovery. I apologize for that experience. Thank you. I think I deserve a follow-up or a replacement therapy session. Absolutely, we want to make sure you’re fully satisfied. Would you like me to schedule another session for you? Yes, I think that would be best. But I also want to ensure that I have a different therapist this time. I can certainly arrange that for you. Would you prefer to see Dr. James Rodriguez? He has a great reputation. Yes, I’ve heard good things about him. When can I see him? He has availability this Thursday at 3 PM or Friday at 10 AM. Which works better for you? Let’s go with Thursday at 3 PM. Perfect, I’ll book that for you. And just to clarify, I want to make sure that this session addresses my recovery needs fully. I will ensure he’s briefed about your situation so that you get the best care possible. Thank you. I’d appreciate that. Is there anything else you would like me to do for you today, Helen? Actually, yes. I’d like to discuss the possibility of more ongoing therapy sessions if that’s an option. Of course! We can set up a regular schedule for you, depending on your needs. That sounds great. I’d like that. I can also provide you with information about our pricing for ongoing sessions. Yes, please do that. Our physical therapy sessions range from $110 to $140 for a 45-minute visit. Does that fit within your budget? Yes, that’s manageable for me. Great! I’ll add this to your file, and we’ll discuss it further during your session on Thursday. Thank you, Margaret. I feel better about this already. I'm glad to hear that, Helen. We’ll take good care of you. Thank you so much for your help today. You’re welcome! If you need anything else, feel free to call. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I’m calling about an issue I’m having.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen! It's good to hear from you. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I had a physical therapy session last week, and honestly, I felt like the service was not what I expected.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm sorry to hear that. Can you tell me more about what specifically was not satisfactory?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The therapist seemed rushed and didn’t really address my concerns about my shoulder. I felt like I wasn't getting the care I needed.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 31,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how important it is to feel cared for, especially in your recovery. I apologize for that experience.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you. I think I deserve a follow-up or a replacement therapy session.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, we want to make sure you’re fully satisfied. Would you like me to schedule another session for you?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I think that would be best. But I also want to ensure that I have a different therapist this time.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can certainly arrange that for you. Would you prefer to see Dr. James Rodriguez? He has a great reputation.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I’ve heard good things about him. When can I see him?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "He has availability this Thursday at 3 PM or Friday at 10 AM. Which works better for you?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Let’s go with Thursday at 3 PM.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect, I’ll book that for you.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "And just to clarify, I want to make sure that this session addresses my recovery needs fully.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I will ensure he’s briefed about your situation so that you get the best care possible.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you. I’d appreciate that.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Is there anything else you would like me to do for you today, Helen?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Actually, yes. I’d like to discuss the possibility of more ongoing therapy sessions if that’s an option.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 101,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course! We can set up a regular schedule for you, depending on your needs.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds great. I’d like that.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I can also provide you with information about our pricing for ongoing sessions.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, please do that.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Our physical therapy sessions range from $110 to $140 for a 45-minute visit. Does that fit within your budget?",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 127,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, that’s manageable for me.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Great! I’ll add this to your file, and we’ll discuss it further during your session on Thursday.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 136,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret. I feel better about this already.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "I'm glad to hear that, Helen. We’ll take good care of you.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you so much for your help today.",
+          "speaker": "remote party",
+          "start_time": 144,
+          "end_time": 148,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You’re welcome! If you need anything else, feel free to call. Have a great day!",
+          "speaker": "local party",
+          "start_time": 148,
+          "end_time": 152,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 152,
+          "end_time": 157,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 160,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-31357e29ca904f9a88513917",
+  "revision": "",
+  "status": "success"
+}
