@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-27a6b8d5c6064c45ba215cdf",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315844-b90dc5ca",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-27a6b8d5c6064c45ba215cdf",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "27a6b8d5c6064c45ba215cdf",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-27a6b8d5c6064c45ba215cdf",
+      "media_name": "719d53ff38ce45bb9a8fbe6b909a0aad.mp3",
+      "scenario": "A prospect urgently requires a plumber due to a burst pipe causing flooding in their basement. They need immediate assistance. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you? Hi, Margaret, this is Rose Patterson. I need urgent help! Oh, I'm sorry to hear that, Rose. What seems to be the problem? There's a burst pipe in my basement, and it's flooding everywhere! I don't know what to do! That sounds really stressful. Have you been able to call a plumber yet? No, I haven't—I thought you might be able to help me with this! I understand, but we specialize in home healthcare services. We don't handle plumbing issues. Oh no, I really need someone right away! My son is at work, and I can’t deal with this alone. I completely understand your urgency, but let me help you find a plumber. That would be great, thank you! Are you connected with any local services? I can suggest a few plumbers in your area, but you'll need to call them directly. Okay, can you at least recommend one? Sure, let me pull up some numbers for you. Thank you, I really appreciate it! This is so overwhelming. I understand, Rose. Just a moment while I find that information. Alright, I have a couple of options. The first is “Rapid Response Plumbing.” Their number is +13165559800. Got it, Rapid Response Plumbing. What’s the second one? The second is “Wichita Plumbing Pros.” Their number is +13165559801. Thank you! I’ll call them now. Is there anything else you can do for me? Just make sure to clear the area around the leak to prevent any further damage. I will, I will! I’m worried about my mom’s care too. She needs her companion care as usual. Absolutely, we can ensure her care continues seamlessly. Would you like me to confirm her caregiver for tomorrow? Yes, please do that. Familiar faces are important for her comfort. I’ll reach out to your usual caregiver and confirm they will be there. Thank you so much, Margaret. I really appreciate your help today. Of course, Rose. It's my pleasure. Stay safe, and don't hesitate to reach out if you need anything else. I will, thank you! Bye-bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Rose Patterson. I need urgent help!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I'm sorry to hear that, Rose. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "There's a burst pipe in my basement, and it's flooding everywhere! I don't know what to do!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds really stressful. Have you been able to call a plumber yet?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "No, I haven't—I thought you might be able to help me with this!",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, but we specialize in home healthcare services. We don't handle plumbing issues.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh no, I really need someone right away! My son is at work, and I can’t deal with this alone.",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand your urgency, but let me help you find a plumber.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great, thank you! Are you connected with any local services?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can suggest a few plumbers in your area, but you'll need to call them directly.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, can you at least recommend one?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Sure, let me pull up some numbers for you.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, I really appreciate it! This is so overwhelming.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I understand, Rose. Just a moment while I find that information.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Alright, I have a couple of options. The first is “Rapid Response Plumbing.” Their number is +13165559800.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Got it, Rapid Response Plumbing. What’s the second one?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 92,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "The second is “Wichita Plumbing Pros.” Their number is +13165559801.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thank you! I’ll call them now. Is there anything else you can do for me?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 103,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Just make sure to clear the area around the leak to prevent any further damage.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I will, I will! I’m worried about my mom’s care too. She needs her companion care as usual.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 115,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Absolutely, we can ensure her care continues seamlessly. Would you like me to confirm her caregiver for tomorrow?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, please do that. Familiar faces are important for her comfort.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I’ll reach out to your usual caregiver and confirm they will be there.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Of course, Rose. It's my pleasure. Stay safe, and don't hesitate to reach out if you need anything else.",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 142,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "I will, thank you! Bye-bye.",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 148,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 148,
+          "end_time": 150,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-27a6b8d5c6064c45ba215cdf",
+  "revision": "",
+  "status": "success"
+}
