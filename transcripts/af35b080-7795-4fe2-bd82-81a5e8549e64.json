@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-29T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b1588513f582492ea2ef5f0c",
+    "created": 1780038000,
+    "modified": 1780038000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947315813-40dfdfcf",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b1588513f582492ea2ef5f0c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 240,
+      "duration_ms": 240000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947257200,
+      "call_id": "b1588513f582492ea2ef5f0c",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b1588513f582492ea2ef5f0c",
+      "media_name": "2364ad18c6cd4f2ab8367b2ee84e2f06.mp3",
+      "scenario": "A new customer is surprised by the high interest rate on their recent financing plan, claiming it wasn't part of the original agreement. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 240.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Susan Garcia. I was referred by my father’s pulmonologist for respiratory care for him. Nice to meet you, Susan. Can you tell me a bit more about your father's needs? Sure, my father has COPD and needs assistance with his breathing treatments and respiratory care. We can definitely help with that. We provide skilled nursing care and medication management. That sounds good, but I also wanted to discuss a billing concern. Of course. What’s your concern regarding billing? I recently set up financing for the services, but I just saw the interest rate is much higher than I expected. It wasn’t part of our original agreement. I’m sorry to hear that, Susan. Let me check your account and see what details we have regarding the financing plan. Thank you. I really thought it would be more affordable based on what I initially discussed. I understand your concern. It’s important to clarify these matters. Can you hold for just a moment while I pull up your information? Sure, I appreciate it. Thank you for your patience. I see the financing plan you set up, and it does include a higher interest rate than anticipated. I apologize for any confusion. It doesn’t seem fair, especially since my father needs these services urgently. I completely understand. Let me escalate this to our billing department and see if we can get you a better rate. That would be really helpful. Also, while I have you, would you be interested in discussing our skilled nursing services for his respiratory care? Yes, definitely. I need to know what options are available. We offer skilled nursing care starting at $95 to $125 for 1-2 hours, which includes medication management and health monitoring. That sounds good. I’d like to arrange for someone to come out as soon as possible. I'll connect you with our Care Coordinator, Lisa Chen, to set up a care plan for your father. Perfect, thank you for your help! You’re welcome! I’ll follow up on the billing issue and have Lisa reach out to you today. Thanks, Margaret. I hope to hear from you soon. Absolutely! Have a great day, Susan. You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Susan Garcia. I was referred by my father’s pulmonologist for respiratory care for him.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Susan. Can you tell me a bit more about your father's needs?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, my father has COPD and needs assistance with his breathing treatments and respiratory care.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely help with that. We provide skilled nursing care and medication management.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good, but I also wanted to discuss a billing concern.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course. What’s your concern regarding billing?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I recently set up financing for the services, but I just saw the interest rate is much higher than I expected. It wasn’t part of our original agreement.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’m sorry to hear that, Susan. Let me check your account and see what details we have regarding the financing plan.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you. I really thought it would be more affordable based on what I initially discussed.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 80,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand your concern. It’s important to clarify these matters. Can you hold for just a moment while I pull up your information?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you for your patience. I see the financing plan you set up, and it does include a higher interest rate than anticipated. I apologize for any confusion.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 115,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "It doesn’t seem fair, especially since my father needs these services urgently.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I completely understand. Let me escalate this to our billing department and see if we can get you a better rate.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be really helpful.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Also, while I have you, would you be interested in discussing our skilled nursing services for his respiratory care?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, definitely. I need to know what options are available.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We offer skilled nursing care starting at $95 to $125 for 1-2 hours, which includes medication management and health monitoring.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 175,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. I’d like to arrange for someone to come out as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 185,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I'll connect you with our Care Coordinator, Lisa Chen, to set up a care plan for your father.",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 195,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect, thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 195,
+          "end_time": 205,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! I’ll follow up on the billing issue and have Lisa reach out to you today.",
+          "speaker": "local party",
+          "start_time": 205,
+          "end_time": 215,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks, Margaret. I hope to hear from you soon.",
+          "speaker": "remote party",
+          "start_time": 215,
+          "end_time": 225,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely! Have a great day, Susan.",
+          "speaker": "local party",
+          "start_time": 225,
+          "end_time": 230,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 230,
+          "end_time": 235,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 235,
+          "end_time": 240,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b1588513f582492ea2ef5f0c",
+  "revision": "",
+  "status": "success"
+}
