@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7b8ee90d0ea943b6a46deacb",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571341-187f9ce9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7b8ee90d0ea943b6a46deacb",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "7b8ee90d0ea943b6a46deacb",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7b8ee90d0ea943b6a46deacb",
+      "media_name": "e9ac9dd56f7c41fea9db6673aca95706.mp3",
+      "scenario": "A dissatisfied customer calls to complain about the poor quality of the recent home cleaning service. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is Michael Brown. I'm calling about a service issue we had recently. I’m sorry to hear that, Michael. Can you tell me what happened? Well, we had a home cleaning service scheduled for my father, and it was really disappointing. They didn’t clean properly at all. I apologize for that, Michael. That must be very frustrating for you and your father. Yes, it was. They left dust in the corners, and the bathrooms were not cleaned. I understand your concern. That’s not the level of service we strive for. Exactly. This was supposed to help him, not add more stress. Let’s address this immediately. Can I get some details about when the service occurred? It was last Friday. We were really hoping for a better experience. Thank you for that info. I will escalate this issue to our Client Services Manager right away. I appreciate that. I just want to make sure this doesn’t happen again. Absolutely, Michael. We value your feedback. Can I take your father’s name for follow-up? His name is Henry Brown. Can you ensure that someone will follow up with me? Yes, I will personally ensure you receive a follow-up call by tomorrow. Thank you. I really hope this gets resolved quickly. We’ll do our best, Michael. Also, I want to mention that we offer skilled nursing and medication management services. Oh, my father needs medication management too. He has diabetes. That’s great to hear. We can set up a consultation for that service as well. Yes, I’d like that. Can you provide more details? Certainly! Our medication management service is between $65 and $80 for a 30 to 45-minute visit. That sounds reasonable. Can you also check if he needs wound care? Yes, we offer wound care management at $75 to $95. Perfect. I’ll take both. Wonderful! I’ll arrange for someone to contact you regarding setting up the services. Thank you, Margaret. I appreciate your help today. You’re welcome, Michael. We’ll be in touch soon to follow up on the cleaning complaint and your father’s care. Sounds good. Have a great day. You too, Michael. Thank you for calling CareFirst Home Health!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I'm calling about a service issue we had recently.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Michael. Can you tell me what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, we had a home cleaning service scheduled for my father, and it was really disappointing. They didn’t clean properly at all.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for that, Michael. That must be very frustrating for you and your father.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it was. They left dust in the corners, and the bathrooms were not cleaned.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. That’s not the level of service we strive for.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Exactly. This was supposed to help him, not add more stress.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let’s address this immediately. Can I get some details about when the service occurred?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It was last Friday. We were really hoping for a better experience.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for that info. I will escalate this issue to our Client Services Manager right away.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate that. I just want to make sure this doesn’t happen again.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, Michael. We value your feedback. Can I take your father’s name for follow-up?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "His name is Henry Brown. Can you ensure that someone will follow up with me?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, I will personally ensure you receive a follow-up call by tomorrow.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. I really hope this gets resolved quickly.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We’ll do our best, Michael. Also, I want to mention that we offer skilled nursing and medication management services.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Oh, my father needs medication management too. He has diabetes.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "That’s great to hear. We can set up a consultation for that service as well.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, I’d like that. Can you provide more details?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Certainly! Our medication management service is between $65 and $80 for a 30 to 45-minute visit.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds reasonable. Can you also check if he needs wound care?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, we offer wound care management at $75 to $95.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect. I’ll take both.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Wonderful! I’ll arrange for someone to contact you regarding setting up the services.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Michael. We’ll be in touch soon to follow up on the cleaning complaint and your father’s care.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Sounds good. Have a great day.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, Michael. Thank you for calling CareFirst Home Health!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7b8ee90d0ea943b6a46deacb",
+  "revision": "",
+  "status": "success"
+}
