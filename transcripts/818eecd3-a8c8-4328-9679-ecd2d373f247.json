@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c5413c46f3434dc78b049702",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564801-9bc78788",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c5413c46f3434dc78b049702",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 167,
+      "duration_ms": 167000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "c5413c46f3434dc78b049702",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c5413c46f3434dc78b049702",
+      "media_name": "15e160f6249441ab969fa01af972a701.mp3",
+      "scenario": "A new customer finds discrepancies in their first bill and requests a detailed explanation of the charges. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 167.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Betty Lou Smith. I’m calling about my latest bill. I noticed some discrepancies, and I’d like to understand the charges better. Of course, Betty. I’m happy to help you with that. Can you tell me what specific charges you're concerned about? Well, I was charged for services that I didn’t receive. It seems like there’s a charge for physical therapy that's not right. I understand your concern. Let me pull up your billing details. One moment, please. Sure, take your time. Thank you for your patience. I see here that there was a charge for a physical therapy session dated last week. Was that not completed? Correct. I didn't have any physical therapy that week; my last visit was just the personal care assistance. I appreciate your clarity, Betty. Let me verify that with our records to make sure it was a billing error. Okay, thank you. I just want to ensure I'm not overcharged. Absolutely, it’s important to us that you feel this is handled correctly. I’ll check with our billing department right away. I appreciate that. I'm also concerned about having a consistent caregiver schedule. I can help with that too. Would you like me to look into scheduling preferences while I check on the billing? Yes, that would be great. I really prefer to have the same caregiver each time if possible. Noted. We’ll work on matching you with a consistent caregiver. Now, regarding the billing issue, I’ll follow up with you once I have more information. Thank you. I’d really appreciate any updates you can provide. Of course, I’ll make a note to call you back by tomorrow. Is there a specific time that works best for you? Anytime in the afternoon is fine. Great! I’ll aim for the afternoon then. Also, if you’re interested, we have respite care services that could help give you some relief. That sounds interesting, but I need to review my current services first before adding anything new. That makes perfect sense, Betty. I’ll follow up on both the billing issue and your care preferences tomorrow. Thank you, Margaret. I really appreciate your help today. You’re welcome, Betty! Thank you for choosing CareFirst, and I’ll talk to you soon. Talk soon, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I’m calling about my latest bill. I noticed some discrepancies, and I’d like to understand the charges better.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Betty. I’m happy to help you with that. Can you tell me what specific charges you're concerned about?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was charged for services that I didn’t receive. It seems like there’s a charge for physical therapy that's not right.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 23,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your billing details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience. I see here that there was a charge for a physical therapy session dated last week. Was that not completed?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 48,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Correct. I didn't have any physical therapy that week; my last visit was just the personal care assistance.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I appreciate your clarity, Betty. Let me verify that with our records to make sure it was a billing error.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, thank you. I just want to ensure I'm not overcharged.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, it’s important to us that you feel this is handled correctly. I’ll check with our billing department right away.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 77,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate that. I'm also concerned about having a consistent caregiver schedule.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 84,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can help with that too. Would you like me to look into scheduling preferences while I check on the billing?",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 91,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great. I really prefer to have the same caregiver each time if possible.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 97,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Noted. We’ll work on matching you with a consistent caregiver. Now, regarding the billing issue, I’ll follow up with you once I have more information.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 105,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. I’d really appreciate any updates you can provide.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 114,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course, I’ll make a note to call you back by tomorrow. Is there a specific time that works best for you?",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 121,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Anytime in the afternoon is fine.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 128,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll aim for the afternoon then. Also, if you’re interested, we have respite care services that could help give you some relief.",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 135,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds interesting, but I need to review my current services first before adding anything new.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 142,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "That makes perfect sense, Betty. I’ll follow up on both the billing issue and your care preferences tomorrow.",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 150,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 157,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Betty! Thank you for choosing CareFirst, and I’ll talk to you soon.",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 162,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Talk soon, bye!",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 167,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c5413c46f3434dc78b049702",
+  "revision": "",
+  "status": "success"
+}
