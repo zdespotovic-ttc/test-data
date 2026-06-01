@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-83771875dbe040c79953f5e7",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947568032-b8a0df65",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-83771875dbe040c79953f5e7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "83771875dbe040c79953f5e7",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-83771875dbe040c79953f5e7",
+      "media_name": "48609f9618f1483d8d24b52b96b75ef6.mp3",
+      "scenario": "A caller asks for directions to the facility and nearby parking options. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is Michael Brown. I found your number through the hospital discharge planning department. Nice to meet you, Michael! What can I assist you with? I’m looking for some information. My father has diabetes and needs wound care and medication management. We can definitely help with that. Do you have a specific question in mind? Yes, I was wondering about directions to your facility and nearby parking options. Of course! We’re located at 2847 North Ridge Road, Suite 205, Wichita, KS 67205. Great, and how do I get there from the hospital? If you’re coming from the hospital, head north on Ridge Road for about ten minutes. You’ll see our building on the right. That sounds easy enough. What about parking? We have a parking lot right behind the building. It’s free and usually has ample space available. That’s good to know. Will I be able to find someone to speak with when I arrive? Absolutely! Our staff is available during business hours, and we’re here to assist you. What are your hours? We’re open Monday through Friday from 7:00 AM to 7:00 PM, and Saturday from 8:00 AM to 5:00 PM. And what about Sundays? On Sundays, we’re available for on-call emergencies only. Got it. I might also need help scheduling services. We can assist with that! Would you like me to connect you with our Care Coordinator? Yes, that would be helpful. Great! Lisa Chen is our Care Coordinator. I can transfer you to her directly. Perfect, thank you! You’re welcome! I’ll also note your father's needs for wound care and medication management. I appreciate that! Is there anything else you’d like to ask before I transfer you? No, that’s everything for now. Thanks for your help! My pleasure, Michael! I’ll connect you with Lisa right away. Thank you! You’re welcome! One moment please.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Michael Brown. I found your number through the hospital discharge planning department.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Michael! What can I assist you with?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m looking for some information. My father has diabetes and needs wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 19,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely help with that. Do you have a specific question in mind?",
+          "speaker": "local party",
+          "start_time": 19,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I was wondering about directions to your facility and nearby parking options.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course! We’re located at 2847 North Ridge Road, Suite 205, Wichita, KS 67205.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great, and how do I get there from the hospital?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "If you’re coming from the hospital, head north on Ridge Road for about ten minutes. You’ll see our building on the right.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds easy enough. What about parking?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We have a parking lot right behind the building. It’s free and usually has ample space available.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s good to know. Will I be able to find someone to speak with when I arrive?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! Our staff is available during business hours, and we’re here to assist you.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "What are your hours?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We’re open Monday through Friday from 7:00 AM to 7:00 PM, and Saturday from 8:00 AM to 5:00 PM.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "And what about Sundays?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "On Sundays, we’re available for on-call emergencies only.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 86,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Got it. I might also need help scheduling services.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 91,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can assist with that! Would you like me to connect you with our Care Coordinator?",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! Lisa Chen is our Care Coordinator. I can transfer you to her directly.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! I’ll also note your father's needs for wound care and medication management.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate that!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Is there anything else you’d like to ask before I transfer you?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s everything for now. Thanks for your help!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "My pleasure, Michael! I’ll connect you with Lisa right away.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome! One moment please.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-83771875dbe040c79953f5e7",
+  "revision": "",
+  "status": "success"
+}
