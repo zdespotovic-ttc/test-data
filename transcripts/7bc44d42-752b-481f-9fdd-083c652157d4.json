@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-35e015ccc3ac4b3f811b93f1",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947567853-b8b6af09",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-35e015ccc3ac4b3f811b93f1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 200,
+      "duration_ms": 200000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "35e015ccc3ac4b3f811b93f1",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-35e015ccc3ac4b3f811b93f1",
+      "media_name": "f68abd32f8524adca6f8a37f7f0ab303.mp3",
+      "scenario": "A customer disputes a late fee applied to their account and requests a review. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 200.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Susan Garcia. I'm calling because I noticed a late fee on my father's account, and I’d like to dispute it. I’m sorry to hear that, Susan. Let me look up your father’s account. Could you please provide me with his name? Yes, it’s Carlos Garcia. Thank you, let me pull that up for you. Just a moment, please. Sure, take your time. Okay, I see the account here. I can confirm there is a late fee applied. Can you tell me why you believe it shouldn't be there? We were under the impression that the payment was submitted on time. My father’s breathing treatments have been ongoing, and it’s been hard to keep track with everything going on. I understand, and I’m here to help. Let me check the payment history and see what might have caused the late fee. Thank you, I appreciate it. It looks like the payment was received a day late due to a processing error on our end. I apologize for that. Oh, I see. So, can that fee be waived? Yes, I can submit a request to waive the late fee. It usually takes about 3-5 business days to process. That works for me. Thank you! You’re welcome! Is there anything else I can assist you with today? Perhaps scheduling additional services for your father’s care? Actually, yes. I’d like to know more about respiratory care for him. We offer skilled nursing care that includes medication management and assistance with breathing treatments. Would you like me to provide pricing and schedule a consultation? Yes, that would be great. Our skilled nursing care ranges from $95 to $125 for a visit lasting 1-2 hours. We can tailor the services to your father's needs. That sounds good. I’d like to move forward with that. Perfect! I can have our Care Coordinator, Lisa, reach out to you to set everything up. Thank you, Margaret! You’re welcome, Susan! I’ll also follow up on the late fee waiver and let you know once that’s processed. I appreciate that. Is there a preferred time for Lisa to call you? Anytime after 2 PM works for me. Great! We’ll make sure to have her contact you then. Thank you so much for your help today! You’re very welcome, Susan. Have a wonderful day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Susan Garcia. I'm calling because I noticed a late fee on my father's account, and I’d like to dispute it.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Susan. Let me look up your father’s account. Could you please provide me with his name?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it’s Carlos Garcia.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you, let me pull that up for you. Just a moment, please.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Okay, I see the account here. I can confirm there is a late fee applied. Can you tell me why you believe it shouldn't be there?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "We were under the impression that the payment was submitted on time. My father’s breathing treatments have been ongoing, and it’s been hard to keep track with everything going on.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand, and I’m here to help. Let me check the payment history and see what might have caused the late fee.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It looks like the payment was received a day late due to a processing error on our end. I apologize for that.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Oh, I see. So, can that fee be waived?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, I can submit a request to waive the late fee. It usually takes about 3-5 business days to process.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That works for me. Thank you!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You’re welcome! Is there anything else I can assist you with today? Perhaps scheduling additional services for your father’s care?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, yes. I’d like to know more about respiratory care for him.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We offer skilled nursing care that includes medication management and assistance with breathing treatments. Would you like me to provide pricing and schedule a consultation?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that would be great.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our skilled nursing care ranges from $95 to $125 for a visit lasting 1-2 hours. We can tailor the services to your father's needs.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. I’d like to move forward with that.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I can have our Care Coordinator, Lisa, reach out to you to set everything up.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Susan! I’ll also follow up on the late fee waiver and let you know once that’s processed.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Is there a preferred time for Lisa to call you?",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Anytime after 2 PM works for me.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Great! We’ll make sure to have her contact you then.",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much for your help today!",
+          "speaker": "remote party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re very welcome, Susan. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-35e015ccc3ac4b3f811b93f1",
+  "revision": "",
+  "status": "success"
+}
