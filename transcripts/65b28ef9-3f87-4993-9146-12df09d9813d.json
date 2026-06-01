@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a4915273b05e466c8d33ff00",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571780-7691298c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a4915273b05e466c8d33ff00",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 168,
+      "duration_ms": 168000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "a4915273b05e466c8d33ff00",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a4915273b05e466c8d33ff00",
+      "media_name": "59e576cbb7a3442dba62cf8bdf4a3959.mp3",
+      "scenario": "An individual follows up on a complaint filed last week about a delayed service. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 168.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Eleanor Watson. I'm calling to follow up on a complaint I filed last week about a delayed service. Hi, Eleanor. Thank you for reaching out. I remember your case. Can you remind me which service was delayed? Yes, it was the physical therapy session scheduled for last Tuesday. The therapist didn't show up. I apologize for that, Eleanor. Let me check the notes on that incident. One moment, please. Sure, take your time. I just want to ensure my care continues smoothly. Thank you for your patience. It looks like there was a scheduling mix-up. I see the therapist was not notified of the appointment. That’s really concerning. I depend on that therapy for my recovery. I thought everything was confirmed. I completely understand, and I'm really sorry for the oversight. We take these concerns seriously. What steps are you taking to ensure this doesn’t happen again? We are reviewing our scheduling process and will also reinforce communication protocols with our staff. That sounds good, but I still need to know when my next session will be. Of course! Let me check the schedule for Dr. Rodriguez and see when he can come out next. Thank you. I really appreciate that. My daughter coordinates my care, so we’ll need to find a good time. Absolutely. I see Dr. Rodriguez is available this Thursday at 11 AM or Friday at 1 PM. Let’s go with Thursday at 11 AM. That works best for us. Perfect, I will schedule that for you right now. Is there anything else you needed today? Well, I also wanted to discuss the possibility of increasing my skilled nursing visits. We can certainly explore that. Would you like to schedule a time with Robert Davis to discuss your needs? Yes, that would be great. How about this Friday at 2 PM? Would that work for you? Yes, that sounds perfect. Excellent, I’ve noted that down. So to recap, we have your PT appointment Thursday at 11 AM and Robert on Friday at 2 PM. That's correct. Thank you for being so helpful today, Margaret. You're very welcome, Eleanor. I appreciate your understanding. No problem. I look forward to the appointments. Thank you for calling CareFirst. Have a great day! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Eleanor Watson. I'm calling to follow up on a complaint I filed last week about a delayed service.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Eleanor. Thank you for reaching out. I remember your case. Can you remind me which service was delayed?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it was the physical therapy session scheduled for last Tuesday. The therapist didn't show up.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for that, Eleanor. Let me check the notes on that incident. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time. I just want to ensure my care continues smoothly.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 38,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience. It looks like there was a scheduling mix-up. I see the therapist was not notified of the appointment.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That’s really concerning. I depend on that therapy for my recovery. I thought everything was confirmed.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 51,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand, and I'm really sorry for the oversight. We take these concerns seriously.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 58,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "What steps are you taking to ensure this doesn’t happen again?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We are reviewing our scheduling process and will also reinforce communication protocols with our staff.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 69,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good, but I still need to know when my next session will be.",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! Let me check the schedule for Dr. Rodriguez and see when he can come out next.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you. I really appreciate that. My daughter coordinates my care, so we’ll need to find a good time.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely. I see Dr. Rodriguez is available this Thursday at 11 AM or Friday at 1 PM.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 97,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Let’s go with Thursday at 11 AM. That works best for us.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 104,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect, I will schedule that for you right now. Is there anything else you needed today?",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Well, I also wanted to discuss the possibility of increasing my skilled nursing visits.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can certainly explore that. Would you like to schedule a time with Robert Davis to discuss your needs?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that would be great.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "How about this Friday at 2 PM? Would that work for you?",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that sounds perfect.",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 137,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Excellent, I’ve noted that down. So to recap, we have your PT appointment Thursday at 11 AM and Robert on Friday at 2 PM.",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 143,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That's correct. Thank you for being so helpful today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're very welcome, Eleanor. I appreciate your understanding.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No problem. I look forward to the appointments.",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 160,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for calling CareFirst. Have a great day!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 164,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 164,
+          "end_time": 168,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a4915273b05e466c8d33ff00",
+  "revision": "",
+  "status": "success"
+}
