@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dc3ce57fc6834954a350f9ce",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947567780-7de0d3e1",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dc3ce57fc6834954a350f9ce",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 155,
+      "duration_ms": 155000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "dc3ce57fc6834954a350f9ce",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dc3ce57fc6834954a350f9ce",
+      "media_name": "056c67a30b864c7ba0e41acf5835af8c.mp3",
+      "scenario": "A first-time caller requests information about the types of wellness programs available. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 155.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is Agnes Rodriguez, and I’m looking for information about your wellness programs. Hi Agnes, I’d be happy to help with that. What specific wellness programs are you interested in? I’m not sure, I just heard that you offer various options. We do offer a range of wellness services, including personal care assistance, companion care, and specialized programs for dementia care. That sounds interesting. Can you tell me more about the companion care? Of course! Our companion care services provide social interaction, light housekeeping, and support for activities of daily living. How much does that cost? The price for companion care is typically between $25 and $30 per hour. That sounds reasonable. I’m also curious about any specialized programs for clients with dementia. We have specialized dementia and Alzheimer’s care, which is designed to help clients with cognitive impairments. What is the pricing for that service? The cost for dementia care ranges from $32 to $40 per hour, depending on the level of care needed. Great, that could be beneficial. Do you have any wellness programs focused on physical activity? Yes, we offer physical therapy services, which include rehabilitation for mobility, strength, and balance improvement. And what’s the cost for physical therapy? Physical therapy services range from $110 to $140 for a 45 to 60-minute session. That sounds like something my mother might need. How do I get started with setting up these services? I can help you with that. First, we would need to perform an assessment and develop a care plan tailored to your mother’s needs. Okay, that sounds good. What are the next steps? I can schedule a consultation for you with our Care Coordinator, Lisa Chen. Would you like me to do that? Yes, please. When is she available? Lisa is available Monday through Saturday, typically from 7 AM to 7 PM. How about tomorrow at 10 AM? Let me check that for you... Yes, Lisa is available at 10 AM tomorrow. I'll book that for you. Perfect! Thank you so much. You’re welcome, Agnes! I’ll also send you some information about our wellness programs via email. That would be great. I appreciate the help. No problem at all! Is there anything else I can assist you with today? No, that’s everything for now. Thank you! Thank you for calling CareFirst Home Health, Agnes. Have a wonderful day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Agnes Rodriguez, and I’m looking for information about your wellness programs.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes, I’d be happy to help with that. What specific wellness programs are you interested in?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m not sure, I just heard that you offer various options.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We do offer a range of wellness services, including personal care assistance, companion care, and specialized programs for dementia care.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds interesting. Can you tell me more about the companion care?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course! Our companion care services provide social interaction, light housekeeping, and support for activities of daily living.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "How much does that cost?",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "The price for companion care is typically between $25 and $30 per hour.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds reasonable. I’m also curious about any specialized programs for clients with dementia.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We have specialized dementia and Alzheimer’s care, which is designed to help clients with cognitive impairments.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "What is the pricing for that service?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The cost for dementia care ranges from $32 to $40 per hour, depending on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great, that could be beneficial. Do you have any wellness programs focused on physical activity?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 64,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we offer physical therapy services, which include rehabilitation for mobility, strength, and balance improvement.",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "And what’s the cost for physical therapy?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Physical therapy services range from $110 to $140 for a 45 to 60-minute session.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds like something my mother might need. How do I get started with setting up these services?",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I can help you with that. First, we would need to perform an assessment and develop a care plan tailored to your mother’s needs.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, that sounds good. What are the next steps?",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I can schedule a consultation for you with our Care Coordinator, Lisa Chen. Would you like me to do that?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. When is she available?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Lisa is available Monday through Saturday, typically from 7 AM to 7 PM.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "How about tomorrow at 10 AM?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Let me check that for you... Yes, Lisa is available at 10 AM tomorrow. I'll book that for you.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect! Thank you so much.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Agnes! I’ll also send you some information about our wellness programs via email.",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 128,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "That would be great. I appreciate the help.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 133,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "No problem at all! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 138,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "No, that’s everything for now. Thank you!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health, Agnes. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 147,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 147,
+          "end_time": 151,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 151,
+          "end_time": 155,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dc3ce57fc6834954a350f9ce",
+  "revision": "",
+  "status": "success"
+}
