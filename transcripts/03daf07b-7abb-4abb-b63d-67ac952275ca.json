@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-663b256e7629459cb3567f0d",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571532-a5f6d164",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-663b256e7629459cb3567f0d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "663b256e7629459cb3567f0d",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-663b256e7629459cb3567f0d",
+      "media_name": "66e00fca6dba43ce8949098740e3ade1.mp3",
+      "scenario": "A customer calls to clarify unexpected charges on their recent utility bill. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is George Williams. I'm calling about some unexpected charges on my latest bill. Hi George, it's good to hear from you. I can help with that. Can you tell me which charges you are referring to? Yes, the bill has a charge for $95 for skilled nursing care, but I only had a visit last week for cardiac care monitoring. I understand your concern. Let me check your account details quickly. One moment please. Sure, take your time. Thank you for your patience. It looks like there was a billing error that added an extra service. You were only charged for the monitoring last week. That's what I thought. I don't want to be charged for a service I didn't receive. Absolutely, George. I completely understand your frustration. I will correct that immediately. Thank you, I appreciate that. How long will it take to see the correction? It should reflect on your next billing cycle, which is within the next month. Okay, that sounds good. Is there anything else you'd like to discuss while I have you on the line? Actually, yes. I was wondering if there’s any chance I could schedule another monitoring visit sooner. Certainly! I can help with that. When would you like to schedule the visit? How about next Tuesday around 10 AM? Let me confirm that for you. Yes, I can schedule you for Tuesday at 10 AM. Great! Thank you, Margaret. You’re welcome, George! I’ve got that appointment set up. Just to confirm, I won’t have any extra charges for that visit, right? That's correct! You'll just receive your standard billing for that service. Perfect, thank you. You're welcome! If any other questions come up, feel free to reach out. I will, thanks again! Have a great day, George! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I'm calling about some unexpected charges on my latest bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George, it's good to hear from you. I can help with that. Can you tell me which charges you are referring to?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, the bill has a charge for $95 for skilled nursing care, but I only had a visit last week for cardiac care monitoring.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me check your account details quickly. One moment please.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience. It looks like there was a billing error that added an extra service. You were only charged for the monitoring last week.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 43,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That's what I thought. I don't want to be charged for a service I didn't receive.",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, George. I completely understand your frustration. I will correct that immediately.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, I appreciate that. How long will it take to see the correction?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 64,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It should reflect on your next billing cycle, which is within the next month.",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, that sounds good.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Is there anything else you'd like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Actually, yes. I was wondering if there’s any chance I could schedule another monitoring visit sooner.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Certainly! I can help with that. When would you like to schedule the visit?",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 91,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "How about next Tuesday around 10 AM?",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 99,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me confirm that for you. Yes, I can schedule you for Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great! Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome, George! I’ve got that appointment set up.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Just to confirm, I won’t have any extra charges for that visit, right?",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 120,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "That's correct! You'll just receive your standard billing for that service.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect, thank you.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome! If any other questions come up, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 135,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I will, thanks again!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Have a great day, George!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 144,
+          "end_time": 147,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-663b256e7629459cb3567f0d",
+  "revision": "",
+  "status": "success"
+}
