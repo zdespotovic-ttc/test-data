@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d65a9f0511384546a489f8d2",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947565067-66175830",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d65a9f0511384546a489f8d2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 175,
+      "duration_ms": 175000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "d65a9f0511384546a489f8d2",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d65a9f0511384546a489f8d2",
+      "media_name": "4fd8863f318640e095a59ca375034afc.mp3",
+      "scenario": "A customer reports ongoing quality problems and threatens cancellation unless a satisfactory solution is provided quickly. Category: Service Complaint. Flags: quality_complaint, cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 175.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Harold Gonzalez. I’m calling about some issues we've had with the nursing visits lately. I'm sorry to hear that, Harold. Can you please tell me more about the problems you've encountered? Well, the last few visits haven’t been great. The nurses seem rushed, and my vital sign checks have been inconsistent. I apologize for the inconvenience, Harold. That’s certainly not the level of care we strive to provide. I appreciate that, but I really need reliable care for my COPD and cardiac condition. If this continues, I may have to cancel. I completely understand your concern, and I want to make this right. Can you tell me what specific issues you noticed? The nurses arrive late, and during the last visit, my wife noticed they skipped the scheduled vital sign check altogether. That’s unacceptable, and I’m truly sorry for the oversight. I’ll address this with our team immediately. Thank you, but I really need this resolved quickly. My next appointment is coming up soon. Absolutely. I’ll follow up with our nursing staff today and ensure we have a reliable schedule moving forward. Okay, I hope to see some improvement. I can’t keep dealing with this. I understand, Harold. I will personally oversee your case to ensure you receive the care you deserve. I appreciate that, Margaret. My wife really prefers a Spanish-speaking caregiver as well, if possible. We can certainly accommodate that request. I’ll make sure to assign a Spanish-speaking nurse for your next visit. Thank you, that would be great. When can I expect to hear back from you? I will contact you by the end of the day with an update on the schedule and our plan to improve service. Sounds good. I really hope this gets sorted out. I’m committed to making this right, Harold. Thank you for your patience and for bringing this to my attention. Thank you, Margaret. I’ll be waiting for your call. Have a great day, Harold. We’ll talk soon. You too, bye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I’m calling about some issues we've had with the nursing visits lately.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Harold. Can you please tell me more about the problems you've encountered?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the last few visits haven’t been great. The nurses seem rushed, and my vital sign checks have been inconsistent.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for the inconvenience, Harold. That’s certainly not the level of care we strive to provide.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I appreciate that, but I really need reliable care for my COPD and cardiac condition. If this continues, I may have to cancel.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your concern, and I want to make this right. Can you tell me what specific issues you noticed?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "The nurses arrive late, and during the last visit, my wife noticed they skipped the scheduled vital sign check altogether.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That’s unacceptable, and I’m truly sorry for the oversight. I’ll address this with our team immediately.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, but I really need this resolved quickly. My next appointment is coming up soon.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely. I’ll follow up with our nursing staff today and ensure we have a reliable schedule moving forward.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, I hope to see some improvement. I can’t keep dealing with this.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand, Harold. I will personally oversee your case to ensure you receive the care you deserve.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I appreciate that, Margaret. My wife really prefers a Spanish-speaking caregiver as well, if possible.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can certainly accommodate that request. I’ll make sure to assign a Spanish-speaking nurse for your next visit.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, that would be great. When can I expect to hear back from you?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I will contact you by the end of the day with an update on the schedule and our plan to improve service.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sounds good. I really hope this gets sorted out.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 140,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’m committed to making this right, Harold. Thank you for your patience and for bringing this to my attention.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I’ll be waiting for your call.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Have a great day, Harold. We’ll talk soon.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d65a9f0511384546a489f8d2",
+  "revision": "",
+  "status": "success"
+}
