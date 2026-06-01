@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-420a539614bf400583cb6277",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947565055-f04469fc",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-420a539614bf400583cb6277",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "420a539614bf400583cb6277",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-420a539614bf400583cb6277",
+      "media_name": "29741a9c0b614d1cbf9b4bf64f7f226f.mp3",
+      "scenario": "A customer is frustrated with continuous quality issues and indicates they want to cancel their service if unresolved. Category: Service Complaint. Flags: quality_complaint, cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Thomas White. I'm really frustrated with the care my mother is receiving. I’m sorry to hear that, Thomas. Can you tell me more about the issues you're experiencing? Well, the caregiver has been inconsistent, and sometimes they don’t show up at all. It’s been really stressful for us. I understand how concerning that can be. Consistency is crucial in caregiving. Exactly! If this continues, I’m thinking of canceling the service altogether. I definitely want to help you resolve this before you make that decision. Can you provide me with the details of when the missed visits occurred? Last week, the caregiver didn’t show up on Tuesday and Thursday. My mother really needs that support. I’m really sorry for the disruption this has caused. I’ll investigate this right away. Would you like me to schedule a meeting with a supervisor to address your concerns? That would be helpful, yes. I just want to make sure she gets the right care. Absolutely, Thomas. I will also follow up with the caregiver to understand what happened. Okay, thank you. I just don’t want to feel like I have to keep chasing after things. I completely understand. Ensuring timely care is our priority. I’d like to ensure we set up a plan moving forward. Yes, please. I also heard about respite services; could that be an option for us? Yes, we offer respite care at $30 to $38 per hour. This can provide you with relief while ensuring your mother is cared for. That sounds like it might be helpful, but I want to sort out the main issues first. Of course. I will prioritize addressing the quality issues first. Can I have your best contact number to update you? Sure, it’s +13165558962, and I hope we can resolve this quickly. Thank you, Thomas. I will reach out to you soon with an update and a meeting time. I appreciate that, Margaret. I’ll be waiting for your call. Thank you for your patience, Thomas. We’re here to help, and I’ll make sure we resolve this. Thank you. Have a good day. You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Thomas White. I'm really frustrated with the care my mother is receiving.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Thomas. Can you tell me more about the issues you're experiencing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the caregiver has been inconsistent, and sometimes they don’t show up at all. It’s been really stressful for us.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that can be. Consistency is crucial in caregiving.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Exactly! If this continues, I’m thinking of canceling the service altogether.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I definitely want to help you resolve this before you make that decision. Can you provide me with the details of when the missed visits occurred?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Last week, the caregiver didn’t show up on Tuesday and Thursday. My mother really needs that support.",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’m really sorry for the disruption this has caused. I’ll investigate this right away. Would you like me to schedule a meeting with a supervisor to address your concerns?",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 43,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be helpful, yes. I just want to make sure she gets the right care.",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, Thomas. I will also follow up with the caregiver to understand what happened.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, thank you. I just don’t want to feel like I have to keep chasing after things.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I completely understand. Ensuring timely care is our priority. I’d like to ensure we set up a plan moving forward.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 61,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please. I also heard about respite services; could that be an option for us?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we offer respite care at $30 to $38 per hour. This can provide you with relief while ensuring your mother is cared for.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 71,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds like it might be helpful, but I want to sort out the main issues first.",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course. I will prioritize addressing the quality issues first. Can I have your best contact number to update you?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sure, it’s +13165558962, and I hope we can resolve this quickly.",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 86,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Thomas. I will reach out to you soon with an update and a meeting time.",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I appreciate that, Margaret. I’ll be waiting for your call.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you for your patience, Thomas. We’re here to help, and I’ll make sure we resolve this.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you. Have a good day.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-420a539614bf400583cb6277",
+  "revision": "",
+  "status": "success"
+}
