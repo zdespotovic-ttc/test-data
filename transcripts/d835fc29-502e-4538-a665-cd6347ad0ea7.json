@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-61a8a9b240084f7292dabede",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564745-b4537f7a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-61a8a9b240084f7292dabede",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "61a8a9b240084f7292dabede",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-61a8a9b240084f7292dabede",
+      "media_name": "1460c8f7089541fa962b944bda7aeb69.mp3",
+      "scenario": "A customer is disappointed with the durability of the product purchased, stating it did not meet advertised quality standards. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Charles Thompson. I'm calling about a concern with my recent care. Hi Charles, I remember you! What seems to be the issue? Well, to be honest, I’m a bit disappointed with the wound care I received. It just doesn’t seem to be holding up. I’m sorry to hear that. Could you explain a bit more about what you're experiencing? Sure. The dressing keeps coming loose, and I feel like the quality isn't what I was promised. I understand your frustration, Charles. We strive for high-quality care. When did you first notice the issue? It started a couple of days after my last visit. I thought it would be more durable, especially given my surgery. Thank you for sharing that. I'll make sure to address this concern with our nursing staff. I appreciate that. I just want to ensure proper healing. Absolutely, and I want to ensure you receive the best care. Would you like a follow-up visit to assess the wound? Yes, that would be helpful. Can we schedule that? Let me check the schedule. Would you prefer a male nurse? Yes, if possible. We have Robert available tomorrow afternoon. Does that work for you? Tomorrow afternoon sounds perfect. Great! I’ll book that and send you a reminder. Thank you, Margaret. I’m also wondering about any additional care options for my recovery. We offer options like skilled nursing and physical therapy, which could aid your recovery. Interested in discussing that? Yes, I’d like to know more about those services. Skilled nursing is great for wound care and medication management, priced at $95 to $125 per visit. And the physical therapy? Physical therapy focuses on rehabilitation, priced at $110 to $140 per session. It might really help your overall recovery. That sounds beneficial. Can we discuss starting that after my follow-up? Absolutely! I’ll have our care coordinator, Lisa, reach out to you after the visit. Thank you, Margaret. I appreciate your help with this. It's my pleasure, Charles. We’re here to support you. Alright, talk to you tomorrow then. Looking forward to it. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I'm calling about a concern with my recent care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Charles, I remember you! What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, to be honest, I’m a bit disappointed with the wound care I received. It just doesn’t seem to be holding up.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Could you explain a bit more about what you're experiencing?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure. The dressing keeps coming loose, and I feel like the quality isn't what I was promised.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your frustration, Charles. We strive for high-quality care. When did you first notice the issue?",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It started a couple of days after my last visit. I thought it would be more durable, especially given my surgery.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 41,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for sharing that. I'll make sure to address this concern with our nursing staff.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that. I just want to ensure proper healing.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, and I want to ensure you receive the best care. Would you like a follow-up visit to assess the wound?",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be helpful. Can we schedule that?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check the schedule. Would you prefer a male nurse?",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, if possible.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 68,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We have Robert available tomorrow afternoon. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 73,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Tomorrow afternoon sounds perfect.",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 76,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll book that and send you a reminder.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I’m also wondering about any additional care options for my recovery.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We offer options like skilled nursing and physical therapy, which could aid your recovery. Interested in discussing that?",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, I’d like to know more about those services.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Skilled nursing is great for wound care and medication management, priced at $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 101,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "And the physical therapy?",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Physical therapy focuses on rehabilitation, priced at $110 to $140 per session. It might really help your overall recovery.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds beneficial. Can we discuss starting that after my follow-up?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely! I’ll have our care coordinator, Lisa, reach out to you after the visit.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "It's my pleasure, Charles. We’re here to support you.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Alright, talk to you tomorrow then.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Looking forward to it. Have a great day!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 140,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-61a8a9b240084f7292dabede",
+  "revision": "",
+  "status": "success"
+}
