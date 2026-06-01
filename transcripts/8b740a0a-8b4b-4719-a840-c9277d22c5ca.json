@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5e49ed6a55da430487e63317",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571812-12771489",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5e49ed6a55da430487e63317",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "5e49ed6a55da430487e63317",
+      "caller_id_number": "+13165559012",
+      "caller_id_name": "Lucille Davis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5e49ed6a55da430487e63317",
+      "media_name": "94bf4014836749318b777fb216cc9845.mp3",
+      "scenario": "A customer calls to cancel their upcoming vacation booking and expresses concern about cancellation fees. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi Margaret, this is Lucille Davis. I hope you’re doing well. Hi Lucille! I’m doing well, thank you for asking. How can I help you today? Well, I need to cancel my upcoming vacation plans. I’m worried about the cancellation fees, though. I’m sorry to hear that. Cancelling plans can be stressful. Can I ask what led to your decision? It's just my arthritis has been flaring up, and I feel like I won't be able to enjoy the trip. That makes sense, Lucille. Your health is the priority. Have you already booked your vacation? Yes, I booked it about a month ago, and I’m anxious about the fees. I understand. Most companies have cancellation policies that vary. Do you know the terms of your booking? I think there's a cancellation fee, but I couldn’t remember how much it would be. It’s a good idea to check the terms. If you have the details, I can help you navigate it. I appreciate that. I can look it up, but I wanted to see if I could get support from you as well. Of course! If you’re feeling overwhelmed, we can also help with respite care if needed. Respite care? What does that entail? It’s temporary care to give family caregivers a break, and it could help you focus on your recovery. That sounds helpful. I might consider that. How much does it cost? Respite care is priced between $30 and $38 per hour. Would you like to explore this option further? Yes, I think I should. I just need to figure out my cancellation situation first. Absolutely, no rush. Once you have the cancellation details, we can discuss the respite care. Okay, let me check and I’ll call back. Thanks for your help, Margaret. You’re welcome, Lucille! I’m here to help. Take care and good luck with your trip plans. Thank you, I appreciate it! I'll speak with you soon. Looking forward to it. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Lucille Davis. I hope you’re doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Lucille! I’m doing well, thank you for asking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I need to cancel my upcoming vacation plans. I’m worried about the cancellation fees, though.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Cancelling plans can be stressful. Can I ask what led to your decision?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It's just my arthritis has been flaring up, and I feel like I won't be able to enjoy the trip.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That makes sense, Lucille. Your health is the priority. Have you already booked your vacation?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, I booked it about a month ago, and I’m anxious about the fees.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand. Most companies have cancellation policies that vary. Do you know the terms of your booking?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I think there's a cancellation fee, but I couldn’t remember how much it would be.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It’s a good idea to check the terms. If you have the details, I can help you navigate it.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate that. I can look it up, but I wanted to see if I could get support from you as well.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! If you’re feeling overwhelmed, we can also help with respite care if needed.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Respite care? What does that entail?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "It’s temporary care to give family caregivers a break, and it could help you focus on your recovery.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds helpful. I might consider that. How much does it cost?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Respite care is priced between $30 and $38 per hour. Would you like to explore this option further?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I think I should. I just need to figure out my cancellation situation first.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, no rush. Once you have the cancellation details, we can discuss the respite care.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, let me check and I’ll call back. Thanks for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Lucille! I’m here to help. Take care and good luck with your trip plans.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, I appreciate it! I'll speak with you soon.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Looking forward to it. Have a great day!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559012",
+    "ooma_remote_name": "Lucille Davis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5e49ed6a55da430487e63317",
+  "revision": "",
+  "status": "success"
+}
