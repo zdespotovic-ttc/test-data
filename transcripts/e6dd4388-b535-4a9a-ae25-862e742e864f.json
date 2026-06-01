@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-acf2709a7de14f3b973973b1",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947567819-56c96397",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-acf2709a7de14f3b973973b1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 105,
+      "duration_ms": 105000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "acf2709a7de14f3b973973b1",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-acf2709a7de14f3b973973b1",
+      "media_name": "fc2a9f3b1e8d4559bb208722a2edb891.mp3",
+      "scenario": "A potential customer asks for details about the different massage therapies offered. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 105.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Dorothy Henderson. I’m calling to ask about your massage therapies. Hi, Dorothy! It’s great to hear from you. Unfortunately, we don’t actually offer massage therapies at this time. Oh, I see. I was hoping to find some options for relaxation and pain relief after my surgery. I completely understand. While we don't have massage therapy, we do offer physical therapy that can help with pain management and recovery. That’s true; I’ve been receiving physical therapy from you for a while now. Yes, and Dr. James Rodriguez is excellent at tailoring sessions for your specific needs. Is there a possibility for additional sessions? Maybe more focused on pain relief? Absolutely! We can schedule additional physical therapy sessions, and I can talk to Dr. Rodriguez about your specific focus areas. That would be helpful. What are the costs associated with the extra sessions? Our physical therapy sessions range from $110 to $140 for 45 to 60 minutes. Okay, that’s manageable. Can we set up some morning sessions? Of course! I’ll make a note that you prefer morning visits. What days work best for you? I’m available Monday, Wednesday, and Friday mornings. Great! I’ll schedule those. Let me confirm with Dr. Rodriguez first, then I’ll get back to you. Thank you, Margaret. I appreciate your help. No problem at all, Dorothy. I’ll also see if we can arrange for a female therapist if that's preferable. Yes, I would prefer that. Thank you! You’re welcome! I’ll follow up with you by the end of the day with the details. Sounds good! I’ll be waiting for your call. Thank you for calling, Dorothy. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Dorothy Henderson. I’m calling to ask about your massage therapies.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Dorothy! It’s great to hear from you. Unfortunately, we don’t actually offer massage therapies at this time.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I was hoping to find some options for relaxation and pain relief after my surgery.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand. While we don't have massage therapy, we do offer physical therapy that can help with pain management and recovery.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That’s true; I’ve been receiving physical therapy from you for a while now.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, and Dr. James Rodriguez is excellent at tailoring sessions for your specific needs.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Is there a possibility for additional sessions? Maybe more focused on pain relief?",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely! We can schedule additional physical therapy sessions, and I can talk to Dr. Rodriguez about your specific focus areas.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be helpful. What are the costs associated with the extra sessions?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Our physical therapy sessions range from $110 to $140 for 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, that’s manageable. Can we set up some morning sessions?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! I’ll make a note that you prefer morning visits. What days work best for you?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I’m available Monday, Wednesday, and Friday mornings.",
+          "speaker": "remote party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll schedule those. Let me confirm with Dr. Rodriguez first, then I’ll get back to you.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "No problem at all, Dorothy. I’ll also see if we can arrange for a female therapist if that's preferable.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I would prefer that. Thank you!",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome! I’ll follow up with you by the end of the day with the details.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good! I’ll be waiting for your call.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you for calling, Dorothy. Have a great day!",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 102,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-acf2709a7de14f3b973973b1",
+  "revision": "",
+  "status": "success"
+}
