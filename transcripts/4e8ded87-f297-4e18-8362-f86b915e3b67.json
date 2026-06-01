@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-30216639c0be4fb3beafee0d",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564637-a68331c9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-30216639c0be4fb3beafee0d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 181,
+      "duration_ms": 181000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "30216639c0be4fb3beafee0d",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-30216639c0be4fb3beafee0d",
+      "media_name": "ec1c0345fc434933990e4579dbe0de0d.mp3",
+      "scenario": "A customer calls complaining about the poor quality of the product they received last week and is frustrated with the lack of response from customer support. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 181.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Agnes Rodriguez. I'm calling because I'm really frustrated with the service I received last week. I'm sorry to hear that, Agnes. Can you tell me more about the issue? Well, I had a caregiver come in for companion care, but she seemed distracted and didn’t engage with me much. It felt like I was just sitting there alone. I understand how important companionship is, especially for your situation. I apologize for this experience. Thank you. I just feel like I've been overlooked after being a client for two years. I absolutely understand your concern, Agnes. Let me assure you that we take this feedback very seriously. I appreciate that, but it's not the first time I've had issues. Last month was better, but this last visit was just disappointing. I’m really sorry about that. I will note this down to discuss with our care team. I hope this gets resolved soon. I really need someone who can be present and supportive during our visits. Absolutely, Agnes. We want to ensure you receive the quality care you deserve. Can I ask who the caregiver was? Her name was Sarah. I think she had a lot on her plate that day. Thank you for providing that information. I’ll follow up with Sarah and see how we can improve this situation. That would be great. I just want someone who enjoys gardening, like I do, to engage with me. I’ll make a note of that preference as well. Would you be open to trying another caregiver for your next visit? Yes, I’d appreciate that. It’s just hard for me to express how much I need that interaction. I completely understand. I want to make sure you feel comfortable and happy with your care. Thank you, Margaret. It’s just tough sometimes. I look forward to a better experience. I promise we’ll work on this. Can I also update you about our gardening activities program? Gardening activities? What do you mean? We have a new program where caregivers can join clients for gardening sessions, which could be great for you! That sounds wonderful! I’d love to have some help in the garden. I’ll get that arranged along with your caregiver. This should enhance your visits! Thank you so much for listening to my concerns today. It’s my pleasure, Agnes. Your satisfaction is very important to us. I hope to hear back soon. Absolutely, I’ll follow up with you after we make those changes. Thank you, Margaret. Have a great day! You too, Agnes! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I'm calling because I'm really frustrated with the service I received last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Agnes. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I had a caregiver come in for companion care, but she seemed distracted and didn’t engage with me much. It felt like I was just sitting there alone.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how important companionship is, especially for your situation. I apologize for this experience.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I just feel like I've been overlooked after being a client for two years.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I absolutely understand your concern, Agnes. Let me assure you that we take this feedback very seriously.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that, but it's not the first time I've had issues. Last month was better, but this last visit was just disappointing.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’m really sorry about that. I will note this down to discuss with our care team.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I hope this gets resolved soon. I really need someone who can be present and supportive during our visits.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, Agnes. We want to ensure you receive the quality care you deserve. Can I ask who the caregiver was?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Her name was Sarah. I think she had a lot on her plate that day.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you for providing that information. I’ll follow up with Sarah and see how we can improve this situation.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be great. I just want someone who enjoys gardening, like I do, to engage with me.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll make a note of that preference as well. Would you be open to trying another caregiver for your next visit?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 98,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I’d appreciate that. It’s just hard for me to express how much I need that interaction.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I completely understand. I want to make sure you feel comfortable and happy with your care.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. It’s just tough sometimes. I look forward to a better experience.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 120,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I promise we’ll work on this. Can I also update you about our gardening activities program?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Gardening activities? What do you mean?",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 132,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We have a new program where caregivers can join clients for gardening sessions, which could be great for you!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds wonderful! I’d love to have some help in the garden.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 147,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll get that arranged along with your caregiver. This should enhance your visits!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 152,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much for listening to my concerns today.",
+          "speaker": "remote party",
+          "start_time": 152,
+          "end_time": 160,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure, Agnes. Your satisfaction is very important to us.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I hope to hear back soon.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Absolutely, I’ll follow up with you after we make those changes.",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 173,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 173,
+          "end_time": 178,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, Agnes! Take care.",
+          "speaker": "local party",
+          "start_time": 178,
+          "end_time": 181,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-30216639c0be4fb3beafee0d",
+  "revision": "",
+  "status": "success"
+}
