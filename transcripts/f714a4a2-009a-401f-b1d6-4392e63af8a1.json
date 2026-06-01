@@ -1,0 +1,325 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ac76ca6152d648c68c882148",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564716-1486b965",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ac76ca6152d648c68c882148",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 204,
+      "duration_ms": 204000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "ac76ca6152d648c68c882148",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ac76ca6152d648c68c882148",
+      "media_name": "1df84e88b9364c218c6361eed8378684.mp3",
+      "scenario": "A customer complains about incorrect information provided by the support staff, leading to further issues with their service. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 204.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Harold Gonzalez. I’m calling about an issue with my service. Hello, Harold! I’m sorry to hear that. Can you please tell me what the issue is? Well, last week, I was told that a nurse would come to check my vitals, but no one showed up. I apologize for that, Harold. That’s certainly not the level of service we aim to provide. I also called to confirm the appointment and was given the wrong time. This has been really frustrating. I understand, and I’m really sorry for the mix-up. Let me look into your appointment details right now. Thank you. You know, my wife was home expecting the nurse, and it just caused unnecessary stress. I completely understand the impact this has on you both. Please hold on for a moment while I check. Sure, no problem. I just want to make sure this doesn't happen again. I appreciate your patience, Harold. It looks like there was an error in our scheduling system. That’s frustrating to hear. So, what can you do to fix this? First, I can arrange for a nurse to visit you tomorrow for your vitals check. Would that work for you? Yes, that would be great, but I need to confirm it with my wife. Absolutely. I can also ensure that the nurse is Spanish-speaking, as you prefer. That would definitely help. Thank you for making that adjustment. You're welcome! I’ll make a note to confirm the nurse’s language preference and follow up with you today. I appreciate that, Margaret. But can you also tell me when my next follow-up appointment will be? Sure thing. Let me check your file for the follow-up schedule. I’d like to make sure it’s not a repeat of last week’s miscommunication. I’ll ensure that we have all the correct details for your next appointment. Just one moment. It looks like your next follow-up is scheduled for next Wednesday. Would you like me to adjust that time? Yes, if you can do it for the morning, that would be perfect. I can do that. I’ll make the adjustment for you now. Thank you, Margaret. I just want to avoid any issues in the future. I completely understand. I’ll ensure that our team is aware of your preferences moving forward. Great! One more thing—do you offer any additional services, like assistance with exercises? Yes, we do offer physical therapy that focuses on mobility training. Would you like more information? Yes, please. I think that could be beneficial for my condition. I’ll send you the details regarding physical therapy along with your appointment confirmation. Thank you, Margaret. I appreciate your help today. You’re very welcome, Harold. I’ll be in touch shortly with updates. Have a great day. You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I’m calling about an issue with my service.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hello, Harold! I’m sorry to hear that. Can you please tell me what the issue is?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, last week, I was told that a nurse would come to check my vitals, but no one showed up.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for that, Harold. That’s certainly not the level of service we aim to provide.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I also called to confirm the appointment and was given the wrong time. This has been really frustrating.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, and I’m really sorry for the mix-up. Let me look into your appointment details right now.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you. You know, my wife was home expecting the nurse, and it just caused unnecessary stress.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand the impact this has on you both. Please hold on for a moment while I check.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure, no problem. I just want to make sure this doesn't happen again.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I appreciate your patience, Harold. It looks like there was an error in our scheduling system.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s frustrating to hear. So, what can you do to fix this?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "First, I can arrange for a nurse to visit you tomorrow for your vitals check. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 79,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great, but I need to confirm it with my wife.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely. I can also ensure that the nurse is Spanish-speaking, as you prefer.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would definitely help. Thank you for making that adjustment.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You're welcome! I’ll make a note to confirm the nurse’s language preference and follow up with you today.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I appreciate that, Margaret. But can you also tell me when my next follow-up appointment will be?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Sure thing. Let me check your file for the follow-up schedule.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I’d like to make sure it’s not a repeat of last week’s miscommunication.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 125,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll ensure that we have all the correct details for your next appointment. Just one moment.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 132,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "It looks like your next follow-up is scheduled for next Wednesday. Would you like me to adjust that time?",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 145,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, if you can do it for the morning, that would be perfect.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I can do that. I’ll make the adjustment for you now.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Margaret. I just want to avoid any issues in the future.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 161,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "I completely understand. I’ll ensure that our team is aware of your preferences moving forward.",
+          "speaker": "local party",
+          "start_time": 161,
+          "end_time": 166,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Great! One more thing—do you offer any additional services, like assistance with exercises?",
+          "speaker": "remote party",
+          "start_time": 166,
+          "end_time": 172,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Yes, we do offer physical therapy that focuses on mobility training. Would you like more information?",
+          "speaker": "local party",
+          "start_time": 172,
+          "end_time": 178,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Yes, please. I think that could be beneficial for my condition.",
+          "speaker": "remote party",
+          "start_time": 178,
+          "end_time": 183,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "I’ll send you the details regarding physical therapy along with your appointment confirmation.",
+          "speaker": "local party",
+          "start_time": 183,
+          "end_time": 188,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 188,
+          "end_time": 193,
+          "channel": "right",
+          "id": 30
+        },
+        {
+          "text": "You’re very welcome, Harold. I’ll be in touch shortly with updates.",
+          "speaker": "local party",
+          "start_time": 193,
+          "end_time": 197,
+          "channel": "left",
+          "id": 31
+        },
+        {
+          "text": "Have a great day.",
+          "speaker": "remote party",
+          "start_time": 197,
+          "end_time": 200,
+          "channel": "right",
+          "id": 32
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 200,
+          "end_time": 204,
+          "channel": "left",
+          "id": 33
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ac76ca6152d648c68c882148",
+  "revision": "",
+  "status": "success"
+}
