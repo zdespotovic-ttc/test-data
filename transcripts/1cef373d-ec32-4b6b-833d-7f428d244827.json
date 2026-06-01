@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f61c0898597d41ac997a4959",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571354-14dfbf7e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f61c0898597d41ac997a4959",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 158,
+      "duration_ms": 158000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "f61c0898597d41ac997a4959",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f61c0898597d41ac997a4959",
+      "media_name": "2475155906f94554a201e24a4bff6bf4.mp3",
+      "scenario": "A customer is unhappy with the quality of the lawn maintenance service and requests immediate attention. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 158.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Charles Thompson. I'm calling about some concerns I have regarding my post-surgical care. Hi Charles, it's great to hear from you. I hope you're doing well. What seems to be the issue? Well, I’ve noticed that the quality of the wound care has been slipping lately. The last nurse seemed rushed and didn’t provide the usual attention. I'm really sorry to hear that, Charles. We strive for the best quality care. Can you tell me more about what happened? During the last visit, the nurse didn’t fully assess the wound, and I had to remind him about my medication schedule. It felt very unprofessional. That’s certainly concerning and not the level of service we aim to provide. I appreciate you bringing this to my attention. Thank you. I’m just worried about my recovery and want to make sure everything is done properly. Absolutely, your recovery is our priority. Let me gather some details to address this right away. Okay, thank you. May I ask which nurse attended to you during your last appointment? It was a male nurse, but I didn’t catch his name. Understood. I’ll follow up with our team to get that information. I’d appreciate that. Also, would you prefer a male nurse moving forward for your future visits? Yes, if possible. It’s just easier for me. Noted. I’ll make sure to accommodate that request in your care plan. Thank you. I also need detailed progress reports sent to the VA for my records. Of course, I can ensure that happens. I’ll coordinate with our staff for that. Great! Is there anything else you would like to discuss while I have you on the line? Actually, I was wondering if you offer any additional recovery services? Yes, we have several services, like physical therapy and companion care. Would you be interested in those? I think some physical therapy could really help with my mobility. That's a great choice. I can connect you with our physical therapist, Dr. James Rodriguez. That sounds good. I’ll set that up during your next scheduled visit. Thank you for your help, Margaret. You’re very welcome, Charles. I’ll follow up shortly about the concerns you raised. I appreciate it. Have a great day! You too, Charles. Talk soon.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I'm calling about some concerns I have regarding my post-surgical care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Charles, it's great to hear from you. I hope you're doing well. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’ve noticed that the quality of the wound care has been slipping lately. The last nurse seemed rushed and didn’t provide the usual attention.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm really sorry to hear that, Charles. We strive for the best quality care. Can you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "During the last visit, the nurse didn’t fully assess the wound, and I had to remind him about my medication schedule. It felt very unprofessional.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That’s certainly concerning and not the level of service we aim to provide. I appreciate you bringing this to my attention.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you. I’m just worried about my recovery and want to make sure everything is done properly.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 43,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, your recovery is our priority. Let me gather some details to address this right away.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, thank you.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "May I ask which nurse attended to you during your last appointment?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It was a male nurse, but I didn’t catch his name.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Understood. I’ll follow up with our team to get that information.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I’d appreciate that.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Also, would you prefer a male nurse moving forward for your future visits?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, if possible. It’s just easier for me.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Noted. I’ll make sure to accommodate that request in your care plan.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you. I also need detailed progress reports sent to the VA for my records.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 97,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, I can ensure that happens. I’ll coordinate with our staff for that.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great!",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 107,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Is there anything else you would like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Actually, I was wondering if you offer any additional recovery services?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, we have several services, like physical therapy and companion care. Would you be interested in those?",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 123,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I think some physical therapy could really help with my mobility.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "That's a great choice. I can connect you with our physical therapist, Dr. James Rodriguez.",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 133,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That sounds good.",
+          "speaker": "remote party",
+          "start_time": 133,
+          "end_time": 136,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I’ll set that up during your next scheduled visit.",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 146,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re very welcome, Charles. I’ll follow up shortly about the concerns you raised.",
+          "speaker": "local party",
+          "start_time": 146,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I appreciate it. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You too, Charles. Talk soon.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 158,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f61c0898597d41ac997a4959",
+  "revision": "",
+  "status": "success"
+}
