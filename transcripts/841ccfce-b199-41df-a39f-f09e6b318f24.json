@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1608721bed8d43adbfc6d9ab",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947567616-98191a64",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1608721bed8d43adbfc6d9ab",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 127,
+      "duration_ms": 127000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "1608721bed8d43adbfc6d9ab",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1608721bed8d43adbfc6d9ab",
+      "media_name": "131f2167adf44a8b8bd507efb766a701.mp3",
+      "scenario": "A regular client calls to set up their monthly massage therapy session for next week. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 127.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret, this is William Chen. I wanted to set up my monthly massage therapy session for next week. Hi, William! It's great to hear from you. When were you thinking of having your session? I was hoping to do it on Wednesday, if possible. Let me check... Yes, we do have availability on Wednesday. What time works for you? How about 2 PM? That works perfectly. I’ll schedule you for a 2 PM massage therapy session on Wednesday. Great, thank you! You're welcome! Just to confirm, this will be your regular therapist, correct? Yes, I prefer the same therapist I’ve had before. Excellent choice. I’ll make sure they’re aware. Oh, also, could you remind me what the cost is for the therapy session? Sure! The massage therapy session is priced at $110 for 45-60 minutes. Sounds good. And I’d like to make sure my insurance covers this. I can assist with that. I’ll check your insurance coverage and get back to you. Perfect. I appreciate it, Margaret. No problem! Just to recap, we’ve booked your massage for Wednesday at 2 PM. Yes, and you’ll check on the insurance. Exactly. Is there anything else you’d like to discuss today? Actually, while I have you, I was wondering if you offer transportation services? Yes, we do offer transportation services for medical appointments and errands. Could you send me the details and pricing for that? Absolutely, I’ll include that information along with the insurance follow-up. Thank you so much! I really appreciate your help. You’re very welcome, William! It’s my pleasure to assist you. I’ll look forward to hearing back about the insurance. Yes, I’ll make that a priority. Have a great day! You too, Margaret. Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is William Chen. I wanted to set up my monthly massage therapy session for next week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, William! It's great to hear from you. When were you thinking of having your session?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I was hoping to do it on Wednesday, if possible.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me check... Yes, we do have availability on Wednesday. What time works for you?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "How about 2 PM?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That works perfectly. I’ll schedule you for a 2 PM massage therapy session on Wednesday.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great, thank you!",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "You're welcome! Just to confirm, this will be your regular therapist, correct?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I prefer the same therapist I’ve had before.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Excellent choice. I’ll make sure they’re aware.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Oh, also, could you remind me what the cost is for the therapy session?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Sure! The massage therapy session is priced at $110 for 45-60 minutes.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sounds good. And I’d like to make sure my insurance covers this.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 60,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can assist with that. I’ll check your insurance coverage and get back to you.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect. I appreciate it, Margaret.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "No problem! Just to recap, we’ve booked your massage for Wednesday at 2 PM.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, and you’ll check on the insurance.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Exactly. Is there anything else you’d like to discuss today?",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Actually, while I have you, I was wondering if you offer transportation services?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we do offer transportation services for medical appointments and errands.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Could you send me the details and pricing for that?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, I’ll include that information along with the insurance follow-up.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much! I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, William! It’s my pleasure to assist you.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I’ll look forward to hearing back about the insurance.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Yes, I’ll make that a priority. Have a great day!",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, Margaret. Bye!",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 127,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1608721bed8d43adbfc6d9ab",
+  "revision": "",
+  "status": "success"
+}
