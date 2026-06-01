@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7e9cef699f1f421c9b5c5809",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564990-cdaa6d90",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7e9cef699f1f421c9b5c5809",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "7e9cef699f1f421c9b5c5809",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7e9cef699f1f421c9b5c5809",
+      "media_name": "1d3521e7d2a64c3d9880e45cc770de18.mp3",
+      "scenario": "An anxious customer urgently requires assistance correcting an error in their account settings to avoid compliance issues. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Agnes Rodriguez. I'm really anxious right now. I think there's an error with my account settings. I'm sorry to hear that, Agnes. Can you tell me more about the issue? Yes, it shows that my companion care services are set to end tomorrow, but I need them to continue. I understand. It’s important to keep those services in place. Let me check your account. Thank you, I really appreciate it. I don’t want to miss out on my caregiver, especially with my mild dementia. Of course, Agnes. Just a moment while I pull up your details... Okay, I see the issue here. It looks like there was a miscommunication regarding your renewal. Oh no! What do we need to do to fix it? We can certainly rectify that. I will go ahead and update your care plan to ensure your services continue without interruption. Thank you! How long will that take? It should take just a few minutes. I’ll also send a confirmation to your email as soon as it’s done. Can I confirm your email address? Yes, it’s agnes.rodriguez@email.com. Great, I have that. Now, just to clarify, would you like to add any other services, such as our gardening companion care since you love gardening? That sounds lovely, but I just want to make sure my current care is secure first. Absolutely, let’s ensure the current care is sorted first. I’ll get that confirmed and will also note your interest in gardening activities for future reference. Thank you, I really appreciate that. I’ve been feeling a bit isolated lately. It’s understandable, Agnes. We’re here to support you. I’ll ensure your current caregiver is informed of your needs as well. That would be wonderful. I’ll also follow up with you tomorrow to ensure everything is in order. Thank you, Margaret. That eases my mind a lot. You’re welcome! Just a moment while I finalize the account settings... All done! Your services will continue uninterrupted, and I’ll send that confirmation email shortly. Thank you so much! I feel so much better now. I’m glad to hear that, Agnes. Is there anything else I can assist you with today? No, that’s everything. Thank you again! You’re welcome! Have a great day, Agnes, and don’t hesitate to call if you need more assistance. I will, thank you!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I'm really anxious right now. I think there's an error with my account settings.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Agnes. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it shows that my companion care services are set to end tomorrow, but I need them to continue.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. It’s important to keep those services in place. Let me check your account.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I really appreciate it. I don’t want to miss out on my caregiver, especially with my mild dementia.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course, Agnes. Just a moment while I pull up your details... Okay, I see the issue here. It looks like there was a miscommunication regarding your renewal.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh no! What do we need to do to fix it?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We can certainly rectify that. I will go ahead and update your care plan to ensure your services continue without interruption.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you! How long will that take?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It should take just a few minutes. I’ll also send a confirmation to your email as soon as it’s done. Can I confirm your email address?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, it’s agnes.rodriguez@email.com.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great, I have that. Now, just to clarify, would you like to add any other services, such as our gardening companion care since you love gardening?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds lovely, but I just want to make sure my current care is secure first.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, let’s ensure the current care is sorted first. I’ll get that confirmed and will also note your interest in gardening activities for future reference.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, I really appreciate that. I’ve been feeling a bit isolated lately.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "It’s understandable, Agnes. We’re here to support you. I’ll ensure your current caregiver is informed of your needs as well.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be wonderful.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll also follow up with you tomorrow to ensure everything is in order.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. That eases my mind a lot.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! Just a moment while I finalize the account settings...",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "All done! Your services will continue uninterrupted, and I’ll send that confirmation email shortly.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you so much! I feel so much better now.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I’m glad to hear that, Agnes. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "No, that’s everything. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome! Have a great day, Agnes, and don’t hesitate to call if you need more assistance.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "I will, thank you!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7e9cef699f1f421c9b5c5809",
+  "revision": "",
+  "status": "success"
+}
