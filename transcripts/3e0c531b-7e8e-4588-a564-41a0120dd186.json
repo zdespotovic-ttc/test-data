@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-fb7fa1aa563742fe9aa785a8",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564648-f5811b5c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-fb7fa1aa563742fe9aa785a8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 148,
+      "duration_ms": 148000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "fb7fa1aa563742fe9aa785a8",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-fb7fa1aa563742fe9aa785a8",
+      "media_name": "d8c4751513144d5d88d90d41d132908a.mp3",
+      "scenario": "A new customer is upset because the service technician did not arrive at the scheduled time and demands an immediate resolution. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 148.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Rose Patterson. I'm really upset because my caregiver didn’t show up at the scheduled time today. I’m so sorry to hear that, Rose. I understand how important our services are to you. Can I get some details? Yes, the caregiver was supposed to arrive at 10 AM, and it’s now almost noon! I completely understand your frustration. Let me check why they were delayed. One moment, please. Thank you. I really need someone to help with my mother’s routine, especially since her Alzheimer's is getting worse. I understand, and I want to ensure we get this resolved for you. It appears there was a scheduling error on our end. I sincerely apologize for this oversight. That’s not acceptable! We rely on you every day. I completely understand, Rose. I’m here to help. Let’s discuss how we can get immediate support for your mother. I just need someone familiar, and I can’t deal with this right now. I hear you. How about I arrange for Lisa Chen, your usual care coordinator, to call you in the next few minutes? Yes, I think that would help. I just want things to get back on track. Absolutely, I will make sure she understands your concerns. Additionally, would you like me to schedule a follow-up in-home visit for more support in the coming days? That would be good. Can we do it for this weekend? Yes, I can arrange that. We have availability for Saturday. Would that work for you? Yes, please schedule it for Saturday morning. Great! I’ll confirm that for you. Would you also like to discuss any additional services we offer? Maybe some more personal care assistance? Absolutely. I can provide you with details on our Personal Care Assistance, which ranges from $28 to $35 per hour. That sounds reasonable, but I need to discuss it with my son first. Of course, take your time. I’ll make sure Lisa follows up with you shortly. Thank you, Margaret. I appreciate your help. You’re very welcome, Rose. We’re here to support you. I’ll ensure everything gets sorted out. Have a good day! Thanks, I hope to hear from Lisa soon.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Rose Patterson. I'm really upset because my caregiver didn’t show up at the scheduled time today.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m so sorry to hear that, Rose. I understand how important our services are to you. Can I get some details?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, the caregiver was supposed to arrive at 10 AM, and it’s now almost noon!",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand your frustration. Let me check why they were delayed. One moment, please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I really need someone to help with my mother’s routine, especially since her Alzheimer's is getting worse.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, and I want to ensure we get this resolved for you.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It appears there was a scheduling error on our end. I sincerely apologize for this oversight.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That’s not acceptable! We rely on you every day.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I completely understand, Rose. I’m here to help. Let’s discuss how we can get immediate support for your mother.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I just need someone familiar, and I can’t deal with this right now.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I hear you. How about I arrange for Lisa Chen, your usual care coordinator, to call you in the next few minutes?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, I think that would help. I just want things to get back on track.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Absolutely, I will make sure she understands your concerns.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Additionally, would you like me to schedule a follow-up in-home visit for more support in the coming days?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be good. Can we do it for this weekend?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, I can arrange that. We have availability for Saturday. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please schedule it for Saturday morning.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll confirm that for you. Would you also like to discuss any additional services we offer?",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Maybe some more personal care assistance?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely. I can provide you with details on our Personal Care Assistance, which ranges from $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds reasonable, but I need to discuss it with my son first.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Of course, take your time. I’ll make sure Lisa follows up with you shortly.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, Rose. We’re here to support you.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I’ll ensure everything gets sorted out. Have a good day!",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thanks, I hope to hear from Lisa soon.",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 148,
+          "channel": "right",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-fb7fa1aa563742fe9aa785a8",
+  "revision": "",
+  "status": "success"
+}
