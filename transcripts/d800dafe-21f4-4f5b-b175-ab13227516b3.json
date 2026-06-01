@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-8addcf6f13f545529bd0e1cb",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564765-0778f20a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-8addcf6f13f545529bd0e1cb",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 138,
+      "duration_ms": 138000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "8addcf6f13f545529bd0e1cb",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-8addcf6f13f545529bd0e1cb",
+      "media_name": "d0d8297dd49a49a0acc4b7d115c64af7.mp3",
+      "scenario": "A frequent customer calls to express their dissatisfaction regarding the recent decline in service quality and seeks remedial action. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 138.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Betty Lou Smith. I'm calling because I'm a bit concerned about the recent service quality. Oh, I'm sorry to hear that, Betty. Can you tell me more about your concerns? Well, I've noticed that my caregiver has been late a few times this past week, and the quality of assistance seems to have declined. I understand how frustrating that must be. We aim to provide consistent and reliable care. When did this start? It really started after my caregiver changed a few weeks ago. I feel like the new person isn't as attentive. Thank you for sharing that, Betty. I’ll definitely look into this. Can you recall specific instances when the service wasn’t up to par? Yes, just last Wednesday, my caregiver showed up 30 minutes late, and I felt rushed during my mobility exercises. It was disappointing. I apologize for that, Betty. That is not the level of service we strive for. I will address this with our scheduling team. I appreciate that. I just need to feel safe and supported, especially after my recent falls. Absolutely, your safety is our top priority. Would you like to explore the possibility of reassigning a different caregiver? Yes, I would like that. I really miss my last caregiver; she was just perfect for me. I understand. I’ll do my best to find someone who meets your preferences. Can I confirm your current schedule? Yes, I usually have someone come in for mobility assistance three times a week. Great, I will make sure to find a caregiver who can maintain that schedule and is attentive. Thank you. Also, I wanted to ask if you provide any additional services, like physical therapy? Yes, we do offer physical therapy sessions that focus on mobility and strength improvement. Would you be interested? I might be. Can you tell me the pricing for that? Our physical therapy sessions range from $110 to $140 for 45 to 60 minutes. Would that work for you? I’ll think about it, but I definitely want to resolve the caregiver situation first. Absolutely, I’ll prioritize that. I’ll follow up with you within the next 24 hours. Thank you, Margaret. I appreciate your attention to this matter. You’re welcome, Betty. Thank you for bringing it to our attention. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I'm calling because I'm a bit concerned about the recent service quality.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I'm sorry to hear that, Betty. Can you tell me more about your concerns?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I've noticed that my caregiver has been late a few times this past week, and the quality of assistance seems to have declined.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be. We aim to provide consistent and reliable care. When did this start?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It really started after my caregiver changed a few weeks ago. I feel like the new person isn't as attentive.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for sharing that, Betty. I’ll definitely look into this. Can you recall specific instances when the service wasn’t up to par?",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, just last Wednesday, my caregiver showed up 30 minutes late, and I felt rushed during my mobility exercises. It was disappointing.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I apologize for that, Betty. That is not the level of service we strive for. I will address this with our scheduling team.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that. I just need to feel safe and supported, especially after my recent falls.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, your safety is our top priority. Would you like to explore the possibility of reassigning a different caregiver?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I would like that. I really miss my last caregiver; she was just perfect for me.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand. I’ll do my best to find someone who meets your preferences. Can I confirm your current schedule?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I usually have someone come in for mobility assistance three times a week.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great, I will make sure to find a caregiver who can maintain that schedule and is attentive.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. Also, I wanted to ask if you provide any additional services, like physical therapy?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we do offer physical therapy sessions that focus on mobility and strength improvement. Would you be interested?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I might be. Can you tell me the pricing for that?",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our physical therapy sessions range from $110 to $140 for 45 to 60 minutes. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I’ll think about it, but I definitely want to resolve the caregiver situation first.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 114,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, I’ll prioritize that. I’ll follow up with you within the next 24 hours.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your attention to this matter.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Betty. Thank you for bringing it to our attention. Have a great day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-8addcf6f13f545529bd0e1cb",
+  "revision": "",
+  "status": "success"
+}
