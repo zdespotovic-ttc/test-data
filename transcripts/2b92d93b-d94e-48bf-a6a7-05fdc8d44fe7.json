@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c6977fb5d4bb410c8b2c9248",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947567830-9e0c736c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c6977fb5d4bb410c8b2c9248",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 144,
+      "duration_ms": 144000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "c6977fb5d4bb410c8b2c9248",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c6977fb5d4bb410c8b2c9248",
+      "media_name": "131b932b6e7c4fe29ac7fefa661d43ee.mp3",
+      "scenario": "An individual considering signing up asks about the benefits of membership. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 144.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is Robert Jackson. I'm considering signing up for your services. Great to hear, Robert! What specific services are you interested in? I’m mainly curious about the benefits of membership and what you offer. Absolutely! We provide a range of services, including personal care, skilled nursing, and therapy. Okay, and how does membership work? Are there any ongoing commitments? Our services are typically ongoing and tailored to your needs. You can adjust them anytime. That sounds flexible. What are the key benefits of being a member? Membership gives you access to personalized care plans, 24/7 support, and a dedicated care team. And how do you handle care coordination with my doctors? We work closely with your healthcare providers to ensure continuity of care and follow their instructions. That's reassuring. I have specific equipment I need for my care. Can you accommodate that? Yes, we can accommodate specific equipment needs and integrate them into your care plan. What about pricing? I want to make sure I understand the costs involved. Our services range from $25 for companion care to up to $150 for IV therapy. That’s helpful. Is there a contract or something I need to sign? We do have an initial agreement, but it’s flexible. You can cancel with notice. I see. So what’s the next step if I decide to move forward? We can schedule an assessment to discuss your needs and develop a care plan. That sounds good. How soon can we set that up? We can schedule it as soon as this week. Does that work for you? Yes, let’s do it. I’m available Thursday afternoon. Perfect! I’ll have Lisa Chen, our Care Coordinator, call you to finalize the details. Thank you. I appreciate your help today. You're welcome, Robert! We look forward to helping you. One last thing, can I also get information about your medication management? Of course! Our medication management includes reminders and supervision, priced at $65-$80. Great! I’ll discuss that with Lisa. Sounds good! Have a wonderful day, Robert. You too, thanks!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Robert Jackson. I'm considering signing up for your services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Great to hear, Robert! What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m mainly curious about the benefits of membership and what you offer.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely! We provide a range of services, including personal care, skilled nursing, and therapy.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, and how does membership work? Are there any ongoing commitments?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our services are typically ongoing and tailored to your needs. You can adjust them anytime.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds flexible. What are the key benefits of being a member?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Membership gives you access to personalized care plans, 24/7 support, and a dedicated care team.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "And how do you handle care coordination with my doctors?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We work closely with your healthcare providers to ensure continuity of care and follow their instructions.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That's reassuring. I have specific equipment I need for my care. Can you accommodate that?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we can accommodate specific equipment needs and integrate them into your care plan.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "What about pricing? I want to make sure I understand the costs involved.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Our services range from $25 for companion care to up to $150 for IV therapy.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That’s helpful. Is there a contract or something I need to sign?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We do have an initial agreement, but it’s flexible. You can cancel with notice.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I see. So what’s the next step if I decide to move forward?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can schedule an assessment to discuss your needs and develop a care plan.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. How soon can we set that up?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We can schedule it as soon as this week. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, let’s do it. I’m available Thursday afternoon.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! I’ll have Lisa Chen, our Care Coordinator, call you to finalize the details.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Robert! We look forward to helping you.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "One last thing, can I also get information about your medication management?",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Of course! Our medication management includes reminders and supervision, priced at $65-$80.",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 134,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Great! I’ll discuss that with Lisa.",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Sounds good! Have a wonderful day, Robert.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 141,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, thanks!",
+          "speaker": "remote party",
+          "start_time": 141,
+          "end_time": 144,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c6977fb5d4bb410c8b2c9248",
+  "revision": "",
+  "status": "success"
+}
