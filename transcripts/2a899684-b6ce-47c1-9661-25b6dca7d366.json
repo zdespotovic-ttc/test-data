@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-05e820b7e5d84f64a68859a5",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564687-0902582d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-05e820b7e5d84f64a68859a5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 183,
+      "duration_ms": 183000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "05e820b7e5d84f64a68859a5",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-05e820b7e5d84f64a68859a5",
+      "media_name": "6e4a353c8b4349e2b60663c53606b55f.mp3",
+      "scenario": "An upset customer calls in to report a significant drop in service quality since their last contract renewal. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 183.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Eleanor Watson. I’m calling because I’m really upset about the quality of care my mother has been receiving lately. I’m sorry to hear that, Eleanor. Can you tell me more about what’s been happening? Well, ever since we renewed the contract, the service has noticeably dropped. The physical therapist seems rushed, and the nursing visits feel less thorough. I understand your concerns, and I truly apologize for the inconvenience. Can you let me know when these issues began? It started right after the contract renewal three weeks ago. I expected continuity, but it's just not there anymore. I’m really sorry about that, Eleanor. Let me assure you, I will investigate this immediately. I hope so. My mother's recovery is so important, and I can’t have any more setbacks. Absolutely, I completely understand. I’ll need to check the schedule and speak with the staff involved. Please do. And also, my mother mentioned that the caregiver wasn’t as attentive during her sessions. Thank you for that feedback. I’ll include that in my discussion with our team. I just feel like we’re not getting what we agreed upon in the contract. I hear you, Eleanor. So, I’ll need to come up with a plan to address all these issues right away. I’d appreciate that. Can you also confirm if there are any other care options available? Yes, we do have additional services, such as Occupational Therapy and Respite Care, which might be beneficial. Maybe Respite Care would help me balance things out. What’s the pricing for that? Respite Care is $30 to $38 per hour. Would you like me to send you more information via email? Yes, please. That would be helpful. Great! I’ll get that sent to you right after this call. Thank you, Margaret. I just need assurance that things will improve. I’ll definitely follow up with you after speaking with our team. What is the best way to reach you? You can call me back at this number, +13165557642. Perfect. I’ll aim to have an update for you by the end of the week. Thank you, Margaret. I appreciate your help with this. You’re welcome, Eleanor. We want to ensure that your mother receives the best care possible. I just want what we agreed on originally. It’s very important. Absolutely, I’ll make sure we address that. Thank you for bringing this to my attention. I look forward to your follow-up call. Thank you for your understanding, Eleanor. Have a great day! You too, bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I’m calling because I’m really upset about the quality of care my mother has been receiving lately.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Eleanor. Can you tell me more about what’s been happening?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, ever since we renewed the contract, the service has noticeably dropped. The physical therapist seems rushed, and the nursing visits feel less thorough.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concerns, and I truly apologize for the inconvenience. Can you let me know when these issues began?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It started right after the contract renewal three weeks ago. I expected continuity, but it's just not there anymore.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 39,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m really sorry about that, Eleanor. Let me assure you, I will investigate this immediately.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I hope so. My mother's recovery is so important, and I can’t have any more setbacks.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I completely understand. I’ll need to check the schedule and speak with the staff involved.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Please do. And also, my mother mentioned that the caregiver wasn’t as attentive during her sessions.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 66,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you for that feedback. I’ll include that in my discussion with our team.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I just feel like we’re not getting what we agreed upon in the contract.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I hear you, Eleanor. So, I’ll need to come up with a plan to address all these issues right away.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 84,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I’d appreciate that. Can you also confirm if there are any other care options available?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 91,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we do have additional services, such as Occupational Therapy and Respite Care, which might be beneficial.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 97,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Maybe Respite Care would help me balance things out. What’s the pricing for that?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Respite Care is $30 to $38 per hour. Would you like me to send you more information via email?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 109,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 116,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll get that sent to you right after this call.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I just need assurance that things will improve.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 127,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll definitely follow up with you after speaking with our team. What is the best way to reach you?",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 133,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You can call me back at this number, +13165557642.",
+          "speaker": "remote party",
+          "start_time": 133,
+          "end_time": 138,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect. I’ll aim to have an update for you by the end of the week.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 144,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 144,
+          "end_time": 150,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Eleanor. We want to ensure that your mother receives the best care possible.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 156,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I just want what we agreed on originally. It’s very important.",
+          "speaker": "remote party",
+          "start_time": 156,
+          "end_time": 162,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Absolutely, I’ll make sure we address that. Thank you for bringing this to my attention.",
+          "speaker": "local party",
+          "start_time": 162,
+          "end_time": 168,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I look forward to your follow-up call.",
+          "speaker": "remote party",
+          "start_time": 168,
+          "end_time": 174,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Thank you for your understanding, Eleanor. Have a great day!",
+          "speaker": "local party",
+          "start_time": 174,
+          "end_time": 180,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 180,
+          "end_time": 183,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-05e820b7e5d84f64a68859a5",
+  "revision": "",
+  "status": "success"
+}
