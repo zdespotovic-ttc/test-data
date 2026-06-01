@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b49d6710d59f4f70847e066c",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571602-71a2f808",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b49d6710d59f4f70847e066c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "b49d6710d59f4f70847e066c",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b49d6710d59f4f70847e066c",
+      "media_name": "24839c9bf617459cbfe38945c513aa51.mp3",
+      "scenario": "A returning customer calls with an urgent request for emergency plumbing services due to a burst pipe. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is David Anderson. I'm calling because my wife just had a stroke, and we need urgent physical therapy and nursing care. I'm really sorry to hear that, David. Let’s get you the help you need right away. Thank you. I’ve heard great things about your services from Dorothy Henderson. Yes, Dorothy is a wonderful client. We appreciate the referral. What specific services do you need? We need both physical therapy and skilled nursing care as soon as possible. She’s still recovering and needs assistance with her medication and mobility. Absolutely, I can help with that. We can send a physical therapist for an assessment and a skilled nurse for medication management. That sounds great. What are the costs involved? For physical therapy, the price is between $110 and $140 per session. Skilled nursing care ranges from $95 to $125. Okay, I understand. How soon can you schedule someone? We can typically provide services within 24 hours. I’ll check our availability and get back to you shortly. That would be perfect. I’m really worried about her. I can imagine, David. Let’s also set up a care plan so we can coordinate everything smoothly. Yes, that would help a lot. What do you need from me? I’ll need some details about your wife’s condition and her medical history, and we’ll also discuss insurance coverage if that's applicable. Okay, I can provide that information right now. Great! Please tell me about her medical history and any specific needs she has. She’s currently on medication for high blood pressure and has some mobility issues. I’m really worried about her getting the right care. I understand your concerns. Our team is well-equipped to handle both her physical therapy and medication management. Thank you, Margaret. I feel more reassured now. You’re welcome, David. I’ll also follow up with a nurse who can assist with care coordination. That sounds good. I’d appreciate that. I’ll get this started right away and will contact you shortly to confirm the schedule. Thank you so much for your help. My pleasure, David. We’re here for you and your wife. I appreciate it. Talk soon. Talk soon. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is David Anderson. I'm calling because my wife just had a stroke, and we need urgent physical therapy and nursing care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm really sorry to hear that, David. Let’s get you the help you need right away.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Thank you. I’ve heard great things about your services from Dorothy Henderson.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Yes, Dorothy is a wonderful client. We appreciate the referral. What specific services do you need?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We need both physical therapy and skilled nursing care as soon as possible. She’s still recovering and needs assistance with her medication and mobility.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I can help with that. We can send a physical therapist for an assessment and a skilled nurse for medication management.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds great. What are the costs involved?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "For physical therapy, the price is between $110 and $140 per session. Skilled nursing care ranges from $95 to $125.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, I understand. How soon can you schedule someone?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can typically provide services within 24 hours. I’ll check our availability and get back to you shortly.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be perfect. I’m really worried about her.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can imagine, David. Let’s also set up a care plan so we can coordinate everything smoothly.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would help a lot. What do you need from me?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll need some details about your wife’s condition and her medical history, and we’ll also discuss insurance coverage if that's applicable.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, I can provide that information right now.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! Please tell me about her medical history and any specific needs she has.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "She’s currently on medication for high blood pressure and has some mobility issues. I’m really worried about her getting the right care.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 115,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I understand your concerns. Our team is well-equipped to handle both her physical therapy and medication management.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I feel more reassured now.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, David. I’ll also follow up with a nurse who can assist with care coordination.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds good. I’d appreciate that.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll get this started right away and will contact you shortly to confirm the schedule.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much for your help.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "My pleasure, David. We’re here for you and your wife.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I appreciate it. Talk soon.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Talk soon. Goodbye.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 163,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b49d6710d59f4f70847e066c",
+  "revision": "",
+  "status": "success"
+}
