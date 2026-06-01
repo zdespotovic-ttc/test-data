@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5e9d5bb7a3cc410a90bbac57",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571275-94c28a6b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5e9d5bb7a3cc410a90bbac57",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "5e9d5bb7a3cc410a90bbac57",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5e9d5bb7a3cc410a90bbac57",
+      "media_name": "9472dc5463f740a7916756de97ea59fb.mp3",
+      "scenario": "An individual calls to book a consultation appointment with a nutritionist at the earliest convenience. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Harold Gonzalez. I need to schedule a consultation with a nutritionist. Hi Harold! I hope you're doing well. When are you looking to have this consultation? As soon as possible. I think it would really help with my COPD management. Absolutely, I understand how important that is. Let me check our nutritionist's availability. We have an opening this Thursday at 10 AM or next Monday at 2 PM. Which one works better for you? Thursday at 10 AM works for me. Great! I’ll schedule you for Thursday at 10 AM. Just to confirm, will your wife be joining you for this appointment? Yes, she will be there. She helps me a lot with my care. Perfect, I’ve noted that. Would you like me to go over the cost of the consultation? Yes, please. I want to make sure we’re prepared. The consultation with our nutritionist is $100 for a one-hour session. Okay, that sounds reasonable. Excellent. I’ll add that to your appointment details. Would you like me to send you a confirmation by text or email? A text would be best, thank you. Sure thing! I'll send that right away after our call. Do you have any other questions or concerns that I can help you with? No, I think that covers everything for now. Alright, Harold, your appointment is confirmed for Thursday at 10 AM. And just as a reminder, if you're interested, we also offer nutrition management services. Nutrition management? Can you tell me more about that? Certainly! It's a more comprehensive program that includes ongoing support and meal planning. The cost is $150 for a detailed plan and weekly check-ins. That does sound useful. Can I think about it after our consultation? Of course, take your time! We can discuss it after your appointment. Is there anything else I can assist you with today? No, that’s all. Thank you so much for your help! You’re very welcome, Harold! Take care, and we’ll see you Thursday! Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I need to schedule a consultation with a nutritionist.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Harold! I hope you're doing well. When are you looking to have this consultation?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "As soon as possible. I think it would really help with my COPD management.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, I understand how important that is. Let me check our nutritionist's availability.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We have an opening this Thursday at 10 AM or next Monday at 2 PM. Which one works better for you?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Thursday at 10 AM works for me.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Great! I’ll schedule you for Thursday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 38,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Just to confirm, will your wife be joining you for this appointment?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, she will be there. She helps me a lot with my care.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Perfect, I’ve noted that. Would you like me to go over the cost of the consultation?",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please. I want to make sure we’re prepared.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The consultation with our nutritionist is $100 for a one-hour session.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, that sounds reasonable.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 64,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Excellent. I’ll add that to your appointment details.",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Would you like me to send you a confirmation by text or email?",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "A text would be best, thank you.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Sure thing! I'll send that right away after our call.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Do you have any other questions or concerns that I can help you with?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No, I think that covers everything for now.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Alright, Harold, your appointment is confirmed for Thursday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "And just as a reminder, if you're interested, we also offer nutrition management services.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Nutrition management? Can you tell me more about that?",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Certainly! It's a more comprehensive program that includes ongoing support and meal planning.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "The cost is $150 for a detailed plan and weekly check-ins.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That does sound useful. Can I think about it after our consultation?",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Of course, take your time! We can discuss it after your appointment.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "No, that’s all. Thank you so much for your help!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 133,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "You’re very welcome, Harold! Take care, and we’ll see you Thursday!",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 137,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 140,
+          "channel": "right",
+          "id": 30
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5e9d5bb7a3cc410a90bbac57",
+  "revision": "",
+  "status": "success"
+}
