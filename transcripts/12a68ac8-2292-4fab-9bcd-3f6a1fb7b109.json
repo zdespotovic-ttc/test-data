@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dd7e549940054d84bc7f6622",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571466-77908ad3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dd7e549940054d84bc7f6622",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "dd7e549940054d84bc7f6622",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dd7e549940054d84bc7f6622",
+      "media_name": "158a83613d114ad0a33fde9fb79165c4.mp3",
+      "scenario": "A prospect calls to learn about the types of cosmetic treatments available at the clinic. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I assist you today? Hi Margaret, this is George Williams. I'm a client, but I wanted to inquire about some cosmetic treatments. Hi George! I'm glad to hear from you. Just to clarify, we primarily focus on home healthcare services. Oh, I see. I might have the wrong place then. No problem! I can help with any questions you have about our services. Great! I’m particularly interested in any support for post-surgical recovery. Absolutely, we offer specialized post-surgery recovery care. This includes 1-3 hours of care for $85 to $110. That sounds good. What does the care typically involve? Our caregivers assist with daily tasks, medication management, and monitoring your recovery closely. That’s helpful. I just had heart surgery and want to ensure I recover well. We completely understand. It’s vital to get the right support during recovery. How do I go about scheduling that service? You can either set up a recurring schedule or request on an as-needed basis. I’d prefer a recurring schedule, at least for the next couple of weeks. Sounds good! I can connect you with our Care Coordinator, Lisa Chen. Perfect! What’s the best way to reach her? You can reach Lisa at +13165559203 or extension 203. Great! I’ll call her right after this. Anything else I should know? Just that our services are tailored, and we’ll develop a care plan that fits your needs. That’s reassuring! I appreciate that. I’m glad to hear that, George. Would you like me to have Lisa follow up with you as well? Yes, please! That would be very helpful. I’ll inform her to reach out today. Any other questions while I have you? No, that’s all for now. Thank you for your help! You’re very welcome, George! We look forward to assisting you. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I'm a client, but I wanted to inquire about some cosmetic treatments.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George! I'm glad to hear from you. Just to clarify, we primarily focus on home healthcare services.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I might have the wrong place then.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "No problem! I can help with any questions you have about our services.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! I’m particularly interested in any support for post-surgical recovery.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, we offer specialized post-surgery recovery care. This includes 1-3 hours of care for $85 to $110.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds good. What does the care typically involve?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our caregivers assist with daily tasks, medication management, and monitoring your recovery closely.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s helpful. I just had heart surgery and want to ensure I recover well.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We completely understand. It’s vital to get the right support during recovery.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How do I go about scheduling that service?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You can either set up a recurring schedule or request on an as-needed basis.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I’d prefer a recurring schedule, at least for the next couple of weeks.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sounds good! I can connect you with our Care Coordinator, Lisa Chen.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect! What’s the best way to reach her?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You can reach Lisa at +13165559203 or extension 203.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great! I’ll call her right after this. Anything else I should know?",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Just that our services are tailored, and we’ll develop a care plan that fits your needs.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 86,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That’s reassuring! I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’m glad to hear that, George. Would you like me to have Lisa follow up with you as well?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please! That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll inform her to reach out today. Any other questions while I have you?",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s all for now. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, George! We look forward to assisting you. Have a great day!",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dd7e549940054d84bc7f6622",
+  "revision": "",
+  "status": "success"
+}
