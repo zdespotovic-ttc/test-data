@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c5e5b6ebdc9e472ebba389c3",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571840-67dc3347",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c5e5b6ebdc9e472ebba389c3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 185,
+      "duration_ms": 185000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "c5e5b6ebdc9e472ebba389c3",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c5e5b6ebdc9e472ebba389c3",
+      "media_name": "25d956c06c85402183e2321b423f7fa0.mp3",
+      "scenario": "An individual calls to cancel a subscription service, fearing ongoing charges. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 185.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Karen Lewis. I'm calling because I want to cancel a service my husband had with you. Oh, I’m sorry to hear that, Karen. Can I ask why you’d like to cancel? Well, I'm worried about ongoing charges, especially since my husband is scheduled for cardiac surgery next month. I completely understand your concern. Let's look into your account and see what services you currently have. Yes, please. I just want to make sure I'm not charged if we won’t be needing any services right now. I’ll help you with that. Can you please provide me with your husband’s name and the service you’re looking to cancel? His name is John Lewis, and he had post-operative care scheduled. Thank you, Karen. Just a moment while I pull up the details on John’s account. Sure. I appreciate it. I just want to make sure we aren’t going to be billed for something we won’t use. I understand, and I’ll make sure to clarify everything for you. Alright, I see that you have a post-surgery recovery service scheduled. Yes, that’s correct. We just don’t know if we’ll need it after the surgery. Would you like me to cancel that service for now, or would you prefer to keep it scheduled, just in case? I think I want to cancel it for now to avoid any charges. Okay, I can process that cancellation for you. Just to confirm, the cancellation will take effect immediately. Yes, that’s what I want. I’ve processed the cancellation. You will not receive any charges for that service moving forward. Thank you, that’s a relief. You’re welcome! If you change your mind or need assistance in the future, feel free to reach out. I will definitely do that. But I might actually need help for his recovery after the surgery. That’s great to hear! We provide skilled nursing care that can support him post-surgery, with services like medication management. Oh, that sounds important. Can you give me some details about that? Sure! Our skilled nursing care is priced between $95 and $125 per visit, which includes medication management and health monitoring. That sounds reasonable. I’ll think about it and call back after his surgery. Perfect! Just remember, we can assist you at any time. Is there anything else I can help with today? No, that’s all for now. Thank you for your help, Margaret! You’re welcome, Karen! Take care, and I wish your husband a smooth surgery. Thank you, I appreciate that. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Karen Lewis. I'm calling because I want to cancel a service my husband had with you.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I’m sorry to hear that, Karen. Can I ask why you’d like to cancel?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I'm worried about ongoing charges, especially since my husband is scheduled for cardiac surgery next month.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 23,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand your concern. Let's look into your account and see what services you currently have.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, please. I just want to make sure I'm not charged if we won’t be needing any services right now.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’ll help you with that. Can you please provide me with your husband’s name and the service you’re looking to cancel?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "His name is John Lewis, and he had post-operative care scheduled.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you, Karen. Just a moment while I pull up the details on John’s account.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure. I appreciate it. I just want to make sure we aren’t going to be billed for something we won’t use.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand, and I’ll make sure to clarify everything for you. Alright, I see that you have a post-surgery recovery service scheduled.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that’s correct. We just don’t know if we’ll need it after the surgery.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Would you like me to cancel that service for now, or would you prefer to keep it scheduled, just in case?",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 89,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I think I want to cancel it for now to avoid any charges.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Okay, I can process that cancellation for you. Just to confirm, the cancellation will take effect immediately.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 101,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that’s what I want.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 107,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ve processed the cancellation. You will not receive any charges for that service moving forward.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 113,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, that’s a relief.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome! If you change your mind or need assistance in the future, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I will definitely do that. But I might actually need help for his recovery after the surgery.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 133,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "That’s great to hear! We provide skilled nursing care that can support him post-surgery, with services like medication management.",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Oh, that sounds important. Can you give me some details about that?",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 148,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sure! Our skilled nursing care is priced between $95 and $125 per visit, which includes medication management and health monitoring.",
+          "speaker": "local party",
+          "start_time": 148,
+          "end_time": 155,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds reasonable. I’ll think about it and call back after his surgery.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 161,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect! Just remember, we can assist you at any time. Is there anything else I can help with today?",
+          "speaker": "local party",
+          "start_time": 161,
+          "end_time": 166,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s all for now. Thank you for your help, Margaret!",
+          "speaker": "remote party",
+          "start_time": 166,
+          "end_time": 172,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Karen! Take care, and I wish your husband a smooth surgery.",
+          "speaker": "local party",
+          "start_time": 172,
+          "end_time": 177,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, I appreciate that. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 177,
+          "end_time": 181,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 181,
+          "end_time": 185,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c5e5b6ebdc9e472ebba389c3",
+  "revision": "",
+  "status": "success"
+}
