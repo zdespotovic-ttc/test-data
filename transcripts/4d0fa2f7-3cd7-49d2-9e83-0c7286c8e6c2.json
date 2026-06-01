@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1c252f84e2d6409aa9410231",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571797-ec9a90e1",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1c252f84e2d6409aa9410231",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "1c252f84e2d6409aa9410231",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1c252f84e2d6409aa9410231",
+      "media_name": "6b1352b6232f4c6ba77ead0595cb691f.mp3",
+      "scenario": "A customer calls to follow up on a refund request submitted last month. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is George Williams. I'm calling to follow up on a refund request I submitted last month. Hello, George! I see you’re one of our cardiac care monitoring clients. Let me check your request. Yes, I submitted the request about three weeks ago regarding an overcharge. I haven’t heard back yet. I apologize for the delay, George. Let me pull up your account and details. Okay, I see your request here. It looks like there was an error in billing for two sessions last month. That’s correct. I was charged for an extra visit that I didn't even have. I understand your concern. I’ll escalate this to our billing department right away. How long do you think that will take? Typically, it takes about 5 to 7 business days to process a refund once it’s escalated. Okay, I appreciate that. I just want to make sure it’s resolved soon. Absolutely, George. I’ll follow up with you next week to confirm it’s been processed. Thank you for that. Also, I wanted to inquire about additional support services. Of course! Are you looking for something specific? I was thinking about possibly adding some companion care for a few hours a week. That’s a great idea, George. Our companion care is $25 to $30 per hour and includes social interaction and light housekeeping. That sounds reasonable. How do I go about setting that up? I can connect you with our Care Coordinator, Lisa Chen, to develop a personalized care plan for you. Perfect, I’d appreciate that. What’s the best way to reach her? You can contact her at +13165559203 or I can transfer you now. I’d prefer to be transferred, please. Sure thing, let me connect you. One moment please. Thank you, Margaret. You’re welcome! Transferring you now. (transferring...) (transfer complete) Have a great day, George! You too!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I'm calling to follow up on a refund request I submitted last month.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hello, George! I see you’re one of our cardiac care monitoring clients. Let me check your request.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I submitted the request about three weeks ago regarding an overcharge. I haven’t heard back yet.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for the delay, George. Let me pull up your account and details.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, I see your request here. It looks like there was an error in billing for two sessions last month.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 35,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "That’s correct. I was charged for an extra visit that I didn't even have.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I understand your concern. I’ll escalate this to our billing department right away.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "How long do you think that will take?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Typically, it takes about 5 to 7 business days to process a refund once it’s escalated.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Okay, I appreciate that. I just want to make sure it’s resolved soon.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, George. I’ll follow up with you next week to confirm it’s been processed.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you for that. Also, I wanted to inquire about additional support services.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Of course! Are you looking for something specific?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I was thinking about possibly adding some companion care for a few hours a week.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 83,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "That’s a great idea, George. Our companion care is $25 to $30 per hour and includes social interaction and light housekeeping.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That sounds reasonable. How do I go about setting that up?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I can connect you with our Care Coordinator, Lisa Chen, to develop a personalized care plan for you.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Perfect, I’d appreciate that. What’s the best way to reach her?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 107,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You can contact her at +13165559203 or I can transfer you now.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I’d prefer to be transferred, please.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Sure thing, let me connect you. One moment please.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re welcome! Transferring you now.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "(transferring...)",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "(transfer complete)",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Have a great day, George!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1c252f84e2d6409aa9410231",
+  "revision": "",
+  "status": "success"
+}
