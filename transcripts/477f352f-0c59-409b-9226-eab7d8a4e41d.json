@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e7f477cb8fda42f286382ea0",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947567937-fcfb3565",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e7f477cb8fda42f286382ea0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 128,
+      "duration_ms": 128000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "e7f477cb8fda42f286382ea0",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e7f477cb8fda42f286382ea0",
+      "media_name": "bdf1a4f9573941608be46a5952505093.mp3",
+      "scenario": "A patient needs immediate guidance on what to do after experiencing adverse effects from treatment. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 128.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is William Chen. I'm calling because I’ve experienced some adverse effects since my last physical therapy session. I'm sorry to hear that, William. Can you tell me more about the symptoms you’re experiencing? Yes, I’ve had increased swelling and pain in my knee, and it feels really stiff. I’m worried it’s a problem. That sounds concerning. Since you’ve had knee surgery recently, it’s important we address this right away. Have you taken any medication for the pain? I took the pain medication prescribed, but it hasn't helped much. I’m feeling quite frustrated. I understand, William. Let me ask you a couple of questions. When did you last do your exercises? I did them yesterday, but it was pretty painful. Should I continue with them? I recommend you avoid the exercises for now. It’s crucial not to aggravate the area further. Okay, that makes sense. What should I do in the meantime? Try elevating your leg and applying ice to reduce the swelling. Also, keep a close watch on your symptoms. I’ll do that. Should I see someone immediately? I can arrange for a skilled nurse to visit you for an assessment today. Would that work for you? Yes, please! That would be very helpful. Great. I’ll set that up. Can I confirm your address at 2847 North Ridge Road? Yes, that's correct. Perfect. I’ll send a nurse over within the next few hours. You’ll receive a call before they arrive. Thank you, Margaret. Is there anything else I should do? Just keep monitoring the pain and let the nurse know everything you’re experiencing. Will do. I really appreciate your help today. You're welcome, William. Also, considering the recent issues, would you like to discuss additional physical therapy sessions? Yes, I think I might. After the nurse visit, can we talk about a new plan? Absolutely, we can develop a new care plan based on the nurse’s assessment. Sounds good. Thank you for being so responsive. It’s my pleasure, William. We're here to support you. Take care, and I’ll follow up after the visit. Thank you, Margaret. Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I'm calling because I’ve experienced some adverse effects since my last physical therapy session.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, William. Can you tell me more about the symptoms you’re experiencing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I’ve had increased swelling and pain in my knee, and it feels really stiff. I’m worried it’s a problem.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds concerning. Since you’ve had knee surgery recently, it’s important we address this right away. Have you taken any medication for the pain?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I took the pain medication prescribed, but it hasn't helped much. I’m feeling quite frustrated.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, William. Let me ask you a couple of questions. When did you last do your exercises?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I did them yesterday, but it was pretty painful. Should I continue with them?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I recommend you avoid the exercises for now. It’s crucial not to aggravate the area further.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, that makes sense. What should I do in the meantime?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Try elevating your leg and applying ice to reduce the swelling. Also, keep a close watch on your symptoms.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I’ll do that. Should I see someone immediately?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can arrange for a skilled nurse to visit you for an assessment today. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please! That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great. I’ll set that up. Can I confirm your address at 2847 North Ridge Road?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that's correct.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 78,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect. I’ll send a nurse over within the next few hours. You’ll receive a call before they arrive.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. Is there anything else I should do?",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Just keep monitoring the pain and let the nurse know everything you’re experiencing.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 93,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Will do. I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 98,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, William. Also, considering the recent issues, would you like to discuss additional physical therapy sessions?",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, I think I might. After the nurse visit, can we talk about a new plan?",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, we can develop a new care plan based on the nurse’s assessment.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. Thank you for being so responsive.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure, William. We're here to support you. Take care, and I’ll follow up after the visit.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e7f477cb8fda42f286382ea0",
+  "revision": "",
+  "status": "success"
+}
