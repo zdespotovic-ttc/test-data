@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-13cca4e920bb481ba59e127d",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564853-e6005196",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-13cca4e920bb481ba59e127d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 155,
+      "duration_ms": 155000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "13cca4e920bb481ba59e127d",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-13cca4e920bb481ba59e127d",
+      "media_name": "eb817f91eb7c4f708161d1bfb95f1a0d.mp3",
+      "scenario": "A customer is calling to dispute a late fee that they believe was applied in error due to payment processing delays on the company's end. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 155.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Rose Patterson. I'm calling about a late fee that I believe was charged in error. Hi Rose, I’m glad you called. Can you provide me with some details about the late fee? Sure, I noticed a $15 late fee on my last bill, but I paid it on time. I think there might have been a processing delay on your end. I understand, Rose. Let me pull up your account and review the payment history. One moment, please. Thank you. I really appreciate it. It’s been a bit frustrating trying to sort this out. I completely understand. It’s important to get this sorted out. Okay, I see that your payment was processed on time, but there was indeed a delay in our system that caused the late fee to be applied incorrectly. I knew it! It’s really stressful managing these things on top of my son’s care. I can imagine, Rose. We apologize for the inconvenience this has caused you. I will initiate a request to waive that late fee for you. It should reflect in your account within 24 hours. Thank you, that would really help. Can you confirm that I won’t have any other fees? Yes, I can confirm that there should be no additional fees this month. That’s great to hear. I really appreciate your help with this. You’re welcome, Rose. Is there anything else I can assist you with today? Actually, yes. I was wondering if we could look into adding a few extra hours of companion care next week. Of course! How many additional hours were you thinking? Maybe two extra hours each day, so a total of four hours throughout the week. Let me check our availability for that. One moment, please. We can accommodate that request. The cost would be $25 to $30 per hour, depending on the caregiver. That sounds good. Let’s go ahead and schedule that. Perfect! I’ll update your care plan for those additional hours. Thank you! I feel much better about everything now. I’m glad to hear that, Rose. Just to confirm, I’ll waive the late fee and add those extra companion care hours. Yes, that’s correct. Thank you for your help! You’re very welcome! If you have any other questions or concerns, don’t hesitate to call. I will, thanks again, Margaret. Goodbye! Goodbye, Rose! Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I'm calling about a late fee that I believe was charged in error.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose, I’m glad you called. Can you provide me with some details about the late fee?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, I noticed a $15 late fee on my last bill, but I paid it on time. I think there might have been a processing delay on your end.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, Rose. Let me pull up your account and review the payment history. One moment, please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I really appreciate it. It’s been a bit frustrating trying to sort this out.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand. It’s important to get this sorted out.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see that your payment was processed on time, but there was indeed a delay in our system that caused the late fee to be applied incorrectly.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I knew it! It’s really stressful managing these things on top of my son’s care.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I can imagine, Rose. We apologize for the inconvenience this has caused you.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I will initiate a request to waive that late fee for you. It should reflect in your account within 24 hours.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, that would really help. Can you confirm that I won’t have any other fees?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, I can confirm that there should be no additional fees this month.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That’s great to hear. I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You’re welcome, Rose. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, yes. I was wondering if we could look into adding a few extra hours of companion care next week.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course! How many additional hours were you thinking?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Maybe two extra hours each day, so a total of four hours throughout the week.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Let me check our availability for that. One moment, please.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "We can accommodate that request. The cost would be $25 to $30 per hour, depending on the caregiver.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 115,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That sounds good. Let’s go ahead and schedule that.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Perfect! I’ll update your care plan for those additional hours.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you! I feel much better about everything now.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I’m glad to hear that, Rose. Just to confirm, I’ll waive the late fee and add those extra companion care hours.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Yes, that’s correct. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re very welcome! If you have any other questions or concerns, don’t hesitate to call.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "I will, thanks again, Margaret. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Goodbye, Rose! Have a great day!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-13cca4e920bb481ba59e127d",
+  "revision": "",
+  "status": "success"
+}
