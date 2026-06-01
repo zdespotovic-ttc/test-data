@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7150cdb68b964ba4a96da497",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947568098-6afeec62",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7150cdb68b964ba4a96da497",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 113,
+      "duration_ms": 113000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "7150cdb68b964ba4a96da497",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7150cdb68b964ba4a96da497",
+      "media_name": "c59180484805471bbab072adb17e816e.mp3",
+      "scenario": "A customer wants to cancel a scheduled service and asks about the cancellation policy. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 113.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is George Williams. I’d like to discuss canceling my next cardiac care monitoring appointment. Hi George, thanks for calling. I’m sorry to hear you want to cancel. Can I ask why? Well, I’m feeling better lately, and I think I might not need the service anymore. That’s great to hear you’re feeling better! Just to clarify, would you like to cancel the upcoming appointment scheduled for next week? Yes, that’s correct. Could you also let me know about the cancellation policy? Of course. Our cancellation policy states that if you cancel with less than 24 hours’ notice, there may be a fee. Otherwise, you can cancel at any time without penalty. Got it. So, I wouldn't be charged since I’m canceling a week in advance? That’s right, you won’t be charged for canceling now. Would you like me to confirm the cancellation in our system? Yes, please do. Okay, I’ll go ahead and process that cancellation for you. Thank you. Also, do you think it's a good idea to keep some follow-up appointments scheduled? Well, it can be beneficial, especially after heart surgery. Regular monitoring can help ensure your recovery continues smoothly. That makes sense. How often should I consider follow-ups? Typically, bi-weekly or monthly appointments are recommended for a while after surgery. Okay, I’ll think about setting those up. What would the cost be? Cardiac care monitoring is priced at $80 to $100 per session, depending on the services required. I see. I’ll consider that. Great! Would you like me to schedule a follow-up appointment for you now? Not right now. I’ll call back once I decide. That sounds good, George. I’ll confirm your cancellation. Is there anything else I can help you with today? No, that’s it. Thanks for your help! You’re welcome! Have a great day, George. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I’d like to discuss canceling my next cardiac care monitoring appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George, thanks for calling. I’m sorry to hear you want to cancel. Can I ask why?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’m feeling better lately, and I think I might not need the service anymore.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s great to hear you’re feeling better! Just to clarify, would you like to cancel the upcoming appointment scheduled for next week?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, that’s correct. Could you also let me know about the cancellation policy?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course. Our cancellation policy states that if you cancel with less than 24 hours’ notice, there may be a fee. Otherwise, you can cancel at any time without penalty.",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Got it. So, I wouldn't be charged since I’m canceling a week in advance?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That’s right, you won’t be charged for canceling now. Would you like me to confirm the cancellation in our system?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please do.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Okay, I’ll go ahead and process that cancellation for you.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you. Also, do you think it's a good idea to keep some follow-up appointments scheduled?",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Well, it can be beneficial, especially after heart surgery. Regular monitoring can help ensure your recovery continues smoothly.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That makes sense. How often should I consider follow-ups?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Typically, bi-weekly or monthly appointments are recommended for a while after surgery.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, I’ll think about setting those up. What would the cost be?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Cardiac care monitoring is priced at $80 to $100 per session, depending on the services required.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I see. I’ll consider that.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! Would you like me to schedule a follow-up appointment for you now?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Not right now. I’ll call back once I decide.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "That sounds good, George. I’ll confirm your cancellation. Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s it. Thanks for your help!",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! Have a great day, George.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 106,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7150cdb68b964ba4a96da497",
+  "revision": "",
+  "status": "success"
+}
