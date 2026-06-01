@@ -1,0 +1,221 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-92bf5b1f08134c93af21cb52",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571413-d09216e9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-92bf5b1f08134c93af21cb52",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "92bf5b1f08134c93af21cb52",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-92bf5b1f08134c93af21cb52",
+      "media_name": "7fefe99ecb564dbfb8894fcfca9e11aa.mp3",
+      "scenario": "A business calls to report issues with the quality of tech support received for their office equipment. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Mary O’Connor. I'm calling to discuss some issues I've been experiencing with the tech support for my office equipment. Oh, I’m sorry to hear that, Mary. Can you provide me with more details about the issues? Well, I’ve had several calls with tech support, but the solutions they provided haven’t worked, and it’s really affecting my work. I’m quite frustrated. I understand how that can be frustrating. Can you tell me what specific issues you’ve been encountering? Yes, my printer keeps jamming, and they said it was a software issue. But they didn’t help me fix it, and now I'm having problems with scanning as well. That sounds really inconvenient. I’ll make sure to escalate this situation to our tech support management. Thank you, I appreciate that. I just need the equipment to work smoothly so I can focus on my IV therapy. Absolutely, your health and comfort are our priority. I’ll follow up with a tech specialist. That would be great. And just to mention, I’m also anxious about medical procedures, so I hope whoever comes is reassuring. We’ll make sure to send someone who is not only skilled but also compassionate. I appreciate it. Can you also remind them about my previous request for medication management support? Yes, I’ll note that as well. Is there anything else you'd like us to address? Just the follow-up on the tech support issue. It’s been really stressful, and I need it resolved quickly. Understood. I’ll get back to you with updates on both the tech support and your medication management. Thank you, Margaret. I really appreciate your help and understanding. You’re welcome, Mary. I’ll make sure to follow up with you by the end of the day. Sounds good. I look forward to hearing from you soon. Thank you for reaching out, and have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mary O’Connor. I'm calling to discuss some issues I've been experiencing with the tech support for my office equipment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I’m sorry to hear that, Mary. Can you provide me with more details about the issues?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’ve had several calls with tech support, but the solutions they provided haven’t worked, and it’s really affecting my work. I’m quite frustrated.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how that can be frustrating. Can you tell me what specific issues you’ve been encountering?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, my printer keeps jamming, and they said it was a software issue. But they didn’t help me fix it, and now I'm having problems with scanning as well.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds really inconvenient. I’ll make sure to escalate this situation to our tech support management.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you, I appreciate that. I just need the equipment to work smoothly so I can focus on my IV therapy.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, your health and comfort are our priority. I’ll follow up with a tech specialist.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great. And just to mention, I’m also anxious about medical procedures, so I hope whoever comes is reassuring.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We’ll make sure to send someone who is not only skilled but also compassionate.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate it. Can you also remind them about my previous request for medication management support?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, I’ll note that as well. Is there anything else you'd like us to address?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Just the follow-up on the tech support issue. It’s been really stressful, and I need it resolved quickly.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Understood. I’ll get back to you with updates on both the tech support and your medication management.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help and understanding.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome, Mary. I’ll make sure to follow up with you by the end of the day.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sounds good. I look forward to hearing from you soon.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you for reaching out, and have a great day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-92bf5b1f08134c93af21cb52",
+  "revision": "",
+  "status": "success"
+}
