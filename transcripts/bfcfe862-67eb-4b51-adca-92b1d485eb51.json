@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6c86cc7fabca4a14b6b95b82",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947567897-a2255fb3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6c86cc7fabca4a14b6b95b82",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 122,
+      "duration_ms": 122000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "6c86cc7fabca4a14b6b95b82",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6c86cc7fabca4a14b6b95b82",
+      "media_name": "ff895a3a566d4a02969474d1966f77f3.mp3",
+      "scenario": "An urgent call comes in from a client experiencing severe pain after a recent treatment. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 122.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you? Hi Margaret, this is Frank Miller. I'm really in pain after yesterday's treatment. Oh no, I'm sorry to hear that, Frank. Can you tell me more about your symptoms? It’s my leg, where the nurse did the wound care. It hurts a lot, and I can hardly move. I understand, that sounds concerning. Have you taken any pain relief medication? I took some ibuprofen, but it doesn't seem to help much. Okay, thank you for letting me know. I recommend we have a nurse assess you as soon as possible. Yes, please! I really need someone to check on my wound. Let me check our schedule. Would you prefer your usual nurse, Robert, for this visit? Yes, that would be great. I feel more comfortable with him. Alright, let me see if he's available right now... [pause] Yes, he can come over in about 30 minutes. Thank you! I appreciate it. What if the pain doesn’t go away after he sees me? If the pain persists, we can discuss adjusting your medication plan or possibly refer you to a doctor. That sounds good. I don’t want to deal with this for long. I completely understand. I’ll also note this in your file for follow-up after the visit. Great, thank you. Just to confirm, Robert is on his way? Yes, he is. You'll see him shortly. Perfect. By the way, I need a ride to my endocrinologist later this month. We can help with that. I’ll arrange transportation for your appointment and confirm the details. Thanks, Margaret! I really appreciate all the support. You're very welcome, Frank. Just hang in there, and Robert will be there soon. Will do. Talk soon! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I'm really in pain after yesterday's treatment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, I'm sorry to hear that, Frank. Can you tell me more about your symptoms?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It’s my leg, where the nurse did the wound care. It hurts a lot, and I can hardly move.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, that sounds concerning. Have you taken any pain relief medication?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I took some ibuprofen, but it doesn't seem to help much.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Okay, thank you for letting me know. I recommend we have a nurse assess you as soon as possible.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please! I really need someone to check on my wound.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check our schedule. Would you prefer your usual nurse, Robert, for this visit?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be great. I feel more comfortable with him.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 51,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Alright, let me see if he's available right now... [pause] Yes, he can come over in about 30 minutes.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you! I appreciate it. What if the pain doesn’t go away after he sees me?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "If the pain persists, we can discuss adjusting your medication plan or possibly refer you to a doctor.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 69,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. I don’t want to deal with this for long.",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 76,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I completely understand. I’ll also note this in your file for follow-up after the visit.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great, thank you. Just to confirm, Robert is on his way?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, he is. You'll see him shortly.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect. By the way, I need a ride to my endocrinologist later this month.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 97,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can help with that. I’ll arrange transportation for your appointment and confirm the details.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thanks, Margaret! I really appreciate all the support.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're very welcome, Frank. Just hang in there, and Robert will be there soon.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Will do. Talk soon!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 122,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6c86cc7fabca4a14b6b95b82",
+  "revision": "",
+  "status": "success"
+}
