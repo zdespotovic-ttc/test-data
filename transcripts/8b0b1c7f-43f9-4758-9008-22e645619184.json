@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f3c257b206204a67b2d09938",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564814-d75928ae",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f3c257b206204a67b2d09938",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 245,
+      "duration_ms": 245000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "f3c257b206204a67b2d09938",
+      "caller_id_number": "+13165552468",
+      "caller_id_name": "Robert Jackson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f3c257b206204a67b2d09938",
+      "media_name": "cbc743d7be5540d6927c293486955ff1.mp3",
+      "scenario": "An irate customer calls about being overcharged for a service, demanding an immediate correction and credit. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 245.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Robert Jackson. I'm really upset about a billing issue I noticed on my account. I’m sorry to hear that, Robert. Can you please tell me more about the issue? Well, I was charged for two hours of personal care assistance when I only received one hour last week. I need this corrected immediately. I understand your frustration, Robert. Let me pull up your account and check the details of that billing. One moment, please. Sure. This is really annoying. I’ve been a client for three years and I expect better management of my account. I completely understand that, and I appreciate your loyalty. Thank you for your patience while I look into this. Okay, I see the charge you’re referring to. It was documented as two hours due to a scheduling error. A scheduling error? That’s not acceptable! I only needed one hour of service. Why would I be charged for two? I sincerely apologize for the oversight, Robert. I will arrange for a credit to your account right away for the extra hour. I need that corrected immediately. When will the credit be applied? The credit will be processed within 24 to 48 hours, and I will send you a confirmation once it’s completed. Okay, but this is the second time something like this has happened. I need assurance this won’t happen again! I understand your concern, and I’ll make sure to discuss this with our billing department to prevent future mistakes. I also want to verify my upcoming appointments. I hope there aren't any errors regarding those. I can certainly help with that. Let me pull up your schedule while we’re on the call. Great. I just want to make sure I'm getting the care I need without any hassles. Absolutely, Robert. Your care is our priority. I’ll check your appointments right now. It looks like you have a personal care assistant scheduled for tomorrow at 10 AM. Is that correct? Yes, that's right. I just want to make sure everything is set. Everything is confirmed. I’ll also make a note to double-check the billing accuracy moving forward. Thank you. I appreciate your help. Can I get a follow-up call after the credit is processed? Of course, I’ll personally follow up with you once it’s done. Alright. I expect to hear from you soon then. Thank you for your understanding, Robert. Is there anything else I can assist you with today? No, that’s everything for now. Thanks for your help. You’re welcome! Have a great day, and we’ll be in touch soon. Bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Robert Jackson. I'm really upset about a billing issue I noticed on my account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Robert. Can you please tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was charged for two hours of personal care assistance when I only received one hour last week. I need this corrected immediately.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration, Robert. Let me pull up your account and check the details of that billing. One moment, please.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure. This is really annoying. I’ve been a client for three years and I expect better management of my account.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 45,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand that, and I appreciate your loyalty. Thank you for your patience while I look into this.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 60,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see the charge you’re referring to. It was documented as two hours due to a scheduling error.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "A scheduling error? That’s not acceptable! I only needed one hour of service. Why would I be charged for two?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I sincerely apologize for the oversight, Robert. I will arrange for a credit to your account right away for the extra hour.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I need that corrected immediately. When will the credit be applied?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "The credit will be processed within 24 to 48 hours, and I will send you a confirmation once it’s completed.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Okay, but this is the second time something like this has happened. I need assurance this won’t happen again!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 115,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I understand your concern, and I’ll make sure to discuss this with our billing department to prevent future mistakes.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I also want to verify my upcoming appointments. I hope there aren't any errors regarding those.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I can certainly help with that. Let me pull up your schedule while we’re on the call.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Great. I just want to make sure I'm getting the care I need without any hassles.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 155,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely, Robert. Your care is our priority. I’ll check your appointments right now.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 165,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "It looks like you have a personal care assistant scheduled for tomorrow at 10 AM. Is that correct?",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 175,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that's right. I just want to make sure everything is set.",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 185,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Everything is confirmed. I’ll also make a note to double-check the billing accuracy moving forward.",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 195,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you. I appreciate your help. Can I get a follow-up call after the credit is processed?",
+          "speaker": "remote party",
+          "start_time": 195,
+          "end_time": 205,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Of course, I’ll personally follow up with you once it’s done.",
+          "speaker": "local party",
+          "start_time": 205,
+          "end_time": 210,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Alright. I expect to hear from you soon then.",
+          "speaker": "remote party",
+          "start_time": 210,
+          "end_time": 220,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your understanding, Robert. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 220,
+          "end_time": 225,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s everything for now. Thanks for your help.",
+          "speaker": "remote party",
+          "start_time": 225,
+          "end_time": 230,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Have a great day, and we’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 230,
+          "end_time": 235,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 235,
+          "end_time": 240,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 240,
+          "end_time": 245,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552468",
+    "ooma_remote_name": "Robert Jackson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f3c257b206204a67b2d09938",
+  "revision": "",
+  "status": "success"
+}
