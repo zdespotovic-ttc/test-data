@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-16075fc0150544f8a72cacf6",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571673-15b75d08",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-16075fc0150544f8a72cacf6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 138,
+      "duration_ms": 138000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "16075fc0150544f8a72cacf6",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-16075fc0150544f8a72cacf6",
+      "media_name": "033c5e2911ae4cd89dddb3be5526bbae.mp3",
+      "scenario": "A potential client calls to request a quote for a large-scale catering event. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 138.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, my name is Michael Brown. I found your number through the hospital discharge planning department. Nice to meet you, Michael. What can I assist you with? I'm looking for some services for my father. He has diabetes and needs wound care and medication management. We can definitely help with that. Do you have specific times in mind for the services? Ideally, we would like someone to come in a few times a week. That sounds good. For wound care, we offer management services priced between $75 and $95 per visit. Okay, and what about medication management? Medication management is priced between $65 and $80 per visit. Each session typically lasts about 30 to 45 minutes. That sounds reasonable. How soon could we start? We could arrange a nurse to visit within the next few days. Would you like to schedule a consultation? Yes, please. That would be great. I’ll need to gather some more details. Can I have your father’s name and any specific health concerns? His name is John Brown, and he has some issues with his blood sugar levels as well. Thank you, Michael. I’ll make a note of that. When are you available for the consultation? I’m free on Tuesday afternoon or Wednesday morning. Let’s go with Tuesday afternoon then. How does 2 PM sound? That works for me. Great! I’ll schedule the visit for Tuesday at 2 PM. Thank you. Will someone follow up with me before then? Yes, I will have our Care Coordinator, Lisa Chen, call you to confirm the appointment and go over the care plan. Perfect. Is there anything else I should prepare for that meeting? It would be helpful to have a list of his current medications and any relevant medical records. Okay, I can do that. Excellent! We’re looking forward to helping your father. Thank you, Margaret. I appreciate your assistance. You’re welcome, Michael. If you have any questions before Tuesday, don’t hesitate to call us back. I will. Have a great day! You too, Michael! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Michael Brown. I found your number through the hospital discharge planning department.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Michael. What can I assist you with?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm looking for some services for my father. He has diabetes and needs wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely help with that. Do you have specific times in mind for the services?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Ideally, we would like someone to come in a few times a week.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds good. For wound care, we offer management services priced between $75 and $95 per visit.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and what about medication management?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Medication management is priced between $65 and $80 per visit. Each session typically lasts about 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds reasonable. How soon could we start?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We could arrange a nurse to visit within the next few days. Would you like to schedule a consultation?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please. That would be great.",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll need to gather some more details. Can I have your father’s name and any specific health concerns?",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "His name is John Brown, and he has some issues with his blood sugar levels as well.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you, Michael. I’ll make a note of that. When are you available for the consultation?",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I’m free on Tuesday afternoon or Wednesday morning.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let’s go with Tuesday afternoon then. How does 2 PM sound?",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That works for me.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll schedule the visit for Tuesday at 2 PM.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you. Will someone follow up with me before then?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, I will have our Care Coordinator, Lisa Chen, call you to confirm the appointment and go over the care plan.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect. Is there anything else I should prepare for that meeting?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It would be helpful to have a list of his current medications and any relevant medical records.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Okay, I can do that.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Excellent! We’re looking forward to helping your father.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your assistance.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Michael. If you have any questions before Tuesday, don’t hesitate to call us back.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, Michael! Take care.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-16075fc0150544f8a72cacf6",
+  "revision": "",
+  "status": "success"
+}
