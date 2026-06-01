@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-16bd653833f84169b7c8b457",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564878-33485a69",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-16bd653833f84169b7c8b457",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "16bd653833f84169b7c8b457",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-16bd653833f84169b7c8b457",
+      "media_name": "75d45822255f4c2f890ab92d9a029efc.mp3",
+      "scenario": "An upset customer calls after discovering unauthorized charges on their account and demands these be reversed. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret Thompson. How can I help you today? Hi Margaret, this is Agnes Rodriguez. I'm really upset right now. I just saw some unauthorized charges on my account. I'm so sorry to hear that, Agnes. Let’s get this sorted out. Can you tell me what the charges are for? There are charges for companion care services that I didn’t authorize. It’s totally not acceptable! I completely understand your frustration. Let me pull up your account and look into this right now. Thank you, I really appreciate it. I’ve been a client for two years and this is the first time something like this has happened. I see that you’ve been a valued client. One moment while I check the billing history. Okay, I hope it’s something simple we can fix quickly. I found the charges. It looks like there were two extra visits charged this month that were not authorized. Exactly! I only scheduled my usual visits. I’m really sorry about that, Agnes. We’ll definitely reverse those charges for you. When can I expect the reversal? I don't want to wait too long. The reversal will take about 3-5 business days to process back to your account. That’s good to know, but I still feel uneasy about this. How can I be sure it won’t happen again? I can set up a review of your account to ensure that all future services are clearly outlined and authorized. Yes, I would like that. I don’t want any surprises on my billing. I will also send you a summary of your services and billing preferences via email for your records. Thank you, that would be helpful. What’s your email address? It’s info@carefirsthomehealth.com. I’ll send that right away. Great, I appreciate that. Also, can I get additional companion services for gardening? Absolutely! We can schedule regular gardening activities as part of your companion care. That sounds perfect! I’d love that. Let’s discuss the details and find a schedule that works for you. Yes, let's do that. I’ll just take down your preferred days and times for the gardening activities. Sunday afternoons work best for me. Excellent choice! I’ll include that in our notes. Thank you so much, Margaret. I feel a lot better now. You’re welcome, Agnes. We value you as our client. Thank you. I look forward to your email and the gardening sessions. Of course! If you have any more questions, feel free to call us anytime. Will do. Have a good day! You too, Agnes. Take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret Thompson. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 4,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I'm really upset right now. I just saw some unauthorized charges on my account.",
+          "speaker": "remote party",
+          "start_time": 4,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm so sorry to hear that, Agnes. Let’s get this sorted out. Can you tell me what the charges are for?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "There are charges for companion care services that I didn’t authorize. It’s totally not acceptable!",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand your frustration. Let me pull up your account and look into this right now.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I really appreciate it. I’ve been a client for two years and this is the first time something like this has happened.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see that you’ve been a valued client. One moment while I check the billing history.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I hope it’s something simple we can fix quickly.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I found the charges. It looks like there were two extra visits charged this month that were not authorized.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Exactly! I only scheduled my usual visits.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m really sorry about that, Agnes. We’ll definitely reverse those charges for you.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "When can I expect the reversal? I don't want to wait too long.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "The reversal will take about 3-5 business days to process back to your account.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That’s good to know, but I still feel uneasy about this. How can I be sure it won’t happen again?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can set up a review of your account to ensure that all future services are clearly outlined and authorized.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I would like that. I don’t want any surprises on my billing.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I will also send you a summary of your services and billing preferences via email for your records.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, that would be helpful. What’s your email address?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It’s info@carefirsthomehealth.com. I’ll send that right away.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great, I appreciate that. Also, can I get additional companion services for gardening?",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely! We can schedule regular gardening activities as part of your companion care.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds perfect! I’d love that.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Let’s discuss the details and find a schedule that works for you.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, let's do that.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I’ll just take down your preferred days and times for the gardening activities.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sunday afternoons work best for me.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Excellent choice! I’ll include that in our notes.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much, Margaret. I feel a lot better now.",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 149,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Agnes. We value you as our client.",
+          "speaker": "local party",
+          "start_time": 149,
+          "end_time": 152,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you. I look forward to your email and the gardening sessions.",
+          "speaker": "remote party",
+          "start_time": 152,
+          "end_time": 157,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Of course! If you have any more questions, feel free to call us anytime.",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 162,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Will do. Have a good day!",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 166,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "You too, Agnes. Take care!",
+          "speaker": "local party",
+          "start_time": 166,
+          "end_time": 170,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-16bd653833f84169b7c8b457",
+  "revision": "",
+  "status": "success"
+}
