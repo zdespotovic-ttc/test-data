@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-23T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dcbada9ebc1c47138109c018",
+    "created": 1779519600,
+    "modified": 1779519600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947564950-66a71878",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dcbada9ebc1c47138109c018",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 127,
+      "duration_ms": 127000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946738800,
+      "call_id": "dcbada9ebc1c47138109c018",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dcbada9ebc1c47138109c018",
+      "media_name": "7710c9f888f7455e8009696a3e0ddc02.mp3",
+      "scenario": "A customer calls to urgently request technical support due to a critical system failure affecting their work productivity. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 127.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Frank Miller. I need urgent help with my care plan. Frank, I’m glad you called. What seems to be the issue? My nurse couldn't log into the patient portal, and I can't access my upcoming appointments. I understand, that sounds frustrating. Let me check the system for any outages. Thanks, I rely on that portal for my medication management and appointments. I’ll do my best to resolve this quickly. Please hold on for a moment. *pauses for checking system* It appears we’re experiencing a technical issue with the portal. Our IT team is aware and working on it. That’s a relief to hear, but what should I do in the meantime? For now, I can help you set up a temporary solution. Would you like me to arrange a direct call with your nurse? Yes, please! I want to ensure I don’t miss my medication schedule. Absolutely. I can also note to have the same nurse, as per your preference. That works for me. Can you confirm who my nurse is and when I can expect a call? Your nurse is Robert Davis. I’ll have him call you within the next hour. Perfect, thank you! I’ll also follow up with you later today to ensure everything is resolved. I appreciate that. It’s just been a bit stressful with my appointments coming up. I understand. If you need transportation for your endocrinologist, we can assist with that too. Yes, I need transportation for that next month. Can we arrange that now? Certainly! I’ll connect with our transportation services and get that set up for you. Thank you! No problem, Frank. You’ll receive a confirmation call for your appointment and transportation. Sounds great. I feel much better now. I’m glad I could help! Is there anything else I can assist you with? No, that’s everything for now. Thank you again, Margaret. You’re welcome, Frank. Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I need urgent help with my care plan.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 5,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Frank, I’m glad you called. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 5,
+          "end_time": 8,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My nurse couldn't log into the patient portal, and I can't access my upcoming appointments.",
+          "speaker": "remote party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, that sounds frustrating. Let me check the system for any outages.",
+          "speaker": "local party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thanks, I rely on that portal for my medication management and appointments.",
+          "speaker": "remote party",
+          "start_time": 16,
+          "end_time": 21,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’ll do my best to resolve this quickly. Please hold on for a moment.",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "*pauses for checking system* It appears we’re experiencing a technical issue with the portal. Our IT team is aware and working on it.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "That’s a relief to hear, but what should I do in the meantime?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "For now, I can help you set up a temporary solution. Would you like me to arrange a direct call with your nurse?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, please! I want to ensure I don’t miss my medication schedule.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely. I can also note to have the same nurse, as per your preference.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That works for me. Can you confirm who my nurse is and when I can expect a call?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Your nurse is Robert Davis. I’ll have him call you within the next hour.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 73,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I’ll also follow up with you later today to ensure everything is resolved.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 80,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I appreciate that. It’s just been a bit stressful with my appointments coming up.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I understand. If you need transportation for your endocrinologist, we can assist with that too.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, I need transportation for that next month. Can we arrange that now?",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Certainly! I’ll connect with our transportation services and get that set up for you.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 99,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you!",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 102,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "No problem, Frank. You’ll receive a confirmation call for your appointment and transportation.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Sounds great. I feel much better now.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I’m glad I could help! Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "No, that’s everything for now. Thank you again, Margaret.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome, Frank. Have a great day!",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 127,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dcbada9ebc1c47138109c018",
+  "revision": "",
+  "status": "success"
+}
