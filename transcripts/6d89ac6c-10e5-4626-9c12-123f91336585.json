@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-8e06a7d5fe91447a9ec885ef",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947567947-6c5ee8a6",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-8e06a7d5fe91447a9ec885ef",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "8e06a7d5fe91447a9ec885ef",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-8e06a7d5fe91447a9ec885ef",
+      "media_name": "2ed07a5a92cd4f5789dcb371da3d4a96.mp3",
+      "scenario": "An urgent request comes from a client needing an emergency appointment due to a severe migraine. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Charles Thompson. I need to request an emergency appointment. Oh, I’m sorry to hear that, Charles. Can you tell me what’s going on? I’m experiencing a severe migraine, and it’s really debilitating. I need some assistance soon. I understand. Let’s get you the help you need. Are you currently taking any medication for it? I took some over-the-counter pain relief, but it’s not helping. I’m feeling nauseous too. That sounds uncomfortable. I recommend we send a nurse to assess your condition right away. Yes, please. I really need some relief. Can you send someone who understands migraines? Absolutely, I’ll ensure it’s someone experienced in acute care. Let’s see… The soonest we can have a nurse at your home is within the next hour. Does that work for you? Yes, that would be perfect. Thank you! Great! I’ll arrange for Robert Davis, our Registered Nurse, to come by. Oh, I prefer male nurses whenever possible. Not a problem, Robert is available and will be there shortly. I’ll also note that you need detailed progress reports for the VA. Yes, that’s important for my records. Thank you for remembering. Of course. I’ll make sure Robert provides that documentation after the visit. I really appreciate this, Margaret. It’s been a tough few days. I’m here to help, Charles. Is there anything else you need us to address? No, just the migraine relief. I hope this will help. It will. I’ll follow up with you after the appointment as well. That sounds good. Thank you for your quick response! You’re welcome! We’re committed to your health. Expect Robert soon. I will be waiting. Thanks again! Take care, Charles. Goodbye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I need to request an emergency appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I’m sorry to hear that, Charles. Can you tell me what’s going on?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m experiencing a severe migraine, and it’s really debilitating. I need some assistance soon.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Let’s get you the help you need. Are you currently taking any medication for it?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I took some over-the-counter pain relief, but it’s not helping. I’m feeling nauseous too.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds uncomfortable. I recommend we send a nurse to assess your condition right away.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please. I really need some relief. Can you send someone who understands migraines?",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I’ll ensure it’s someone experienced in acute care. Let’s see…",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "The soonest we can have a nurse at your home is within the next hour. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 52,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that would be perfect. Thank you!",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 55,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Great! I’ll arrange for Robert Davis, our Registered Nurse, to come by.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Oh, I prefer male nurses whenever possible.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 64,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Not a problem, Robert is available and will be there shortly.",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 68,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I’ll also note that you need detailed progress reports for the VA.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that’s important for my records. Thank you for remembering.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course. I’ll make sure Robert provides that documentation after the visit.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I really appreciate this, Margaret. It’s been a tough few days.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’m here to help, Charles. Is there anything else you need us to address?",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No, just the migraine relief. I hope this will help.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It will. I’ll follow up with you after the appointment as well.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds good. Thank you for your quick response!",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! We’re committed to your health. Expect Robert soon.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I will be waiting. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Take care, Charles. Goodbye!",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-8e06a7d5fe91447a9ec885ef",
+  "revision": "",
+  "status": "success"
+}
