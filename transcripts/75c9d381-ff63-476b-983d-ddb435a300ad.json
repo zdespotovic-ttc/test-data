@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-036dc00aeb1645a3b2239d7a",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571247-0b94a97a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-036dc00aeb1645a3b2239d7a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 161,
+      "duration_ms": 161000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "036dc00aeb1645a3b2239d7a",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-036dc00aeb1645a3b2239d7a",
+      "media_name": "b99f93883ab24b41afd59102d5e80c05.mp3",
+      "scenario": "A new customer calls to book a physical therapy session after receiving a referral from their doctor. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 161.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, my name is David Anderson. I was referred by Dorothy Henderson. I'm looking to get some care for my wife. Of course, David! I hope she's doing all right. What kind of care does she need? She’s recovering from a stroke and needs physical therapy and possibly some nursing care. I’m sorry to hear that. We can definitely help with physical therapy. When would you like to schedule the appointment? I’d like to get her started as soon as possible. Do you have any availability this week? Let me check our schedule. Our physical therapist, Dr. James Rodriguez, is available Wednesday and Friday afternoons. Wednesday works for us. What time is open? He can see her at 2 PM or 3 PM on Wednesday. Which time would you prefer? Let’s go with 2 PM. That should work fine. Great! I’ll book that for you. May I have your wife's name and any specific goals for her therapy? Her name is Susan Anderson, and I think her main goal is to regain her mobility. Thank you, David. I’ve noted that down. Also, could you tell me about nursing care services? Absolutely! Our skilled nursing care includes medication management and health monitoring. That sounds good. How do you charge for that service? Our skilled nursing care ranges from $95 to $125 for a 1-2 hour visit, depending on the specific services needed. Okay, I’ll have to think about that. Can you send me more information? Yes, I can email you our service brochure. What email address should I use? Please send it to david.anderson@email.com. Got it, I’ll send that right after our call. Thank you! Is there anything else I need to do before the appointment? Just ensure that Susan is ready for her session and has any necessary medical information handy. Will do. I appreciate your help, Margaret! You’re very welcome, David! We look forward to helping Susan. Thanks again! Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is David Anderson. I was referred by Dorothy Henderson. I'm looking to get some care for my wife.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, David! I hope she's doing all right. What kind of care does she need?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She’s recovering from a stroke and needs physical therapy and possibly some nursing care.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. We can definitely help with physical therapy. When would you like to schedule the appointment?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I’d like to get her started as soon as possible. Do you have any availability this week?",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check our schedule. Our physical therapist, Dr. James Rodriguez, is available Wednesday and Friday afternoons.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Wednesday works for us. What time is open?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "He can see her at 2 PM or 3 PM on Wednesday. Which time would you prefer?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Let’s go with 2 PM. That should work fine.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great! I’ll book that for you. May I have your wife's name and any specific goals for her therapy?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Her name is Susan Anderson, and I think her main goal is to regain her mobility.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 74,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you, David. I’ve noted that down.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Also, could you tell me about nursing care services?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely! Our skilled nursing care includes medication management and health monitoring.",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 92,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good. How do you charge for that service?",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 99,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Our skilled nursing care ranges from $95 to $125 for a 1-2 hour visit, depending on the specific services needed.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, I’ll have to think about that. Can you send me more information?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 112,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, I can email you our service brochure. What email address should I use?",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Please send it to david.anderson@email.com.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Got it, I’ll send that right after our call.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you! Is there anything else I need to do before the appointment?",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 136,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Just ensure that Susan is ready for her session and has any necessary medical information handy.",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 142,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Will do. I appreciate your help, Margaret!",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 148,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, David! We look forward to helping Susan.",
+          "speaker": "local party",
+          "start_time": 148,
+          "end_time": 154,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks again! Bye!",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 159,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 159,
+          "end_time": 161,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-036dc00aeb1645a3b2239d7a",
+  "revision": "",
+  "status": "success"
+}
