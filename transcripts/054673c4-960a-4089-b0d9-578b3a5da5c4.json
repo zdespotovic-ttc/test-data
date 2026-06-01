@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-bf3b254f587847faa0992d11",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947567978-779dac7e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-bf3b254f587847faa0992d11",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "bf3b254f587847faa0992d11",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-bf3b254f587847faa0992d11",
+      "media_name": "d6aa816f080241ca9a66fac9c7224976.mp3",
+      "scenario": "A manager asks for a detailed quote on spa treatments for an upcoming corporate retreat. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Agnes Rodriguez. I hope you're doing well. I'm doing great, Agnes! How about you? I'm okay, thanks. I'm calling because I need a detailed quote for some spa treatments for an upcoming corporate retreat. Absolutely, I can help with that. Could you tell me how many participants you’re expecting? We’re looking at about 15 people. The retreat will be next month. Perfect! Do you have specific treatments in mind, or should I suggest a package? I was thinking of massages and maybe some relaxation therapies. Sounds good. We can offer a few options. Our massages start at $110 for a 60-minute session. Okay, that’s within our budget. What about relaxation therapies? We have aromatherapy and guided meditation, priced at $80 for 45 minutes. Those sound nice. Can you also provide any special group rates? Yes, for groups of 10 or more, we can offer a 10% discount on the total package. That would be great! Can you send me a breakdown of the total costs? Sure! I’ll summarize the massage and relaxation therapy rates, including the group discount. Thank you! Is there a minimum time we need to book for these treatments? Yes, we typically require at least two hours for the services to be effective. Got it. And do you have any special arrangements for post-treatment care? We can provide light refreshments and relaxation aids if needed, at an additional cost. That would be a nice touch! Please include that in the quote. Certainly! I’ll make a note of that. Would you like me to follow up with an email or a call? An email would be perfect. My address is the same as my contact number. Great! I’ll get the quote to you by the end of the day. Thank you, Margaret. I appreciate your help. You're welcome, Agnes! If you have any other questions, feel free to reach out. Will do. Have a great day! You too! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I hope you're doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm doing great, Agnes! How about you?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm okay, thanks. I'm calling because I need a detailed quote for some spa treatments for an upcoming corporate retreat.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, I can help with that. Could you tell me how many participants you’re expecting?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We’re looking at about 15 people. The retreat will be next month.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Perfect! Do you have specific treatments in mind, or should I suggest a package?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I was thinking of massages and maybe some relaxation therapies.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Sounds good. We can offer a few options. Our massages start at $110 for a 60-minute session.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, that’s within our budget. What about relaxation therapies?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We have aromatherapy and guided meditation, priced at $80 for 45 minutes.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Those sound nice. Can you also provide any special group rates?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, for groups of 10 or more, we can offer a 10% discount on the total package.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be great! Can you send me a breakdown of the total costs?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! I’ll summarize the massage and relaxation therapy rates, including the group discount.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! Is there a minimum time we need to book for these treatments?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we typically require at least two hours for the services to be effective.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Got it. And do you have any special arrangements for post-treatment care?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can provide light refreshments and relaxation aids if needed, at an additional cost.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be a nice touch! Please include that in the quote.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Certainly! I’ll make a note of that. Would you like me to follow up with an email or a call?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "An email would be perfect. My address is the same as my contact number.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I’ll get the quote to you by the end of the day.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Agnes! If you have any other questions, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Will do. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Take care.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-bf3b254f587847faa0992d11",
+  "revision": "",
+  "status": "success"
+}
