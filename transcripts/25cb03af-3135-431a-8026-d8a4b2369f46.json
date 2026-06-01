@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-91e780561e8042ddb0e25147",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571301-9c95aed2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-91e780561e8042ddb0e25147",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "91e780561e8042ddb0e25147",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-91e780561e8042ddb0e25147",
+      "media_name": "24286b965d4f4e40bf0c366047525c0d.mp3",
+      "scenario": "A person calls to arrange a follow-up appointment for their ongoing chiropractic treatment. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Susan Garcia. I was referred by my father's pulmonologist. Hi Susan, it's nice to speak with you. How can we assist your father today? My father has COPD and needs respiratory care and assistance with his breathing treatments. Absolutely, we can help with that. We offer skilled nursing care which includes respiratory assistance. That sounds great. How do we go about scheduling that? We can set up an initial assessment to understand his specific needs. When would you like that appointment? Would next Tuesday work? Let me check... Yes, we have availability next Tuesday at 10 AM. Does that work for you? Yes, that works perfectly. Great! I’ll schedule that appointment. Can I have your father’s full name and address, please? His name is George Garcia, and the address is 123 Elm Street, Wichita, KS 67205. Thank you, Susan. And how old is your father? He’s 75. Perfect. Now, we also provide medication management and chronic disease management services, which may benefit him. What do those services involve? Medication management includes reminders and supervision for his breathing medications, while chronic disease management focuses on ongoing support for his COPD. That sounds helpful. What are the costs associated with those services? The medication management service is priced between $65 and $80 and lasts about 30-45 minutes. Chronic disease management would be similar in cost. I’d like to consider those options after the initial assessment. Absolutely, we can discuss that further during the appointment. Great, I appreciate it. No problem at all. So, just to confirm, your appointment is set for next Tuesday at 10 AM. Yes, that’s correct. Is there anything else I can assist you with today? No, that’s all for now. Thank you! You’re welcome, Susan. Thank you for calling CareFirst Home Health. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Susan Garcia. I was referred by my father's pulmonologist.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Susan, it's nice to speak with you. How can we assist your father today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My father has COPD and needs respiratory care and assistance with his breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can help with that. We offer skilled nursing care which includes respiratory assistance.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds great. How do we go about scheduling that?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We can set up an initial assessment to understand his specific needs. When would you like that appointment?",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Would next Tuesday work?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check... Yes, we have availability next Tuesday at 10 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that works perfectly.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great! I’ll schedule that appointment. Can I have your father’s full name and address, please?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "His name is George Garcia, and the address is 123 Elm Street, Wichita, KS 67205.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you, Susan. And how old is your father?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "He’s 75.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect. Now, we also provide medication management and chronic disease management services, which may benefit him.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "What do those services involve?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Medication management includes reminders and supervision for his breathing medications, while chronic disease management focuses on ongoing support for his COPD.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds helpful. What are the costs associated with those services?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "The medication management service is priced between $65 and $80 and lasts about 30-45 minutes. Chronic disease management would be similar in cost.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I’d like to consider those options after the initial assessment.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, we can discuss that further during the appointment.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Great, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "No problem at all. So, just to confirm, your appointment is set for next Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s all for now. Thank you!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Susan. Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-91e780561e8042ddb0e25147",
+  "revision": "",
+  "status": "success"
+}
