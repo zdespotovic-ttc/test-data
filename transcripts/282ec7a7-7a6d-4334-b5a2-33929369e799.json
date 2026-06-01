@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c725b6e4edf84ac786fa333a",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947568053-bbc7a2a6",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c725b6e4edf84ac786fa333a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "c725b6e4edf84ac786fa333a",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c725b6e4edf84ac786fa333a",
+      "media_name": "23011fb8dab142a3b6d24f3e23ee89b0.mp3",
+      "scenario": "A customer checks on the status of their membership application, having submitted it last week. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today? Hi Margaret, this is Frank Miller. I'm checking on the status of my membership application I submitted last week. Hi Frank! Great to hear from you. Let me pull up your application details. One moment, please. Sure, take your time. I've been eager to hear back since I need to finalize some things. Thanks for your patience. Alright, I see your application here. It looks like it's still in review. Oh, is there any issue? I thought everything was in order. No issues, Frank. We just need a bit more time to ensure everything is processed correctly. I understand that, but any idea on when I might hear back? Typically, it can take about one to two weeks. I can follow up with our team and expedite it if you’d like. That would be really helpful. I’d appreciate it. Absolutely, I’ll make a note to follow up for you. Is there anything else you need while I have you on the line? Yes, actually. I have my monthly appointment with my endocrinologist coming up. Can I arrange transportation through you? Yes, we can certainly arrange that. Transportation services are available for $45 to $65 per trip. That sounds good. Can we schedule it for next Tuesday? Let me check the schedule. Yes, we have availability next Tuesday for your appointment. Great! Please confirm that, and I’ll be all set. I’ll confirm that for you, and I’ll also include a follow-up about your membership application. Perfect. I really like working with the same nurse each time, if possible. I’ll make sure to assign the same nurse for your visits, especially for your diabetic management and wound care. Thank you! I appreciate that. It really helps me stay on track with my care. Of course! Your health is our priority. I’ll follow up on those items and call you back once I have updates. Thanks, Margaret. I’ll look forward to your call. You’re welcome, Frank! Have a great day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I'm checking on the status of my membership application I submitted last week.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Frank! Great to hear from you. Let me pull up your application details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, take your time. I've been eager to hear back since I need to finalize some things.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thanks for your patience. Alright, I see your application here. It looks like it's still in review.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Oh, is there any issue? I thought everything was in order.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "No issues, Frank. We just need a bit more time to ensure everything is processed correctly.",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I understand that, but any idea on when I might hear back?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Typically, it can take about one to two weeks. I can follow up with our team and expedite it if you’d like.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be really helpful. I’d appreciate it.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I’ll make a note to follow up for you. Is there anything else you need while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, actually. I have my monthly appointment with my endocrinologist coming up. Can I arrange transportation through you?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we can certainly arrange that. Transportation services are available for $45 to $65 per trip.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. Can we schedule it for next Tuesday?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me check the schedule. Yes, we have availability next Tuesday for your appointment.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great! Please confirm that, and I’ll be all set.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll confirm that for you, and I’ll also include a follow-up about your membership application.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect. I really like working with the same nurse each time, if possible.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll make sure to assign the same nurse for your visits, especially for your diabetic management and wound care.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you! I appreciate that. It really helps me stay on track with my care.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course! Your health is our priority. I’ll follow up on those items and call you back once I have updates.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thanks, Margaret. I’ll look forward to your call.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 113,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Frank! Have a great day!",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c725b6e4edf84ac786fa333a",
+  "revision": "",
+  "status": "success"
+}
