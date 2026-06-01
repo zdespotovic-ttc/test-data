@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-20T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5587e8a340624e3bb7601074",
+    "created": 1779260400,
+    "modified": 1779260400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947571710-13f9937d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5587e8a340624e3bb7601074",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946479600,
+      "call_id": "5587e8a340624e3bb7601074",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5587e8a340624e3bb7601074",
+      "media_name": "fbcc55a794734a4c83837b57e42f4262.mp3",
+      "scenario": "A caller requests information about the company's operating hours during the holiday season. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Michael Brown. I found your number through the hospital's discharge planning department. Hi, Michael! It's great to hear from you. How can I assist you today? Well, my father has diabetes and needs wound care and medication management. I understand, and we can certainly help with that. Are you interested in our services? Yes, but I wanted to check your operating hours during the holiday season first. Of course! Our hours remain consistent during the holidays. We remain open Monday through Friday from 7 AM to 7 PM. What about weekends? On Saturdays, we're open from 8 AM to 5 PM, and Sundays are for on-call emergencies only. That sounds manageable. So, if I need to schedule a visit, would I be able to do that on a Saturday? Yes, absolutely! We can schedule services on Saturdays. Just let us know what you need. Great! I just want to ensure my father receives proper care. I completely understand. We can provide skilled nursing care, wound care management, and medication management for him. How much do those services usually cost? For skilled nursing care, the price ranges from $95 to $125, depending on the duration. And for medication management? Medication management is priced between $65 and $80 for a 30-45 minute visit. Perfect, that fits within what I was expecting. Excellent! Would you like me to connect you with our Care Coordinator to discuss a care plan? Yes, that would be helpful. Great! Lisa Chen, our Care Coordinator, is available. Would you like me to transfer you? Yes, please do. One moment please, I'll transfer you now. Thank you, Margaret. You're welcome, Michael! I hope we can help your father soon. Transferring now... [Transfer sound] [End of call]",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Michael Brown. I found your number through the hospital's discharge planning department.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Michael! It's great to hear from you. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my father has diabetes and needs wound care and medication management.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, and we can certainly help with that. Are you interested in our services?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, but I wanted to check your operating hours during the holiday season first.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Of course! Our hours remain consistent during the holidays. We remain open Monday through Friday from 7 AM to 7 PM.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "What about weekends?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "On Saturdays, we're open from 8 AM to 5 PM, and Sundays are for on-call emergencies only.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds manageable. So, if I need to schedule a visit, would I be able to do that on a Saturday?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, absolutely! We can schedule services on Saturdays. Just let us know what you need.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great! I just want to ensure my father receives proper care.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I completely understand. We can provide skilled nursing care, wound care management, and medication management for him.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "How much do those services usually cost?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "For skilled nursing care, the price ranges from $95 to $125, depending on the duration.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "And for medication management?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Medication management is priced between $65 and $80 for a 30-45 minute visit.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect, that fits within what I was expecting.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Excellent! Would you like me to connect you with our Care Coordinator to discuss a care plan?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! Lisa Chen, our Care Coordinator, is available. Would you like me to transfer you?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please do.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "One moment please, I'll transfer you now.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, Michael! I hope we can help your father soon.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Transferring now...",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "[Transfer sound]",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "[End of call]",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5587e8a340624e3bb7601074",
+  "revision": "",
+  "status": "success"
+}
