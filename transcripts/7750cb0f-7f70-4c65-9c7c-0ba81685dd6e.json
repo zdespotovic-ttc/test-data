@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-56e38a8e89344eb0b49624ca",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947567887-0c7b9257",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-56e38a8e89344eb0b49624ca",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 152,
+      "duration_ms": 152000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "56e38a8e89344eb0b49624ca",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-56e38a8e89344eb0b49624ca",
+      "media_name": "ccf3d2bb58c14b29a22a72ccf660b1a3.mp3",
+      "scenario": "A customer calls as they do not recognize a charge on their credit card statement related to services. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 152.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret, this is Patricia Wilson. I'm calling because I noticed a charge on my credit card statement that I don’t recognize. I understand, Patricia. I’d be happy to help you with that. Can you provide me the amount of the charge? Yes, it was for $110, and I don't recall authorizing any payment for that amount. Thank you for that information. Let me check our records for any recent services associated with your name. Okay, that would be great. I’m just really confused because I wasn’t expecting any charges right now. Absolutely, I understand your concern. Let me pull up your records… one moment please. It looks like the charge of $110 was for post-surgery recovery care services provided to your mother last week. Does that sound familiar? Oh, I see. I didn’t realize that was processed already. It just caught me off guard. That’s completely understandable. We typically notify families ahead of time, but it seems that may have been missed. Yes, that’s possible. I just want to ensure everything is clear moving forward. Of course. Would you like me to send you a detailed breakdown of the services provided? Yes, that would be helpful. I can arrange that. What's the best email address for you? It’s patricia.wilson@email.com. Great, I’ll send that over right after our call. Is there anything else you’d like to discuss? Actually, I was also interested in scheduling more post-surgery care for my mother. We can definitely help with that. How long do you anticipate needing additional care? I think she’ll need assistance for at least a couple of weeks after the surgery. Perfect. We can set up ongoing care. Would you like me to connect you with our Care Coordinator for details? Yes, that would be great. I will transfer you to Lisa Chen, and she can assist with scheduling and care plan development. Thank you, Margaret. I appreciate your help today. You’re very welcome, Patricia. I’ll transfer you now. Have a great day! You too!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Patricia Wilson. I'm calling because I noticed a charge on my credit card statement that I don’t recognize.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I understand, Patricia. I’d be happy to help you with that. Can you provide me the amount of the charge?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it was for $110, and I don't recall authorizing any payment for that amount.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you for that information. Let me check our records for any recent services associated with your name.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, that would be great. I’m just really confused because I wasn’t expecting any charges right now.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I understand your concern. Let me pull up your records… one moment please.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It looks like the charge of $110 was for post-surgery recovery care services provided to your mother last week. Does that sound familiar?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 52,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Oh, I see. I didn’t realize that was processed already. It just caught me off guard.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "That’s completely understandable. We typically notify families ahead of time, but it seems that may have been missed.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that’s possible. I just want to ensure everything is clear moving forward.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Of course. Would you like me to send you a detailed breakdown of the services provided?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 79,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 82,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I can arrange that. What's the best email address for you?",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 90,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "It’s patricia.wilson@email.com.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Great, I’ll send that over right after our call. Is there anything else you’d like to discuss?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Actually, I was also interested in scheduling more post-surgery care for my mother.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "We can definitely help with that. How long do you anticipate needing additional care?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "I think she’ll need assistance for at least a couple of weeks after the surgery.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 117,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect. We can set up ongoing care. Would you like me to connect you with our Care Coordinator for details?",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 125,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, that would be great.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I will transfer you to Lisa Chen, and she can assist with scheduling and care plan development.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re very welcome, Patricia. I’ll transfer you now.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Have a great day!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 152,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-56e38a8e89344eb0b49624ca",
+  "revision": "",
+  "status": "success"
+}
