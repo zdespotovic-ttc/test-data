@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-24T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-899dc11d12c749038a8b65dc",
+    "created": 1779606000,
+    "modified": 1779606000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947568074-1741c07a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-899dc11d12c749038a8b65dc",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 105,
+      "duration_ms": 105000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946825200,
+      "call_id": "899dc11d12c749038a8b65dc",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-899dc11d12c749038a8b65dc",
+      "media_name": "f572659ddd2144659138bedfc4020d72.mp3",
+      "scenario": "A client calls to cancel their upcoming appointment due to a change in their schedule. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 105.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Thomas White. I need to cancel my mom's upcoming appointment. I’m sorry to hear that, Thomas. Can I ask for the reason for the cancellation? Yeah, her schedule has changed, and I can’t bring her in anymore. I understand. Would you like to reschedule for a later date, or is this cancellation permanent? I’m not sure yet. It depends on her condition and my availability. That makes sense. We can keep you updated on our services in case you decide to reschedule. I would appreciate that. She’s also been needing dementia care lately. We offer specialized dementia and Alzheimer's care. Would you like more information on that? Yes, please. I think she might benefit from those services. Great! Our dementia care is priced at $32 to $40 per hour. That sounds reasonable. Can you also provide respite care options? Certainly! Respite care is available at $30 to $38 per hour for temporary relief. That could really help me out. Can I schedule that for this week? We can arrange that. I’ll need to check staff availability first. Okay, I appreciate it. I just want to make sure I can take care of her properly. Absolutely, Thomas. Your mother’s well-being is our priority. Thank you. I’ll wait for your update regarding respite care. No problem. I’ll follow up with you by the end of the day. That works for me. Thanks for your help, Margaret. You’re welcome! If you need anything else, don’t hesitate to call. I will! Have a great day. You too, Thomas. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Thomas White. I need to cancel my mom's upcoming appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Thomas. Can I ask for the reason for the cancellation?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yeah, her schedule has changed, and I can’t bring her in anymore.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Would you like to reschedule for a later date, or is this cancellation permanent?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I’m not sure yet. It depends on her condition and my availability.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That makes sense. We can keep you updated on our services in case you decide to reschedule.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I would appreciate that. She’s also been needing dementia care lately.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We offer specialized dementia and Alzheimer's care. Would you like more information on that?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please. I think she might benefit from those services.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great! Our dementia care is priced at $32 to $40 per hour.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds reasonable. Can you also provide respite care options?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Certainly! Respite care is available at $30 to $38 per hour for temporary relief.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That could really help me out. Can I schedule that for this week?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can arrange that. I’ll need to check staff availability first.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, I appreciate it. I just want to make sure I can take care of her properly.",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 73,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, Thomas. Your mother’s well-being is our priority.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you. I’ll wait for your update regarding respite care.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "No problem. I’ll follow up with you by the end of the day.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That works for me. Thanks for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 93,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! If you need anything else, don’t hesitate to call.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 97,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I will! Have a great day.",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too, Thomas. Goodbye!",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-899dc11d12c749038a8b65dc",
+  "revision": "",
+  "status": "success"
+}
