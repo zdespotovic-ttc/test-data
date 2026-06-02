@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-adbffe9fd03544a3a6410bbf",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586492-27fc1b25",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-adbffe9fd03544a3a6410bbf",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "adbffe9fd03544a3a6410bbf",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-adbffe9fd03544a3a6410bbf",
+      "media_name": "7627418a9aff4d5ab67c92d24bba6230.mp3",
+      "scenario": "A client is curious about the company's return policy for online purchases. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Susan Garcia. I was referred by my father's pulmonologist. Hi, Susan! It's great to hear from you. How can I help your father today? Well, my father has COPD, and I’m looking for respiratory care and assistance with his breathing treatments. We can definitely help with that. We provide skilled nursing care, which includes respiratory support. That’s good to know. Also, do you have a return policy for any online purchases? I’m glad you asked! We don’t have a standard return policy for services, as they are tailored to each client’s needs. Oh, I see. So, if I were to schedule a service and it didn't work out, what would happen? If there are concerns with the service, we encourage communication with our care team to resolve any issues directly. That makes sense. So, just to confirm, I can contact you if there are any issues? Absolutely, Susan. We’re committed to ensuring you and your father are satisfied with our care. Great! What would the next steps be to start the process? First, I'd recommend scheduling an assessment. We can discuss your father's specific needs. How long does that assessment usually take? The assessment typically takes about an hour. We’ll evaluate his condition and create a care plan. And is there a fee for that assessment? No, the initial assessment is complimentary. We want to ensure we understand his needs thoroughly. That sounds good. Can we schedule that now? Certainly! What day works best for you? We have availability on weekdays. How about this Wednesday? Wednesday is perfect. What time would you prefer? Morning would be best, around 10 AM. Great! I’ve scheduled the assessment for Wednesday at 10 AM. Thank you! Is there anything else I need to prepare for the assessment? Just have any medical records or medications available for our nurse. Got it. I’ll make sure to have those ready. Excellent! I look forward to meeting you and your father on Wednesday. Thank you so much for your help, Margaret. You’re welcome, Susan! If you have any other questions, feel free to call us anytime. Will do. Have a great day! You too! Goodbye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Susan Garcia. I was referred by my father's pulmonologist.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Susan! It's great to hear from you. How can I help your father today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my father has COPD, and I’m looking for respiratory care and assistance with his breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely help with that. We provide skilled nursing care, which includes respiratory support.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That’s good to know. Also, do you have a return policy for any online purchases?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m glad you asked! We don’t have a standard return policy for services, as they are tailored to each client’s needs.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh, I see. So, if I were to schedule a service and it didn't work out, what would happen?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "If there are concerns with the service, we encourage communication with our care team to resolve any issues directly.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That makes sense. So, just to confirm, I can contact you if there are any issues?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, Susan. We’re committed to ensuring you and your father are satisfied with our care.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Great! What would the next steps be to start the process?",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "First, I'd recommend scheduling an assessment. We can discuss your father's specific needs.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "How long does that assessment usually take?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The assessment typically takes about an hour. We’ll evaluate his condition and create a care plan.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "And is there a fee for that assessment?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "No, the initial assessment is complimentary. We want to ensure we understand his needs thoroughly.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good. Can we schedule that now?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Certainly! What day works best for you? We have availability on weekdays.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "How about this Wednesday?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Wednesday is perfect. What time would you prefer?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Morning would be best, around 10 AM.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I’ve scheduled the assessment for Wednesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! Is there anything else I need to prepare for the assessment?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Just have any medical records or medications available for our nurse.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Got it. I’ll make sure to have those ready.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Excellent! I look forward to meeting you and your father on Wednesday.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Susan! If you have any other questions, feel free to call us anytime.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Will do. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 134,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 140,
+          "channel": "right",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-adbffe9fd03544a3a6410bbf",
+  "revision": "",
+  "status": "success"
+}
