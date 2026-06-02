@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4c334db7b1a2478ab13c39a0",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586191-ff57f153",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4c334db7b1a2478ab13c39a0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 176,
+      "duration_ms": 176000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "4c334db7b1a2478ab13c39a0",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4c334db7b1a2478ab13c39a0",
+      "media_name": "f1122ec167d74d85a429ce5ed4672887.mp3",
+      "scenario": "An interested customer wants to know more about available mental health programs. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 176.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is Susan Garcia. I was referred by my father’s pulmonologist. Hi Susan, it’s nice to meet you. What can we assist you with? I’m looking for information on respiratory care for my father. He has COPD and needs assistance with breathing treatments. Absolutely, we can help with that. Are you looking for skilled nursing care? Yes, that would be great. What does that involve? Skilled Nursing Care includes medication management, health monitoring, and assistance with breathing treatments. How often would a nurse visit? Typically, visits are scheduled for 1 to 2 hours, depending on your father's needs. And what’s the cost for that service? The price ranges from $95 to $125 per visit. Sounds reasonable. Would the nurse also help with any other conditions? Yes, our nurses are skilled in chronic disease management, which may benefit your father. That’s good to know. What if he needs ongoing support? We can set up ongoing care plans based on his needs and schedule regular visits. That would be ideal. Can I also get information on any mental health support? We don’t specifically offer mental health programs, but we can assist with companionship care. I see. Would that include someone to talk to him? Yes, our Companion Care service includes social interaction and support. What’s the pricing for companion care? Companion Care is priced between $25 to $30 per hour. That could be useful. Can I schedule a consultation? Absolutely, I can have our Care Coordinator, Lisa Chen, assist you with that. Great! What information do you need from me? Just your father's details and preferred times for a consultation. His name is Antonio Garcia, and I’m available this week after 3 PM. Perfect, I’ll pass this to Lisa, and she’ll call you to confirm the appointment. Thank you! Is there anything else I should know? Just that we’re here for any questions you may have along the way. That’s reassuring. I appreciate your help! You’re welcome, Susan! We look forward to assisting you. Thank you, have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Susan Garcia. I was referred by my father’s pulmonologist.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Susan, it’s nice to meet you. What can we assist you with?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m looking for information on respiratory care for my father. He has COPD and needs assistance with breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can help with that. Are you looking for skilled nursing care?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, that would be great. What does that involve?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Skilled Nursing Care includes medication management, health monitoring, and assistance with breathing treatments.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "How often would a nurse visit?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Typically, visits are scheduled for 1 to 2 hours, depending on your father's needs.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "And what’s the cost for that service?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "The price ranges from $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sounds reasonable. Would the nurse also help with any other conditions?",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 63,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, our nurses are skilled in chronic disease management, which may benefit your father.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That’s good to know. What if he needs ongoing support?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 73,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can set up ongoing care plans based on his needs and schedule regular visits.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 79,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be ideal. Can I also get information on any mental health support?",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We don’t specifically offer mental health programs, but we can assist with companionship care.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 91,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I see. Would that include someone to talk to him?",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, our Companion Care service includes social interaction and support.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "What’s the pricing for companion care?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Companion Care is priced between $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That could be useful. Can I schedule a consultation?",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, I can have our Care Coordinator, Lisa Chen, assist you with that.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great! What information do you need from me?",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 129,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Just your father's details and preferred times for a consultation.",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 136,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "His name is Antonio Garcia, and I’m available this week after 3 PM.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 141,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Perfect, I’ll pass this to Lisa, and she’ll call you to confirm the appointment.",
+          "speaker": "local party",
+          "start_time": 141,
+          "end_time": 148,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you! Is there anything else I should know?",
+          "speaker": "remote party",
+          "start_time": 148,
+          "end_time": 155,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Just that we’re here for any questions you may have along the way.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 159,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "That’s reassuring. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 159,
+          "end_time": 165,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You’re welcome, Susan! We look forward to assisting you.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 169,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Thank you, have a great day!",
+          "speaker": "remote party",
+          "start_time": 169,
+          "end_time": 173,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 173,
+          "end_time": 176,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4c334db7b1a2478ab13c39a0",
+  "revision": "",
+  "status": "success"
+}
