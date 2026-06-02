@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5597401cd13e4a8e95e40021",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586034-e7a9ca41",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5597401cd13e4a8e95e40021",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "5597401cd13e4a8e95e40021",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5597401cd13e4a8e95e40021",
+      "media_name": "19e57f466e0046bebf410c25482f683b.mp3",
+      "scenario": "A client reaches out to set up an appointment for their annual wellness check. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. It's Rose Patterson. I’d like to schedule an appointment for my mom’s annual wellness check. Hi, Rose! It’s great to hear from you. Let me check our schedule for that. Thank you! I want to make sure we can get a familiar caregiver for her. Absolutely, that’s important for her comfort. I’ll look for someone from her regular team. Would you prefer to have this appointment during the weekdays, or do you have a specific day in mind? I think a weekday would work best. How about next Tuesday? Let me see... Yes, we have availability on Tuesday. What time works for you? How about 10 AM? Perfect! I’ll book that for you. Great, and could you please ensure it’s her regular caregiver, Sarah? Of course, I’ll make a note to assign Sarah for the visit. Anything else you’d like to discuss? Actually, yes. I also wanted to ask about her medication management. We can set up a medication management service to help with reminders and organization. That sounds good. What’s the price for that? The medication management service is priced between $65 and $80 for about 30 to 45 minutes per visit. Okay, let’s go ahead and add that to her care plan, please. Sure! I’ll arrange for that to start after the wellness check. Perfect, thank you! Is there anything else I need to do? Just to confirm, we’ll see you on Tuesday at 10 AM with Sarah, and we’ll initiate the medication management afterward. Sounds good! I appreciate your help, Margaret. It’s my pleasure, Rose. If you need anything else, feel free to reach out. Will do! Thank you again. You’re welcome! Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. It's Rose Patterson. I’d like to schedule an appointment for my mom’s annual wellness check.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Rose! It’s great to hear from you. Let me check our schedule for that.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Thank you! I want to make sure we can get a familiar caregiver for her.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, that’s important for her comfort. I’ll look for someone from her regular team.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Would you prefer to have this appointment during the weekdays, or do you have a specific day in mind?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "I think a weekday would work best. How about next Tuesday?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Let me see... Yes, we have availability on Tuesday. What time works for you?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 42,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "How about 10 AM?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Perfect! I’ll book that for you.",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Great, and could you please ensure it’s her regular caregiver, Sarah?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Of course, I’ll make a note to assign Sarah for the visit. Anything else you’d like to discuss?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 62,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Actually, yes. I also wanted to ask about her medication management.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "We can set up a medication management service to help with reminders and organization.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That sounds good. What’s the price for that?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 79,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "The medication management service is priced between $65 and $80 for about 30 to 45 minutes per visit.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Okay, let’s go ahead and add that to her care plan, please.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Sure! I’ll arrange for that to start after the wellness check.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Perfect, thank you! Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Just to confirm, we’ll see you on Tuesday at 10 AM with Sarah, and we’ll initiate the medication management afterward.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 108,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Sounds good! I appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 114,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "It’s my pleasure, Rose. If you need anything else, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Will do! Thank you again.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re welcome! Have a great day!",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5597401cd13e4a8e95e40021",
+  "revision": "",
+  "status": "success"
+}
