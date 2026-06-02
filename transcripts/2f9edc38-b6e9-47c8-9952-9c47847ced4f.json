@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-8959ff8a9a764b1ba5fd8e2e",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586015-f6f53745",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-8959ff8a9a764b1ba5fd8e2e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 182,
+      "duration_ms": 182000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "8959ff8a9a764b1ba5fd8e2e",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-8959ff8a9a764b1ba5fd8e2e",
+      "media_name": "d15aa60fbc644e26baaf46ae5fa48c36.mp3",
+      "scenario": "A regular patient calls to schedule their quarterly eye exam. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 182.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Susan Garcia. I was referred by my father's pulmonologist. Hi Susan, it's nice to speak with you. How can I assist you regarding your father? My father has COPD, and we need respiratory care. He also needs assistance with breathing treatments. Absolutely, we can help with that. We offer skilled nursing care for respiratory management. That sounds good. Can we also get someone to assist him regularly? Yes, we can set up ongoing personal care assistance for him. How often would you need the services? I think a few times a week would be ideal. Can we also schedule a skilled nursing visit soon? Of course! Our skilled nursing care is available for medication management and health monitoring as well. Great! What are the costs associated with the nursing care? Our skilled nursing care ranges from $95 to $125 for a visit lasting 1 to 2 hours. That sounds reasonable. Can we schedule an appointment for the skilled nursing visit this week? Yes, let me check our availability. How about this Thursday? Thursday works for us. What times do you have available? We have openings at 10 AM and 2 PM. Which time would you prefer? Let's go with 10 AM, please. Perfect, I’ve scheduled your father for a skilled nursing visit at 10 AM this Thursday. Thank you! Will I need to provide anything for the nurse? Just a list of his current medications and any specific concerns you may have. Got it. And how do we handle payment? We'll work with you on insurance authorization if needed, or we can discuss payment options at the visit. That sounds good. Will the nurse discuss a care plan during the visit? Yes, our nurse will discuss a personalized care plan based on your father’s needs. Thank you so much for your help, Margaret. This is a relief. You're very welcome, Susan. We’re here to help. Do you have any other questions? Not right now, I think that covers everything. Great! I’ll send you a confirmation for the appointment via email. Thank you, I appreciate that. You’re welcome! Have a wonderful day, Susan! You too, Margaret. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Susan Garcia. I was referred by my father's pulmonologist.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Susan, it's nice to speak with you. How can I assist you regarding your father?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My father has COPD, and we need respiratory care. He also needs assistance with breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can help with that. We offer skilled nursing care for respiratory management.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. Can we also get someone to assist him regularly?",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, we can set up ongoing personal care assistance for him. How often would you need the services?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I think a few times a week would be ideal. Can we also schedule a skilled nursing visit soon?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 47,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course! Our skilled nursing care is available for medication management and health monitoring as well.",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Great! What are the costs associated with the nursing care?",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 60,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Our skilled nursing care ranges from $95 to $125 for a visit lasting 1 to 2 hours.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 67,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds reasonable. Can we schedule an appointment for the skilled nursing visit this week?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 74,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, let me check our availability. How about this Thursday?",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thursday works for us. What times do you have available?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We have openings at 10 AM and 2 PM. Which time would you prefer?",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 92,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Let's go with 10 AM, please.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect, I’ve scheduled your father for a skilled nursing visit at 10 AM this Thursday.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you! Will I need to provide anything for the nurse?",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Just a list of his current medications and any specific concerns you may have.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Got it. And how do we handle payment?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We'll work with you on insurance authorization if needed, or we can discuss payment options at the visit.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 129,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds good. Will the nurse discuss a care plan during the visit?",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, our nurse will discuss a personalized care plan based on your father’s needs.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 142,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much for your help, Margaret. This is a relief.",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 149,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're very welcome, Susan. We’re here to help. Do you have any other questions?",
+          "speaker": "local party",
+          "start_time": 149,
+          "end_time": 154,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Not right now, I think that covers everything.",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 159,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Great! I’ll send you a confirmation for the appointment via email.",
+          "speaker": "local party",
+          "start_time": 159,
+          "end_time": 165,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 171,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome! Have a wonderful day, Susan!",
+          "speaker": "local party",
+          "start_time": 171,
+          "end_time": 174,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, Margaret. Bye!",
+          "speaker": "remote party",
+          "start_time": 174,
+          "end_time": 180,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 182,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-8959ff8a9a764b1ba5fd8e2e",
+  "revision": "",
+  "status": "success"
+}
