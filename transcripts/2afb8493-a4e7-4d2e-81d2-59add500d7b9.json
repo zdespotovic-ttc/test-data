@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1f63c2277ff7436cbbf15c35",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582156-5f3ac28a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1f63c2277ff7436cbbf15c35",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "1f63c2277ff7436cbbf15c35",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1f63c2277ff7436cbbf15c35",
+      "media_name": "b1581b99a82a49a4b788744ae0485f3c.mp3",
+      "scenario": "A customer requests a detailed quote for a home renovation project, specifying the need for quick turnaround. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is Edward Martinez. I'm calling about the respite care for my wife. Hi Edward, it's great to hear from you. How can I assist you with your wife's care today? I need a detailed quote for additional respite care services. My wife has a few appointments coming up, and we need someone to cover those times. Absolutely, I can help with that. How many hours per week are you looking for? We're looking at about 10 to 15 hours a week, just to give her breaks while I run errands. Got it. The price for our respite care services is $30 to $38 per hour. Okay, so what would that total come to for 10 to 15 hours? Well, for 10 hours, it would be between $300 and $380, and for 15 hours, it would range from $450 to $570. That sounds reasonable. Do you have any availability for this week? Let me check our schedule. Would you prefer weekday afternoons or mornings? Mornings would be better, preferably around 9 AM. Okay, I see we have some openings on Tuesday and Thursday mornings. Let’s go with Tuesday for sure, and I might need Thursday as well. Great! I can schedule 9 AM on both days for you. That works. Can I also get an update on the nurse who visited last week? Yes, that was Robert Davis. He can follow up on medication management if needed. Yes, I’d like to arrange for him to come back after the respite care sessions. Absolutely, I’ll note that. I’ll have him reach out to you to schedule a visit. Thank you, Margaret. I really appreciate your help with this. You’re welcome, Edward! To summarize, I’ll schedule respite care for Tuesday and Thursday at 9 AM. Yes, and the follow-up with the nurse. Exactly. I’ll confirm that and send you an email with all the details. Perfect, thank you so much! You're welcome! Have a great day, Edward. You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I'm calling about the respite care for my wife.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward, it's great to hear from you. How can I assist you with your wife's care today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I need a detailed quote for additional respite care services. My wife has a few appointments coming up, and we need someone to cover those times.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, I can help with that. How many hours per week are you looking for?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We're looking at about 10 to 15 hours a week, just to give her breaks while I run errands.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Got it. The price for our respite care services is $30 to $38 per hour.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, so what would that total come to for 10 to 15 hours?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Well, for 10 hours, it would be between $300 and $380, and for 15 hours, it would range from $450 to $570.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds reasonable. Do you have any availability for this week?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check our schedule. Would you prefer weekday afternoons or mornings?",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Mornings would be better, preferably around 9 AM.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Okay, I see we have some openings on Tuesday and Thursday mornings.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Let’s go with Tuesday for sure, and I might need Thursday as well.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I can schedule 9 AM on both days for you.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That works. Can I also get an update on the nurse who visited last week?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, that was Robert Davis. He can follow up on medication management if needed.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I’d like to arrange for him to come back after the respite care sessions.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I’ll note that. I’ll have him reach out to you to schedule a visit.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Edward! To summarize, I’ll schedule respite care for Tuesday and Thursday at 9 AM.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, and the follow-up with the nurse.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Exactly. I’ll confirm that and send you an email with all the details.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect, thank you so much!",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome! Have a great day, Edward.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1f63c2277ff7436cbbf15c35",
+  "revision": "",
+  "status": "success"
+}
