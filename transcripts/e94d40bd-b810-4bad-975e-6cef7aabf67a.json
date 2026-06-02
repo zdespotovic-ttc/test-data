@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1f7ec946edda47349ef739ca",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582232-b2ba9037",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1f7ec946edda47349ef739ca",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "1f7ec946edda47349ef739ca",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1f7ec946edda47349ef739ca",
+      "media_name": "7ef976c436994527ab438768aceb0563.mp3",
+      "scenario": "A tourist contacts a local museum to obtain details about current exhibitions and ticket prices. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I assist you today? Hi, this is Betty Lou Smith. I'm calling to get some information about my ongoing care services. Hi Betty, it's great to hear from you! How can I help with your care today? Well, I just had a caregiver visit a few days ago, and I wanted to check if we could adjust my schedule. Absolutely, we can look into that. What adjustments are you considering? I'd like to ensure that the same caregiver comes each time if possible. I completely understand the need for consistency. Let me check our schedule for you. You have been receiving fall prevention and mobility assistance. Is there a specific day or time you prefer for your visits? Yes, I would like the visits to be in the mornings, preferably around 9 AM. That sounds good. Let me confirm if we have a caregiver available at that time regularly. I’ll also ensure it’s someone you’re comfortable with. Can I have a moment? Of course, take your time. Thank you, Betty. It looks like Sarah Williams is available most mornings at 9 AM. Would that work for you? Yes, that would be perfect! Great! I’ll schedule Sarah for your morning visits. Is there anything else you'd like to discuss regarding your care? Actually, now that you mention it, I think I might need some help with meal preparation as well. We can definitely arrange that! Would you like to add Companion Care services? Yes, I think that would be helpful. What’s the cost for that? Companion Care services range from $25 to $30 per hour. That sounds reasonable. How do I go about adding that to my services? I can set that up for you right now. How many hours per week do you think you’ll need? I think two to three hours a couple of times a week should suffice. Perfect! I'll add that to your care plan. Thank you so much, Margaret. I really appreciate your help! You're welcome, Betty! I’ll send you a confirmation email with all the updates. That sounds great. Thanks again! My pleasure! Have a great day, Betty. You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Betty Lou Smith. I'm calling to get some information about my ongoing care services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty, it's great to hear from you! How can I help with your care today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I just had a caregiver visit a few days ago, and I wanted to check if we could adjust my schedule.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can look into that. What adjustments are you considering?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I'd like to ensure that the same caregiver comes each time if possible.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand the need for consistency. Let me check our schedule for you.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "You have been receiving fall prevention and mobility assistance. Is there a specific day or time you prefer for your visits?",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 40,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Yes, I would like the visits to be in the mornings, preferably around 9 AM.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "That sounds good. Let me confirm if we have a caregiver available at that time regularly.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I’ll also ensure it’s someone you’re comfortable with. Can I have a moment?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Of course, take your time.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you, Betty. It looks like Sarah Williams is available most mornings at 9 AM. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be perfect!",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 73,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll schedule Sarah for your morning visits.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Is there anything else you'd like to discuss regarding your care?",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 85,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Actually, now that you mention it, I think I might need some help with meal preparation as well.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "We can definitely arrange that! Would you like to add Companion Care services?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, I think that would be helpful. What’s the cost for that?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Companion Care services range from $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That sounds reasonable. How do I go about adding that to my services?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I can set that up for you right now. How many hours per week do you think you’ll need?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "I think two to three hours a couple of times a week should suffice.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Perfect! I'll add that to your care plan.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You're welcome, Betty! I’ll send you a confirmation email with all the updates.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "That sounds great. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "My pleasure! Have a great day, Betty.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 147,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1f7ec946edda47349ef739ca",
+  "revision": "",
+  "status": "success"
+}
