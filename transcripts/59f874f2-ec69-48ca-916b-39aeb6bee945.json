@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a1f4e156af384987b8c037b1",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586049-5bc422bb",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a1f4e156af384987b8c037b1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "a1f4e156af384987b8c037b1",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a1f4e156af384987b8c037b1",
+      "media_name": "e232070e82fa4fd38e63076d1e8dbf2f.mp3",
+      "scenario": "A returning customer wants to book a session for a nutrition consultation. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is George Williams. I hope you’re doing well. Hi George! I’m doing well, thank you. How about you? I'm good, just looking to schedule a nutrition consultation. We can definitely help with that. Do you have a specific date in mind? I was thinking sometime next week, maybe Tuesday or Wednesday? Let me check the schedule for our nutritionist. Just a moment, please. Sure, take your time. I appreciate it. Alright, I see there's availability on Tuesday at 2 PM and Wednesday at 10 AM. Which works better for you? Let’s go with Tuesday at 2 PM. Great choice! I’ll book you for Tuesday at 2 PM. Thank you. Can you tell me a bit about the consultation? Of course! It will cover dietary recommendations tailored to your health needs, especially post-surgery and cardiac care. Sounds perfect. Do I need to prepare anything for the session? Just bring any recent lab results or medications you're taking. It’ll help our nutritionist provide better advice. Got it, I’ll make sure to have those ready. Excellent! Also, if you’re interested, we offer personalized meal planning as an additional service. That does sound useful. Could you send me more information about that? Absolutely, I’ll email you details about the meal planning service after this call. Perfect, I appreciate it. You're welcome, George! Is there anything else I can assist you with today? No, that’s all for now. Thank you for your help! My pleasure! I’ll see you on Tuesday at 2 PM. Looking forward to it! Have a great day, Margaret. You too, George! Take care. Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I hope you’re doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George! I’m doing well, thank you. How about you?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm good, just looking to schedule a nutrition consultation.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely help with that. Do you have a specific date in mind?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I was thinking sometime next week, maybe Tuesday or Wednesday?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check the schedule for our nutritionist. Just a moment, please.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Alright, I see there's availability on Tuesday at 2 PM and Wednesday at 10 AM. Which works better for you?",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Let’s go with Tuesday at 2 PM.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great choice! I’ll book you for Tuesday at 2 PM.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you. Can you tell me a bit about the consultation?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! It will cover dietary recommendations tailored to your health needs, especially post-surgery and cardiac care.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sounds perfect. Do I need to prepare anything for the session?",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Just bring any recent lab results or medications you're taking. It’ll help our nutritionist provide better advice.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 73,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Got it, I’ll make sure to have those ready.",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Excellent! Also, if you’re interested, we offer personalized meal planning as an additional service.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 81,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That does sound useful. Could you send me more information about that?",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I’ll email you details about the meal planning service after this call.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, George! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s all for now. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "My pleasure! I’ll see you on Tuesday at 2 PM.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Looking forward to it! Have a great day, Margaret.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, George! Take care.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 117,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a1f4e156af384987b8c037b1",
+  "revision": "",
+  "status": "success"
+}
