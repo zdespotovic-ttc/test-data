@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7bf5c99dc7374340b3d1da8f",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586081-174e1b35",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7bf5c99dc7374340b3d1da8f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "7bf5c99dc7374340b3d1da8f",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7bf5c99dc7374340b3d1da8f",
+      "media_name": "81fc50357c7a4d55a54c83e0f978f4be.mp3",
+      "scenario": "A customer calls to complain that their last service was not up to standard. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Edward Martinez. I wanted to talk about the respite care service we had last week. Hi Edward, it's great to hear from you. What seems to be the issue with the service? Well, to be honest, the caregiver didn’t seem to provide the level of care we’ve come to expect. I’m very sorry to hear that. Can you tell me specifically what didn’t meet your expectations? The caregiver was late arriving, and they didn’t help my wife as thoroughly as usual. She felt overwhelmed. I understand how important it is for your wife to receive the best support. I apologize for this experience. Thank you, I appreciate that. It really made it difficult for her to manage her day. I can only imagine. Would you like to schedule a follow-up visit to discuss this further? Yes, I think that would be helpful. Maybe we can ensure a more suitable caregiver next time? Absolutely, I’ll make a note of that. Would you prefer to keep your regular schedule for the service? Yes, same days as before. Just need to ensure we have someone reliable. Got it. I’ll personally ensure the next caregiver is well-briefed on your needs. I appreciate that, Margaret. We really count on this service. I understand completely. I’ll follow up with you to confirm the caregiver process later today. Sounds good. Is there any way to get a different type of support in the meantime? We could schedule additional Personal Care Assistance. It might help alleviate some stress. That could work. How much is that? Personal Care Assistance is between $28 and $35 per hour. Okay, I’d like to add that for a couple of days this week if possible. Absolutely, let me check the availability for those days. Would you prefer mornings or afternoons? Mornings would be best. Perfect, I’ll arrange for a caregiver in the mornings. You’ll receive a confirmation shortly. Thank you, Margaret. I really appreciate your help with all of this. You're very welcome, Edward. I’ll be in touch soon. Have a great day! You too, bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I wanted to talk about the respite care service we had last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward, it's great to hear from you. What seems to be the issue with the service?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, to be honest, the caregiver didn’t seem to provide the level of care we’ve come to expect.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m very sorry to hear that. Can you tell me specifically what didn’t meet your expectations?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The caregiver was late arriving, and they didn’t help my wife as thoroughly as usual. She felt overwhelmed.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 37,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how important it is for your wife to receive the best support. I apologize for this experience.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you, I appreciate that. It really made it difficult for her to manage her day.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I can only imagine. Would you like to schedule a follow-up visit to discuss this further?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I think that would be helpful. Maybe we can ensure a more suitable caregiver next time?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I’ll make a note of that. Would you prefer to keep your regular schedule for the service?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, same days as before. Just need to ensure we have someone reliable.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Got it. I’ll personally ensure the next caregiver is well-briefed on your needs.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I appreciate that, Margaret. We really count on this service.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I understand completely. I’ll follow up with you to confirm the caregiver process later today.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 93,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds good. Is there any way to get a different type of support in the meantime?",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We could schedule additional Personal Care Assistance. It might help alleviate some stress.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That could work. How much is that?",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Personal Care Assistance is between $28 and $35 per hour.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, I’d like to add that for a couple of days this week if possible.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 123,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, let me check the availability for those days. Would you prefer mornings or afternoons?",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 130,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Mornings would be best.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 137,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect, I’ll arrange for a caregiver in the mornings. You’ll receive a confirmation shortly.",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 143,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help with all of this.",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're very welcome, Edward. I’ll be in touch soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 156,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 156,
+          "end_time": 160,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7bf5c99dc7374340b3d1da8f",
+  "revision": "",
+  "status": "success"
+}
