@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1adc5064de05440f93081a9d",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947584815-ce5c134d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1adc5064de05440f93081a9d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 149,
+      "duration_ms": 149000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "1adc5064de05440f93081a9d",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1adc5064de05440f93081a9d",
+      "media_name": "cbe1ca78b5894fc68faed32f77919b13.mp3",
+      "scenario": "A resident calls to complain about the pest control service, stating that the pests have returned shortly after treatment. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 149.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you today? Hi Margaret, this is George Williams. I’m calling about my cardiac care monitoring services. Hi George! It’s good to hear from you. How can I assist you? Well, I have a bit of a concern. I’ve noticed that the pest control treatment hasn’t been effective. The pests are back. I’m sorry to hear that, George. That sounds frustrating. Can you tell me when the treatment was done? It was only a week ago. I expected it to last longer. I understand your concerns. We want to make sure our services are effective. Let me gather some details about the treatment. Yes, please do. I really thought this would solve the problem. Okay, George. I’ll start by checking the records of your service. Was it a standard treatment, or was there a specific issue you reported? It was a standard treatment, but it obviously didn’t take care of the issue. I noticed the pests returning almost immediately. I appreciate your feedback, and I will definitely pass this along to our pest control team. Thank you, Margaret. I just want to make sure this gets resolved, especially since I’m already dealing with my health issues. Absolutely, George. I can assure you we’ll prioritize this. I can also arrange for a follow-up service if that’s helpful. Yes, that would be great. I’d appreciate a follow-up. Perfect. I’ll arrange for our pest control technician to reach out to you and schedule a time for a follow-up visit. Sounds good. Is there any cost associated with that? Typically, there is a fee, but I’ll check if we can waive that due to your ongoing service with us. That would be helpful. I just want to keep everything in check. I understand completely. I’ll also send you an email summarizing our conversation and next steps. Thank you, Margaret. I appreciate your assistance. Of course, George! Is there anything else you’d like to discuss while I have you on the line? Not at the moment, but I do want to thank you for your prompt attention to my concerns. It’s my pleasure, George. Your satisfaction is very important to us. Thanks again. I look forward to hearing back about the follow-up. You will, and I’ll ensure it’s handled swiftly. Have a great day, George! You too, Margaret. Bye for now. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I’m calling about my cardiac care monitoring services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George! It’s good to hear from you. How can I assist you?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I have a bit of a concern. I’ve noticed that the pest control treatment hasn’t been effective. The pests are back.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that, George. That sounds frustrating. Can you tell me when the treatment was done?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was only a week ago. I expected it to last longer.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concerns. We want to make sure our services are effective. Let me gather some details about the treatment.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please do. I really thought this would solve the problem.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Okay, George. I’ll start by checking the records of your service. Was it a standard treatment, or was there a specific issue you reported?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It was a standard treatment, but it obviously didn’t take care of the issue. I noticed the pests returning almost immediately.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I appreciate your feedback, and I will definitely pass this along to our pest control team.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, Margaret. I just want to make sure this gets resolved, especially since I’m already dealing with my health issues.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 67,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, George. I can assure you we’ll prioritize this. I can also arrange for a follow-up service if that’s helpful.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great. I’d appreciate a follow-up.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect. I’ll arrange for our pest control technician to reach out to you and schedule a time for a follow-up visit.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds good. Is there any cost associated with that?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 91,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Typically, there is a fee, but I’ll check if we can waive that due to your ongoing service with us.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be helpful. I just want to keep everything in check.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 101,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I understand completely. I’ll also send you an email summarizing our conversation and next steps.",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your assistance.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course, George! Is there anything else you’d like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Not at the moment, but I do want to thank you for your prompt attention to my concerns.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 123,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It’s my pleasure, George. Your satisfaction is very important to us.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks again. I look forward to hearing back about the follow-up.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You will, and I’ll ensure it’s handled swiftly. Have a great day, George!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, Margaret. Bye for now.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 149,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1adc5064de05440f93081a9d",
+  "revision": "",
+  "status": "success"
+}
