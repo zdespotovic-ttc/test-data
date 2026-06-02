@@ -1,0 +1,221 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-404230210baa4d3ead22ddb4",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947581821-ec85b3bc",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-404230210baa4d3ead22ddb4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 90,
+      "duration_ms": 90000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "404230210baa4d3ead22ddb4",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-404230210baa4d3ead22ddb4",
+      "media_name": "8fa30c46fcad4bbabe95b65c31f3f929.mp3",
+      "scenario": "A returning customer calls to schedule a dental cleaning appointment for next week and confirms the available time slot. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 90.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today? Hi Margaret, this is William Chen. I've been recovering from my knee surgery, and I'm calling to schedule my physical therapy appointment. Hi William! I'm glad to hear from you. When would you like to schedule your appointment? I was hoping to get a slot next week. Do you have any openings? Let me check our schedule. We have openings on Tuesday and Thursday. Does either of those work for you? Yes, Tuesday works for me. What time do you have available? We have a slot at 10:00 AM and another at 2:00 PM. Which one would you prefer? The 10:00 AM slot sounds good. Great! I’ll book you for Tuesday at 10:00 AM for your physical therapy session. Thank you. Also, I wanted to ask if you have any recommendations for additional home care services during my recovery. Absolutely! We offer personal care assistance that can help with daily activities, and companion care for some social interaction as well. That sounds interesting. Can you share the details and pricing for the companion care? Sure! Companion care is priced at $25 to $30 per hour and includes social interaction, light housekeeping, and meal prep. That could be really helpful. I might want to schedule that as well. We can discuss that further after your physical therapy session on Tuesday. Sounds good! Is there anything I need to prepare for my upcoming appointment? Just wear comfortable clothing and have your medical history handy. Got it. Thank you for your help today, Margaret. You’re welcome, William! I look forward to seeing you on Tuesday at 10:00 AM. Thank you! Have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I've been recovering from my knee surgery, and I'm calling to schedule my physical therapy appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William! I'm glad to hear from you. When would you like to schedule your appointment?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I was hoping to get a slot next week. Do you have any openings?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Let me check our schedule. We have openings on Tuesday and Thursday. Does either of those work for you?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, Tuesday works for me. What time do you have available?",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We have a slot at 10:00 AM and another at 2:00 PM. Which one would you prefer?",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "The 10:00 AM slot sounds good.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great! I’ll book you for Tuesday at 10:00 AM for your physical therapy session.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you. Also, I wanted to ask if you have any recommendations for additional home care services during my recovery.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely! We offer personal care assistance that can help with daily activities, and companion care for some social interaction as well.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds interesting. Can you share the details and pricing for the companion care?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Sure! Companion care is priced at $25 to $30 per hour and includes social interaction, light housekeeping, and meal prep.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That could be really helpful. I might want to schedule that as well.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can discuss that further after your physical therapy session on Tuesday.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds good! Is there anything I need to prepare for my upcoming appointment?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Just wear comfortable clothing and have your medical history handy.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Got it. Thank you for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome, William! I look forward to seeing you on Tuesday at 10:00 AM.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you! Have a great day!",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 90,
+          "channel": "left",
+          "id": 20
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-404230210baa4d3ead22ddb4",
+  "revision": "",
+  "status": "success"
+}
