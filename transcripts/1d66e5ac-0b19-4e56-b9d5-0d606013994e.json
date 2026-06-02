@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3485e5534dd14447ac96ab14",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586283-e4e726e3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3485e5534dd14447ac96ab14",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "3485e5534dd14447ac96ab14",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3485e5534dd14447ac96ab14",
+      "media_name": "4dfe84dfed88474eafb0190820c9981c.mp3",
+      "scenario": "A returning client is concerned about an incorrect invoice they received. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Helen Johnson. I’m calling about an invoice I received, and I think there’s been a mistake. Hi, Helen! I’m sorry to hear that. What seems to be the issue with the invoice? Well, I was charged for two physical therapy sessions last week, but I only attended one. The charges seem off to me. I understand your concern. Let me pull up your account to take a closer look. Thank you, I appreciate it. I’ve been a client for nine months now, and I usually keep track of everything. Yes, of course. Just a moment, please... Okay, I see your account here. You did have one session last week. Exactly! So why am I seeing two charges? It looks like there was a billing error on our end. I’ll need to have our billing department correct this. I hope it can be resolved quickly. I don’t want any issues with my account. Absolutely, Helen. I’ll make sure to prioritize this for you. Can I have your preferred contact information for follow-up? Sure, you can reach me at my cell, +13165552580. Thank you. I’ll pass that along. Would you like me to send you a confirmation email when it’s resolved? Yes, that would be great. I sometimes forget about calls. Not a problem! I’ll also check in with the therapist about your last session. Good idea. I just want to make sure everything is in order. I’ll take care of that. Also, while I have you on the line, are you interested in scheduling another therapy session? Hmm, I might be. I could use another session soon, but I’ll wait for the billing issue first. Of course, that’s understandable. I’ll follow up with you once the billing is corrected, and we can schedule then. Sounds good to me. Thanks for your help, Margaret. You’re welcome, Helen! Thank you for your patience. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Helen Johnson. I’m calling about an invoice I received, and I think there’s been a mistake.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Helen! I’m sorry to hear that. What seems to be the issue with the invoice?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was charged for two physical therapy sessions last week, but I only attended one. The charges seem off to me.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account to take a closer look.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, I appreciate it. I’ve been a client for nine months now, and I usually keep track of everything.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, of course. Just a moment, please... Okay, I see your account here. You did have one session last week.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 43,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Exactly! So why am I seeing two charges?",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It looks like there was a billing error on our end. I’ll need to have our billing department correct this.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I hope it can be resolved quickly. I don’t want any issues with my account.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, Helen. I’ll make sure to prioritize this for you. Can I have your preferred contact information for follow-up?",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sure, you can reach me at my cell, +13165552580.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you. I’ll pass that along. Would you like me to send you a confirmation email when it’s resolved?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great. I sometimes forget about calls.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Not a problem! I’ll also check in with the therapist about your last session.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Good idea. I just want to make sure everything is in order.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll take care of that. Also, while I have you on the line, are you interested in scheduling another therapy session?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 99,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Hmm, I might be. I could use another session soon, but I’ll wait for the billing issue first.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, that’s understandable. I’ll follow up with you once the billing is corrected, and we can schedule then.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good to me. Thanks for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Helen! Thank you for your patience. Have a great day!",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3485e5534dd14447ac96ab14",
+  "revision": "",
+  "status": "success"
+}
