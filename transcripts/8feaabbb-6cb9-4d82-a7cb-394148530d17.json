@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-756d20fc3a50487999a47333",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586349-8bedf4c0",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-756d20fc3a50487999a47333",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "756d20fc3a50487999a47333",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-756d20fc3a50487999a47333",
+      "media_name": "e88b7a820dfd4fe798d475caf3342096.mp3",
+      "scenario": "A customer requires urgent service to fix an unexpected malfunction. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Helen Johnson. I’m calling because I’m having an issue with my physical therapy equipment. I’m sorry to hear that, Helen. Can you tell me more about the issue? Yes, the resistance on my therapy machine has suddenly malfunctioned, and I can't use it at all. That sounds frustrating, especially since you’ve been working so hard on your recovery. Exactly! I really need it fixed as soon as possible, especially with my upcoming session. I understand. Let me check our schedule for a technician to come out today. Please, it’s urgent. I feel like my progress will be impacted if I can’t use it. I’ll do my best to make this happen. Can you confirm your address for the technician? Sure, it’s 123 Elm St., Wichita, KS. Thank you! I’ll send someone out right away. How long will that take? I’m looking at about two hours for a technician to arrive. Does that work for you? Yes, that should be fine. Great! I’ll schedule that right now. Oh, and can I ask about my next physical therapy appointment? Of course, you’re due for a session later this week. Should I confirm that with Dr. Rodriguez? Yes, please. I’d like to keep that on the calendar. I’ll make sure it’s scheduled and confirm with you after. Thanks! I really appreciate your help with this. You’re welcome, Helen. We’re here to support you. And one more thing, could I also get a quote for additional sessions? Certainly! Our physical therapy sessions are priced between $110 and $140. Okay, I might want to add a few more sessions if I can fit it in my schedule. That sounds like a plan! I'll follow up with the technician's arrival and confirm your appointment with Dr. Rodriguez. Thank you so much, Margaret. You're a lifesaver! It’s my pleasure, Helen. Take care, and we’ll be in touch soon. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Helen Johnson. I’m calling because I’m having an issue with my physical therapy equipment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Helen. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, the resistance on my therapy machine has suddenly malfunctioned, and I can't use it at all.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds frustrating, especially since you’ve been working so hard on your recovery.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Exactly! I really need it fixed as soon as possible, especially with my upcoming session.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. Let me check our schedule for a technician to come out today.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Please, it’s urgent. I feel like my progress will be impacted if I can’t use it.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 47,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’ll do my best to make this happen. Can you confirm your address for the technician?",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure, it’s 123 Elm St., Wichita, KS.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you! I’ll send someone out right away.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 64,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How long will that take?",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 71,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’m looking at about two hours for a technician to arrive. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 77,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that should be fine.",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll schedule that right now.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Oh, and can I ask about my next physical therapy appointment?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course, you’re due for a session later this week. Should I confirm that with Dr. Rodriguez?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. I’d like to keep that on the calendar.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll make sure it’s scheduled and confirm with you after.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thanks! I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Helen. We’re here to support you.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 123,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "And one more thing, could I also get a quote for additional sessions?",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 129,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Certainly! Our physical therapy sessions are priced between $110 and $140.",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 134,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Okay, I might want to add a few more sessions if I can fit it in my schedule.",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 139,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "That sounds like a plan! I'll follow up with the technician's arrival and confirm your appointment with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 139,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much, Margaret. You're a lifesaver!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 152,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "It’s my pleasure, Helen. Take care, and we’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 152,
+          "end_time": 156,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 156,
+          "end_time": 160,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 163,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-756d20fc3a50487999a47333",
+  "revision": "",
+  "status": "success"
+}
