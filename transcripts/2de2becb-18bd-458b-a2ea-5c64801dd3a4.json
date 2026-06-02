@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d8345b311d214dc8ae723cd8",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582178-7789a326",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d8345b311d214dc8ae723cd8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 108,
+      "duration_ms": 108000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "d8345b311d214dc8ae723cd8",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d8345b311d214dc8ae723cd8",
+      "media_name": "fe0b48b8e5f94ddb94db28cc8ca31974.mp3",
+      "scenario": "A community organization contacts a local catering service to get a quote for a large charity event. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 108.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Rose Patterson. I hope you’re doing well! Hi Rose! I'm doing great, thank you. How can I help you today? I’m calling in because I wanted to get a quote for additional services for my mother. Of course! What specific services are you looking for? Well, she currently receives companion care and personal assistance daily, but I’m considering adding some more skilled services. I understand. Could you please specify which skilled services you’re interested in? I’m thinking about medication management and maybe some dementia care. Great choices! For medication management, the price is between $65 and $80 for each session of about 30 to 45 minutes. That sounds reasonable. And the dementia care? The dementia care service ranges from $32 to $40 per hour. Okay, so for both services, can you give me an estimated weekly cost? Sure! If we scheduled medication management twice a week and dementia care daily, it would be approximately $400 to $500 weekly. That’s a bit higher than I expected, but I’ll have to discuss it with my son. Absolutely, I understand. It’s important to factor in those costs. Yes, he manages her care coordination, so I want to make sure he’s on board. Would you like me to prepare some detailed information for you to share with him? That would be great! Thank you. No problem at all. I can also follow up next week to see if you have any questions. Yes, please do. That would be helpful. Perfect! I’ll send that information and follow up on Monday. Thank you, Margaret. I really appreciate your help. You’re welcome, Rose! It’s my pleasure. Is there anything else I can assist you with today? No, that’s all for now. Thanks again! Thank you for calling, and have a wonderful day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I hope you’re doing well!",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose! I'm doing great, thank you. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m calling in because I wanted to get a quote for additional services for my mother.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course! What specific services are you looking for?",
+          "speaker": "local party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Well, she currently receives companion care and personal assistance daily, but I’m considering adding some more skilled services.",
+          "speaker": "remote party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. Could you please specify which skilled services you’re interested in?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 27,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I’m thinking about medication management and maybe some dementia care.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great choices! For medication management, the price is between $65 and $80 for each session of about 30 to 45 minutes.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds reasonable. And the dementia care?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "The dementia care service ranges from $32 to $40 per hour.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, so for both services, can you give me an estimated weekly cost?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Sure! If we scheduled medication management twice a week and dementia care daily, it would be approximately $400 to $500 weekly.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That’s a bit higher than I expected, but I’ll have to discuss it with my son.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, I understand. It’s important to factor in those costs.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 64,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, he manages her care coordination, so I want to make sure he’s on board.",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Would you like me to prepare some detailed information for you to share with him?",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 73,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be great! Thank you.",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "No problem at all. I can also follow up next week to see if you have any questions.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 80,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please do. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I’ll send that information and follow up on Monday.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 88,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Rose! It’s my pleasure. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for calling, and have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 103,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 106,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 108,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d8345b311d214dc8ae723cd8",
+  "revision": "",
+  "status": "success"
+}
