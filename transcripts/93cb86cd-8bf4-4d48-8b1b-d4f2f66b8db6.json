@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7b43c85d6f9e4a8cba2b829e",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947581976-fac39fce",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7b43c85d6f9e4a8cba2b829e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 113,
+      "duration_ms": 113000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "7b43c85d6f9e4a8cba2b829e",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7b43c85d6f9e4a8cba2b829e",
+      "media_name": "92f231ed73fb45e6869b9cd4545a2084.mp3",
+      "scenario": "A customer expresses dissatisfaction with the quality of a new piece of furniture, noting visible defects on delivery. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 113.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Rose Patterson. I’m calling regarding an issue with some furniture that was delivered yesterday. Hi Rose, I'm sorry to hear that. What seems to be the problem with the furniture? Well, there are visible defects on the piece. It’s quite disappointing considering we waited so long for it. I understand how frustrating that must be, especially after a long wait. Can you describe the defects for me? Yes, there are scratches on the surface and the leg is slightly wobbly. It just doesn't look like it should for the price we paid. I’m really sorry to hear that, Rose. You deserve quality service. Do you have the order number handy? Yes, it's 123456. I just want to make sure it gets resolved. Thank you for that. I can certainly look into this issue. Would you like a replacement or would you prefer a repair? I think a replacement would be best. The quality should be as expected. That makes sense. I’ll initiate the request for a replacement right away. Thank you, I appreciate that. It's just frustrating, as I rely on the space for my mother’s care. I completely understand, Rose. Ensuring a comfortable environment is essential, especially for your mother. Right, and I’d also like to know if we can schedule an additional caregiver for the weekends. Absolutely, we can assist with that. Would you like me to connect you with Lisa, our Care Coordinator? Yes, please. That would be great. I want to ensure we have familiar caregivers. Understood. I’ll make a note for Lisa to follow up on that. Thanks, Margaret. I’m really counting on you all to help make this right. We’re here to help, Rose. I will ensure everything is taken care of promptly. I appreciate your understanding. I’ll look forward to hearing back about the replacement and the caregiver. Of course, I’ll reach out to you as soon as I have an update. Thank you for your patience, Rose. Thank you, Margaret. Have a good day! You too, Rose. Take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I’m calling regarding an issue with some furniture that was delivered yesterday.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose, I'm sorry to hear that. What seems to be the problem with the furniture?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, there are visible defects on the piece. It’s quite disappointing considering we waited so long for it.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be, especially after a long wait. Can you describe the defects for me?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, there are scratches on the surface and the leg is slightly wobbly. It just doesn't look like it should for the price we paid.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m really sorry to hear that, Rose. You deserve quality service. Do you have the order number handy?",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, it's 123456. I just want to make sure it gets resolved.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for that. I can certainly look into this issue. Would you like a replacement or would you prefer a repair?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I think a replacement would be best. The quality should be as expected.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That makes sense. I’ll initiate the request for a replacement right away.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I appreciate that. It's just frustrating, as I rely on the space for my mother’s care.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I completely understand, Rose. Ensuring a comfortable environment is essential, especially for your mother.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Right, and I’d also like to know if we can schedule an additional caregiver for the weekends.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, we can assist with that. Would you like me to connect you with Lisa, our Care Coordinator?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 73,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please. That would be great. I want to ensure we have familiar caregivers.",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Understood. I’ll make a note for Lisa to follow up on that.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thanks, Margaret. I’m really counting on you all to help make this right.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We’re here to help, Rose. I will ensure everything is taken care of promptly.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I appreciate your understanding. I’ll look forward to hearing back about the replacement and the caregiver.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course, I’ll reach out to you as soon as I have an update. Thank you for your patience, Rose.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. Have a good day!",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too, Rose. Take care!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7b43c85d6f9e4a8cba2b829e",
+  "revision": "",
+  "status": "success"
+}
