@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-14001a2cdb5b48d7ac9adae6",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947581937-69433674",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-14001a2cdb5b48d7ac9adae6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 175,
+      "duration_ms": 175000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "14001a2cdb5b48d7ac9adae6",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-14001a2cdb5b48d7ac9adae6",
+      "media_name": "27b777a97df84ee29de975febbd7ca9d.mp3",
+      "scenario": "An unhappy diner calls to express disappointment over a meal that was poorly prepared, demanding a refund. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 175.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is William Chen. I wanted to talk about my last appointment. Of course, William. What seems to be the issue? Well, I’m quite disappointed with the physical therapy session I had two days ago. I'm sorry to hear that. Can you tell me what specifically went wrong? The therapist seemed rushed and didn’t really focus on my knee as we had discussed. It felt like the session was poorly prepared. I understand. That must be frustrating, especially after your surgery. Exactly! I expected more attention and care during my recovery phase. I apologize for the experience you had, and I appreciate you bringing this to my attention. Thank you, but I believe I deserve a refund for that session. I can certainly understand why you’d feel that way. Let me check our policy on refunds for you. Alright, I’d appreciate that. I just want to ensure I’m getting the quality of care I need. Absolutely, William. Our goal is to provide the best care possible. If you give me a moment, I’ll look into the refund policy for therapy sessions. Sure, take your time. I just want to feel like I’m being taken seriously here. Thank you for your patience. According to our policy, we can issue a refund for sessions that don’t meet our standards. That’s good to know, thank you. What’s the next step? I’ll need to document your feedback and submit it for review, and then we can process your refund. Sounds good. How long will that take? Typically, it can take 3-5 business days for the review and processing. Alright, I’ll keep an eye on my account. Is there anything else you would like to discuss today? Yes, actually. I’d like to know if you have a different physical therapist available? We do have other therapists who specialize in post-surgical care. Would you like me to arrange a session with someone else? Yes, please! I’d appreciate a more attentive therapist. I’ll make that a priority. Can I schedule it for next week? That works for me. Thank you for accommodating me. You’re welcome, William. I’ll also follow up with you to ensure the next session meets your expectations. Thank you, Margaret. I appreciate your help. No problem, William. Thank you for your understanding and for being a valued client. Have a good day. You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I wanted to talk about my last appointment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, William. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’m quite disappointed with the physical therapy session I had two days ago.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm sorry to hear that. Can you tell me what specifically went wrong?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The therapist seemed rushed and didn’t really focus on my knee as we had discussed. It felt like the session was poorly prepared.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. That must be frustrating, especially after your surgery.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Exactly! I expected more attention and care during my recovery phase.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I apologize for the experience you had, and I appreciate you bringing this to my attention.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, but I believe I deserve a refund for that session.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can certainly understand why you’d feel that way. Let me check our policy on refunds for you.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Alright, I’d appreciate that. I just want to ensure I’m getting the quality of care I need.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, William. Our goal is to provide the best care possible.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "If you give me a moment, I’ll look into the refund policy for therapy sessions.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Sure, take your time. I just want to feel like I’m being taken seriously here.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Thank you for your patience. According to our policy, we can issue a refund for sessions that don’t meet our standards.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That’s good to know, thank you. What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I’ll need to document your feedback and submit it for review, and then we can process your refund.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Sounds good. How long will that take?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Typically, it can take 3-5 business days for the review and processing.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Alright, I’ll keep an eye on my account.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Is there anything else you would like to discuss today?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, actually. I’d like to know if you have a different physical therapist available?",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "We do have other therapists who specialize in post-surgical care. Would you like me to arrange a session with someone else?",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Yes, please! I’d appreciate a more attentive therapist.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "I’ll make that a priority. Can I schedule it for next week?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "That works for me. Thank you for accommodating me.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You’re welcome, William. I’ll also follow up with you to ensure the next session meets your expectations.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "No problem, William. Thank you for your understanding and for being a valued client.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "Have a good day.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 30
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-14001a2cdb5b48d7ac9adae6",
+  "revision": "",
+  "status": "success"
+}
