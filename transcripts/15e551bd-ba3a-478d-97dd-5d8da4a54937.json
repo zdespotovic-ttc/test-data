@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3fdb9cadc0914d14b20bc1fd",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582087-60f161f0",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3fdb9cadc0914d14b20bc1fd",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "3fdb9cadc0914d14b20bc1fd",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3fdb9cadc0914d14b20bc1fd",
+      "media_name": "6d54d3adb61a4ec48fce1bdc7a2417d5.mp3",
+      "scenario": "A longtime subscriber reaches out to resolve a billing error, claiming a subscription renewal fee was unjustly charged. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. This is Mary O'Connor. I need to discuss a billing issue I just noticed. Of course, Mary. I’m here to help. What seems to be the problem? So, I was charged a subscription renewal fee, but I don’t think I authorized that. I understand your concern. Let me pull up your account. Can you hold for just a moment? Yes, no problem. Thank you for your patience, Mary. I see here that you were charged $150 for your subscription renewal last week. This is typically for ongoing IV therapy support. I see that, but I didn't mean to renew it. I thought it was more of an ongoing service without additional charges. I apologize for the confusion. The renewal is set to auto-charge unless cancelled. I understand that now, but I still don’t think I should have been charged. I completely understand your frustration, Mary. Let’s resolve this for you. Thank you, I appreciate that. I can submit a request for a billing dispute and have our billing department review the charge. That would be great. How long will that take? Typically, it takes 3-5 business days for the review process. Okay, I can wait that long. In the meantime, would you be interested in discussing additional supportive services? I might be. What do you have in mind? We offer services like transportation for medical appointments and additional personal care assistance that could help you. That does sound helpful, actually. Can you send me more information? Absolutely, I can have our Care Coordinator, Lisa, reach out to you with details. Perfect. Thank you! I’ll also follow up with you once the billing issue is addressed. Thank you, Margaret. That really eases my mind. You’re welcome, Mary. Is there anything else I can assist you with today? No, that’s everything. Thanks again! Thank you for calling, Mary. Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Mary O'Connor. I need to discuss a billing issue I just noticed.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Mary. I’m here to help. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "So, I was charged a subscription renewal fee, but I don’t think I authorized that.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account. Can you hold for just a moment?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, no problem.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Mary. I see here that you were charged $150 for your subscription renewal last week. This is typically for ongoing IV therapy support.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I see that, but I didn't mean to renew it. I thought it was more of an ongoing service without additional charges.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I apologize for the confusion. The renewal is set to auto-charge unless cancelled.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I understand that now, but I still don’t think I should have been charged.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand your frustration, Mary. Let’s resolve this for you.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can submit a request for a billing dispute and have our billing department review the charge.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be great. How long will that take?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Typically, it takes 3-5 business days for the review process.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, I can wait that long.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "In the meantime, would you be interested in discussing additional supportive services?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I might be. What do you have in mind?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We offer services like transportation for medical appointments and additional personal care assistance that could help you.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 98,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That does sound helpful, actually. Can you send me more information?",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, I can have our Care Coordinator, Lisa, reach out to you with details.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect. Thank you!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll also follow up with you once the billing issue is addressed.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. That really eases my mind.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Mary. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s everything. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for calling, Mary. Have a great day!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 139,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 139,
+          "end_time": 140,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3fdb9cadc0914d14b20bc1fd",
+  "revision": "",
+  "status": "success"
+}
