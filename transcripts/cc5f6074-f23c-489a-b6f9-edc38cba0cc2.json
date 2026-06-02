@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-edb91714e64f46c89c5926a3",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947584801-3e60bb95",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-edb91714e64f46c89c5926a3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 108,
+      "duration_ms": 108000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "edb91714e64f46c89c5926a3",
+      "caller_id_number": "+13165558962",
+      "caller_id_name": "Thomas White",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-edb91714e64f46c89c5926a3",
+      "media_name": "cc7602f58eba483281711fcab6df6b5c.mp3",
+      "scenario": "A restaurant owner calls to report that the kitchen equipment serviced last month is malfunctioning again. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 108.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is Thomas White. I'm reaching out about my mother who has Alzheimer's. Hi Thomas, it's nice to speak with you. How can we help with your mother's care? Well, I'm looking for specialized dementia care and some respite services for myself. That sounds important. We offer dementia and Alzheimer's care priced at $32 to $40 per hour. I see, and what about respite care? Our respite care services are available at $30 to $38 per hour. Would you like to schedule an assessment? Yes, that would be great. When would you like to have this assessment done? How about this weekend? Let me check our availability... We can do Saturday at 10 AM. Does that work for you? Yes, that works perfectly. Great! I'll have our Care Coordinator, Lisa Chen, reach out to confirm and provide details. Thank you. I'm also concerned about finding the right caregiver for her. Absolutely. Lisa will assist with caregiver matching based on your mother's needs during the assessment. That sounds reassuring. Is there anything else you’d like to discuss today? No, I think that covers it. Just to clarify, what’s the next step after the assessment? After the assessment, we’ll create a care plan tailored for your mother and schedule services accordingly. Perfect, I appreciate the clarity. Thank you for considering us, Thomas. We’re here to support you and your mother. Thank you, Margaret. I’ll be looking forward to Lisa's call. You’re welcome! Have a great day, and we’ll talk soon! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Thomas White. I'm reaching out about my mother who has Alzheimer's.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Thomas, it's nice to speak with you. How can we help with your mother's care?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I'm looking for specialized dementia care and some respite services for myself.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds important. We offer dementia and Alzheimer's care priced at $32 to $40 per hour.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I see, and what about respite care?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our respite care services are available at $30 to $38 per hour. Would you like to schedule an assessment?",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that would be great.",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "When would you like to have this assessment done?",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "How about this weekend?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check our availability... We can do Saturday at 10 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that works perfectly.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! I'll have our Care Coordinator, Lisa Chen, reach out to confirm and provide details.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you. I'm also concerned about finding the right caregiver for her.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely. Lisa will assist with caregiver matching based on your mother's needs during the assessment.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reassuring.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 70,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Is there anything else you’d like to discuss today?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "No, I think that covers it. Just to clarify, what’s the next step after the assessment?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "After the assessment, we’ll create a care plan tailored for your mother and schedule services accordingly.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect, I appreciate the clarity.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you for considering us, Thomas. We’re here to support you and your mother.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I’ll be looking forward to Lisa's call.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 98,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! Have a great day, and we’ll talk soon!",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 105,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 108,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558962",
+    "ooma_remote_name": "Thomas White",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-edb91714e64f46c89c5926a3",
+  "revision": "",
+  "status": "success"
+}
