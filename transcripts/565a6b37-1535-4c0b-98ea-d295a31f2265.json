@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-45f65a2e7de14b49bc54aa13",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947584869-77ca55c4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-45f65a2e7de14b49bc54aa13",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 113,
+      "duration_ms": 113000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "45f65a2e7de14b49bc54aa13",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-45f65a2e7de14b49bc54aa13",
+      "media_name": "7d9e65fb0b164b89a4dcb04c4a7fab87.mp3",
+      "scenario": "An individual calls to ask about the availability and pricing of wellness programs for corporate employees. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 113.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is George Williams. I’m actually calling to inquire about your wellness programs for corporate employees. Hi George! It’s great to hear from you. We currently don’t have specific wellness programs tailored for corporate employees, but I can provide you with some information on our services. Oh, I see. Can you tell me what kind of services might be beneficial for a corporate setting? Certainly! We offer a range of services including health screenings, wellness workshops, and stress management programs that can be tailored for employees. That sounds interesting. What are the typical prices for these services? For health screenings, the price can range from $65 to $80 per person, depending on the tests included. Workshops usually range from $200 to $500 for a group session. Okay, and how long do these workshops usually last? They typically last about an hour to two hours, depending on the topic and the number of participants. That’s good to know. Can you also provide information on stress management techniques that you might include? Sure! We cover techniques like mindfulness, time management, and relaxation exercises. We can customize the content based on your team's needs. That sounds valuable. Do you offer any follow-up support after the workshops? Yes, we provide follow-up consultations and resources for employees to continue their wellness journey. Great! I have a few employees who might be interested in this. What would be the next steps? I can set up a meeting to discuss your team’s specific needs and how we can tailor our programs. Would you be available for a call next week? Sure, I’m available Tuesday or Thursday afternoon. Let me check... How about Tuesday at 2 PM? That works for me! Perfect! I’ll send you a calendar invite for Tuesday at 2 PM. Thank you, Margaret. I appreciate your help today. You’re welcome, George! I'm looking forward to discussing this with you. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I’m actually calling to inquire about your wellness programs for corporate employees.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George! It’s great to hear from you. We currently don’t have specific wellness programs tailored for corporate employees, but I can provide you with some information on our services.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. Can you tell me what kind of services might be beneficial for a corporate setting?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Certainly! We offer a range of services including health screenings, wellness workshops, and stress management programs that can be tailored for employees.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds interesting. What are the typical prices for these services?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "For health screenings, the price can range from $65 to $80 per person, depending on the tests included. Workshops usually range from $200 to $500 for a group session.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and how long do these workshops usually last?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "They typically last about an hour to two hours, depending on the topic and the number of participants.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s good to know. Can you also provide information on stress management techniques that you might include?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sure! We cover techniques like mindfulness, time management, and relaxation exercises. We can customize the content based on your team's needs.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds valuable. Do you offer any follow-up support after the workshops?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we provide follow-up consultations and resources for employees to continue their wellness journey.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great! I have a few employees who might be interested in this. What would be the next steps?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can set up a meeting to discuss your team’s specific needs and how we can tailor our programs. Would you be available for a call next week?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, I’m available Tuesday or Thursday afternoon.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check... How about Tuesday at 2 PM?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That works for me!",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 92,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll send you a calendar invite for Tuesday at 2 PM.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, George! I'm looking forward to discussing this with you. Have a great day!",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-45f65a2e7de14b49bc54aa13",
+  "revision": "",
+  "status": "success"
+}
