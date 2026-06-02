@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0e5cdd9bc9f847a2beac5d75",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582255-fa0e3fd8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0e5cdd9bc9f847a2beac5d75",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "0e5cdd9bc9f847a2beac5d75",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0e5cdd9bc9f847a2beac5d75",
+      "media_name": "3227d3af7ac54956b5523c9031ce0e4d.mp3",
+      "scenario": "A customer reaches out to confirm that the requested service changes have been implemented correctly. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is William Chen. I'm calling to confirm that the service changes we discussed have been implemented. Hi William! It's great to hear from you. Can you remind me what specific changes we made? Sure! We adjusted my physical therapy schedule to three times a week instead of two, and added some additional personal care hours. Got it. Let me check our records for you. One moment, please. No problem, take your time. Thank you for your patience. I see that the physical therapy is now scheduled for Mondays, Wednesdays, and Fridays, and you have two additional hours of personal care on Tuesdays and Thursdays. That sounds correct. I just want to make sure it’s all in place for next week. Yes, everything is set. The changes go into effect starting Monday. Great! I appreciate you confirming that. Of course! Is there anything else you need to discuss regarding your care plan? Actually, yes. I wanted to ask about medication management services. Sure! We offer medication management at a price of $65 to $80 per session. Would it be possible to add that to my care plan as well? Absolutely, I can arrange that. Would you like it scheduled for the same days as your therapy? Yes, that would be perfect. Great! I’ll set that up for you. Just to confirm, that’s Mondays, Wednesdays, and Fridays? Yes, exactly. I’ll take care of that. Is there anything else you’d like to discuss while I have you on the line? No, that’s all for now. Thank you, Margaret! You’re welcome, William! Just to recap, we’ve added medication management to your schedule. Wonderful! Looking forward to the sessions. Excellent! You’ll receive a confirmation call once everything is finalized. Sounds good. Thanks again for your help! Anytime, William! Have a great day. You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I'm calling to confirm that the service changes we discussed have been implemented.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi William! It's great to hear from you. Can you remind me what specific changes we made?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure! We adjusted my physical therapy schedule to three times a week instead of two, and added some additional personal care hours.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Got it. Let me check our records for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "No problem, take your time.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience. I see that the physical therapy is now scheduled for Mondays, Wednesdays, and Fridays, and you have two additional hours of personal care on Tuesdays and Thursdays.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds correct. I just want to make sure it’s all in place for next week.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, everything is set. The changes go into effect starting Monday.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Great! I appreciate you confirming that.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course! Is there anything else you need to discuss regarding your care plan?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Actually, yes. I wanted to ask about medication management services.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Sure! We offer medication management at a price of $65 to $80 per session.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Would it be possible to add that to my care plan as well?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, I can arrange that. Would you like it scheduled for the same days as your therapy?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be perfect.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll set that up for you. Just to confirm, that’s Mondays, Wednesdays, and Fridays?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, exactly.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 93,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll take care of that. Is there anything else you’d like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 98,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "No, that’s all for now. Thank you, Margaret!",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, William! Just to recap, we’ve added medication management to your schedule.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Wonderful! Looking forward to the sessions.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Excellent! You’ll receive a confirmation call once everything is finalized.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. Thanks again for your help!",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Anytime, William! Have a great day.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0e5cdd9bc9f847a2beac5d75",
+  "revision": "",
+  "status": "success"
+}
