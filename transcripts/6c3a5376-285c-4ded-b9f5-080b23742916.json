@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-07ad35b29af74270bf6ae3e0",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582100-aba9cdea",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-07ad35b29af74270bf6ae3e0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 202,
+      "duration_ms": 202000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "07ad35b29af74270bf6ae3e0",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-07ad35b29af74270bf6ae3e0",
+      "media_name": "3c425023fe0d4372abffcbc49c273b1a.mp3",
+      "scenario": "A client disputes a recent fee increase on their service bill, seeking an explanation and potential reversal. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 202.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Patricia Wilson. I'm calling about my mother's recent bill. There seems to be an increase that I wasn't expecting. I see, Patricia. I'm sorry to hear that. Let me take a look at her account. Could you please provide me with your mother's name and any specific details about the billing? Yes, her name is Mary Wilson. The increase is significant, and I'm really concerned about it. Thank you, Patricia. Let me pull up her billing statement. Just a moment, please. It looks like there was a recent adjustment in the service fees for post-surgery recovery care. The rate went up due to rising operational costs. That’s frustrating. When was this increase communicated? I didn’t receive any notice. I understand your frustration. We strive to inform all clients during their regular assessments, but it seems there might have been an oversight in notifying your family. That’s disappointing. I feel like we should have been informed before this change took place. I completely understand, and I apologize for the inconvenience. We value our clients and aim to keep transparency in our billing. Would you like me to review the specific charges and see if we can adjust anything for you? Yes, please. That would be helpful. Alright, Patricia. The post-surgery care is currently billed at $85 to $110 per hour, but I see that your mother was charged at the higher end of that scale. Yes, I believe she was just receiving routine care. Why was she billed at the higher rate? It seems there was a misunderstanding regarding the complexity of her care needs. I can adjust her rate back to the lower tier if that’s acceptable. That would be great. I appreciate your help with that. I’ll make the adjustment and send you a revised bill. Would you like me to confirm this via email as well? Yes, please. That would be very helpful. Also, while I have you on the line, I wanted to mention that we offer physical therapy services, which may benefit your mother’s recovery. Oh, really? Can you tell me more about that? Certainly! Our physical therapy sessions are tailored for post-surgery rehabilitation, focusing on mobility and strength. They range from $110 to $140 per session. That sounds like something she might need. I’d like to consider that. Great! I can connect you with our Physical Therapist, Dr. James Rodriguez, for more details. Yes, please do that. I’ll follow up with the billing adjustment and also get Dr. Rodriguez to reach out to you. Thank you so much, Margaret. I really appreciate your assistance. You’re welcome, Patricia! Thank you for your understanding. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Patricia Wilson. I'm calling about my mother's recent bill. There seems to be an increase that I wasn't expecting.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I see, Patricia. I'm sorry to hear that. Let me take a look at her account.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Could you please provide me with your mother's name and any specific details about the billing?",
+          "speaker": "local party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Yes, her name is Mary Wilson. The increase is significant, and I'm really concerned about it.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Thank you, Patricia. Let me pull up her billing statement. Just a moment, please.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 34,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "It looks like there was a recent adjustment in the service fees for post-surgery recovery care. The rate went up due to rising operational costs.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That’s frustrating. When was this increase communicated? I didn’t receive any notice.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand your frustration. We strive to inform all clients during their regular assessments, but it seems there might have been an oversight in notifying your family.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s disappointing. I feel like we should have been informed before this change took place.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 68,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand, and I apologize for the inconvenience. We value our clients and aim to keep transparency in our billing.",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Would you like me to review the specific charges and see if we can adjust anything for you?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 83,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 89,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Alright, Patricia. The post-surgery care is currently billed at $85 to $110 per hour, but I see that your mother was charged at the higher end of that scale.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 98,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, I believe she was just receiving routine care. Why was she billed at the higher rate?",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "It seems there was a misunderstanding regarding the complexity of her care needs. I can adjust her rate back to the lower tier if that’s acceptable.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 116,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That would be great. I appreciate your help with that.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 125,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I’ll make the adjustment and send you a revised bill. Would you like me to confirm this via email as well?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 134,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, please. That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Also, while I have you on the line, I wanted to mention that we offer physical therapy services, which may benefit your mother’s recovery.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 145,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Oh, really? Can you tell me more about that?",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Certainly! Our physical therapy sessions are tailored for post-surgery rehabilitation, focusing on mobility and strength. They range from $110 to $140 per session.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That sounds like something she might need. I’d like to consider that.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 167,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Great! I can connect you with our Physical Therapist, Dr. James Rodriguez, for more details.",
+          "speaker": "local party",
+          "start_time": 167,
+          "end_time": 172,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Yes, please do that.",
+          "speaker": "remote party",
+          "start_time": 172,
+          "end_time": 178,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "I’ll follow up with the billing adjustment and also get Dr. Rodriguez to reach out to you.",
+          "speaker": "local party",
+          "start_time": 178,
+          "end_time": 185,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your assistance.",
+          "speaker": "remote party",
+          "start_time": 185,
+          "end_time": 191,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You’re welcome, Patricia! Thank you for your understanding. Have a great day!",
+          "speaker": "local party",
+          "start_time": 191,
+          "end_time": 195,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 200,
+          "end_time": 202,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-07ad35b29af74270bf6ae3e0",
+  "revision": "",
+  "status": "success"
+}
