@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-11b570139eeb49f180426c39",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947584980-1d28a193",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-11b570139eeb49f180426c39",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "11b570139eeb49f180426c39",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-11b570139eeb49f180426c39",
+      "media_name": "1d5f331ea76e45bfa5227969823d8a20.mp3",
+      "scenario": "A business owner needs an urgent meeting with the IT team to address a critical network outage affecting operations. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is George Williams. I'm calling because we need an urgent meeting with the IT team. Hi George, I hope you're doing well. What seems to be the issue? We’re experiencing a critical network outage that's affecting our operations. We can't access patient records or communicate effectively. Oh no, that sounds serious. I can see why you’d need urgent assistance with that. Yes, I need to get this resolved as soon as possible. Can we expedite a meeting with the IT team? Absolutely, let me check their availability right now. Just a moment. (pause) I see that they're available this afternoon at 2 PM. Would that work for you? Yes, that works. Please confirm that meeting for me. I will do that right away. Is there anything else you need while I have you on the line? Actually, yes. I’d like to discuss my current cardiac care monitoring as well. Sure, we can address that after the urgent issue. Would you like to set up a follow-up appointment? Yes, I think that would be helpful. Alright, how about we schedule that for next week? Sounds good. I appreciate your help, Margaret. No problem, George. I’m here to assist you. Just to confirm, I’ll set up the meeting with IT for 2 PM and follow up next week for your care monitoring. Perfect, thank you! You're welcome! And if the outage persists, please let me know, and we can discuss additional support options. That would be great. I might need some additional care services if this continues. Absolutely, we offer a variety of options like skilled nursing care and medication management. I’ll keep that in mind. Thank you for your support! Of course, George. You can always reach out if you need anything else. Will do. Talk soon! Talk soon, George. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I'm calling because we need an urgent meeting with the IT team.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George, I hope you're doing well. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "We’re experiencing a critical network outage that's affecting our operations. We can't access patient records or communicate effectively.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no, that sounds serious. I can see why you’d need urgent assistance with that.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I need to get this resolved as soon as possible. Can we expedite a meeting with the IT team?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, let me check their availability right now. Just a moment.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "(pause) I see that they're available this afternoon at 2 PM. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Yes, that works. Please confirm that meeting for me.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I will do that right away. Is there anything else you need while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Actually, yes. I’d like to discuss my current cardiac care monitoring as well.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Sure, we can address that after the urgent issue. Would you like to set up a follow-up appointment?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, I think that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Alright, how about we schedule that for next week?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Sounds good. I appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "No problem, George. I’m here to assist you. Just to confirm, I’ll set up the meeting with IT for 2 PM and follow up next week for your care monitoring.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "You're welcome! And if the outage persists, please let me know, and we can discuss additional support options.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That would be great. I might need some additional care services if this continues.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely, we offer a variety of options like skilled nursing care and medication management.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I’ll keep that in mind. Thank you for your support!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Of course, George. You can always reach out if you need anything else.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Will do. Talk soon!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Talk soon, George. Goodbye!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-11b570139eeb49f180426c39",
+  "revision": "",
+  "status": "success"
+}
