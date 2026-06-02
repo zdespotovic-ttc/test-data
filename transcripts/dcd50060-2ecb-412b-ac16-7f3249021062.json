@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c6e9d84690cc40bd8b8e3d38",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947585096-428971d6",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c6e9d84690cc40bd8b8e3d38",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 147,
+      "duration_ms": 147000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "c6e9d84690cc40bd8b8e3d38",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c6e9d84690cc40bd8b8e3d38",
+      "media_name": "ee126662c4784b9c98fef9526dc02ea4.mp3",
+      "scenario": "A tourist calls to inquire about the best local attractions and recommendations for dining. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 147.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is David Anderson. I was referred by Dorothy Henderson. Hi, David! It's great to hear from you. How can we help you today? Well, my wife is recovering from a stroke, and I’m looking into physical therapy and nursing care for her. I’m so sorry to hear about your wife, David. We can definitely provide both physical therapy and skilled nursing care. That sounds good. What does the physical therapy service entail? Our physical therapy is focused on post-surgery rehabilitation, mobility training, and strength improvement. Okay, and how long are the sessions? Each session typically lasts 45 to 60 minutes, and the rate is between $110 to $140. And what about nursing care? Skilled nursing care includes medication management and health monitoring, lasting 1-2 hours at $95 to $125 per visit. That sounds reasonable. Can I schedule these services? Absolutely! I can help you set that up. Would you like to start with physical therapy? Yes, let's start with that. When is the earliest availability? Let me check the schedule for you. Could you hold on a moment, please? Sure, take your time. Thank you for waiting. We have availability this Tuesday at 10 AM. Does that work for you? Yes, that works! Great! I’ll schedule that. Now, for nursing care, do you have any specific days in mind? I think we should start with a couple of visits next week. How about I arrange for a visit on Wednesday and Friday? That sounds perfect! Wonderful! I’ll secure those appointments. Would you like me to send you confirmation via email? Yes, please! My email is david.anderson@example.com. Got it, David. I’ll send that over shortly. Thank you, Margaret. I really appreciate your help. You’re welcome! Is there anything else I can assist you with today? No, that’s it for now. Thanks again! My pleasure! I hope your wife has a smooth recovery. Thank you! Have a great day. You too, David! Goodbye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is David Anderson. I was referred by Dorothy Henderson.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, David! It's great to hear from you. How can we help you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my wife is recovering from a stroke, and I’m looking into physical therapy and nursing care for her.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m so sorry to hear about your wife, David. We can definitely provide both physical therapy and skilled nursing care.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. What does the physical therapy service entail?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our physical therapy is focused on post-surgery rehabilitation, mobility training, and strength improvement.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and how long are the sessions?",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Each session typically lasts 45 to 60 minutes, and the rate is between $110 to $140.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "And what about nursing care?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Skilled nursing care includes medication management and health monitoring, lasting 1-2 hours at $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds reasonable. Can I schedule these services?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! I can help you set that up. Would you like to start with physical therapy?",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, let's start with that. When is the earliest availability?",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me check the schedule for you. Could you hold on a moment, please?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you for waiting. We have availability this Tuesday at 10 AM. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that works!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll schedule that. Now, for nursing care, do you have any specific days in mind?",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I think we should start with a couple of visits next week.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 99,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "How about I arrange for a visit on Wednesday and Friday?",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds perfect!",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Wonderful! I’ll secure those appointments. Would you like me to send you confirmation via email?",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, please! My email is david.anderson@example.com.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Got it, David. I’ll send that over shortly.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "No, that’s it for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "My pleasure! I hope your wife has a smooth recovery.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 137,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you! Have a great day.",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 141,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You too, David! Goodbye.",
+          "speaker": "local party",
+          "start_time": 141,
+          "end_time": 144,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "remote party",
+          "start_time": 144,
+          "end_time": 147,
+          "channel": "right",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c6e9d84690cc40bd8b8e3d38",
+  "revision": "",
+  "status": "success"
+}
