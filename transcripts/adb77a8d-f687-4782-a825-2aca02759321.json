@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c26e9ab8e15844a686cf9c3a",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582147-ebbf57c4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c26e9ab8e15844a686cf9c3a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "c26e9ab8e15844a686cf9c3a",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c26e9ab8e15844a686cf9c3a",
+      "media_name": "9eb756cef1e640fd9ac3465b21fa2467.mp3",
+      "scenario": "A frantic pet owner urgently seeks immediate veterinary advice after their pet ingests a toxic substance. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret! This is Helen Johnson. I really need help right now. Hi, Helen. I recognize your name. What seems to be the problem? It's my dog, Max! He just ate some chocolate, and I know it's toxic! What should I do? Oh no, that sounds urgent. How much did he eat, and how long ago? It was about ten minutes ago, and he ate a whole bar! I understand you're panicking, but we need to act quickly. Have you called a vet yet? Not yet! I thought I could call you first for advice, but I need to find a vet now! I recommend you get him to the nearest emergency veterinary clinic immediately, Helen. Right! Which one do you suggest? There's the Animal Emergency Hospital on Maple Street. They're very reliable. Okay, I'll take him there right away! But what can I do until then? Keep him calm and try to prevent him from eating or drinking anything else. Got it. Should I make him throw up? Is that safe? No, do not induce vomiting unless instructed by a vet. Just get him there quickly. Yes, I'm on my way. Thank you so much! You're welcome, Helen. I hope Max feels better soon. I appreciate it. I might need to talk about his care plan when this is over. Absolutely, we can discuss options for his ongoing care when you're ready. Thank you! I’ll call you back after I get him checked out. Perfect, please do. Take care, and drive safely! I will. Bye for now! Bye, Helen!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret! This is Helen Johnson. I really need help right now.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Helen. I recognize your name. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's my dog, Max! He just ate some chocolate, and I know it's toxic! What should I do?",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no, that sounds urgent. How much did he eat, and how long ago?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was about ten minutes ago, and he ate a whole bar!",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand you're panicking, but we need to act quickly. Have you called a vet yet?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Not yet! I thought I could call you first for advice, but I need to find a vet now!",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I recommend you get him to the nearest emergency veterinary clinic immediately, Helen.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Right! Which one do you suggest?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "There's the Animal Emergency Hospital on Maple Street. They're very reliable.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, I'll take him there right away! But what can I do until then?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Keep him calm and try to prevent him from eating or drinking anything else.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Got it. Should I make him throw up? Is that safe?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "No, do not induce vomiting unless instructed by a vet. Just get him there quickly.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I'm on my way. Thank you so much!",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You're welcome, Helen. I hope Max feels better soon.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I appreciate it. I might need to talk about his care plan when this is over.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, we can discuss options for his ongoing care when you're ready.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you! I’ll call you back after I get him checked out.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect, please do. Take care, and drive safely!",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I will. Bye for now!",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Bye, Helen!",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c26e9ab8e15844a686cf9c3a",
+  "revision": "",
+  "status": "success"
+}
