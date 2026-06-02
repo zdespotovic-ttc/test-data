@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-289347d55d4f4d80b7f8a421",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947584966-0d754f93",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-289347d55d4f4d80b7f8a421",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "289347d55d4f4d80b7f8a421",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-289347d55d4f4d80b7f8a421",
+      "media_name": "a9133d4e43eb422a8f97db54ab6389bb.mp3",
+      "scenario": "A caller urgently requests an immediate house call for a plumbing emergency as their basement is flooding. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you? Hi Margaret, this is William Chen. I need urgent help—my basement is flooding! Oh no, William! That sounds serious. I’m really sorry to hear that. Yes, it is! I just came back from physical therapy and noticed water everywhere! I understand. Unfortunately, we provide home healthcare services, not plumbing. I know, but I’m in a panic here. What should I do? I recommend calling a local plumbing service immediately to assist you with that. Do you have any recommendations? I can’t provide specific names, but you might check online for a 24/7 emergency plumber. Okay, I’ll do that. Do you think I have time to get this fixed before my next therapy session? It depends on how quickly they can respond. If they're prompt, you should be fine. I really hope so. I can’t afford to miss any PT sessions right now. I understand, your recovery is important. Your therapist can modify your care plan if needed. That’s good to know. Can you schedule an extra session for me, just in case? Sure! Let me check Dr. Rodriguez's availability for you. Thank you! I appreciate your help during this crisis. Of course, William! I’ll get that scheduled right away. Also, can I get a reminder for my medication management? I might forget in all this chaos. Absolutely! We can set up a reminder call for your medications. Thank you, that would be great. Just to confirm, would you like me to schedule that extra PT session for tomorrow? Yes, if he’s available, please. Let me check... Yes, Dr. Rodriguez can see you tomorrow at 2 PM. Perfect, thank you! I’ll also set up that medication reminder for you. You’re a lifesaver, Margaret. Thanks again. No problem, William! If you need further assistance, don’t hesitate to call. I will. Have a good day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I need urgent help—my basement is flooding!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, William! That sounds serious. I’m really sorry to hear that.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it is! I just came back from physical therapy and noticed water everywhere!",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Unfortunately, we provide home healthcare services, not plumbing.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I know, but I’m in a panic here. What should I do?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I recommend calling a local plumbing service immediately to assist you with that.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Do you have any recommendations?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I can’t provide specific names, but you might check online for a 24/7 emergency plumber.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, I’ll do that. Do you think I have time to get this fixed before my next therapy session?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It depends on how quickly they can respond. If they're prompt, you should be fine.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I really hope so. I can’t afford to miss any PT sessions right now.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand, your recovery is important. Your therapist can modify your care plan if needed.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That’s good to know. Can you schedule an extra session for me, just in case?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! Let me check Dr. Rodriguez's availability for you.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! I appreciate your help during this crisis.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Of course, William! I’ll get that scheduled right away.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Also, can I get a reminder for my medication management? I might forget in all this chaos.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely! We can set up a reminder call for your medications.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, that would be great.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Just to confirm, would you like me to schedule that extra PT session for tomorrow?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, if he’s available, please.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Let me check... Yes, Dr. Rodriguez can see you tomorrow at 2 PM.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I’ll also set up that medication reminder for you.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You’re a lifesaver, Margaret. Thanks again.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "No problem, William! If you need further assistance, don’t hesitate to call.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will. Have a good day!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-289347d55d4f4d80b7f8a421",
+  "revision": "",
+  "status": "success"
+}
