@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-49ec927dce144bfa9cef3785",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586507-c557c80d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-49ec927dce144bfa9cef3785",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 128,
+      "duration_ms": 128000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "49ec927dce144bfa9cef3785",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-49ec927dce144bfa9cef3785",
+      "media_name": "d89e446e124b42ec981698cdb55b1212.mp3",
+      "scenario": "A customer inquires about the history and mission of the company. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 128.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Edward Martinez. I’ve been a client for about a year now. Hi, Edward! It’s great to hear from you. How can I help you today? I wanted to know more about the history and mission of CareFirst. Absolutely, Edward. CareFirst Home Health was founded with the goal of providing compassionate and high-quality care right in the comfort of our clients' homes. That sounds good. What motivated the founders to start this agency? The founders recognized a growing need for personalized home healthcare services, especially for seniors and individuals with chronic conditions. Our mission is to enhance the quality of life for our clients through skilled care and support. I appreciate that. It’s important to have someone who understands the needs of patients. Exactly, Edward. We focus on building a relationship with clients and their families to ensure tailored care plans. Can you tell me about the types of services you provide? Sure! We offer a range of services including skilled nursing care, personal care assistance, companionship, and specialized services like dementia care and post-surgical recovery. I’ve used respite care before. Do you have any other services that might help my wife? Yes, in addition to respite care, we also offer companion care which provides social interaction and assistance with daily activities. That could be beneficial. Do you have any recommendations based on my situation? I would recommend discussing companion care with our Care Coordinator, Lisa Chen. She can create a tailored plan that works for both you and your wife. That sounds good. I’d like to follow up with her. Can you provide her contact information? Sure, her direct number is +13165559203. You can reach her anytime during business hours. Thank you! And what are the hours again? We’re open Monday through Friday from 7 AM to 7 PM, and Saturday from 8 AM to 5 PM. Got it. I appreciate all the information, Margaret. You’re welcome, Edward! Is there anything else I can assist you with today? No, that covers it for now. I’ll reach out to Lisa. Thank you again! My pleasure! Have a wonderful day, Edward, and take care. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I’ve been a client for about a year now.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Edward! It’s great to hear from you. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I wanted to know more about the history and mission of CareFirst.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, Edward. CareFirst Home Health was founded with the goal of providing compassionate and high-quality care right in the comfort of our clients' homes.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. What motivated the founders to start this agency?",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "The founders recognized a growing need for personalized home healthcare services, especially for seniors and individuals with chronic conditions. Our mission is to enhance the quality of life for our clients through skilled care and support.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that. It’s important to have someone who understands the needs of patients.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 41,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Exactly, Edward. We focus on building a relationship with clients and their families to ensure tailored care plans.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Can you tell me about the types of services you provide?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Sure! We offer a range of services including skilled nursing care, personal care assistance, companionship, and specialized services like dementia care and post-surgical recovery.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 58,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I’ve used respite care before. Do you have any other services that might help my wife?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, in addition to respite care, we also offer companion care which provides social interaction and assistance with daily activities.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That could be beneficial. Do you have any recommendations based on my situation?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I would recommend discussing companion care with our Care Coordinator, Lisa Chen. She can create a tailored plan that works for both you and your wife.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 84,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good. I’d like to follow up with her. Can you provide her contact information?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 91,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure, her direct number is +13165559203. You can reach her anytime during business hours.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you! And what are the hours again?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We’re open Monday through Friday from 7 AM to 7 PM, and Saturday from 8 AM to 5 PM.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Got it. I appreciate all the information, Margaret.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Edward! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers it for now. I’ll reach out to Lisa. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "My pleasure! Have a wonderful day, Edward, and take care.",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-49ec927dce144bfa9cef3785",
+  "revision": "",
+  "status": "success"
+}
