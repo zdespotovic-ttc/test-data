@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0b229b6b8b0c4daa8693554b",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947584830-b8c805e4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0b229b6b8b0c4daa8693554b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "0b229b6b8b0c4daa8693554b",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0b229b6b8b0c4daa8693554b",
+      "media_name": "9b608e9558574cd9a3c68eadce58da00.mp3",
+      "scenario": "A caller inquires about the types of pet grooming services available for large breed dogs. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Charles Thompson. I have a quick question about pet grooming services for my dog. Oh, I’m sorry, Charles, but we don’t offer pet grooming services. Really? I thought you might have some information or recommendations. Unfortunately, our focus is on home healthcare services. Got it. I should have checked first. No worries! Do you have any other questions about our services? Well, I’m still recovering from my surgery, and I’d like to know more about ongoing wound care. Of course! We provide skilled nursing care for wound management. How often would that typically be scheduled? It’s usually one to two visits per week, depending on your needs. That sounds good. Is there any cost associated with that? Yes, skilled nursing care ranges from $95 to $125 per visit. And what does that include? It includes medication management, wound assessment, and health monitoring. Perfect, I’d like to schedule that. I can set that up for you. What days work best for you? I’m available on weekdays, preferably mornings. Great! I’ll get our nurse Robert to visit. Just to confirm, he’s available, right? Yes, Robert is available Tuesday through Saturday. Sounds good. Can you ensure he’s aware of my situation? Absolutely! I’ll brief him on your case and recovery. Thank you. I really appreciate that. Not a problem at all. Is there anything else I can assist you with? Actually, I need some detailed progress reports for the VA as well. We can definitely provide those. I’ll make a note for our nursing staff. Thank you! That would be really helpful. You’re welcome, Charles. I’ll follow up with you after the first visit. Sounds good. Thank you for your help today! You’re very welcome! Have a great day! You too, Margaret! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I have a quick question about pet grooming services for my dog.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I’m sorry, Charles, but we don’t offer pet grooming services.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Really? I thought you might have some information or recommendations.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Unfortunately, our focus is on home healthcare services.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Got it. I should have checked first.",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 22,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "No worries! Do you have any other questions about our services?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 25,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Well, I’m still recovering from my surgery, and I’d like to know more about ongoing wound care.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course! We provide skilled nursing care for wound management.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "How often would that typically be scheduled?",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "It’s usually one to two visits per week, depending on your needs.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good. Is there any cost associated with that?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, skilled nursing care ranges from $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "And what does that include?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "It includes medication management, wound assessment, and health monitoring.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect, I’d like to schedule that.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can set that up for you. What days work best for you?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I’m available on weekdays, preferably mornings.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll get our nurse Robert to visit.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Just to confirm, he’s available, right?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 81,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, Robert is available Tuesday through Saturday.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 84,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good. Can you ensure he’s aware of my situation?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! I’ll brief him on your case and recovery.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you. I really appreciate that.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 97,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Not a problem at all. Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Actually, I need some detailed progress reports for the VA as well.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "We can definitely provide those. I’ll make a note for our nursing staff.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you! That would be really helpful.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Charles. I’ll follow up with you after the first visit.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Sounds good. Thank you for your help today!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You’re very welcome! Have a great day!",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, Margaret! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0b229b6b8b0c4daa8693554b",
+  "revision": "",
+  "status": "success"
+}
