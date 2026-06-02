@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b6aae78bba22476bb99d0c10",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947581835-5bda7f59",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b6aae78bba22476bb99d0c10",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "b6aae78bba22476bb99d0c10",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b6aae78bba22476bb99d0c10",
+      "media_name": "2f6c775fad284430b9174261a140f016.mp3",
+      "scenario": "A regular client contacts the office to book their annual physical exam, ensuring it's scheduled with their preferred doctor. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Dorothy Henderson. I'm calling to schedule my annual physical exam. Hi Dorothy! It's great to hear from you. When are you hoping to schedule that? I’d prefer a morning appointment if possible, and I'd like to see Dr. Rodriguez. I can check Dr. Rodriguez's availability for you. One moment please. Okay, it looks like he’s available next week on Tuesday and Thursday morning. Which day works better for you? Tuesday works best for me. What time would it be? We can book you for 9:00 AM on Tuesday. Does that sound good? Yes, that works perfectly. Thank you! Great! Let me confirm that for you. Just to clarify, this appointment is for your annual physical exam, correct? Yes, that’s right. Alright, you’re all set for 9:00 AM next Tuesday with Dr. Rodriguez. Thank you, Margaret. I appreciate it. You're welcome! Is there anything else you need while I have you on the line? Actually, could I get an update on my physical therapy sessions? Sure! You’ve been receiving therapy twice a week. Would you like to continue that schedule? Yes, I think that’s important for my recovery. Perfect! I’ll ensure that’s set up. Would you like to keep the same therapist? Yes, I’d prefer to continue with Dr. Rodriguez. Great! I’ll make that note for you. Anything else you’d like to discuss? No, that’s everything for now. Thanks again! You're very welcome. I’ll send you a confirmation for your appointment and the therapy schedule. Sounds good! Just a reminder, your last visit was two days ago. If you notice any changes in your recovery, please reach out. Will do! Thank you for your support. Thank you for calling, Dorothy. Have a wonderful day! You too, Margaret! Bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Dorothy Henderson. I'm calling to schedule my annual physical exam.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Dorothy! It's great to hear from you. When are you hoping to schedule that?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’d prefer a morning appointment if possible, and I'd like to see Dr. Rodriguez.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I can check Dr. Rodriguez's availability for you. One moment please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, it looks like he’s available next week on Tuesday and Thursday morning. Which day works better for you?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 35,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Tuesday works best for me. What time would it be?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "We can book you for 9:00 AM on Tuesday. Does that sound good?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Yes, that works perfectly. Thank you!",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Great! Let me confirm that for you. Just to clarify, this appointment is for your annual physical exam, correct?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that’s right.",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 56,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Alright, you’re all set for 9:00 AM next Tuesday with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "You're welcome! Is there anything else you need while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Actually, could I get an update on my physical therapy sessions?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Sure! You’ve been receiving therapy twice a week. Would you like to continue that schedule?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, I think that’s important for my recovery.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 86,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Perfect! I’ll ensure that’s set up. Would you like to keep the same therapist?",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 91,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, I’d prefer to continue with Dr. Rodriguez.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Great! I’ll make that note for you. Anything else you’d like to discuss?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "No, that’s everything for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're very welcome. I’ll send you a confirmation for your appointment and the therapy schedule.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Sounds good!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Just a reminder, your last visit was two days ago. If you notice any changes in your recovery, please reach out.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Will do! Thank you for your support.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Thank you for calling, Dorothy. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "You too, Margaret! Bye.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b6aae78bba22476bb99d0c10",
+  "revision": "",
+  "status": "success"
+}
