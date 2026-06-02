@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3946492b80ff412eb5de62f6",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582125-41166f1f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3946492b80ff412eb5de62f6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 147,
+      "duration_ms": 147000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "3946492b80ff412eb5de62f6",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3946492b80ff412eb5de62f6",
+      "media_name": "d2683fca42ff4bdfb52e3a0887233116.mp3",
+      "scenario": "An anxious client contacts their insurance provider urgently, needing immediate assistance with a claim submission. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 147.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Rose Patterson. I'm really anxious; I need help with an urgent insurance claim submission. I'm here to help you, Rose. Can you tell me a bit more about the issue? Yes, I received a notice that my last claim for my mom's care was denied, and I need to resolve it quickly. I understand the urgency. When was this claim submitted? It was submitted last week, and I believe it was for her companion care services. Alright, let me pull up her information. Can you confirm your mom’s name and the date of service? Yes, her name is Alice Patterson, and the date of service was yesterday. Thank you, Rose. I have her file up. I see the denial was due to missing documentation. Oh no, what do I need to do? This is really stressing me out. I can help you with that. We may need to submit additional documentation regarding her diagnosis and care details. How do I get that? Is that something you can provide? Yes, we can assist with that. I’ll prepare the necessary forms and notes for you. And how long will that take? I need to submit everything by the end of the week. I can have this ready for you by tomorrow morning. Will that work? Yes, that would be great! Thank you! You’re welcome. I’ll also follow up with your insurance provider to expedite the process. That would really help. I just want to make sure we can keep her care going. Absolutely, Rose. We want to ensure she gets the services she needs. Is there anything else I should be doing on my end? Just keep an eye on your email for the documentation I send. Also, would you like to schedule a follow-up visit for her care? Yes, that would be good. Can we set it for later this week? Sure! I’ll have our Care Coordinator, Lisa, reach out to you with scheduling options. Thank you so much, Margaret. I really appreciate your help! You’re very welcome, Rose. It’s my pleasure to assist. Alright, I’ll be waiting for your follow-up. Sounds good! Have a great day, and we’ll talk soon. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 4,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I'm really anxious; I need help with an urgent insurance claim submission.",
+          "speaker": "remote party",
+          "start_time": 4,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm here to help you, Rose. Can you tell me a bit more about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I received a notice that my last claim for my mom's care was denied, and I need to resolve it quickly.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 21,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand the urgency. When was this claim submitted?",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was submitted last week, and I believe it was for her companion care services.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Alright, let me pull up her information. Can you confirm your mom’s name and the date of service?",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, her name is Alice Patterson, and the date of service was yesterday.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 43,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you, Rose. I have her file up. I see the denial was due to missing documentation.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 49,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Oh no, what do I need to do? This is really stressing me out.",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can help you with that. We may need to submit additional documentation regarding her diagnosis and care details.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How do I get that? Is that something you can provide?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 67,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we can assist with that. I’ll prepare the necessary forms and notes for you.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "And how long will that take? I need to submit everything by the end of the week.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can have this ready for you by tomorrow morning. Will that work?",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be great! Thank you!",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome. I’ll also follow up with your insurance provider to expedite the process.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would really help. I just want to make sure we can keep her care going.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, Rose. We want to ensure she gets the services she needs.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Is there anything else I should be doing on my end?",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Just keep an eye on your email for the documentation I send. Also, would you like to schedule a follow-up visit for her care?",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that would be good. Can we set it for later this week?",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sure! I’ll have our Care Coordinator, Lisa, reach out to you with scheduling options.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 123,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re very welcome, Rose. It’s my pleasure to assist.",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Alright, I’ll be waiting for your follow-up.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 136,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Sounds good! Have a great day, and we’ll talk soon.",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 147,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3946492b80ff412eb5de62f6",
+  "revision": "",
+  "status": "success"
+}
