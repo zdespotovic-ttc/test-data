@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7924f64e5ad44a34aaf93ff7",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947584696-0fcb8c89",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7924f64e5ad44a34aaf93ff7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 112,
+      "duration_ms": 112000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "7924f64e5ad44a34aaf93ff7",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7924f64e5ad44a34aaf93ff7",
+      "media_name": "7e33eb64073944dfbf0434c2892509f9.mp3",
+      "scenario": "A mother calls to book a pediatric appointment for her son who needs a check-up before school starts. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 112.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Harold Gonzalez. I'm calling to schedule an appointment for my son before school starts. Hi, Harold! I’d be happy to help you with that. What date are you looking for? We’d like to have the appointment sometime next week, if possible. Absolutely, let me check our availability for next week. We have openings on Monday and Wednesday. Which day works better for you? Let’s go with Wednesday, please. Great choice! What time do you prefer for the appointment? Ideally in the morning, around 10:00 AM? Let me confirm that for you. Yes, we can book your appointment for Wednesday at 10:00 AM. Perfect, thank you! You're welcome! Is there anything specific you’d like the doctor to focus on during the visit? Just a general check-up before school. He's been healthy, but I want to be sure. That's completely understandable. We'll make sure to cover all the bases during the check-up. Thank you, I appreciate it. Just to confirm, we have your appointment on Wednesday at 10:00 AM for your son. Yes, that's right. Also, if your son needs any vaccinations or additional screenings, we can address that during the appointment. That sounds good. I’ll discuss it with him and let you know. Perfect! If you have any questions or need to change anything, feel free to call back. I appreciate your help, Margaret. See you Wednesday! Thank you, Harold. Looking forward to seeing you both! Have a great day! You too! Bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Harold Gonzalez. I'm calling to schedule an appointment for my son before school starts.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Harold! I’d be happy to help you with that. What date are you looking for?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "We’d like to have the appointment sometime next week, if possible.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, let me check our availability for next week.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We have openings on Monday and Wednesday. Which day works better for you?",
+          "speaker": "local party",
+          "start_time": 21,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Let’s go with Wednesday, please.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Great choice! What time do you prefer for the appointment?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Ideally in the morning, around 10:00 AM?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Let me confirm that for you.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, we can book your appointment for Wednesday at 10:00 AM.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Perfect, thank you!",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You're welcome! Is there anything specific you’d like the doctor to focus on during the visit?",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Just a general check-up before school. He's been healthy, but I want to be sure.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That's completely understandable. We'll make sure to cover all the bases during the check-up.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Just to confirm, we have your appointment on Wednesday at 10:00 AM for your son.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that's right.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Also, if your son needs any vaccinations or additional screenings, we can address that during the appointment.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds good. I’ll discuss it with him and let you know.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! If you have any questions or need to change anything, feel free to call back.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I appreciate your help, Margaret. See you Wednesday!",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Harold. Looking forward to seeing you both! Have a great day!",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too! Bye.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 112,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7924f64e5ad44a34aaf93ff7",
+  "revision": "",
+  "status": "success"
+}
