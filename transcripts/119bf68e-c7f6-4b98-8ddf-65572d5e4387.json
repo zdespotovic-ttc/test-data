@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e2ea1d5a71f743208457f8e7",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586419-95b735e9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e2ea1d5a71f743208457f8e7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "e2ea1d5a71f743208457f8e7",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e2ea1d5a71f743208457f8e7",
+      "media_name": "a1cd8599e66948e897bc334e52caeb49.mp3",
+      "scenario": "A potential client is looking for a pricing estimate for custom interior design services. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Betty Lou Smith. I hope you're doing well! Hi Betty! I'm doing well, thank you. How can I assist you today? I wanted to get a pricing estimate for some of your services. I'm looking for ongoing support for my mobility. Absolutely, I can help you with that. Can you tell me more about the specific services you're interested in? Well, I'm mainly looking for fall prevention and mobility assistance. Great! For mobility assistance, we offer Personal Care Assistance, which is priced at $28 to $35 per hour. Okay, and how many hours would you recommend for someone in my situation? Typically, clients opt for 2-3 hours a day, especially to maintain consistency and safety. That sounds reasonable. Is there a minimum number of hours required? There’s no strict minimum, but we generally recommend scheduling at least a few hours per week for effective care. Got it. What if I need additional support or specialized care? We also provide skilled services, such as Physical Therapy, priced at $110 to $140 per session for rehabilitation. I might need that, too. Can I get both services on the same day? Yes, we can coordinate that! Would you like me to check availability for you? Yes, please. That would be helpful. Perfect. I’ll schedule a care plan development session with Lisa Chen, our Care Coordinator. That sounds good. How do I reach her? You can reach Lisa directly at +13165559203. She’ll assist you with the care plan and scheduling. Thank you, Margaret! I appreciate all your help today. Anytime, Betty! Is there anything else you’d like to ask before we end the call? No, I think that covers it. I’ll follow up with Lisa. Sounds great! Have a wonderful day, Betty. You too, Margaret! Bye now. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I hope you're doing well!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty! I'm doing well, thank you. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I wanted to get a pricing estimate for some of your services. I'm looking for ongoing support for my mobility.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, I can help you with that. Can you tell me more about the specific services you're interested in?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Well, I'm mainly looking for fall prevention and mobility assistance.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great! For mobility assistance, we offer Personal Care Assistance, which is priced at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and how many hours would you recommend for someone in my situation?",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Typically, clients opt for 2-3 hours a day, especially to maintain consistency and safety.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds reasonable. Is there a minimum number of hours required?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "There’s no strict minimum, but we generally recommend scheduling at least a few hours per week for effective care.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Got it. What if I need additional support or specialized care?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We also provide skilled services, such as Physical Therapy, priced at $110 to $140 per session for rehabilitation.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 73,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I might need that, too. Can I get both services on the same day?",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we can coordinate that! Would you like me to check availability for you?",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect. I’ll schedule a care plan development session with Lisa Chen, our Care Coordinator.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good. How do I reach her?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You can reach Lisa directly at +13165559203. She’ll assist you with the care plan and scheduling.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret! I appreciate all your help today.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Anytime, Betty! Is there anything else you’d like to ask before we end the call?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, I think that covers it. I’ll follow up with Lisa.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sounds great! Have a wonderful day, Betty.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, Margaret! Bye now.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e2ea1d5a71f743208457f8e7",
+  "revision": "",
+  "status": "success"
+}
