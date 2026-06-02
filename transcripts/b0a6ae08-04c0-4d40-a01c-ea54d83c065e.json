@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f64fbf704ab24b698c993de2",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947581866-0f075ced",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f64fbf704ab24b698c993de2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "f64fbf704ab24b698c993de2",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f64fbf704ab24b698c993de2",
+      "media_name": "cfacdda8364c4af393b199665a16c8c6.mp3",
+      "scenario": "A returning customer calls to schedule a massage therapy session after a stressful week at work. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Charles Thompson. I’m calling to schedule a massage therapy session. Hi Charles! It’s great to hear from you. How was your week? Honestly, it was quite stressful. I really need some relaxation. I completely understand. We can definitely help you with that. When would you like to come in? Could I schedule it for this Saturday? Let me check our availability. One moment please. Okay, we have openings on Saturday from 8 AM to 5 PM. What time works best for you? How about 10 AM? Great choice! I’ll put you down for a massage therapy session at 10 AM this Saturday. Thank you! Can you remind me of the cost? The massage therapy session is $85 for an hour. Sounds good. I want to make sure I keep benefiting from the care I’ve been getting. Absolutely, and speaking of which, would you like to schedule a follow-up wound care session as well? Yes, I think that would be wise. Can we do that after my massage? Sure! Would you prefer the same time next week? Yes, that works for me. Perfect! So, I have you down for your massage at 10 AM this Saturday and a follow-up wound care session next week at the same time. Great, thank you so much, Margaret. You're welcome, Charles! Is there anything else I can assist you with today? No, that’s all for now. Alright, I’ll send you a confirmation email for both appointments. Thank you! I appreciate your help. Anytime, Charles! Take care and see you this Saturday! You too. Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I’m calling to schedule a massage therapy session.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Charles! It’s great to hear from you. How was your week?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Honestly, it was quite stressful. I really need some relaxation.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand. We can definitely help you with that. When would you like to come in?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Could I schedule it for this Saturday?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check our availability. One moment please.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, we have openings on Saturday from 8 AM to 5 PM. What time works best for you?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "How about 10 AM?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Great choice! I’ll put you down for a massage therapy session at 10 AM this Saturday.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thank you! Can you remind me of the cost?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "The massage therapy session is $85 for an hour.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Sounds good. I want to make sure I keep benefiting from the care I’ve been getting.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Absolutely, and speaking of which, would you like to schedule a follow-up wound care session as well?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, I think that would be wise. Can we do that after my massage?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Sure! Would you prefer the same time next week?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, that works for me.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Perfect! So, I have you down for your massage at 10 AM this Saturday and a follow-up wound care session next week at the same time.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Great, thank you so much, Margaret.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You're welcome, Charles! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "No, that’s all for now.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Alright, I’ll send you a confirmation email for both appointments.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you! I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Anytime, Charles! Take care and see you this Saturday!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too. Bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f64fbf704ab24b698c993de2",
+  "revision": "",
+  "status": "success"
+}
