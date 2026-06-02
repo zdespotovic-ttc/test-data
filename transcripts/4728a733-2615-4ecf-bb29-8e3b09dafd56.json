@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3b2037f353a445bba4c6d83f",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947585079-9cae558e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3b2037f353a445bba4c6d83f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "3b2037f353a445bba4c6d83f",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3b2037f353a445bba4c6d83f",
+      "media_name": "c794f5c43a4b49c8ad8d298e60ae5ac8.mp3",
+      "scenario": "A new resident calls to find out the process for setting up utilities in their new home. Category: General Information."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Helen Johnson. I was hoping to get some information about setting up utilities in my new home. Of course, Helen! Just to clarify, are you referring to electricity, water, and gas services? Yes, exactly. I just moved in, and I’m a bit overwhelmed with everything. That’s completely understandable! The first step is to contact your local utility providers. Do you need their contact information? Yes, that would be really helpful. Alright, I can provide you with the numbers for the major providers in Wichita. Great, thank you! I just want to make sure I don’t miss anything important. Absolutely! For electricity, you’ll want to call Evergy at 1-800-383-1183. Got it, Evergy for electricity. What about water? For water, you’ll reach out to the City of Wichita at 316-265-1300. Okay, and gas services? You can contact Kansas Gas Service at 1-800-794-4780. Thank you, Margaret! Is there anything else I should do? Yes, after contacting them, you’ll need to provide some identification and proof of residency. That makes sense. I’ll have to dig through my paperwork for that. If you have any issues, feel free to call us back. We can help, or I can connect you with our Care Coordinator, Lisa. I might take you up on that! Just to ask, do you offer any additional services that could assist me? Yes, we provide personal care assistance and companionship, which can help if you need extra support during your move. Oh, that sounds interesting. What’s the pricing for personal care assistance? Our personal care assistance ranges from $28 to $35 per hour, depending on the services required. That could be useful! I’ll consider it after I settle in. Sounds good, Helen! If you’d like, I can schedule a call with Lisa for you to discuss further. Yes, please. That would be great! I’ll make a note to have Lisa call you later this week. What day works best for you? How about Thursday in the morning? Perfect! I’ll have her reach out to you then. Thank you so much for your help today, Margaret. You’re very welcome, Helen! Don’t hesitate to call if you have any more questions. I won’t! Have a great day. You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I was hoping to get some information about setting up utilities in my new home.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Helen! Just to clarify, are you referring to electricity, water, and gas services?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, exactly. I just moved in, and I’m a bit overwhelmed with everything.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s completely understandable! The first step is to contact your local utility providers. Do you need their contact information?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, that would be really helpful.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Alright, I can provide you with the numbers for the major providers in Wichita.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great, thank you! I just want to make sure I don’t miss anything important.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely! For electricity, you’ll want to call Evergy at 1-800-383-1183.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Got it, Evergy for electricity. What about water?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "For water, you’ll reach out to the City of Wichita at 316-265-1300.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, and gas services?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "You can contact Kansas Gas Service at 1-800-794-4780.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, Margaret! Is there anything else I should do?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 60,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, after contacting them, you’ll need to provide some identification and proof of residency.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That makes sense. I’ll have to dig through my paperwork for that.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "If you have any issues, feel free to call us back. We can help, or I can connect you with our Care Coordinator, Lisa.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 74,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I might take you up on that! Just to ask, do you offer any additional services that could assist me?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 78,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we provide personal care assistance and companionship, which can help if you need extra support during your move.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Oh, that sounds interesting. What’s the pricing for personal care assistance?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Our personal care assistance ranges from $28 to $35 per hour, depending on the services required.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That could be useful! I’ll consider it after I settle in.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sounds good, Helen! If you’d like, I can schedule a call with Lisa for you to discuss further.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, please. That would be great!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I’ll make a note to have Lisa call you later this week. What day works best for you?",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "How about Thursday in the morning?",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Perfect! I’ll have her reach out to you then.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re very welcome, Helen! Don’t hesitate to call if you have any more questions.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I won’t! Have a great day.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3b2037f353a445bba4c6d83f",
+  "revision": "",
+  "status": "success"
+}
