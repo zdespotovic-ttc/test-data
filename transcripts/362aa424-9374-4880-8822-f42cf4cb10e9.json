@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-711bceb059ad4fa6a09b196c",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582052-c175e300",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-711bceb059ad4fa6a09b196c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 159,
+      "duration_ms": 159000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "711bceb059ad4fa6a09b196c",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-711bceb059ad4fa6a09b196c",
+      "media_name": "bd2e59b27d694a8994e939236c9818fa.mp3",
+      "scenario": "A customer calls the billing department to dispute an unexpected charge on their latest invoice, seeking clarification. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 159.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Agnes Rodriguez. I’m calling about an unexpected charge on my latest invoice. Hi Agnes, it's great to hear from you! Could you please tell me more about the charge you're concerned about? Yes, I noticed an additional fee for \"Companion Care\" that wasn't on my previous invoices. It's quite a bit higher too. I understand your concern. Let me pull up your account and take a closer look at the details. One moment, please. Sure, take your time. I really appreciate it. I’ve been using your services for two years now, and I want to make sure everything's correct. Thank you for your patience, Agnes. I see that the charge is indeed higher than usual—this seems to be due to an extra hour added on for the last visit. An extra hour? That doesn’t sound right. I only scheduled two hours for companion care yesterday. Let me double-check the notes from your caregiver. It looks like there was a misunderstanding about your gardening activity, which extended the time. I see. It’s possible my caregiver thought I needed more assistance. But I would have preferred to be informed. Absolutely, communication is key. I can certainly help you rectify this. Would you like me to adjust the invoice back to the original amount? Yes, please! I’d appreciate that a lot. This charge was quite a surprise for me. No problem, Agnes. I’ll process the adjustment for you. Just to confirm, your daughter visits every Sunday, right? Yes, she does. We usually just enjoy gardening together. That sounds lovely! By the way, if you’d like, we also offer special gardening companionship sessions for clients. Oh, really? That sounds interesting! Can you tell me more about that? Sure! It's $30 per hour, and it includes tailored activities like planting, weeding, and even light gardening tasks. Would you like me to send you more info? Yes, please! I think my daughter would love to join in on that too. Great! I’ll follow up with the details after we finish this call. Thank you, Margaret. I feel much better about this billing issue now. You’re welcome, Agnes. I’ll get that adjusted for you and send the gardening info shortly. Sounds perfect. Thank you for your help! My pleasure! If you have any more questions, feel free to call us anytime. I will. Have a great day! You too, Agnes! Take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I’m calling about an unexpected charge on my latest invoice.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes, it's great to hear from you! Could you please tell me more about the charge you're concerned about?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed an additional fee for \"Companion Care\" that wasn't on my previous invoices. It's quite a bit higher too.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account and take a closer look at the details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time. I really appreciate it. I’ve been using your services for two years now, and I want to make sure everything's correct.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Agnes. I see that the charge is indeed higher than usual—this seems to be due to an extra hour added on for the last visit.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 47,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "An extra hour? That doesn’t sound right. I only scheduled two hours for companion care yesterday.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me double-check the notes from your caregiver. It looks like there was a misunderstanding about your gardening activity, which extended the time.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 60,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I see. It’s possible my caregiver thought I needed more assistance. But I would have preferred to be informed.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 67,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, communication is key. I can certainly help you rectify this. Would you like me to adjust the invoice back to the original amount?",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please! I’d appreciate that a lot. This charge was quite a surprise for me.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "No problem, Agnes. I’ll process the adjustment for you. Just to confirm, your daughter visits every Sunday, right?",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 90,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, she does. We usually just enjoy gardening together.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That sounds lovely! By the way, if you’d like, we also offer special gardening companionship sessions for clients.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Oh, really? That sounds interesting! Can you tell me more about that?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure! It's $30 per hour, and it includes tailored activities like planting, weeding, and even light gardening tasks. Would you like me to send you more info?",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please! I think my daughter would love to join in on that too.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 123,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll follow up with the details after we finish this call.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 129,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I feel much better about this billing issue now.",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 135,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Agnes. I’ll get that adjusted for you and send the gardening info shortly.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds perfect. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 147,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "My pleasure! If you have any more questions, feel free to call us anytime.",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 151,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 151,
+          "end_time": 155,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, Agnes! Take care!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 159,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-711bceb059ad4fa6a09b196c",
+  "revision": "",
+  "status": "success"
+}
