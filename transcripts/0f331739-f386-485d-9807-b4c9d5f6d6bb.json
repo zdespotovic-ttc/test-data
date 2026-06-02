@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-717f9f3199ec4ff787b27b4e",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586219-f90f5c4f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-717f9f3199ec4ff787b27b4e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "717f9f3199ec4ff787b27b4e",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-717f9f3199ec4ff787b27b4e",
+      "media_name": "d73568e1c52b440da5376b3051903e19.mp3",
+      "scenario": "A prospect is curious about the membership plans for gym access. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, this is Helen Johnson. I wanted to inquire about your membership plans for gym access. I’m sorry, Helen, but we don’t offer gym memberships. We provide home healthcare services. Oh, I see. I’ve been a physical therapy client for about nine months after my shoulder surgery. That’s right. I remember your case. How has your recovery been going? It’s been good, but I thought maybe a gym membership could help with my rehab. Understandable. We focus on skilled nursing and therapy services at home. Wouldn’t it be beneficial to have access to gym equipment? Yes, access to gym facilities can be beneficial, but we specialize in providing therapy tailored for home recovery. So, you don’t have any partnerships with local gyms? Unfortunately, we don’t have partnerships at this time, but I can recommend some exercises for home. That would be great! I want to ensure I’m doing the right things. I can also schedule a follow-up session with Dr. Rodriguez for additional exercises. Yes, I’d like that. When would be available? He’s available next Tuesday or Thursday afternoon. Does that work for you? Let’s do Tuesday. What time? How about 2 PM? That works for me, thank you. You’re welcome! I’ll confirm that appointment for you. Do you have any recommendations for home exercise equipment? Resistance bands and light weights can be beneficial for your recovery. I’ll look into those. Also, if you need more assistance, our personal care assistants can help with mobility. That’s good to know. I’ll consider that. Perfect! I’ll send you some follow-up materials after our call. Thank you for your help, Margaret. Of course, Helen! We’re here to support you. I appreciate it! Looking forward to the appointment. Great! Have a wonderful day, Helen. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Helen Johnson. I wanted to inquire about your membership plans for gym access.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry, Helen, but we don’t offer gym memberships. We provide home healthcare services.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I’ve been a physical therapy client for about nine months after my shoulder surgery.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That’s right. I remember your case. How has your recovery been going?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s been good, but I thought maybe a gym membership could help with my rehab.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Understandable. We focus on skilled nursing and therapy services at home.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Wouldn’t it be beneficial to have access to gym equipment?",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, access to gym facilities can be beneficial, but we specialize in providing therapy tailored for home recovery.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "So, you don’t have any partnerships with local gyms?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Unfortunately, we don’t have partnerships at this time, but I can recommend some exercises for home.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great! I want to ensure I’m doing the right things.",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can also schedule a follow-up session with Dr. Rodriguez for additional exercises.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I’d like that. When would be available?",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 66,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "He’s available next Tuesday or Thursday afternoon. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Let’s do Tuesday. What time?",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "How about 2 PM?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That works for me, thank you.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 82,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome! I’ll confirm that appointment for you.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Do you have any recommendations for home exercise equipment?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 91,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Resistance bands and light weights can be beneficial for your recovery.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 95,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I’ll look into those.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 98,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Also, if you need more assistance, our personal care assistants can help with mobility.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That’s good to know. I’ll consider that.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect! I’ll send you some follow-up materials after our call.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Of course, Helen! We’re here to support you.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I appreciate it! Looking forward to the appointment.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Great! Have a wonderful day, Helen.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-717f9f3199ec4ff787b27b4e",
+  "revision": "",
+  "status": "success"
+}
