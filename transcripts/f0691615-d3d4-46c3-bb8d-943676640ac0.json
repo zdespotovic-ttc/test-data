@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-23e6bc109cdd4bb280ba2ab8",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947581922-024cfab6",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-23e6bc109cdd4bb280ba2ab8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "23e6bc109cdd4bb280ba2ab8",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-23e6bc109cdd4bb280ba2ab8",
+      "media_name": "14ff13d7017d45229632c9ba12222749.mp3",
+      "scenario": "A customer complains about poor workmanship on a recently completed home renovation project, seeking a resolution. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Eleanor Watson. I’m calling regarding some issues with the care I’ve been receiving. Hi Eleanor, I’m sorry to hear that. Can you tell me more about the issues? Well, I’ve noticed that the physical therapy sessions haven’t been very effective lately. It feels rushed, and I’m not seeing progress. I understand your concern. When was your last physical therapy session? It was just three days ago, but I felt like we didn’t do much compared to previous visits. I’m really sorry to hear that. Let me look into this for you. Who was your therapist that day? It was Dr. James Rodriguez. I’ve had him before, but this time felt different. Thank you for that information. I will reach out to Dr. Rodriguez to discuss your concerns and ensure your sessions are more effective moving forward. I appreciate that. I just want to make sure I’m on the right track with my recovery. Absolutely. Your recovery is our priority. Did you have any other concerns or would you like to schedule a follow-up session? Yes, I’d like to schedule another session, but I’d prefer it to be earlier in the day, around 10 AM if possible. I’ll make a note of that preference. Let’s see… how about this Thursday at 10 AM? That works for me. Thank you! You’re welcome, Eleanor. I’ll confirm that appointment and address your concerns with Dr. Rodriguez. Great. I would also like to talk about my skilled nursing care; it seems like the visits have been inconsistent lately. I’m really sorry about that. Can you tell me how often you’ve been receiving visits? I was supposed to have two visits a week, but last week I only had one. That’s not acceptable. I’ll check the schedule and see what’s happening. We need to ensure you’re getting the care you need. Thank you. I just want to feel supported through my recovery. I completely understand. Also, if you’re interested, we do have an opportunity for additional companion care to support you at home during this time. That could be helpful. Can you provide me with more details about that? Sure! Our companion care starts at $25 to $30 per hour and includes meal preparation, light housekeeping, and social interaction. That sounds nice. I’ll think about it. Perfect. I’ll follow up with you regarding the physical therapy and nursing care by the end of the week. Thank you so much, Margaret. I appreciate your help. You’re very welcome, Eleanor! Take care, and we’ll be in touch soon. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I’m calling regarding some issues with the care I’ve been receiving.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Eleanor, I’m sorry to hear that. Can you tell me more about the issues?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’ve noticed that the physical therapy sessions haven’t been very effective lately. It feels rushed, and I’m not seeing progress.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. When was your last physical therapy session?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was just three days ago, but I felt like we didn’t do much compared to previous visits.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m really sorry to hear that. Let me look into this for you. Who was your therapist that day?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It was Dr. James Rodriguez. I’ve had him before, but this time felt different.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for that information. I will reach out to Dr. Rodriguez to discuss your concerns and ensure your sessions are more effective moving forward.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that. I just want to make sure I’m on the right track with my recovery.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely. Your recovery is our priority. Did you have any other concerns or would you like to schedule a follow-up session?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I’d like to schedule another session, but I’d prefer it to be earlier in the day, around 10 AM if possible.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll make a note of that preference. Let’s see… how about this Thursday at 10 AM?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That works for me. Thank you!",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You’re welcome, Eleanor. I’ll confirm that appointment and address your concerns with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great. I would also like to talk about my skilled nursing care; it seems like the visits have been inconsistent lately.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’m really sorry about that. Can you tell me how often you’ve been receiving visits?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I was supposed to have two visits a week, but last week I only had one.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "That’s not acceptable. I’ll check the schedule and see what’s happening. We need to ensure you’re getting the care you need.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you. I just want to feel supported through my recovery.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I completely understand. Also, if you’re interested, we do have an opportunity for additional companion care to support you at home during this time.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That could be helpful. Can you provide me with more details about that?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sure! Our companion care starts at $25 to $30 per hour and includes meal preparation, light housekeeping, and social interaction.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds nice. I’ll think about it.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect. I’ll follow up with you regarding the physical therapy and nursing care by the end of the week.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re very welcome, Eleanor! Take care, and we’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-23e6bc109cdd4bb280ba2ab8",
+  "revision": "",
+  "status": "success"
+}
