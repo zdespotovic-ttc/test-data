@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e3cf69cefe8b4a79be6b060e",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582168-68767342",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e3cf69cefe8b4a79be6b060e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 155,
+      "duration_ms": 155000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "e3cf69cefe8b4a79be6b060e",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e3cf69cefe8b4a79be6b060e",
+      "media_name": "0719afcb4f4f481f950709b5545f1ff2.mp3",
+      "scenario": "A business owner calls to obtain a quote for bulk printing services for an upcoming marketing campaign. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 155.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is Susan Garcia. I was referred by my father’s pulmonologist office. Nice to meet you, Susan! What can I assist you with? I’m looking for care options for my father. He has COPD and needs assistance with breathing treatments. I understand. We offer skilled nursing care that includes respiratory treatment support. That sounds good. Can you tell me more about the services you provide? Our skilled nursing services include medication management, health monitoring, and specialized respiratory care. Pricing ranges from $95 to $125 per visit. How frequently can he receive these visits? We can schedule visits based on his needs. Typically, we recommend 1-2 visits per week for consistent support. That makes sense. What’s the duration of each visit? Each visit lasts between 1 to 2 hours, depending on the care required. Okay, and could you provide information on how to get started? Absolutely! I’ll need to gather some information regarding your father’s medical history and current care needs. Sure, I can provide that. What do you need from me? I’ll need his full name, date of birth, and any specific instructions from his doctor regarding the breathing treatments. His name is Robert Garcia, and he was born on March 5th, 1948. The doctor emphasized the need for regular monitoring and administering his medications. Thank you, Susan. I’ll also send you some paperwork to complete for insurance authorization. Sounds good! How long does it take to get approval? Typically, the process takes about 3 to 5 business days, depending on the insurance provider. I see. Can you also help with setting up a caregiver for daily assistance? Yes, we offer personal care assistance, which can help with daily activities. Pricing for that starts at $28 per hour. Great! I think that would be helpful. I’ll make a note of that. We can match a caregiver based on your father’s needs and schedule. Thank you! Is there anything else I should know? I’ll follow up with you after the paperwork is submitted to discuss the next steps. Perfect, I appreciate your help today. You’re welcome, Susan! Is there a good number to reach you at for follow-up? Yes, my number is +13165553749. Thank you! We’ll be in touch soon. Have a great day! You too, thanks!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Susan Garcia. I was referred by my father’s pulmonologist office.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Susan! What can I assist you with?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m looking for care options for my father. He has COPD and needs assistance with breathing treatments.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. We offer skilled nursing care that includes respiratory treatment support.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good. Can you tell me more about the services you provide?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our skilled nursing services include medication management, health monitoring, and specialized respiratory care. Pricing ranges from $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "How frequently can he receive these visits?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We can schedule visits based on his needs. Typically, we recommend 1-2 visits per week for consistent support.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That makes sense. What’s the duration of each visit?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Each visit lasts between 1 to 2 hours, depending on the care required.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, and could you provide information on how to get started?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! I’ll need to gather some information regarding your father’s medical history and current care needs.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sure, I can provide that. What do you need from me?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll need his full name, date of birth, and any specific instructions from his doctor regarding the breathing treatments.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "His name is Robert Garcia, and he was born on March 5th, 1948. The doctor emphasized the need for regular monitoring and administering his medications.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Susan. I’ll also send you some paperwork to complete for insurance authorization.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sounds good! How long does it take to get approval?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Typically, the process takes about 3 to 5 business days, depending on the insurance provider.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I see. Can you also help with setting up a caregiver for daily assistance?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we offer personal care assistance, which can help with daily activities. Pricing for that starts at $28 per hour.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Great! I think that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll make a note of that. We can match a caregiver based on your father’s needs and schedule.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! Is there anything else I should know?",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I’ll follow up with you after the paperwork is submitted to discuss the next steps.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect, I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Susan! Is there a good number to reach you at for follow-up?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Yes, my number is +13165553749.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Thank you! We’ll be in touch soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, thanks!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e3cf69cefe8b4a79be6b060e",
+  "revision": "",
+  "status": "success"
+}
