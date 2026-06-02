@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dde21ff57008455d81276712",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586143-eed3be99",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dde21ff57008455d81276712",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "dde21ff57008455d81276712",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dde21ff57008455d81276712",
+      "media_name": "8ed4c0af8d6f41258885cd5095bb4414.mp3",
+      "scenario": "A user calls to express concern over the poor quality of their online order. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Rose Patterson. I’m calling about my order from yesterday. I have some concerns about the quality of service. I'm sorry to hear that, Rose. Can you tell me more about the specific issues you encountered? Well, the caregiver who came yesterday was not as attentive as usual. My mother has Alzheimer's, and I felt she wasn't engaging with her the way we expect. I understand how concerning that must be for you. We strive to maintain high standards. Did this caregiver happen to be someone new? Yes, I think it was a different person. It was not one of the familiar caregivers we've had. Thank you for clarifying that, Rose. I’ll make a note to ensure that we prioritize familiar caregivers for your mother. That would be great, thank you. I also noticed the caregiver seemed rushed and didn't stay for the full scheduled time. I apologize for that as well. The duration you scheduled is important for quality care. Can I ask how long she stayed? She left about 30 minutes early. Normally, we have a full hour of companion care and personal assistance. I appreciate you bringing that to my attention. I’ll follow up with the scheduling team to address this discrepancy. Thank you, I just want to make sure my mother is comfortable and receives the best care possible. Absolutely, Rose. Your mother’s comfort is our priority. Would you like me to arrange a different caregiver for the upcoming days? Yes, please. That would give me peace of mind. I can set that up right now. Also, is there any other service you might be interested in, like skilled nursing care or additional companionship? Actually, I’d like to know more about skilled nursing care. Would that benefit my mother at this stage? It could be beneficial, especially for medication management or specific health monitoring. Our skilled nursing starts at $95 for a visit. That sounds reasonable. I’d like to consider that for the future. Great! I’ll have Lisa follow up with you regarding skilled nursing options. Thank you, Margaret. I really appreciate your help with all of this. You’re welcome, Rose. I’ll make sure to address your concerns and follow up on the caregiver situation. Thank you, I look forward to hearing back. Have a great day, Rose, and please don’t hesitate to reach out if you need anything else. You too, Margaret. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I’m calling about my order from yesterday. I have some concerns about the quality of service.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Rose. Can you tell me more about the specific issues you encountered?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the caregiver who came yesterday was not as attentive as usual. My mother has Alzheimer's, and I felt she wasn't engaging with her the way we expect.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that must be for you. We strive to maintain high standards. Did this caregiver happen to be someone new?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I think it was a different person. It was not one of the familiar caregivers we've had.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for clarifying that, Rose. I’ll make a note to ensure that we prioritize familiar caregivers for your mother.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That would be great, thank you. I also noticed the caregiver seemed rushed and didn't stay for the full scheduled time.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I apologize for that as well. The duration you scheduled is important for quality care. Can I ask how long she stayed?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "She left about 30 minutes early. Normally, we have a full hour of companion care and personal assistance.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I appreciate you bringing that to my attention. I’ll follow up with the scheduling team to address this discrepancy.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I just want to make sure my mother is comfortable and receives the best care possible.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, Rose. Your mother’s comfort is our priority. Would you like me to arrange a different caregiver for the upcoming days?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please. That would give me peace of mind.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can set that up right now. Also, is there any other service you might be interested in, like skilled nursing care or additional companionship?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, I’d like to know more about skilled nursing care. Would that benefit my mother at this stage?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "It could be beneficial, especially for medication management or specific health monitoring. Our skilled nursing starts at $95 for a visit.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds reasonable. I’d like to consider that for the future.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll have Lisa follow up with you regarding skilled nursing options.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help with all of this.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Rose. I’ll make sure to address your concerns and follow up on the caregiver situation.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, I look forward to hearing back.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Have a great day, Rose, and please don’t hesitate to reach out if you need anything else.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, Margaret. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dde21ff57008455d81276712",
+  "revision": "",
+  "status": "success"
+}
