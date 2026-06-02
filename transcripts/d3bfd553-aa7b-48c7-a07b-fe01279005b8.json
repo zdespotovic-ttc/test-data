@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d79e8164f4334c5486c14a8b",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947585044-bcf5c9ab",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d79e8164f4334c5486c14a8b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "d79e8164f4334c5486c14a8b",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d79e8164f4334c5486c14a8b",
+      "media_name": "592536662e2846bc9f3c5b51499587fd.mp3",
+      "scenario": "An entrepreneur seeks a quote for a comprehensive IT security audit for their company. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today? Hi Margaret, this is Edward Martinez. I’m calling regarding some respite care for my wife. Hi Edward, it's great to hear from you! How can I help with your wife’s care today? Well, I wanted to discuss the upcoming schedule for her respite care. Absolutely! How many hours are you looking to schedule this week? I think we need about three shifts of four hours each, if possible. That's manageable. Would you like those shifts to be in the morning or afternoon? Ideally, mornings would work best for us. Great! Let me check our availability for you. We have openings on Tuesday, Thursday, and Saturday mornings. Do those days work for you? Yes, that sounds perfect. Wonderful! I’ll schedule those shifts for you. Thank you, Margaret. Also, I wanted to ask if you provide other services, like medication management? Yes, we do! Medication management is a vital service we offer, priced at $65 to $80. That sounds useful. Can you provide a quote for that as well? Sure! The service usually lasts about 30 to 45 minutes, so let’s say $75 for that visit. Sounds good. Can we schedule that for the same days? Yes! I can schedule the medication management on the same mornings as the respite care. That would be great, thank you! Perfect! I’ll summarize your schedule: three shifts of respite care and medication management on those days. Exactly. I appreciate your help with this! My pleasure, Edward! Is there anything else I can assist you with today? No, that covers it for now. Great! I’ll send an email confirmation of your schedule and include the details for medication management. I’d appreciate that, thank you! You’re welcome! If you have any further questions, feel free to call us anytime. Will do. Thanks again, Margaret! Thank you, Edward. Have a great day! You too, bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I’m calling regarding some respite care for my wife.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward, it's great to hear from you! How can I help with your wife’s care today?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I wanted to discuss the upcoming schedule for her respite care.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely! How many hours are you looking to schedule this week?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I think we need about three shifts of four hours each, if possible.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That's manageable. Would you like those shifts to be in the morning or afternoon?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Ideally, mornings would work best for us.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Great! Let me check our availability for you.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "We have openings on Tuesday, Thursday, and Saturday mornings. Do those days work for you?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that sounds perfect.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Wonderful! I’ll schedule those shifts for you.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you, Margaret. Also, I wanted to ask if you provide other services, like medication management?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Yes, we do! Medication management is a vital service we offer, priced at $65 to $80.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That sounds useful. Can you provide a quote for that as well?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Sure! The service usually lasts about 30 to 45 minutes, so let’s say $75 for that visit.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Sounds good. Can we schedule that for the same days?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Yes! I can schedule the medication management on the same mornings as the respite care.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That would be great, thank you!",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect! I’ll summarize your schedule: three shifts of respite care and medication management on those days.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Exactly. I appreciate your help with this!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "My pleasure, Edward! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that covers it for now.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Great! I’ll send an email confirmation of your schedule and include the details for medication management.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "I’d appreciate that, thank you!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome! If you have any further questions, feel free to call us anytime.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Will do. Thanks again, Margaret!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Edward. Have a great day!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 142,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d79e8164f4334c5486c14a8b",
+  "revision": "",
+  "status": "success"
+}
