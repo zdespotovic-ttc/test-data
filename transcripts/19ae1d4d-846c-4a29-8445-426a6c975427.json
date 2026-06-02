@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-fa18923cc1f04074a2cd6cf1",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586560-ebe3eb78",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-fa18923cc1f04074a2cd6cf1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "fa18923cc1f04074a2cd6cf1",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-fa18923cc1f04074a2cd6cf1",
+      "media_name": "ac4312968e8c4b0eac8c3bc56af99360.mp3",
+      "scenario": "A patient follows up on their recent test results and recommendations. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Rose Patterson. I'm following up on my mother’s recent test results. Hi Rose, it’s great to hear from you. I remember your mother; how is she doing? She’s okay, but I’m a bit concerned about the results. I wanted to discuss the recommendations the doctor made. Absolutely, I can help with that. What specific recommendations are you referring to? They mentioned increasing her physical activity and adjusting her medication. That makes sense, especially with her Alzheimer’s diagnosis. Increasing activity can be beneficial. Yes, but I want to ensure we have the right support in place to help her with that. Of course. Would you like to explore having a physical therapist visit her at home? That sounds like a good idea. What are the details and pricing for that? Our physical therapy sessions are priced between $110 and $140 for about 45 to 60 minutes. Okay, and how often do you recommend these sessions for her? Typically, starting with two sessions a week is a good approach for rehabilitation and mobility training. That sounds reasonable. Can we set up an appointment for that? Yes, I can arrange that for you. Do you want to discuss the medication management as well? Yes, please. I’m concerned about her medication adjustments. We offer medication management services that include reminders and supervision for $65 to $80 per session. That could be helpful. How often would we need those services? It really depends on her needs, but weekly visits are often beneficial for adjustments. Okay, let’s go ahead with setting that up as well. Sure! So just to confirm, I’ll set up physical therapy twice a week and weekly medication management. Yes, that’s correct. Thank you! You’re welcome! I’ll also need to check with our team to ensure we have familiar caregivers for her comfort. That would be great. Consistency is really important for her. Absolutely, I’ll make a note of that. Would you like me to send a follow-up email with the details? Yes, please! That would help a lot. Perfect. I’ll get that sorted and send it over to you today. Thank you, Margaret. I really appreciate your help. My pleasure, Rose. Don’t hesitate to reach out if you have any other questions. I will, thanks again! Have a great day, Rose! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I'm following up on my mother’s recent test results.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose, it’s great to hear from you. I remember your mother; how is she doing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She’s okay, but I’m a bit concerned about the results. I wanted to discuss the recommendations the doctor made.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, I can help with that. What specific recommendations are you referring to?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "They mentioned increasing her physical activity and adjusting her medication.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 29,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That makes sense, especially with her Alzheimer’s diagnosis. Increasing activity can be beneficial.",
+          "speaker": "local party",
+          "start_time": 29,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, but I want to ensure we have the right support in place to help her with that.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course. Would you like to explore having a physical therapist visit her at home?",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds like a good idea. What are the details and pricing for that?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Our physical therapy sessions are priced between $110 and $140 for about 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, and how often do you recommend these sessions for her?",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Typically, starting with two sessions a week is a good approach for rehabilitation and mobility training.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds reasonable. Can we set up an appointment for that?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, I can arrange that for you. Do you want to discuss the medication management as well?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please. I’m concerned about her medication adjustments.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We offer medication management services that include reminders and supervision for $65 to $80 per session.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That could be helpful. How often would we need those services?",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It really depends on her needs, but weekly visits are often beneficial for adjustments.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, let’s go ahead with setting that up as well.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Sure! So just to confirm, I’ll set up physical therapy twice a week and weekly medication management.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that’s correct. Thank you!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 109,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! I’ll also need to check with our team to ensure we have familiar caregivers for her comfort.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That would be great. Consistency is really important for her.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, I’ll make a note of that. Would you like me to send a follow-up email with the details?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, please! That would help a lot.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Perfect. I’ll get that sorted and send it over to you today.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "My pleasure, Rose. Don’t hesitate to reach out if you have any other questions.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I will, thanks again!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Have a great day, Rose!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 146,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 146,
+          "end_time": 150,
+          "channel": "right",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-fa18923cc1f04074a2cd6cf1",
+  "revision": "",
+  "status": "success"
+}
