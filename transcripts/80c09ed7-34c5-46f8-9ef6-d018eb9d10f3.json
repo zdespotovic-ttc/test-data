@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-40b8854507a74b93af803ed5",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582065-ec17587b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-40b8854507a74b93af803ed5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 175,
+      "duration_ms": 175000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "40b8854507a74b93af803ed5",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-40b8854507a74b93af803ed5",
+      "media_name": "9f4536c18a3248bab44e8fb8c619a5cd.mp3",
+      "scenario": "An upset client contacts customer service to challenge a late fee applied to their account, requesting its removal. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 175.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Helen Johnson. I'm calling about a late fee that was applied to my account. Oh, I’m sorry to hear that, Helen. Can you tell me a bit more about the issue? Yes, I noticed a $25 late fee on my invoice, and I don’t think I should have to pay it. I understand how frustrating that can be. I’ll look into it right away. I appreciate that. I’ve always paid my bills on time, so this was a surprise. Let me check your payment history. One moment, please. (pause) It seems you had a payment due on the 1st of the month, but it was processed on the 5th. That’s why the late fee was added. But I thought I had set up automatic payments. Shouldn’t that have gone through? It should have. Let me verify if there’s an issue with the auto-pay setup. (pause) I’m seeing that your auto-pay was not activated. Would you like me to help you set that up now? Yes, I definitely want that, but I still want the late fee removed. I can certainly request a waiver for the late fee. It’s not guaranteed, but I’ll advocate for you. Thank you, Margaret. I just don’t want this to happen again. I completely understand. I’ll make sure we get everything sorted out. I’ll also note your preference for receiving a confirmation once the late fee is addressed. That would be great. I really appreciate your help! Of course! Is there anything else you’d like to discuss today? Actually, yes. I was wondering if I could schedule another physical therapy session. Absolutely! Would you prefer the same time as last week’s session? Yes, that works for me. Great! I’ll get that scheduled for you. Just to confirm, your last session was on [insert date], is that right? Yes, that’s correct. All set! I’ll schedule that for you and add a note to follow up on the late fee. Thank you, Margaret. I feel much better about this now! You’re welcome, Helen! I’ll send you an email confirmation for both items. Perfect. I’ll look out for it. Thanks again for your help! Anytime! Have a great day, Helen. You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I'm calling about a late fee that was applied to my account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I’m sorry to hear that, Helen. Can you tell me a bit more about the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed a $25 late fee on my invoice, and I don’t think I should have to pay it.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that can be. I’ll look into it right away.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I appreciate that. I’ve always paid my bills on time, so this was a surprise.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check your payment history. One moment, please.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "(pause) It seems you had a payment due on the 1st of the month, but it was processed on the 5th. That’s why the late fee was added.",
+          "speaker": "local party",
+          "start_time": 31,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "But I thought I had set up automatic payments. Shouldn’t that have gone through?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "It should have. Let me verify if there’s an issue with the auto-pay setup.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "(pause) I’m seeing that your auto-pay was not activated. Would you like me to help you set that up now?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I definitely want that, but I still want the late fee removed.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can certainly request a waiver for the late fee. It’s not guaranteed, but I’ll advocate for you.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, Margaret. I just don’t want this to happen again.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 92,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I completely understand. I’ll make sure we get everything sorted out.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I’ll also note your preference for receiving a confirmation once the late fee is addressed.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That would be great. I really appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Of course! Is there anything else you’d like to discuss today?",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Actually, yes. I was wondering if I could schedule another physical therapy session.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely! Would you prefer the same time as last week’s session?",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, that works for me.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Great! I’ll get that scheduled for you.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 127,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Just to confirm, your last session was on [insert date], is that right?",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 133,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that’s correct.",
+          "speaker": "remote party",
+          "start_time": 133,
+          "end_time": 137,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "All set! I’ll schedule that for you and add a note to follow up on the late fee.",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 143,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I feel much better about this now!",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Helen! I’ll send you an email confirmation for both items.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Perfect. I’ll look out for it. Thanks again for your help!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 161,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Anytime! Have a great day, Helen.",
+          "speaker": "local party",
+          "start_time": 161,
+          "end_time": 165,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-40b8854507a74b93af803ed5",
+  "revision": "",
+  "status": "success"
+}
