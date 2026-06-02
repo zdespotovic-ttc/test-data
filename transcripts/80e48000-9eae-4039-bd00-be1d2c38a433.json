@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ee71133b22b44e4eb9e003bb",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947585975-edc3d80f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ee71133b22b44e4eb9e003bb",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 133,
+      "duration_ms": 133000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "ee71133b22b44e4eb9e003bb",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ee71133b22b44e4eb9e003bb",
+      "media_name": "0a9e48edfd95439092fadf9b91a459ac.mp3",
+      "scenario": "A new customer calls to schedule a dental cleaning for next week. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 133.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Eleanor Watson. I’d like to schedule a dental cleaning for next week. I’m glad you called, Eleanor! However, we primarily provide home healthcare services, not dental care. Oh, I see. I must have called the wrong place. No problem at all! I’d be happy to assist you with any home healthcare needs you might have. Actually, I do have a question about my physical therapy schedule. Absolutely! When would you like to discuss your therapy appointments? I’d like to continue with the sessions I’ve been having. Can we keep them the same as before? Sure! Just to confirm, you prefer your sessions between 10 AM and 2 PM, correct? Yes, that's right. Let me check the calendar. Would you like to keep the same therapist, Dr. Rodriguez? Yes, please. He’s been great! Perfect. I see he has availability next Tuesday and Thursday at 11 AM. Let’s go with Tuesday at 11 AM. Done! I’ll schedule your physical therapy for Tuesday at 11 AM with Dr. Rodriguez. Thank you! Is there anything else I should be aware of? Just a reminder, if you have any medication changes, please let us know. Will do! My daughter usually manages that. That’s great. If she has any questions, she can call me directly at +13165559201. Thank you, Margaret. I appreciate all your help! You're welcome, Eleanor! We’re here to help. Oh, one more thing! Can you tell me about any respite care options? Absolutely! We offer respite care at $30 to $38 per hour. Would you like more details? Yes, that might be helpful for my daughter. I can have Lisa Chen, our Care Coordinator, reach out to you about scheduling. That sounds great! I’ll make a note to have her contact you. Anything else for today? No, that covers everything. Thanks again! You’re welcome, Eleanor! Have a wonderful day. You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Eleanor Watson. I’d like to schedule a dental cleaning for next week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m glad you called, Eleanor! However, we primarily provide home healthcare services, not dental care.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I must have called the wrong place.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "No problem at all! I’d be happy to assist you with any home healthcare needs you might have.",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Actually, I do have a question about my physical therapy schedule.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! When would you like to discuss your therapy appointments?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I’d like to continue with the sessions I’ve been having. Can we keep them the same as before?",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Sure! Just to confirm, you prefer your sessions between 10 AM and 2 PM, correct?",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that's right.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check the calendar. Would you like to keep the same therapist, Dr. Rodriguez?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please. He’s been great!",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect. I see he has availability next Tuesday and Thursday at 11 AM.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Let’s go with Tuesday at 11 AM.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Done! I’ll schedule your physical therapy for Tuesday at 11 AM with Dr. Rodriguez.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! Is there anything else I should be aware of?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Just a reminder, if you have any medication changes, please let us know.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Will do! My daughter usually manages that.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "That’s great. If she has any questions, she can call me directly at +13165559201.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate all your help!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, Eleanor! We’re here to help.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 93,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Oh, one more thing! Can you tell me about any respite care options?",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 98,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! We offer respite care at $30 to $38 per hour. Would you like more details?",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that might be helpful for my daughter.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I can have Lisa Chen, our Care Coordinator, reach out to you about scheduling.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That sounds great!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I’ll make a note to have her contact you. Anything else for today?",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "No, that covers everything. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Eleanor! Have a wonderful day.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 133,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ee71133b22b44e4eb9e003bb",
+  "revision": "",
+  "status": "success"
+}
