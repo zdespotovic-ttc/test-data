@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-861bc53099fe486eba4be9d0",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586573-cf34dbc2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-861bc53099fe486eba4be9d0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "861bc53099fe486eba4be9d0",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-861bc53099fe486eba4be9d0",
+      "media_name": "7df90f4778c24375b978a3677a339319.mp3",
+      "scenario": "A client wishes to cancel their upcoming spa appointment due to a schedule conflict. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is William Chen. I need to cancel my upcoming appointment for the spa. Oh, I'm sorry to hear that, William. Is there a specific reason for the cancellation? Yes, I have a scheduling conflict. I didn't realize it overlapped with another commitment. I understand. Let's get that cancellation processed for you. When was your appointment scheduled? It was for this Friday at 3 PM. Thank you. I’m canceling your spa appointment for this Friday at 3 PM. Great, thank you. Is there a fee for canceling? No, there's no cancellation fee. We just appreciate the notice. Would you like to reschedule? You know, I actually might want to reschedule for the following week, if possible. Absolutely! What day and time work best for you? How about next Wednesday at 2 PM? Let me check... Yes, that time is available. I’ll go ahead and schedule it for you. Thank you! I appreciate it. You're welcome, William. Is there anything else I can help you with today? Actually, I wanted to ask about my ongoing physical therapy sessions. Sure, your physical therapy is scheduled for twice a week. Would you like to adjust that? No, I think that’s fine. Just wanted to confirm if Dr. Rodriguez is still my therapist. Yes, Dr. Rodriguez will continue your sessions. Great! I had a really good session last time. I'm glad to hear that! Is there anything specific you'd like to focus on during your next session? I’d like to work on my range of motion more. Noted! I’ll inform Dr. Rodriguez to focus on that. Thank you, Margaret. That’s very helpful. You're welcome, William. I’ll also send you a reminder for your new spa appointment. Perfect! I’ll look out for that. Thank you for choosing CareFirst, and have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I need to cancel my upcoming appointment for the spa.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I'm sorry to hear that, William. Is there a specific reason for the cancellation?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I have a scheduling conflict. I didn't realize it overlapped with another commitment.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Let's get that cancellation processed for you. When was your appointment scheduled?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was for this Friday at 3 PM.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you. I’m canceling your spa appointment for this Friday at 3 PM.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great, thank you. Is there a fee for canceling?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "No, there's no cancellation fee. We just appreciate the notice. Would you like to reschedule?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "You know, I actually might want to reschedule for the following week, if possible.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely! What day and time work best for you?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How about next Wednesday at 2 PM?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check... Yes, that time is available. I’ll go ahead and schedule it for you.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You're welcome, William. Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, I wanted to ask about my ongoing physical therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure, your physical therapy is scheduled for twice a week. Would you like to adjust that?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "No, I think that’s fine. Just wanted to confirm if Dr. Rodriguez is still my therapist.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, Dr. Rodriguez will continue your sessions.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great! I had a really good session last time.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I'm glad to hear that! Is there anything specific you'd like to focus on during your next session?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I’d like to work on my range of motion more.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Noted! I’ll inform Dr. Rodriguez to focus on that.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. That’s very helpful.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome, William. I’ll also send you a reminder for your new spa appointment.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect! I’ll look out for that.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for choosing CareFirst, and have a great day!",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 128,
+          "end_time": 130,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-861bc53099fe486eba4be9d0",
+  "revision": "",
+  "status": "success"
+}
