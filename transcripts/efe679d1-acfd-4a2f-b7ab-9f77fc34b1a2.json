@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-27cd28e2286a42528c06b2b9",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947581854-567ddacf",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-27cd28e2286a42528c06b2b9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 175,
+      "duration_ms": 175000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "27cd28e2286a42528c06b2b9",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-27cd28e2286a42528c06b2b9",
+      "media_name": "d54c70b6880147798e1d3e3207349617.mp3",
+      "scenario": "A new customer requests a hair salon appointment for a cut and color, specifying a weekend slot. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 175.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I assist you today? Hi, my name is Michael Brown. I was referred by the hospital discharge planning department. Hi, Michael! It's nice to meet you. How can we help you regarding your father? My father has diabetes and needs wound care, as well as medication management. I’d like to explore your services for him. Absolutely, we can help with that. We offer skilled nursing care and medication management services. Great! Can you tell me more about the pricing and what those services include? Sure! Skilled nursing care is priced between $95 to $125 for a visit lasting 1-2 hours. This includes wound care and health monitoring. Okay, and what about medication management? Medication management is priced at $65 to $80 for a 30-45 minute visit, which includes reminders and supervision of medication administration. That sounds good. How often would these visits typically be scheduled? We typically recommend ongoing visits based on the client’s needs, but we can start with a couple of times a week and adjust as necessary. That makes sense. Do you handle insurance authorization as well? Yes, our Care Coordinator, Lisa Chen, can assist with insurance authorization and care plan development. Perfect! Can you set up an appointment for an initial assessment? Of course! When would you like to schedule this? We have availability next week. I’d prefer a weekend if possible. Is that an option? Let me check... We can schedule the initial assessment for Saturday. Does 10 AM work for you? Yes, that works perfectly. Great! I’ll book that for you. Just to confirm, that’s Saturday at 10 AM for your father’s assessment. Yes, that’s right. What do I need to prepare for the appointment? Please have any relevant medical records and insurance information ready for our visit. Got it. I’ll make sure to have everything prepared. Fantastic! I’ll also ensure Lisa Chen reaches out to discuss insurance authorization before the appointment. Thank you! That’s reassuring. Can I get a confirmation email with the details? Absolutely, I’ll send you a confirmation right after this call. I appreciate it. Is there anything else you think I should know? Just that we’re here to support you and your father every step of the way. Don’t hesitate to call if you have questions. Thank you so much for your help today! You’re very welcome, Michael! Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Michael Brown. I was referred by the hospital discharge planning department.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Michael! It's nice to meet you. How can we help you regarding your father?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My father has diabetes and needs wound care, as well as medication management. I’d like to explore your services for him.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can help with that. We offer skilled nursing care and medication management services.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Great! Can you tell me more about the pricing and what those services include?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure! Skilled nursing care is priced between $95 to $125 for a visit lasting 1-2 hours. This includes wound care and health monitoring.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and what about medication management?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Medication management is priced at $65 to $80 for a 30-45 minute visit, which includes reminders and supervision of medication administration.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds good. How often would these visits typically be scheduled?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We typically recommend ongoing visits based on the client’s needs, but we can start with a couple of times a week and adjust as necessary.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That makes sense. Do you handle insurance authorization as well?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, our Care Coordinator, Lisa Chen, can assist with insurance authorization and care plan development.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect! Can you set up an appointment for an initial assessment?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course! When would you like to schedule this? We have availability next week.",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I’d prefer a weekend if possible. Is that an option?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check... We can schedule the initial assessment for Saturday. Does 10 AM work for you?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 101,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that works perfectly.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll book that for you. Just to confirm, that’s Saturday at 10 AM for your father’s assessment.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that’s right. What do I need to prepare for the appointment?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 117,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Please have any relevant medical records and insurance information ready for our visit.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 123,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Got it. I’ll make sure to have everything prepared.",
+          "speaker": "remote party",
+          "start_time": 123,
+          "end_time": 127,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Fantastic! I’ll also ensure Lisa Chen reaches out to discuss insurance authorization before the appointment.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 132,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! That’s reassuring. Can I get a confirmation email with the details?",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, I’ll send you a confirmation right after this call.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I appreciate it. Is there anything else you think I should know?",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Just that we’re here to support you and your father every step of the way. Don’t hesitate to call if you have questions.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 157,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much for your help today!",
+          "speaker": "remote party",
+          "start_time": 157,
+          "end_time": 162,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re very welcome, Michael! Have a great day!",
+          "speaker": "local party",
+          "start_time": 162,
+          "end_time": 165,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-27cd28e2286a42528c06b2b9",
+  "revision": "",
+  "status": "success"
+}
