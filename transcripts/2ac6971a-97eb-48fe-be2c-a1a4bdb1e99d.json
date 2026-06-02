@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4fc88d1b58e94d03915ee580",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947585223-c7993c6e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4fc88d1b58e94d03915ee580",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "4fc88d1b58e94d03915ee580",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4fc88d1b58e94d03915ee580",
+      "media_name": "6bdc3f39e7d9452bbc51f87935df45de.mp3",
+      "scenario": "A tenant calls about canceling their lease agreement prematurely and inquires about any penalties involved. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret, this is Eleanor Watson. I hope you're doing well. I'm doing great, thank you, Eleanor! How can I help you today? I wanted to discuss my care services. I’ve been feeling like I might need to cancel my sessions. I understand, can I ask what’s prompting this decision? Well, my daughter thinks it might be time for me to try some independence, but I’m worried about the consequences of canceling my care early. I see. It’s important to weigh your options. Generally, we don’t have cancellation penalties for early termination. Oh, that’s a relief. So I wouldn’t incur any fees if I decide to stop? Correct, Eleanor. You can stop the services whenever you feel it’s appropriate. That’s good to know. What about my current schedule? Your current sessions with Dr. Rodriguez for physical therapy and the nursing visits would be adjusted accordingly. And I assume I can reactivate the sessions if I find I need them again? Absolutely! Just give us a call, and we can set everything back up. Great! Can you remind me who my nurse is and how to contact her directly? Your nurse is Robert Davis. You can reach him at the main office number or through my extension if you prefer. Perfect. I appreciate that. And what if I decide to need companion care instead? We can provide companion care, which is a good option. It's priced at $25 to $30 per hour. That sounds reasonable. I’ll have to think about that. Of course, take your time. Would you like me to send you some information on companion care? Yes, please, that would be helpful. I’ll email you the details right away. Thank you, Margaret. I’ll discuss everything with my daughter and decide soon. Sounds good, Eleanor. If you have any more questions or need assistance, feel free to call back. I will, thank you so much for your help today! You're welcome! Have a great day, Eleanor. You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Eleanor Watson. I hope you're doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm doing great, thank you, Eleanor! How can I help you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I wanted to discuss my care services. I’ve been feeling like I might need to cancel my sessions.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, can I ask what’s prompting this decision?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Well, my daughter thinks it might be time for me to try some independence, but I’m worried about the consequences of canceling my care early.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see. It’s important to weigh your options. Generally, we don’t have cancellation penalties for early termination.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Oh, that’s a relief. So I wouldn’t incur any fees if I decide to stop?",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Correct, Eleanor. You can stop the services whenever you feel it’s appropriate.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s good to know. What about my current schedule?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Your current sessions with Dr. Rodriguez for physical therapy and the nursing visits would be adjusted accordingly.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "And I assume I can reactivate the sessions if I find I need them again?",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! Just give us a call, and we can set everything back up.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 63,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great! Can you remind me who my nurse is and how to contact her directly?",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 69,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Your nurse is Robert Davis. You can reach him at the main office number or through my extension if you prefer.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect. I appreciate that. And what if I decide to need companion care instead?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can provide companion care, which is a good option. It's priced at $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds reasonable. I’ll have to think about that.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, take your time. Would you like me to send you some information on companion care?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll email you the details right away.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 101,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I’ll discuss everything with my daughter and decide soon.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 107,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Sounds good, Eleanor. If you have any more questions or need assistance, feel free to call back.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 111,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I will, thank you so much for your help today!",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome! Have a great day, Eleanor.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 119,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 119,
+          "end_time": 123,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4fc88d1b58e94d03915ee580",
+  "revision": "",
+  "status": "success"
+}
