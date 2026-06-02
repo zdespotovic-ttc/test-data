@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a28cc860829548e99552f5c1",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582002-71dac0f6",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a28cc860829548e99552f5c1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "a28cc860829548e99552f5c1",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a28cc860829548e99552f5c1",
+      "media_name": "c26d089376da495a90695db3947223b6.mp3",
+      "scenario": "An interested individual contacts a real estate office to learn about available rental properties in their desired neighborhood. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is George Williams. I'm a cardiac care monitoring client. Hi George! It's great to hear from you. How are you doing today? I'm doing well, thanks. I just had a question about scheduling my next visit. Of course! I see you had a visit last week. When would you like the next appointment? I think I need someone to come by again this week, maybe Thursday or Friday? Let me check our schedule for you. Alright, we have availability on both Thursday and Friday this week. What time works best for you? How about Thursday at 10 AM? That works perfectly! I’ll schedule you for Thursday at 10 AM. Great! Also, I've been thinking about additional services for my recovery. Absolutely! We offer several services like physical therapy and personal care assistance. Right, I might need help with mobility training. What does that involve? Our physical therapy session focuses on improving your mobility, strength, and balance. It lasts 45 to 60 minutes, and the cost is between $110 and $140. That sounds helpful. Can I schedule that for Friday? Let me check. Yes, we have availability on Friday as well. Would you prefer morning or afternoon for the physical therapy session? Let's do it in the morning, around 11 AM. Perfect. I’ll set you up for physical therapy on Friday at 11 AM. Thank you, Margaret. I appreciate your help. You're very welcome, George! Just to confirm, you have a cardiac care appointment Thursday at 10 AM and physical therapy Friday at 11 AM. Yes, that’s correct! Is there anything else I can assist you with today? No, that’ll be all for now. Thanks again! My pleasure! Have a great day, George. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I'm a cardiac care monitoring client.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George! It's great to hear from you. How are you doing today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm doing well, thanks. I just had a question about scheduling my next visit.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course! I see you had a visit last week. When would you like the next appointment?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I think I need someone to come by again this week, maybe Thursday or Friday?",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check our schedule for you.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Alright, we have availability on both Thursday and Friday this week. What time works best for you?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "How about Thursday at 10 AM?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "That works perfectly! I’ll schedule you for Thursday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Great! Also, I've been thinking about additional services for my recovery.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely! We offer several services like physical therapy and personal care assistance.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Right, I might need help with mobility training. What does that involve?",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Our physical therapy session focuses on improving your mobility, strength, and balance.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "It lasts 45 to 60 minutes, and the cost is between $110 and $140.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds helpful. Can I schedule that for Friday?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check. Yes, we have availability on Friday as well.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Would you prefer morning or afternoon for the physical therapy session?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Let's do it in the morning, around 11 AM.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Perfect. I’ll set you up for physical therapy on Friday at 11 AM.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're very welcome, George! Just to confirm, you have a cardiac care appointment Thursday at 10 AM and physical therapy Friday at 11 AM.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, that’s correct!",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "No, that’ll be all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "My pleasure! Have a great day, George.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 133,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 135,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a28cc860829548e99552f5c1",
+  "revision": "",
+  "status": "success"
+}
