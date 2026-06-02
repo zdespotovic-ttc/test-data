@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f318bb2f932b4852a95d9682",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947584707-68b77d34",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f318bb2f932b4852a95d9682",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 109,
+      "duration_ms": 109000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "f318bb2f932b4852a95d9682",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f318bb2f932b4852a95d9682",
+      "media_name": "a262e5b558f748339fe11fe125f14478.mp3",
+      "scenario": "A business executive calls to schedule a last-minute meeting with the company's accountant for this week. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 109.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Betty Lou Smith. I hope you're well! Hello, Betty! I'm doing well, thank you. How can I assist you today? I need to schedule a last-minute appointment with Robert, my nurse. Got it! What day are you looking at? I was hoping for sometime this week, maybe Thursday or Friday? Let me check Robert's schedule for you. One moment, please. Okay, I see that Robert is available on Thursday at 10 AM and Friday at 2 PM. Do either of those times work for you? Hmm, I think I prefer Thursday at 10 AM. Great choice, I’ll book that for you. Thank you! Is there anything specific I should prepare for the appointment? Just have your medication list handy, and any questions you may want to ask. Sounds good. Also, are there any updates on the fall prevention program? We actually have a new service available for that! It includes personalized exercises aimed at improving balance. Oh, that sounds interesting! What’s the cost? It’s $110 per session, which lasts about 45-60 minutes. I might be interested. Can I schedule a session after the appointment with Robert? Absolutely! We can discuss it further during your visit. Perfect! So, just to confirm, I have an appointment with Robert on Thursday at 10 AM? Yes, that's correct. I’ll send you a reminder the day before. Thank you, Margaret! That really helps me a lot. You're welcome, Betty! Is there anything else I can assist you with today? No, that’s all for now. Thanks again! Thank you for calling, and have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I hope you're well!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hello, Betty! I'm doing well, thank you. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I need to schedule a last-minute appointment with Robert, my nurse.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Got it! What day are you looking at?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 19,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I was hoping for sometime this week, maybe Thursday or Friday?",
+          "speaker": "remote party",
+          "start_time": 19,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check Robert's schedule for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 26,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see that Robert is available on Thursday at 10 AM and Friday at 2 PM. Do either of those times work for you?",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 36,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Hmm, I think I prefer Thursday at 10 AM.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Great choice, I’ll book that for you.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thank you! Is there anything specific I should prepare for the appointment?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 49,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Just have your medication list handy, and any questions you may want to ask.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 53,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Sounds good. Also, are there any updates on the fall prevention program?",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 57,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "We actually have a new service available for that! It includes personalized exercises aimed at improving balance.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Oh, that sounds interesting! What’s the cost?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "It’s $110 per session, which lasts about 45-60 minutes.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I might be interested. Can I schedule a session after the appointment with Robert?",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely! We can discuss it further during your visit.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Perfect! So, just to confirm, I have an appointment with Robert on Thursday at 10 AM?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Yes, that's correct. I’ll send you a reminder the day before.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Margaret! That really helps me a lot.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You're welcome, Betty! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 97,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that’s all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for calling, and have a great day!",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 103,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 106,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 109,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f318bb2f932b4852a95d9682",
+  "revision": "",
+  "status": "success"
+}
