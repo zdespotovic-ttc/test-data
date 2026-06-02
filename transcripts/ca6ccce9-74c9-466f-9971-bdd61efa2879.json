@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d057a5953ba346eb828166a4",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582028-82b9b8a2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d057a5953ba346eb828166a4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "d057a5953ba346eb828166a4",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d057a5953ba346eb828166a4",
+      "media_name": "5d225249a5fe493fb3baf14df5ea856c.mp3",
+      "scenario": "A person calls a law firm to inquire about their services for drafting wills and estate planning. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Patricia Wilson. I'm calling because my mother needs post-surgery care after her upcoming hip replacement. Hi, Patricia! I’m glad you reached out. I can definitely help with that. When is your mother’s surgery scheduled? It's on November 15th, and I want to make sure she has the right care afterward. Absolutely, we provide specialized post-surgery recovery care that includes assistance with daily activities and health monitoring. That sounds perfect. Can you tell me more about the services included and the pricing? Sure! Our post-surgery recovery care is priced between $85 and $110 for 1 to 3 hours of service, depending on the level of care needed. Great! What’s the process for getting started? First, we’ll need to schedule an assessment to understand your mother’s specific needs better. Then we can create a personalized care plan. That makes sense. How soon can we schedule the assessment? We can usually do it within a few days. Would you like me to check our availability for you? Yes, please. That would be helpful. Great! Can I have your mother’s name and any specific care needs you anticipate? Her name is Evelyn Wilson, and I think she’ll need help with mobility and maybe some medication management. Thank you, Patricia. I’ll note that down. Our medication management service is also available, priced between $65 and $80. Perfect. I want to ensure she has everything she needs for a smooth recovery. Absolutely. I recommend setting up at least three sessions per week initially. Would you like to discuss this further? Yes, I think that would be best. I can also send over some information about our services via email. What’s the best address to reach you? It’s patricia.wilson@email.com. Thank you! I’ll follow up with an email and we’ll get the assessment scheduled. That sounds good. Thank you for your help, Margaret! You’re welcome, Patricia! We're here to help. Have a great day, and I’ll be in touch soon! Thanks, you too! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Patricia Wilson. I'm calling because my mother needs post-surgery care after her upcoming hip replacement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Patricia! I’m glad you reached out. I can definitely help with that. When is your mother’s surgery scheduled?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's on November 15th, and I want to make sure she has the right care afterward.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we provide specialized post-surgery recovery care that includes assistance with daily activities and health monitoring.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds perfect. Can you tell me more about the services included and the pricing?",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 33,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure! Our post-surgery recovery care is priced between $85 and $110 for 1 to 3 hours of service, depending on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 33,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great! What’s the process for getting started?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "First, we’ll need to schedule an assessment to understand your mother’s specific needs better. Then we can create a personalized care plan.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That makes sense. How soon can we schedule the assessment?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can usually do it within a few days. Would you like me to check our availability for you?",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! Can I have your mother’s name and any specific care needs you anticipate?",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Her name is Evelyn Wilson, and I think she’ll need help with mobility and maybe some medication management.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you, Patricia. I’ll note that down. Our medication management service is also available, priced between $65 and $80.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect. I want to ensure she has everything she needs for a smooth recovery.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely. I recommend setting up at least three sessions per week initially. Would you like to discuss this further?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I think that would be best.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I can also send over some information about our services via email. What’s the best address to reach you?",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 109,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "It’s patricia.wilson@email.com.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Thank you! I’ll follow up with an email and we’ll get the assessment scheduled.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds good. Thank you for your help, Margaret!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Patricia! We're here to help. Have a great day, and I’ll be in touch soon!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thanks, you too! Goodbye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d057a5953ba346eb828166a4",
+  "revision": "",
+  "status": "success"
+}
