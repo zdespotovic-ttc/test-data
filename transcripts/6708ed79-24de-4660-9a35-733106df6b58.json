@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9e962792222d4e72aa109881",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947585197-d6aafb41",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9e962792222d4e72aa109881",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "9e962792222d4e72aa109881",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9e962792222d4e72aa109881",
+      "media_name": "82cf5b7324e44a238efa77a058ac0488.mp3",
+      "scenario": "A subscriber wishes to cancel their membership due to dissatisfaction with the service and seeks advice on the process. Category: Cancellation. Flags: cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, my name is Patricia Wilson. I'm calling because my mother needs post-surgery care after her upcoming hip replacement. Of course, Patricia. I can help you with that. When is her surgery scheduled? It’s on the 15th of next month. I’m concerned about the level of care she’ll need afterward. We offer specialized post-surgery recovery care, which includes assistance for up to three hours. It ranges from $85 to $110. That sounds good, but I’ve heard some mixed feedback about your services. I understand your concern. We strive for high-quality care, but I'm here to assist with any issues you may have. Well, I actually had a friend who canceled their service due to dissatisfaction. How does that work? If you'd like to go over the cancellation process, I can explain it to you. Are you considering canceling? Not yet, but I want to understand the process just in case. The first step is to contact us directly via phone or email. We'll need your account information to process the cancellation. And will there be any fees involved? There are no cancellation fees; however, we’d love to hear your feedback to improve our services. I appreciate that. It’s just that I want the best care for my mother, and I’m feeling uncertain. That’s completely understandable, Patricia. We can schedule a consultation to discuss specific care needs for your mother. Yes, I think that would be helpful. When can we do that? How about I connect you with our Care Coordinator, Lisa Chen? She can assist you with the care plan and scheduling. That sounds great. Can you put me through to her? Certainly! Her direct line is +13165559203. Would you like me to give you additional details? Yes, please. Any advice on how to communicate my concerns? Just be honest about your experience. We value all feedback to improve our services. Thank you, Margaret. I feel a bit better about reaching out now. You’re welcome! Is there anything else I can do for you today? No, that’s all for now. I’ll be sure to call Lisa. Perfect! Thank you for calling CareFirst Home Health. Have a great day! Thank you, you too!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Patricia Wilson. I'm calling because my mother needs post-surgery care after her upcoming hip replacement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Patricia. I can help you with that. When is her surgery scheduled?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It’s on the 15th of next month. I’m concerned about the level of care she’ll need afterward.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We offer specialized post-surgery recovery care, which includes assistance for up to three hours. It ranges from $85 to $110.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good, but I’ve heard some mixed feedback about your services.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. We strive for high-quality care, but I'm here to assist with any issues you may have.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Well, I actually had a friend who canceled their service due to dissatisfaction. How does that work?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "If you'd like to go over the cancellation process, I can explain it to you. Are you considering canceling?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Not yet, but I want to understand the process just in case.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "The first step is to contact us directly via phone or email. We'll need your account information to process the cancellation.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 68,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "And will there be any fees involved?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "There are no cancellation fees; however, we’d love to hear your feedback to improve our services.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I appreciate that. It’s just that I want the best care for my mother, and I’m feeling uncertain.",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That’s completely understandable, Patricia. We can schedule a consultation to discuss specific care needs for your mother.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I think that would be helpful. When can we do that?",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "How about I connect you with our Care Coordinator, Lisa Chen? She can assist you with the care plan and scheduling.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds great. Can you put me through to her?",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 116,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Certainly! Her direct line is +13165559203. Would you like me to give you additional details?",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please. Any advice on how to communicate my concerns?",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Just be honest about your experience. We value all feedback to improve our services.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I feel a bit better about reaching out now.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 140,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! Is there anything else I can do for you today?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s all for now. I’ll be sure to call Lisa.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 151,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect! Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 151,
+          "end_time": 155,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, you too!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9e962792222d4e72aa109881",
+  "revision": "",
+  "status": "success"
+}
