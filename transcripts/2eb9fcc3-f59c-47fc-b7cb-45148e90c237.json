@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-247a10e9027e460fa4710ef3",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947582040-abbcf3d3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-247a10e9027e460fa4710ef3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "247a10e9027e460fa4710ef3",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-247a10e9027e460fa4710ef3",
+      "media_name": "2a0aafec0d014b09a5db1b9784a906b8.mp3",
+      "scenario": "A potential client contacts a photography studio to ask about portrait packages for family photos. Category: New Inquiry. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is William Chen. I started my care plan three weeks ago after my knee surgery. Hi, William! It's great to hear from you. How has your recovery been so far? It's been going well, but I wanted to ask about any additional services I might need moving forward. Absolutely! We can offer more specialized services if you're interested. What do you have in mind? I was thinking about companion care. Sometimes, I just need someone to talk to while I recover. Companion care could be a perfect fit! It includes social interaction, light housekeeping, and meal preparation. That sounds great. How much does that cost? Our companion care service is $25 to $30 per hour. Would you like to schedule a caregiver? Yes, I think I’d like to start with that. How do we proceed? I can take care of that for you. I just need to confirm your schedule and preferences. I prefer afternoons, ideally around 2 PM. Perfect! I’ll note that down. How many hours per week are you considering? Maybe three to four hours per week to start with. Great! I’ll arrange for a caregiver that fits your needs and schedule. Thank you. Also, I wanted to ask if you offer any physical therapy services? Yes, we do! Our physical therapy sessions are crucial for rehabilitation and cost between $110 and $140. I think I might need that as well. Could you provide more information? Certainly! Each session lasts about 45 to 60 minutes and focuses on mobility and strength improvement. That sounds beneficial. Can I schedule that alongside the companion care? Yes, we can coordinate both services to fit your schedule. That would be perfect. I really appreciate your help with this, Margaret. It's my pleasure, William! I’ll finalize the details and send you a confirmation. Thank you! I look forward to the email. You’re welcome! Is there anything else I can assist you with today? No, that should be all for now. Thanks again! You're welcome! Have a great day and take care! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is William Chen. I started my care plan three weeks ago after my knee surgery.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, William! It's great to hear from you. How has your recovery been so far?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's been going well, but I wanted to ask about any additional services I might need moving forward.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely! We can offer more specialized services if you're interested. What do you have in mind?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I was thinking about companion care. Sometimes, I just need someone to talk to while I recover.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Companion care could be a perfect fit! It includes social interaction, light housekeeping, and meal preparation.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds great. How much does that cost?",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our companion care service is $25 to $30 per hour. Would you like to schedule a caregiver?",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I think I’d like to start with that. How do we proceed?",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can take care of that for you. I just need to confirm your schedule and preferences.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I prefer afternoons, ideally around 2 PM.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! I’ll note that down. How many hours per week are you considering?",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 64,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Maybe three to four hours per week to start with.",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll arrange for a caregiver that fits your needs and schedule.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 73,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. Also, I wanted to ask if you offer any physical therapy services?",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we do! Our physical therapy sessions are crucial for rehabilitation and cost between $110 and $140.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I think I might need that as well. Could you provide more information?",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 88,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Certainly! Each session lasts about 45 to 60 minutes and focuses on mobility and strength improvement.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 93,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds beneficial. Can I schedule that alongside the companion care?",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 98,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we can coordinate both services to fit your schedule.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That would be perfect. I really appreciate your help with this, Margaret.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It's my pleasure, William! I’ll finalize the details and send you a confirmation.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! I look forward to the email.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that should be all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome! Have a great day and take care!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 129,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-247a10e9027e460fa4710ef3",
+  "revision": "",
+  "status": "success"
+}
