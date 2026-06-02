@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7c97e17cb91f4a9a8419640d",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586251-81689f6d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7c97e17cb91f4a9a8419640d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 158,
+      "duration_ms": 158000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "7c97e17cb91f4a9a8419640d",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7c97e17cb91f4a9a8419640d",
+      "media_name": "05ebb1fb02594960bae7361549ffb689.mp3",
+      "scenario": "A client calls to dispute an unexpected charge on their last bill. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 158.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Jennifer Taylor. I'm calling about a billing issue I noticed on my last bill. I’m sorry to hear that, Jennifer. Can you tell me what the issue is? Yes, I was charged an extra $50 for companion care services that I wasn't expecting. I understand your concern. Let me pull up your account and we can review the details together. Okay, that would be great. Thank you. One moment please... Alright, I see your account here. Can you confirm the date of the service in question? Yes, it was for last Saturday. Thank you. I see a charge for companion care, but it looks like there was an additional fee for extended hours. Extended hours? I wasn't informed about that. I thought the service was just for the usual hours. I apologize for the confusion, Jennifer. Let me check if we have a record of that communication. I appreciate it. I just want to make sure I'm only paying for what I actually used. Absolutely, I completely understand. Let me also confirm if any adjustments can be made. Thank you. I really appreciate your help with this. No problem at all! Just a moment while I access the previous notes on your service. Sure, take your time. I just want to resolve this as soon as possible. It looks like there was a slight miscommunication on our end regarding the hours. I can certainly adjust that charge for you. Oh, that would be wonderful! Thank you so much. You’re welcome! I’ll make sure the $50 charge is removed from your next bill. Great! Is there anything else I need to do? Just to confirm, would you like me to send a revised invoice for your records? Yes, please. That would be very helpful. I’ll email that to you right away. Can I help you with anything else today? Actually, yes. I'm also looking for companion care services for my elderly grandmother. We’d be happy to help with that! I can connect you with our Care Coordinator, Lisa Chen. That sounds perfect! I’ll set that up for you, and Lisa will give you a call to discuss your grandmother’s needs. Thank you so much, Margaret. I really appreciate your assistance! You’re welcome, Jennifer! I’ll take care of everything and send the email shortly. Thank you! Have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Jennifer Taylor. I'm calling about a billing issue I noticed on my last bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Jennifer. Can you tell me what the issue is?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I was charged an extra $50 for companion care services that I wasn't expecting.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account and we can review the details together.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, that would be great. Thank you.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "One moment please... Alright, I see your account here. Can you confirm the date of the service in question?",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, it was for last Saturday.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you. I see a charge for companion care, but it looks like there was an additional fee for extended hours.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Extended hours? I wasn't informed about that. I thought the service was just for the usual hours.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I apologize for the confusion, Jennifer. Let me check if we have a record of that communication.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate it. I just want to make sure I'm only paying for what I actually used.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, I completely understand. Let me also confirm if any adjustments can be made.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you. I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "No problem at all! Just a moment while I access the previous notes on your service.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, take your time. I just want to resolve this as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "It looks like there was a slight miscommunication on our end regarding the hours. I can certainly adjust that charge for you.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 92,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Oh, that would be wonderful! Thank you so much.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome! I’ll make sure the $50 charge is removed from your next bill.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great! Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Just to confirm, would you like me to send a revised invoice for your records?",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll email that to you right away. Can I help you with anything else today?",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Actually, yes. I'm also looking for companion care services for my elderly grandmother.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 126,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "We’d be happy to help with that! I can connect you with our Care Coordinator, Lisa Chen.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That sounds perfect!",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I’ll set that up for you, and Lisa will give you a call to discuss your grandmother’s needs.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your assistance!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Jennifer! I’ll take care of everything and send the email shortly.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you! Have a great day!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 158,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7c97e17cb91f4a9a8419640d",
+  "revision": "",
+  "status": "success"
+}
