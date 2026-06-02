@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-01T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3da8e573c42744c78b277d4e",
+    "created": 1780297200,
+    "modified": 1780297200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947581907-cb4adfe8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3da8e573c42744c78b277d4e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947516400,
+      "call_id": "3da8e573c42744c78b277d4e",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3da8e573c42744c78b277d4e",
+      "media_name": "9c1b21896aa5419f857806b9e374d8bb.mp3",
+      "scenario": "A dissatisfied client calls to report a recent purchase that arrived damaged, expressing frustration at the product's quality. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret, this is Mary O'Connor. I'm calling because I have a concern about the IV supplies I received yesterday. I'm sorry to hear that, Mary. Can you please tell me what the issue is? The supplies arrived damaged, and it’s really frustrating. I’ve been relying on these for my therapy, and now I’m worried. I completely understand your frustration, Mary. I’m here to help resolve this for you. Thank you. I just expected better quality, especially since I’ve been a long-term client. You're absolutely right, and I apologize for any inconvenience this has caused. Let’s figure this out. I really need these supplies to be reliable, especially since I’m on long-term IV therapy for my bone infection. I understand the importance. Can you describe the damage to the supplies? The packaging was crushed, and one of the IV bags had a tear in it. I just can’t use that! That’s definitely not acceptable. I’ll make a note of that and ensure we have replacements sent out to you right away. I appreciate that, but this has made me anxious about my upcoming treatment. I understand completely, Mary. How about I arrange for one of our nurses to follow up with you this week? That would be helpful. I just need reassurance and to make sure I have everything I need. Absolutely, I’ll coordinate that. Would you prefer a morning or afternoon visit for the follow-up? Mornings work better for me, if possible. Great! I’ll set that up. Also, would you be interested in a consultation for additional IV supplies? Yes, if you have options available, that would be nice to discuss. Perfect! I’ll make sure to have all the information ready for your nurse when they visit. Thank you, Margaret. I feel a bit better knowing you’re addressing this. You're welcome, Mary. I’m here to help. I’ll send you a confirmation of the follow-up appointment. Sounds good. I’ll be looking out for it. Thank you for your understanding, Mary. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Mary O'Connor. I'm calling because I have a concern about the IV supplies I received yesterday.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 12,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Mary. Can you please tell me what the issue is?",
+          "speaker": "local party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "The supplies arrived damaged, and it’s really frustrating. I’ve been relying on these for my therapy, and now I’m worried.",
+          "speaker": "remote party",
+          "start_time": 16,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand your frustration, Mary. I’m here to help resolve this for you.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I just expected better quality, especially since I’ve been a long-term client.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "You're absolutely right, and I apologize for any inconvenience this has caused. Let’s figure this out.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I really need these supplies to be reliable, especially since I’m on long-term IV therapy for my bone infection.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 48,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I understand the importance. Can you describe the damage to the supplies?",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 53,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "The packaging was crushed, and one of the IV bags had a tear in it. I just can’t use that!",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That’s definitely not acceptable. I’ll make a note of that and ensure we have replacements sent out to you right away.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate that, but this has made me anxious about my upcoming treatment.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I understand completely, Mary. How about I arrange for one of our nurses to follow up with you this week?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be helpful. I just need reassurance and to make sure I have everything I need.",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, I’ll coordinate that. Would you prefer a morning or afternoon visit for the follow-up?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 94,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Mornings work better for me, if possible.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll set that up. Also, would you be interested in a consultation for additional IV supplies?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, if you have options available, that would be nice to discuss.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll make sure to have all the information ready for your nurse when they visit.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I feel a bit better knowing you’re addressing this.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 123,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, Mary. I’m here to help. I’ll send you a confirmation of the follow-up appointment.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 128,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good. I’ll be looking out for it.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for your understanding, Mary. Have a great day!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3da8e573c42744c78b277d4e",
+  "revision": "",
+  "status": "success"
+}
