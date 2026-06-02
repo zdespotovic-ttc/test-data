@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2c5115517f904fb7b561d9d6",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586064-85e6cfe5",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2c5115517f904fb7b561d9d6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "2c5115517f904fb7b561d9d6",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2c5115517f904fb7b561d9d6",
+      "media_name": "bb67f7dbe5174ea79ff889e46281f2ac.mp3",
+      "scenario": "A new client contacts the clinic to schedule their first chiropractic adjustment. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, this is Betty Lou Smith. I’d like to inquire about scheduling my first chiropractic adjustment. I'm sorry, but we don't offer chiropractic services here. We specialize in home healthcare, including skilled nursing and therapy services. Oh, I see! I misunderstood. I’m actually looking for mobility assistance and fall prevention help. We can definitely assist you with that! May I ask if you’re already a client with us? Yes, I’ve been a client for about ten months now. Great! I see your history notes here. How can I assist you today regarding your care? I’d like to schedule my next appointment for mobility assistance. Absolutely, we can set that up. When would you like to have your next visit? How about this Friday? This Friday works. Would you prefer your usual caregiver? Yes, I prefer consistency. Can you confirm who that is? Of course! Your usual caregiver is Sarah Williams. I’ll schedule her for Friday at your preferred time. Let’s say around 10 AM? Perfect. I’ll set that appointment for Friday at 10 AM with Sarah. Thank you so much! Is there anything else we need to go over? Just a reminder, if you need additional services like physical therapy or personal care assistance, we can discuss that as well. Yes, I might be interested in physical therapy. Can you provide more information? Certainly! Our physical therapy is $110 to $140 per session and focuses on mobility improvement. That sounds helpful! I may want to add that on after my mobility appointment. Great! I can connect you with Dr. James Rodriguez, our physical therapist, after your visit on Friday. That would be excellent. Thank you for all your help! You're welcome, Betty! I’ll confirm your appointment for Friday at 10 AM with Sarah. Perfect, I appreciate it. Thank you for calling CareFirst Home Health. Have a great day! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Betty Lou Smith. I’d like to inquire about scheduling my first chiropractic adjustment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry, but we don't offer chiropractic services here. We specialize in home healthcare, including skilled nursing and therapy services.",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see! I misunderstood. I’m actually looking for mobility assistance and fall prevention help.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely assist you with that! May I ask if you’re already a client with us?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I’ve been a client for about ten months now.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great! I see your history notes here. How can I assist you today regarding your care?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I’d like to schedule my next appointment for mobility assistance.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, we can set that up. When would you like to have your next visit?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "How about this Friday?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "This Friday works. Would you prefer your usual caregiver?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I prefer consistency. Can you confirm who that is?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course! Your usual caregiver is Sarah Williams. I’ll schedule her for Friday at your preferred time.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Let’s say around 10 AM?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect. I’ll set that appointment for Friday at 10 AM with Sarah.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you so much! Is there anything else we need to go over?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Just a reminder, if you need additional services like physical therapy or personal care assistance, we can discuss that as well.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I might be interested in physical therapy. Can you provide more information?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Certainly! Our physical therapy is $110 to $140 per session and focuses on mobility improvement.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds helpful! I may want to add that on after my mobility appointment.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I can connect you with Dr. James Rodriguez, our physical therapist, after your visit on Friday.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That would be excellent. Thank you for all your help!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Betty! I’ll confirm your appointment for Friday at 10 AM with Sarah.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Perfect, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for calling CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2c5115517f904fb7b561d9d6",
+  "revision": "",
+  "status": "success"
+}
