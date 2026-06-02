@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-977b8935a47e4ff6bfe20521",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947584952-da0be3d5",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-977b8935a47e4ff6bfe20521",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 180,
+      "duration_ms": 180000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "977b8935a47e4ff6bfe20521",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-977b8935a47e4ff6bfe20521",
+      "media_name": "968e713bc6004009b491f13678c12d21.mp3",
+      "scenario": "A client disputes a service fee that was added to their recent invoice without prior notice. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 180.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret Thompson. How can I help you today? Hi Margaret, this is Eleanor Watson. I hope you're doing well. Hi Eleanor! I'm doing well, thank you. How about you? I'm alright, but I have a concern about my latest invoice. I’m sorry to hear that. What seems to be the issue? There’s a new service fee that I wasn’t informed about, and it’s causing quite a discrepancy. I understand, Eleanor. Can you give me a bit more detail about the fee? It’s labeled as an ‘additional care coordination fee.’ I’ve never seen that before. Let me look up your account and see what might have happened. Okay, thank you. I’ve been getting physical therapy and skilled nursing care since my stroke, so I don’t want any surprises. Absolutely, I completely understand. Your stability and transparency are very important. I see here that an additional care coordination fee was added due to changes in your scheduled visits and added support. However, it seems there was a communication lapse on our end. A lapse? I wasn’t informed at all, and that’s not right! I apologize for that, Eleanor. It’s important for us to notify clients beforehand. So, what can be done about this? I can certainly escalate this issue for a review and potential adjustment to your bill. I appreciate that, but I still need to know how this will be avoided in the future. Of course! I’ll ensure our team enhances communication regarding billing changes. Additionally, I can schedule a consultation with Lisa Chen, our Care Coordinator, to discuss any other concerns and provide a full overview of your care plan. That sounds helpful. Can we set that up? Yes, I’ll arrange that for you. What day and time work best for you? Could we do it this Wednesday between 10 AM and 2 PM? Let me check... Yes, we have availability then. I’ll confirm that with Lisa. Thank you, Margaret. I want to make sure I understand my care and costs better. Absolutely, it’s our priority to keep clients informed. I’ll also follow up with you regarding the billing adjustment next week. Okay, and thanks for your help with this! You're welcome, Eleanor. We appreciate your understanding. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret Thompson. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I hope you're doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Eleanor! I'm doing well, thank you. How about you?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm alright, but I have a concern about my latest invoice.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "There’s a new service fee that I wasn’t informed about, and it’s causing quite a discrepancy.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, Eleanor. Can you give me a bit more detail about the fee?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It’s labeled as an ‘additional care coordination fee.’ I’ve never seen that before.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me look up your account and see what might have happened.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, thank you. I’ve been getting physical therapy and skilled nursing care since my stroke, so I don’t want any surprises.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I completely understand. Your stability and transparency are very important.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I see here that an additional care coordination fee was added due to changes in your scheduled visits and added support. However, it seems there was a communication lapse on our end.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 70,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "A lapse? I wasn’t informed at all, and that’s not right!",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I apologize for that, Eleanor. It’s important for us to notify clients beforehand.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "So, what can be done about this?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I can certainly escalate this issue for a review and potential adjustment to your bill.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I appreciate that, but I still need to know how this will be avoided in the future.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Of course! I’ll ensure our team enhances communication regarding billing changes.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Additionally, I can schedule a consultation with Lisa Chen, our Care Coordinator, to discuss any other concerns and provide a full overview of your care plan.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds helpful. Can we set that up?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, I’ll arrange that for you. What day and time work best for you?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Could we do it this Wednesday between 10 AM and 2 PM?",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Let me check... Yes, we have availability then. I’ll confirm that with Lisa.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I want to make sure I understand my care and costs better.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, it’s our priority to keep clients informed. I’ll also follow up with you regarding the billing adjustment next week.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Okay, and thanks for your help with this!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome, Eleanor. We appreciate your understanding. Have a great day!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-977b8935a47e4ff6bfe20521",
+  "revision": "",
+  "status": "success"
+}
