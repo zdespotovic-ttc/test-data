@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-26T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dce82d764b614e5da7b080ac",
+    "created": 1779778800,
+    "modified": 1779778800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947584778-03abcadb",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dce82d764b614e5da7b080ac",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63946998000,
+      "call_id": "dce82d764b614e5da7b080ac",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dce82d764b614e5da7b080ac",
+      "media_name": "d13ab922b2ae44c794ff46f1c272184b.mp3",
+      "scenario": "A customer calls to express dissatisfaction with the recent lawn service, noting uneven cuts and missed sections. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Mary O'Connor. I'm calling because I'm really concerned about my recent IV therapy session. I understand, Mary. Can you tell me what specifically is concerning you? Well, I just felt that the last visit was rushed, and the nurse didn't seem as attentive as usual. I'm sorry to hear that. Our goal is always to provide attentive and compassionate care. It’s just that I’ve been anxious about the procedure, and I really need someone who can reassure me. Absolutely, I completely understand how important that is, especially with your ongoing treatment. Exactly. I feel like I didn't get the level of care I usually do, and it made me uncomfortable. I appreciate you bringing this to my attention, Mary. Can you tell me more about what happened during the visit? Well, the nurse was okay at first, but didn’t check for my comfort level or go over the procedure details like the others have before. That’s not acceptable, and I apologize for the oversight. I will follow up with the nursing staff to ensure this doesn't happen again. Thank you, I just want to feel supported during this process. Of course, Mary. Would you like me to schedule a follow-up visit with a different nurse who has experience with your needs? Yes, that would be great. Someone who’s really gentle and understanding. I can definitely arrange that. Let me check our availability for you. Thank you, I appreciate it. Also, I’d like to discuss if I can add some personal care assistance during my treatments. Sure, we can set up personal care assistance, which is priced at $28 to $35 per hour. That sounds reasonable, especially if it helps ease my anxiety. I'm glad to hear that. I’ll include that in your care plan. Perfect, thank you. When can I expect the follow-up visit? I’ll coordinate with our nurses and get back to you by the end of the day with a schedule. That works for me, I really appreciate your help. You’re welcome, Mary. Thank you for your patience and understanding. No problem, I just want to feel secure during my treatment. Absolutely, your comfort is our priority. I’ll make sure to address your concerns right away. Thank you so much, Margaret. You’re welcome, Mary. If you have any more questions, feel free to call back anytime. I will. Have a great day! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Mary O'Connor. I'm calling because I'm really concerned about my recent IV therapy session.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I understand, Mary. Can you tell me what specifically is concerning you?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I just felt that the last visit was rushed, and the nurse didn't seem as attentive as usual.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm sorry to hear that. Our goal is always to provide attentive and compassionate care.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s just that I’ve been anxious about the procedure, and I really need someone who can reassure me.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I completely understand how important that is, especially with your ongoing treatment.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Exactly. I feel like I didn't get the level of care I usually do, and it made me uncomfortable.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I appreciate you bringing this to my attention, Mary. Can you tell me more about what happened during the visit?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Well, the nurse was okay at first, but didn’t check for my comfort level or go over the procedure details like the others have before.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "That’s not acceptable, and I apologize for the oversight. I will follow up with the nursing staff to ensure this doesn't happen again.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I just want to feel supported during this process.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course, Mary. Would you like me to schedule a follow-up visit with a different nurse who has experience with your needs?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be great. Someone who’s really gentle and understanding.",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 82,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can definitely arrange that. Let me check our availability for you.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 88,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, I appreciate it. Also, I’d like to discuss if I can add some personal care assistance during my treatments.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure, we can set up personal care assistance, which is priced at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds reasonable, especially if it helps ease my anxiety.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I'm glad to hear that. I’ll include that in your care plan.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect, thank you. When can I expect the follow-up visit?",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll coordinate with our nurses and get back to you by the end of the day with a schedule.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 124,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That works for me, I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 130,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Mary. Thank you for your patience and understanding.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No problem, I just want to feel secure during my treatment.",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, your comfort is our priority. I’ll make sure to address your concerns right away.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 146,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much, Margaret.",
+          "speaker": "remote party",
+          "start_time": 146,
+          "end_time": 150,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Mary. If you have any more questions, feel free to call back anytime.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 163,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dce82d764b614e5da7b080ac",
+  "revision": "",
+  "status": "success"
+}
