@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-05-27T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-9cca1c754e7b4cf5beb47ea8",
+    "created": 1779865200,
+    "modified": 1779865200
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947586299-6393da84",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-9cca1c754e7b4cf5beb47ea8",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947084400,
+      "call_id": "9cca1c754e7b4cf5beb47ea8",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-9cca1c754e7b4cf5beb47ea8",
+      "media_name": "5f6b7fc02ec34a8c92bd197a29d41bfc.mp3",
+      "scenario": "A client calls to clarify discrepancies between the quoted price and the final bill. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Helen Johnson. I'm calling about a discrepancy with my last bill. Hi Helen! I remember you. What seems to be the issue with your bill? Well, I was quoted $110 for my physical therapy session, but the bill came to $140. That’s quite a difference! I understand your concern. Let me check the details on your account to see what happened. One moment, please. Sure, take your time. Thank you for your patience, Helen. I see that you were indeed quoted $110, but it looks like there was an additional charge for the extended duration of your session. Extended duration? I wasn’t aware of that. How long was my session? Your session lasted about 75 minutes instead of the standard 60 minutes. Oh, I see. I didn’t realize it went over. But I would like to confirm that I wasn’t notified about the extra time. I completely understand, Helen. We strive for transparency, and I'll make sure to address this with our billing department. Thank you. I appreciate that. So, what are the next steps? I’ll escalate this issue, and someone from our billing team will reach out to you within the next 48 hours to clarify and resolve the discrepancy. Great, thank you. And could we also discuss scheduling my next physical therapy session? Absolutely! I see you were last with us a week ago. How does next week look for you? Next week is fine. I’d prefer Tuesday around 10 AM if that’s available. Let me check... Yes, we have an opening at 10 AM on Tuesday. I’ll book that for you. Perfect, thank you! Also, do you provide any additional services that might help with my recovery? Yes, we offer occupational therapy, which focuses on improving daily living skills. Would you like more information on that? Yes, definitely. I’d like to know how it could benefit my recovery. Great! I can have our occupational therapist give you a call to discuss a personalized plan. That sounds good. Thank you for your help today, Margaret. You’re welcome, Helen! Just to recap, I’ll follow up on your billing issue and schedule a call with our occupational therapist. Yes, that’s right. Thank you again! My pleasure! Have a great day, Helen. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I'm calling about a discrepancy with my last bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen! I remember you. What seems to be the issue with your bill?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I was quoted $110 for my physical therapy session, but the bill came to $140. That’s quite a difference!",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me check the details on your account to see what happened. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 36,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Helen. I see that you were indeed quoted $110, but it looks like there was an additional charge for the extended duration of your session.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Extended duration? I wasn’t aware of that. How long was my session?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 51,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Your session lasted about 75 minutes instead of the standard 60 minutes.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Oh, I see. I didn’t realize it went over. But I would like to confirm that I wasn’t notified about the extra time.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand, Helen. We strive for transparency, and I'll make sure to address this with our billing department.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you. I appreciate that. So, what are the next steps?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I’ll escalate this issue, and someone from our billing team will reach out to you within the next 48 hours to clarify and resolve the discrepancy.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 84,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great, thank you. And could we also discuss scheduling my next physical therapy session?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 91,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely! I see you were last with us a week ago. How does next week look for you?",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Next week is fine. I’d prefer Tuesday around 10 AM if that’s available.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 103,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check... Yes, we have an opening at 10 AM on Tuesday. I’ll book that for you.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect, thank you! Also, do you provide any additional services that might help with my recovery?",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 115,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we offer occupational therapy, which focuses on improving daily living skills. Would you like more information on that?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, definitely. I’d like to know how it could benefit my recovery.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I can have our occupational therapist give you a call to discuss a personalized plan.",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 134,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds good. Thank you for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 140,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Helen! Just to recap, I’ll follow up on your billing issue and schedule a call with our occupational therapist.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 146,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that’s right. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 146,
+          "end_time": 152,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "My pleasure! Have a great day, Helen.",
+          "speaker": "local party",
+          "start_time": 152,
+          "end_time": 156,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 156,
+          "end_time": 160,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 163,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-9cca1c754e7b4cf5beb47ea8",
+  "revision": "",
+  "status": "success"
+}
