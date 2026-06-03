@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-db0509ed7cc14cfc99027ff5",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666061-64dae2b2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-db0509ed7cc14cfc99027ff5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 200,
+      "duration_ms": 200000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "db0509ed7cc14cfc99027ff5",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-db0509ed7cc14cfc99027ff5",
+      "media_name": "02e7e4dac7d540749f91b31abbcaf17a.mp3",
+      "scenario": "A returning customer complains that the HVAC maintenance did not prevent the recurring noise issue. Category: Service Complaint. Flags: quality_complaint. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 200.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is Mark Johnson. I'm looking for help with my elderly parents. They need assistance with medication management and transportation. Of course, Mark! We can definitely help with that. Can you tell me a little more about your parents' needs? Sure. My parents are having a hard time keeping track of their medications, and they also need rides to their doctor appointments. It’s been tough for them lately. I understand. We offer medication management services and transportation assistance. Let me give you some details on those. Our medication management service is priced between $65 and $80 per visit, and it includes medication reminders and supervision. That sounds good, but how often would they need that service? It really depends on their needs. Many clients opt for a couple of visits a week for medication management. For transportation, our rates are $45 to $65 per trip. Okay, that’s helpful. I also want to ensure the caregivers can help them with understanding their medications as well. Absolutely! Our caregivers are trained to provide education about medications along with reminders. Would you like to schedule a consultation? Yes, I think that would be great. Also, I saw your reviews online, and I want to make sure the service is reliable. We pride ourselves on quality care, and I can assure you that our staff is highly trained. Let me check our availability for a consultation. Would you prefer a morning or afternoon appointment? Morning works better for us. Great! How about this Thursday at 10 AM? That works for me. Perfect! I’ll put you down for Thursday at 10 AM. Additionally, I can connect you with our Client Services Manager if you’d like to discuss ongoing support options. Yes, that would be helpful. I’ll have Angela reach out to you after our consultation to discuss further details. That sounds good, thank you. Just to clarify, will the caregivers be able to help them keep track of their medications? Yes, our caregivers will help them manage their medications and ensure they take them correctly. Great, I appreciate that. Looking forward to the consultation. Thank you for calling, Mark. We look forward to meeting you and your parents! Thanks, Margaret! Have a good day. You too! Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Mark Johnson. I'm looking for help with my elderly parents. They need assistance with medication management and transportation.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Mark! We can definitely help with that. Can you tell me a little more about your parents' needs?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure. My parents are having a hard time keeping track of their medications, and they also need rides to their doctor appointments. It’s been tough for them lately.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. We offer medication management services and transportation assistance. Let me give you some details on those.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Our medication management service is priced between $65 and $80 per visit, and it includes medication reminders and supervision.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "That sounds good, but how often would they need that service?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "It really depends on their needs. Many clients opt for a couple of visits a week for medication management. For transportation, our rates are $45 to $65 per trip.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Okay, that’s helpful. I also want to ensure the caregivers can help them with understanding their medications as well.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 70,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Absolutely! Our caregivers are trained to provide education about medications along with reminders. Would you like to schedule a consultation?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, I think that would be great. Also, I saw your reviews online, and I want to make sure the service is reliable.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "We pride ourselves on quality care, and I can assure you that our staff is highly trained. Let me check our availability for a consultation.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Would you prefer a morning or afternoon appointment?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Morning works better for us.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! How about this Thursday at 10 AM?",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That works for me.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect! I’ll put you down for Thursday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Additionally, I can connect you with our Client Services Manager if you’d like to discuss ongoing support options.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I’ll have Angela reach out to you after our consultation to discuss further details.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That sounds good, thank you. Just to clarify, will the caregivers be able to help them keep track of their medications?",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 165,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Yes, our caregivers will help them manage their medications and ensure they take them correctly.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 175,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Great, I appreciate that. Looking forward to the consultation.",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 185,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for calling, Mark. We look forward to meeting you and your parents!",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thanks, Margaret! Have a good day.",
+          "speaker": "remote party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "local party",
+          "start_time": 195,
+          "end_time": 200,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-db0509ed7cc14cfc99027ff5",
+  "revision": "",
+  "status": "success"
+}
