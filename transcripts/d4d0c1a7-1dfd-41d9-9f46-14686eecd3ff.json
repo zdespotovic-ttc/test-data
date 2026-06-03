@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3f27994476b04937a77ab531",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728777-97e8d069",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3f27994476b04937a77ab531",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "3f27994476b04937a77ab531",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3f27994476b04937a77ab531",
+      "media_name": "f8539f0e55f245c399952f3ecfdd8563.mp3",
+      "scenario": "A call is made to follow up on an order that has not yet been delivered. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is William Chen. I’m calling to follow up on the delivery of my physical therapy equipment. Hi, William! It's great to hear from you. I can check on that for you. When was the order placed? I placed it about a week ago, right after my last therapy session. Alright, let me look into that for you. Just a moment please. … Okay, I see the order here, but it looks like there’s been a delay with the supplier. I apologize for the inconvenience. That’s frustrating. I really need that equipment for my recovery. I understand completely, William. Let me confirm a new estimated delivery date for you. Thank you, I appreciate it. … It seems the new delivery date should be within the next three days. I’ll keep you updated. That’s good to know. Can you let me know if that changes? Absolutely, I’ll make sure to reach out if there are any further updates. I’d really appreciate that. By the way, I also wanted to ask about my next physical therapy session. Sure! Your next session is scheduled for two days from now. Would you like to adjust that? No, that works for me. I just wanted to confirm. Great! And if you need any additional help with your recovery, we can discuss more therapy options. What other options do you have? We offer additional services like occupational therapy and respite care, which could enhance your recovery experience. I’ll think about that. What’s the pricing for those services? Occupational therapy is $105 to $135 per session, and respite care ranges from $30 to $38 per hour. Okay, I’ll consider them. Thanks for the information. You’re welcome, William. Is there anything else I can assist you with today? No, that’s all for now. I just hope the equipment arrives soon! I’ll follow up on that and keep you posted. Thank you for your patience! Thank you, Margaret! Have a great day. You too, William. Take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I’m calling to follow up on the delivery of my physical therapy equipment.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, William! It's great to hear from you. I can check on that for you. When was the order placed?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I placed it about a week ago, right after my last therapy session.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Alright, let me look into that for you. Just a moment please.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "… Okay, I see the order here, but it looks like there’s been a delay with the supplier. I apologize for the inconvenience.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 35,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "That’s frustrating. I really need that equipment for my recovery.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I understand completely, William. Let me confirm a new estimated delivery date for you.",
+          "speaker": "local party",
+          "start_time": 39,
+          "end_time": 43,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Thank you, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 47,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "… It seems the new delivery date should be within the next three days. I’ll keep you updated.",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That’s good to know. Can you let me know if that changes?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, I’ll make sure to reach out if there are any further updates.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "I’d really appreciate that. By the way, I also wanted to ask about my next physical therapy session.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Sure! Your next session is scheduled for two days from now. Would you like to adjust that?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "No, that works for me. I just wanted to confirm.",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Great! And if you need any additional help with your recovery, we can discuss more therapy options.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 78,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "What other options do you have?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "We offer additional services like occupational therapy and respite care, which could enhance your recovery experience.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "I’ll think about that. What’s the pricing for those services?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Occupational therapy is $105 to $135 per session, and respite care ranges from $30 to $38 per hour.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Okay, I’ll consider them. Thanks for the information.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome, William. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that’s all for now. I just hope the equipment arrives soon!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I’ll follow up on that and keep you posted. Thank you for your patience!",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Margaret! Have a great day.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You too, William. Take care!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3f27994476b04937a77ab531",
+  "revision": "",
+  "status": "success"
+}
