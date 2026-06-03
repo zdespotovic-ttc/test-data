@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7ee86d4d75cc49828dc413f2",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947665999-6e084c91",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7ee86d4d75cc49828dc413f2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 154,
+      "duration_ms": 154000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "7ee86d4d75cc49828dc413f2",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7ee86d4d75cc49828dc413f2",
+      "media_name": "e7b658d9a0bc491faf53e6c4473837db.mp3",
+      "scenario": "A returning customer calls to report that the plumbing service did not resolve the leakage issue as expected. Category: Service Complaint. Flags: quality_complaint. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 154.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Betty Lou Smith. I’m calling about an issue I’m having. Hi Betty, it’s good to hear from you. What seems to be the problem? Well, I’ve been having some plumbing issues at home, and the service didn’t resolve the leakage like they promised. I’m sorry to hear that. That sounds frustrating. Can you tell me more about the situation? Yes, they came out last week, and it seemed fixed at first, but now the leak is back, and it’s really concerning. I understand how that can be worrisome. Have you had a chance to contact the plumbing service again? I haven’t yet, I wanted to check if CareFirst can assist with this or if you have any recommendations. Unfortunately, we don’t handle plumbing issues, but I can suggest some reliable services if you’d like. Yes, that would be helpful, thank you. I just want to make sure everything is safe at home. Absolutely! We always want our clients to feel secure in their homes. Also, while I have you, I’d like to schedule my next appointment for fall prevention and mobility assistance. Of course, I can help with that. When would you prefer your next visit? Can we do it for next Tuesday? It’s been a week since my last visit. Let me check... Yes, we can schedule that for Tuesday. Perfect! Same time as last time, please. Sure thing, I’ll arrange that for you. And just to confirm, you want the same caregiver? Yes, I prefer to keep the same caregiver if possible. I’ll make a note of that. It’s important for you to have consistency. Thank you, Margaret. I appreciate all your help. No problem at all, Betty. Just one moment while I finalize your appointment. Sure, take your time. Alright, you’re all set for Tuesday at 10 AM with your regular caregiver. Thank you! Is there anything else I should do about the plumbing? I recommend calling the plumbing service to ask for a follow-up. If they don’t respond, we can help you find another service. That sounds good. Could you send me the names of those recommendations? Absolutely, I’ll send you an email with a few options by the end of the day. Thank you so much! I really appreciate it. You’re welcome, Betty! Is there anything else you need today? No, that’s everything. Thanks again! My pleasure! Have a great day, and we’ll see you on Tuesday. You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I’m calling about an issue I’m having.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty, it’s good to hear from you. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’ve been having some plumbing issues at home, and the service didn’t resolve the leakage like they promised.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. That sounds frustrating. Can you tell me more about the situation?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, they came out last week, and it seemed fixed at first, but now the leak is back, and it’s really concerning.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how that can be worrisome. Have you had a chance to contact the plumbing service again?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I haven’t yet, I wanted to check if CareFirst can assist with this or if you have any recommendations.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Unfortunately, we don’t handle plumbing issues, but I can suggest some reliable services if you’d like.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be helpful, thank you. I just want to make sure everything is safe at home.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely! We always want our clients to feel secure in their homes.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Also, while I have you, I’d like to schedule my next appointment for fall prevention and mobility assistance.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course, I can help with that. When would you prefer your next visit?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Can we do it for next Tuesday? It’s been a week since my last visit.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let me check... Yes, we can schedule that for Tuesday.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect! Same time as last time, please.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure thing, I’ll arrange that for you. And just to confirm, you want the same caregiver?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I prefer to keep the same caregiver if possible.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 89,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll make a note of that. It’s important for you to have consistency.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 93,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate all your help.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 97,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "No problem at all, Betty. Just one moment while I finalize your appointment.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 108,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Alright, you’re all set for Tuesday at 10 AM with your regular caregiver.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! Is there anything else I should do about the plumbing?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 119,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I recommend calling the plumbing service to ask for a follow-up. If they don’t respond, we can help you find another service.",
+          "speaker": "local party",
+          "start_time": 119,
+          "end_time": 124,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That sounds good. Could you send me the names of those recommendations?",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 129,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Absolutely, I’ll send you an email with a few options by the end of the day.",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 133,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you so much! I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 133,
+          "end_time": 137,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Betty! Is there anything else you need today?",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 140,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "No, that’s everything. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "My pleasure! Have a great day, and we’ll see you on Tuesday.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 149,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 149,
+          "end_time": 152,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 152,
+          "end_time": 154,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7ee86d4d75cc49828dc413f2",
+  "revision": "",
+  "status": "success"
+}
