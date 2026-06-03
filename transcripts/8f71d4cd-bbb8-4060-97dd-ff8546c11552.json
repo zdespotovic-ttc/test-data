@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2b76c930304645bfac178ffe",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728473-08cef50c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2b76c930304645bfac178ffe",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 138,
+      "duration_ms": 138000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "2b76c930304645bfac178ffe",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2b76c930304645bfac178ffe",
+      "media_name": "bacc86a6768746d392075e69034c4f1e.mp3",
+      "scenario": "An individual calls to arrange a haircut appointment for the upcoming weekend. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 138.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you? Hi, I'm Jennifer Taylor. I was looking to schedule a haircut appointment for my grandmother this weekend. I'm sorry, but we don’t provide haircut services here. We specialize in home healthcare. Oh, I see. I was actually hoping to find someone who could assist her with daily activities as well. Absolutely! We offer companion care services that might be perfect for her. That sounds good! What does the companion care include? It includes social interaction, help with personal hygiene, and assistance with daily activities like meal preparation and light housekeeping. Great! What are the costs for that service? Our companion care services range from $25 to $30 per hour, depending on the level of care needed. Okay. Would it be possible to arrange for someone to come over this weekend? Yes, we can certainly set that up. How many hours would you like the caregiver to stay? I think starting with four hours would be good. Perfect! I can schedule that. Can I get your grandmother’s name and address? Her name is Helen Taylor, and she lives at 432 Maple Lane, Wichita. Thank you, Jennifer. When would you like the caregiver to arrive? Ideally, around 10 AM on Saturday. Let me check our availability. Just a moment, please. Yes, we can have a caregiver at your grandmother’s house at 10 AM on Saturday for four hours. That works! What’s the next step? I’ll need to gather some more information for our care plan. Do you have her insurance details? Yes, I can provide that. Great! We can also discuss any additional services she might need, like medication management. Yes, I’d like to know more about that. Wonderful! After our initial visit, we can tailor a care plan that fits her needs. That sounds good. Thank you for your help! You’re welcome, Jennifer. I’ll send a confirmation to your email once everything is set. Thank you! I appreciate it. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, I'm Jennifer Taylor. I was looking to schedule a haircut appointment for my grandmother this weekend.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry, but we don’t provide haircut services here. We specialize in home healthcare.",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I was actually hoping to find someone who could assist her with daily activities as well.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely! We offer companion care services that might be perfect for her.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That sounds good! What does the companion care include?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "It includes social interaction, help with personal hygiene, and assistance with daily activities like meal preparation and light housekeeping.",
+          "speaker": "local party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great! What are the costs for that service?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our companion care services range from $25 to $30 per hour, depending on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay. Would it be possible to arrange for someone to come over this weekend?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, we can certainly set that up. How many hours would you like the caregiver to stay?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 51,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I think starting with four hours would be good.",
+          "speaker": "remote party",
+          "start_time": 51,
+          "end_time": 56,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! I can schedule that. Can I get your grandmother’s name and address?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Her name is Helen Taylor, and she lives at 432 Maple Lane, Wichita.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you, Jennifer. When would you like the caregiver to arrive?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Ideally, around 10 AM on Saturday.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check our availability. Just a moment, please.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, we can have a caregiver at your grandmother’s house at 10 AM on Saturday for four hours.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That works! What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I’ll need to gather some more information for our care plan. Do you have her insurance details?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, I can provide that.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Great! We can also discuss any additional services she might need, like medication management.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Yes, I’d like to know more about that.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Wonderful! After our initial visit, we can tailor a care plan that fits her needs.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "That sounds good. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome, Jennifer. I’ll send a confirmation to your email once everything is set.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thank you! I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Have a great day!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2b76c930304645bfac178ffe",
+  "revision": "",
+  "status": "success"
+}
