@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5c28d357f36d4327a9c0bec2",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728831-37ec7390",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5c28d357f36d4327a9c0bec2",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "5c28d357f36d4327a9c0bec2",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5c28d357f36d4327a9c0bec2",
+      "media_name": "77670ae688644b8388c4c607d0d5e90b.mp3",
+      "scenario": "A caller asks for information about the process to apply for a job at the company. Category: General Information. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. This is Harold Gonzalez. Hi, Harold! How have you been? I'm doing well, thank you. I'm actually calling to ask about job openings. Sure! We do have a few positions open. What kind of role are you interested in? I was thinking about applying as a personal care assistant. Great choice! We always need dedicated caregivers. Have you worked in home health before? Not specifically in home health, but I have some experience in caregiving. That's a good start! Our personal care assistants help with daily living activities. Yes, I understand. What’s the process to apply? You can apply directly on our website or send your resume to our HR email. What's the address for your website? It's carefirsthomehealth.com. You’ll find the careers page there. Got it! And how long does the hiring process usually take? Typically, it takes about two to three weeks from application to interview. That sounds reasonable. Are there any specific qualifications needed? Yes, we prefer candidates have a high school diploma and some caregiving experience. Alright, that fits me. Is there any training provided? Yes, we offer orientation and ongoing training to all our staff. That's encouraging. I might also be interested in part-time work. We do have part-time positions available, especially for evenings and weekends. Perfect! I can be flexible with hours. Should I mention my language skills? Absolutely! We value bilingual caregivers, especially Spanish speakers. Great! I’ll highlight that in my application. Excellent! I’ll look forward to your application, Harold. Thank you, Margaret. I appreciate your help today. You’re welcome! If you have any more questions, feel free to call back. Will do. Have a nice day! You too, Harold! Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Harold Gonzalez.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Harold! How have you been?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm doing well, thank you. I'm actually calling to ask about job openings.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Sure! We do have a few positions open. What kind of role are you interested in?",
+          "speaker": "local party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I was thinking about applying as a personal care assistant.",
+          "speaker": "remote party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great choice! We always need dedicated caregivers. Have you worked in home health before?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 28,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Not specifically in home health, but I have some experience in caregiving.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 32,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "That's a good start! Our personal care assistants help with daily living activities.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I understand. What’s the process to apply?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "You can apply directly on our website or send your resume to our HR email.",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "What's the address for your website?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "It's carefirsthomehealth.com. You’ll find the careers page there.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Got it! And how long does the hiring process usually take?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Typically, it takes about two to three weeks from application to interview.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reasonable. Are there any specific qualifications needed?",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, we prefer candidates have a high school diploma and some caregiving experience.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Alright, that fits me. Is there any training provided?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we offer orientation and ongoing training to all our staff.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That's encouraging. I might also be interested in part-time work.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We do have part-time positions available, especially for evenings and weekends.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect! I can be flexible with hours. Should I mention my language skills?",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 95,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely! We value bilingual caregivers, especially Spanish speakers.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 98,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great! I’ll highlight that in my application.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Excellent! I’ll look forward to your application, Harold.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! If you have any more questions, feel free to call back.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Will do. Have a nice day!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, Harold! Goodbye.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5c28d357f36d4327a9c0bec2",
+  "revision": "",
+  "status": "success"
+}
