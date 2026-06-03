@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-97a001c3b53045aa8ec288e1",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666205-2480f406",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-97a001c3b53045aa8ec288e1",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 125,
+      "duration_ms": 125000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "97a001c3b53045aa8ec288e1",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-97a001c3b53045aa8ec288e1",
+      "media_name": "59553ec244f543c8959c50ae1f668581.mp3",
+      "scenario": "A returning customer needs immediate assistance with a malfunctioning security system that is not responding to usual commands. Category: Urgent Request. Flags: urgent_request. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 125.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Betty Lou Smith. I'm calling because my security system isn't responding to commands. I’m sorry to hear that, Betty. Can you tell me what’s happening exactly? It just stopped working all of a sudden! I’m alone here, and I’m really worried about my safety, especially after my recent falls. I completely understand your concern. Let’s see how we can help you. Have you tried resetting the system? Yes, I tried that, but it’s still not responding. Okay, I recommend we send someone out to take a look. Would you prefer a specific time for them to come? As soon as possible, please! I feel really unsafe here. I’ll prioritize this. Let me check our schedule for you. We have a technician available within the next hour. Does that work for you? Yes, that would be great! Thank you! You’re welcome, Betty. I’ll get that set up right away. In the meantime, is there anything else we can do for your safety? Well, I could use some more assistance with mobility. We can certainly arrange that. Would you like to discuss a regular schedule for mobility assistance? Yes, I think that would help a lot. Great! I'll connect you with Lisa Chen, our Care Coordinator, after we finish here to set it up. Thank you, Margaret. I appreciate it. No problem at all! Now, back to the technician... I’ll send them out right away, and they’ll call you when they're close. Perfect, thank you again! You're welcome, Betty. Remember, if you need anything else, don’t hesitate to call us. I will, I really appreciate your help today! Of course! Take care, and we'll be in touch soon. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I'm calling because my security system isn't responding to commands.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Betty. Can you tell me what’s happening exactly?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It just stopped working all of a sudden! I’m alone here, and I’m really worried about my safety, especially after my recent falls.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand your concern. Let’s see how we can help you. Have you tried resetting the system?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I tried that, but it’s still not responding.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Okay, I recommend we send someone out to take a look. Would you prefer a specific time for them to come?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "As soon as possible, please! I feel really unsafe here.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I’ll prioritize this. Let me check our schedule for you.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "We have a technician available within the next hour. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, that would be great! Thank you!",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 63,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "You’re welcome, Betty. I’ll get that set up right away. In the meantime, is there anything else we can do for your safety?",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Well, I could use some more assistance with mobility.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "We can certainly arrange that. Would you like to discuss a regular schedule for mobility assistance?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, I think that would help a lot.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Great! I'll connect you with Lisa Chen, our Care Coordinator, after we finish here to set it up.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "No problem at all! Now, back to the technician... I’ll send them out right away, and they’ll call you when they're close.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Perfect, thank you again!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You're welcome, Betty. Remember, if you need anything else, don’t hesitate to call us.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I will, I really appreciate your help today!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Of course! Take care, and we'll be in touch soon. Goodbye!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-97a001c3b53045aa8ec288e1",
+  "revision": "",
+  "status": "success"
+}
