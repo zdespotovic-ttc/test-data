@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-eb47f27ccf004b8c9c463de4",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728689-1581567a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-eb47f27ccf004b8c9c463de4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 110,
+      "duration_ms": 110000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "eb47f27ccf004b8c9c463de4",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-eb47f27ccf004b8c9c463de4",
+      "media_name": "e2d647d981364276a1fc6777b5571978.mp3",
+      "scenario": "A patient calls to check on their lab results after a recent blood test. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 110.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Helen Johnson. I'm calling to check on my lab results from the blood test I had last week. Hi Helen! It’s great to hear from you. Let me pull up your information. One moment, please. Sure, take your time. I’d just like to know if there’s anything concerning in those results. Alright, I see your test results here. It looks like they came back normal overall. Oh, that’s a relief to hear! Were there any specific areas that I should be aware of? Yes, your cholesterol levels are slightly elevated, but nothing alarming. It might be beneficial to discuss dietary changes. I see. I’m a bit concerned about that. Should I consider any specific dietary adjustments? Generally, increasing fiber intake and reducing saturated fats can help. Would you like me to schedule you a consultation with our nutritionist? Yes, that sounds like a good idea. I think it would be helpful. Great! I can connect you with Lisa Chen, our Care Coordinator, for that. Perfect, I’d appreciate that. Can you tell me how that works? Lisa will develop a care plan with you, including any dietary recommendations and adjustments. Great! Can you also remind me of my next physical therapy appointment? Sure! Your next physical therapy session with Dr. Rodriguez is scheduled for Tuesday at 10 AM. Thank you! I’m looking forward to that. Is there anything else I can assist you with today, Helen? No, that’s all for now. Just the consultation and physical therapy appointment. Perfect! I will make sure Lisa follows up with you about the nutrition consultation. Thank you so much, Margaret. I appreciate your help! You’re very welcome! Have a wonderful day, Helen. You too! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I'm calling to check on my lab results from the blood test I had last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen! It’s great to hear from you. Let me pull up your information. One moment, please.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, take your time. I’d just like to know if there’s anything concerning in those results.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Alright, I see your test results here. It looks like they came back normal overall.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Oh, that’s a relief to hear! Were there any specific areas that I should be aware of?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Yes, your cholesterol levels are slightly elevated, but nothing alarming. It might be beneficial to discuss dietary changes.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I see. I’m a bit concerned about that. Should I consider any specific dietary adjustments?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Generally, increasing fiber intake and reducing saturated fats can help. Would you like me to schedule you a consultation with our nutritionist?",
+          "speaker": "local party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that sounds like a good idea. I think it would be helpful.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great! I can connect you with Lisa Chen, our Care Coordinator, for that.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Perfect, I’d appreciate that. Can you tell me how that works?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Lisa will develop a care plan with you, including any dietary recommendations and adjustments.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 66,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great! Can you also remind me of my next physical therapy appointment?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! Your next physical therapy session with Dr. Rodriguez is scheduled for Tuesday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you! I’m looking forward to that.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Is there anything else I can assist you with today, Helen?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "No, that’s all for now. Just the consultation and physical therapy appointment.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I will make sure Lisa follows up with you about the nutrition consultation.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you so much, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re very welcome! Have a wonderful day, Helen.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 103,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 106,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-eb47f27ccf004b8c9c463de4",
+  "revision": "",
+  "status": "success"
+}
