@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-099e368a113440c4943b9f13",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728650-b7069068",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-099e368a113440c4943b9f13",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 176,
+      "duration_ms": 176000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "099e368a113440c4943b9f13",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-099e368a113440c4943b9f13",
+      "media_name": "28f2a4fae06e47b4a4ef19cbabb25c19.mp3",
+      "scenario": "An individual calls to inquire about the price for office space rentals. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 176.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, my name is Karen Lewis. I was referred by my husband’s cardiac surgeon’s office. Nice to meet you, Karen! How can I help you regarding your husband’s care? Well, he’s scheduled for cardiac surgery next month, and I’m looking into post-operative care options. Absolutely, we can definitely assist with that. What specific services are you interested in? I need to know about skilled nursing care and any other support he might need during recovery. For post-surgery recovery care, we offer skilled nursing visits that include medication management and health monitoring. That sounds great. What are the costs associated with skilled nursing care? The price for skilled nursing care ranges from $95 to $125 per visit, depending on the specific services required. Okay, and how long do those visits typically last? Each visit usually lasts between one to two hours. That’s helpful. Will he need any additional therapies post-surgery? He may benefit from physical therapy as well, which is $110 to $140 for a 45 to 60-minute session. I see. I’ll need to discuss this with him after surgery. Of course, take your time. Would you like me to prepare a care plan for him? Yes, that would be helpful. What would be the next steps? I can schedule a consultation with our care coordinator, Lisa Chen. She can assist with the care plan development. That sounds good. When is Lisa available? Lisa is available from Monday to Saturday. Would you prefer a specific day? How about next Tuesday? Let me check... Yes, she’s available next Tuesday. What time works for you? How about 10 AM? Perfect! I’ll set up the appointment for you. Great, thank you. Will I receive a confirmation? Yes, I’ll send you a confirmation email with all the details right after this call. Thank you, Margaret. I really appreciate your help. You're welcome, Karen! Don’t hesitate to reach out if you have any more questions. I will. Thanks again! Have a great day! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Karen Lewis. I was referred by my husband’s cardiac surgeon’s office.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Karen! How can I help you regarding your husband’s care?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, he’s scheduled for cardiac surgery next month, and I’m looking into post-operative care options.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can definitely assist with that. What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I need to know about skilled nursing care and any other support he might need during recovery.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "For post-surgery recovery care, we offer skilled nursing visits that include medication management and health monitoring.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds great. What are the costs associated with skilled nursing care?",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 49,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "The price for skilled nursing care ranges from $95 to $125 per visit, depending on the specific services required.",
+          "speaker": "local party",
+          "start_time": 49,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Okay, and how long do those visits typically last?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Each visit usually lasts between one to two hours.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s helpful. Will he need any additional therapies post-surgery?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "He may benefit from physical therapy as well, which is $110 to $140 for a 45 to 60-minute session.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I see. I’ll need to discuss this with him after surgery.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, take your time. Would you like me to prepare a care plan for him?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 93,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, that would be helpful. What would be the next steps?",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 99,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can schedule a consultation with our care coordinator, Lisa Chen. She can assist with the care plan development.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 106,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds good. When is Lisa available?",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 113,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Lisa is available from Monday to Saturday. Would you prefer a specific day?",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "How about next Tuesday?",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Let me check... Yes, she’s available next Tuesday. What time works for you?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "How about 10 AM?",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! I’ll set up the appointment for you.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 138,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Great, thank you. Will I receive a confirmation?",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 144,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Yes, I’ll send you a confirmation email with all the details right after this call.",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 150,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 157,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome, Karen! Don’t hesitate to reach out if you have any more questions.",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 162,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 168,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Have a great day!",
+          "speaker": "local party",
+          "start_time": 168,
+          "end_time": 171,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 171,
+          "end_time": 174,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 174,
+          "end_time": 176,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-099e368a113440c4943b9f13",
+  "revision": "",
+  "status": "success"
+}
