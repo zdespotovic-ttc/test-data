@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4f111b5e609f4262acb7e040",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666324-6a0de74d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4f111b5e609f4262acb7e040",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "4f111b5e609f4262acb7e040",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4f111b5e609f4262acb7e040",
+      "media_name": "7527a85fd2534775bedae166b18d6eeb.mp3",
+      "scenario": "A new customer calls to cancel their account, citing financial reasons for discontinuing the service. Category: Cancellation. Flags: cancellation_request. Customer type: new_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, this is Michael Brown. I need to talk about my father's care. Of course, Michael. What seems to be the issue? Well, I need to cancel our services. I'm sorry to hear that. May I ask why you're considering cancellation? It's mainly financial reasons. It's been hard to manage the costs. I understand. Our services can be a significant expense. Can I ask what services you're currently using? We're using wound care and medication management for my father, who has diabetes. Thank you for sharing that. I want to help you navigate this. Is there a specific budget you are trying to meet? Ideally, I need to cut back to something more affordable. I see. We do have some options that might lower your costs. For example, we offer personal care assistance starting at $28 per hour. I appreciate that, but I still think I need to cancel. I completely understand your decision. Can I assist you in finding a service that fits your budget better? I'm really not sure. I think I just need to stop everything for now. That’s fair, Michael. I’ll process the cancellation for you. Thank you, I appreciate it. If I may suggest, we could schedule an appointment to review your father's ongoing needs. It might help find a more manageable solution at no cost. I guess that could help, but I’m still leaning towards cancellation. Absolutely, I understand. Would you still like to hear about that appointment? Sure, I’m open to that. Great! I can have Lisa Chen, our Care Coordinator, give you a call to discuss your options. Okay, that sounds good. Perfect! I’ll arrange that for you. Can I confirm your phone number? Yes, it’s +13165557923. Thank you, Michael. I’ll make sure Lisa contacts you shortly. Thank you for your help today. You're welcome. I’m here to help. Take care, and I hope to speak with you soon. Thanks, goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Michael Brown. I need to talk about my father's care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Michael. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I need to cancel our services.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm sorry to hear that. May I ask why you're considering cancellation?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It's mainly financial reasons. It's been hard to manage the costs.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. Our services can be a significant expense. Can I ask what services you're currently using?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "We're using wound care and medication management for my father, who has diabetes.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for sharing that. I want to help you navigate this. Is there a specific budget you are trying to meet?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Ideally, I need to cut back to something more affordable.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I see. We do have some options that might lower your costs. For example, we offer personal care assistance starting at $28 per hour.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate that, but I still think I need to cancel.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I completely understand your decision. Can I assist you in finding a service that fits your budget better?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I'm really not sure. I think I just need to stop everything for now.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That’s fair, Michael. I’ll process the cancellation for you.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "If I may suggest, we could schedule an appointment to review your father's ongoing needs. It might help find a more manageable solution at no cost.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "I guess that could help, but I’m still leaning towards cancellation.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely, I understand. Would you still like to hear about that appointment?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sure, I’m open to that.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I can have Lisa Chen, our Care Coordinator, give you a call to discuss your options.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Okay, that sounds good.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! I’ll arrange that for you. Can I confirm your phone number?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, it’s +13165557923.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Michael. I’ll make sure Lisa contacts you shortly.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 119,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you for your help today.",
+          "speaker": "remote party",
+          "start_time": 119,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You're welcome. I’m here to help. Take care, and I hope to speak with you soon.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thanks, goodbye.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4f111b5e609f4262acb7e040",
+  "revision": "",
+  "status": "success"
+}
