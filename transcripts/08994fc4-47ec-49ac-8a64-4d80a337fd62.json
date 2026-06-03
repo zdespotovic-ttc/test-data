@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3d9b3c8275ba48e0b8304f36",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947665972-0478b808",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3d9b3c8275ba48e0b8304f36",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "3d9b3c8275ba48e0b8304f36",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3d9b3c8275ba48e0b8304f36",
+      "media_name": "005e9f61e8be4eec8d17b17754e9749d.mp3",
+      "scenario": "A VIP customer complains that the home cleaning service did not include the basement, although it was part of the agreement. Category: Service Complaint. Flags: quality_complaint. Customer type: vip."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is David Anderson. I'm calling about a service issue we're having. I'm sorry to hear that, David. What seems to be the problem? Well, my wife has been recovering from a stroke, and we arranged for some cleaning help, but they didn't clean the basement. I understand how important that is, especially during her recovery. Let me get some details. We had specifically agreed that the basement was part of the service. I apologize for the oversight, David. I’ll make sure we address this right away. Thank you. It’s frustrating because we’re trying to keep everything in order for her. I completely understand. Would you like me to schedule a cleaning for the basement as soon as possible? Yes, that would be great. Can we also ensure that the team knows the importance of thoroughness? Absolutely. I will make a note to emphasize that with the team. I appreciate it. We’re really relying on the support right now. Of course, David. I also wanted to ask if you’ve considered any additional services, like skilled nursing or physical therapy? I have thought about physical therapy for my wife. What do you offer? We offer in-home physical therapy for mobility and strength recovery, priced at $110 to $140 for about 45 to 60 minutes. That sounds reasonable. I think she could really benefit from that. Would you like me to arrange a consultation with our physical therapist, Dr. James Rodriguez? Yes, please. That would be helpful. Perfect! I’ll schedule that. Can I have your availability for the next few days? She’s usually available in the mornings, preferably around 10 AM. Great! I’ll coordinate with Dr. Rodriguez for a morning appointment. Thank you, Margaret. I really appreciate your help with everything. It’s my pleasure, David. So just to recap, I’ll arrange for basement cleaning and set up the therapy session. Yes, that sounds right. I’ll follow up with you once everything is confirmed. Is there anything else I can assist you with today? No, that covers it. Thanks again! You’re welcome! Have a great day, and take care. You too. Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is David Anderson. I'm calling about a service issue we're having.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, David. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my wife has been recovering from a stroke, and we arranged for some cleaning help, but they didn't clean the basement.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how important that is, especially during her recovery. Let me get some details.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We had specifically agreed that the basement was part of the service.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I apologize for the oversight, David. I’ll make sure we address this right away.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you. It’s frustrating because we’re trying to keep everything in order for her.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand. Would you like me to schedule a cleaning for the basement as soon as possible?",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be great. Can we also ensure that the team knows the importance of thoroughness?",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 46,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely. I will make a note to emphasize that with the team.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate it. We’re really relying on the support right now.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course, David. I also wanted to ask if you’ve considered any additional services, like skilled nursing or physical therapy?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I have thought about physical therapy for my wife. What do you offer?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We offer in-home physical therapy for mobility and strength recovery, priced at $110 to $140 for about 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds reasonable. I think she could really benefit from that.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Would you like me to arrange a consultation with our physical therapist, Dr. James Rodriguez?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 84,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll schedule that. Can I have your availability for the next few days?",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 88,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "She’s usually available in the mornings, preferably around 10 AM.",
+          "speaker": "remote party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll coordinate with Dr. Rodriguez for a morning appointment.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help with everything.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It’s my pleasure, David. So just to recap, I’ll arrange for basement cleaning and set up the therapy session.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that sounds right.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I’ll follow up with you once everything is confirmed. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that covers it. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Have a great day, and take care.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3d9b3c8275ba48e0b8304f36",
+  "revision": "",
+  "status": "success"
+}
