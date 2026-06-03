@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-b5edd34e24f34452aff4d124",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947665938-2797f4d4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-b5edd34e24f34452aff4d124",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "b5edd34e24f34452aff4d124",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-b5edd34e24f34452aff4d124",
+      "media_name": "fe7fc4a05c6945baa008dfbef7e1612e.mp3",
+      "scenario": "A returning customer reports that the repair service on their heating system was ineffective as the issue persists. Category: Service Complaint. Flags: quality_complaint. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is David Anderson. I was referred by Dorothy Henderson. My wife is recovering from a stroke and needs some care. Hi David, it’s great to hear from you. How can we help your wife today? Well, we need both physical therapy and nursing care services. Can you explain what that entails? Certainly! Our physical therapy focuses on mobility and strength, with sessions lasting about 45 to 60 minutes at a cost of $110 to $140. For nursing care, we provide skilled nursing visits for medication management and health monitoring, costing between $95 and $125 for 1 to 2 hours. That sounds good, but can you tell me about scheduling? We can coordinate visits based on your needs, typically during weekdays. We can set up a care plan that works for you. Great! I’d like to schedule an appointment for an initial assessment. Perfect! Let me take down your details and we can set that up for you. My wife is available this Wednesday around 10 AM. Wednesday at 10 AM works. I’ll confirm that for you. Before I finalize the appointment, can I gather some information about your wife’s current condition and any specific needs? Sure, she needs help with her daily activities and has some mobility issues. Thank you for sharing that. Would you like to consider companion care as well? It might be beneficial for her. Yes, I think that would be helpful. What’s the cost for that? Companion care is $25 to $30 per hour, which includes social interaction and assistance with daily activities. That sounds affordable. Can we include that in the care plan? Absolutely! I’ll ensure our care coordinator reaches out to finalize everything. Thank you, Margaret. I appreciate your help. You’re welcome, David. I’ll send you the details and confirm the appointment via email. Is there anything else I can assist you with today? No, that covers everything for now. Thanks again! Thank you for calling CareFirst, have a great day! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is David Anderson. I was referred by Dorothy Henderson. My wife is recovering from a stroke and needs some care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi David, it’s great to hear from you. How can we help your wife today?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, we need both physical therapy and nursing care services. Can you explain what that entails?",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Certainly! Our physical therapy focuses on mobility and strength, with sessions lasting about 45 to 60 minutes at a cost of $110 to $140.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "For nursing care, we provide skilled nursing visits for medication management and health monitoring, costing between $95 and $125 for 1 to 2 hours.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 39,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "That sounds good, but can you tell me about scheduling?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "We can coordinate visits based on your needs, typically during weekdays. We can set up a care plan that works for you.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Great! I’d like to schedule an appointment for an initial assessment.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 59,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Perfect! Let me take down your details and we can set that up for you.",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "My wife is available this Wednesday around 10 AM.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Wednesday at 10 AM works. I’ll confirm that for you.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 73,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Before I finalize the appointment, can I gather some information about your wife’s current condition and any specific needs?",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sure, she needs help with her daily activities and has some mobility issues.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 88,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you for sharing that. Would you like to consider companion care as well? It might be beneficial for her.",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 94,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I think that would be helpful. What’s the cost for that?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Companion care is $25 to $30 per hour, which includes social interaction and assistance with daily activities.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 109,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds affordable. Can we include that in the care plan?",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely! I’ll ensure our care coordinator reaches out to finalize everything.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, David. I’ll send you the details and confirm the appointment via email.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that covers everything for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 142,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for calling CareFirst, have a great day!",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 145,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-b5edd34e24f34452aff4d124",
+  "revision": "",
+  "status": "success"
+}
