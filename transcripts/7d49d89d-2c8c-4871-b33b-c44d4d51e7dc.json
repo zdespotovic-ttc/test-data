@@ -1,0 +1,237 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-35ad2baec3f942e18aae751f",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728765-03e5b5fb",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-35ad2baec3f942e18aae751f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "35ad2baec3f942e18aae751f",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-35ad2baec3f942e18aae751f",
+      "media_name": "6ad964490d46478e9948f81c7c2a7d23.mp3",
+      "scenario": "A tenant calls the property management to follow up on a maintenance request. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Frank Miller. I’m calling to follow up on my last visit and the maintenance request I made. Hi Frank! It’s great to hear from you. Can you remind me what the maintenance request was about? Sure, it was about my wound care supplies. They were running low, and I wanted to ensure I have enough before my next appointment. Got it. Let me check on that for you. When was your last appointment? I just had a visit yesterday, and everything went well, but I noticed I'm low on supplies. I’m glad to hear your visit went well. I’ll confirm with the team about getting those supplies delivered to you. Thank you! Also, I wanted to talk about arranging my monthly transportation to see my endocrinologist. Absolutely, I can help with that too. When is your next appointment scheduled? It’s on the 15th of next month. I need to make sure I have transportation set up. Okay, I’ll mark that down. Just to confirm, do you need transportation both ways? Yes, please. That way I won’t have any issues getting home. Understood. I’ll get that arranged and call you back with the details. Thanks, Margaret. Also, I heard about the new diabetes management service. Can you tell me more? Yes! We offer diabetes management sessions for $70-$85. It includes blood sugar monitoring and education. That sounds helpful. I might be interested in scheduling one. Great! How about I include that in the follow-up call regarding your supplies and transportation? That works for me. I appreciate you taking care of everything. No problem, Frank! I’ll make sure to have everything sorted and contact you shortly. Thank you, Margaret! I look forward to hearing back from you. You’re welcome! Have a great day, Frank! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I’m calling to follow up on my last visit and the maintenance request I made.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Frank! It’s great to hear from you. Can you remind me what the maintenance request was about?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, it was about my wound care supplies. They were running low, and I wanted to ensure I have enough before my next appointment.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Got it. Let me check on that for you. When was your last appointment?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I just had a visit yesterday, and everything went well, but I noticed I'm low on supplies.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m glad to hear your visit went well. I’ll confirm with the team about getting those supplies delivered to you.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you! Also, I wanted to talk about arranging my monthly transportation to see my endocrinologist.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I can help with that too. When is your next appointment scheduled?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It’s on the 15th of next month. I need to make sure I have transportation set up.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Okay, I’ll mark that down. Just to confirm, do you need transportation both ways?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please. That way I won’t have any issues getting home.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Understood. I’ll get that arranged and call you back with the details.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thanks, Margaret. Also, I heard about the new diabetes management service. Can you tell me more?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes! We offer diabetes management sessions for $70-$85. It includes blood sugar monitoring and education.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 83,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds helpful. I might be interested in scheduling one.",
+          "speaker": "remote party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! How about I include that in the follow-up call regarding your supplies and transportation?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That works for me. I appreciate you taking care of everything.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "No problem, Frank! I’ll make sure to have everything sorted and contact you shortly.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret! I look forward to hearing back from you.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! Have a great day, Frank!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 113,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-35ad2baec3f942e18aae751f",
+  "revision": "",
+  "status": "success"
+}
