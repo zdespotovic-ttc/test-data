@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-5e142e212afb4155b5dbe5a6",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728633-fba82a74",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-5e142e212afb4155b5dbe5a6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "5e142e212afb4155b5dbe5a6",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-5e142e212afb4155b5dbe5a6",
+      "media_name": "9cab09d2138143208472fc383070ac45.mp3",
+      "scenario": "The receptionist answers a call from a prospect asking for the cost of pet grooming services. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, how can I help you today? Hi, I was wondering about your pet grooming services. Can you provide some information? I’m sorry, but we don’t offer pet grooming services. Oh, I see. I thought you might. What do you actually provide? We specialize in home healthcare services like personal care assistance, skilled nursing, and physical therapy. That makes sense. I’m actually looking for help with my elderly mother. We can definitely assist with that. What specific services are you interested in? She needs help with mobility and maybe some companionship. Our personal care assistance is great for mobility help, and we also offer companion care. What are the prices for those services? Personal care assistance is $28 to $35 per hour, and companion care is $25 to $30 per hour. That sounds reasonable. Are those services ongoing or just one-time? They can be scheduled on a recurring basis to fit your needs. That’s great! How do I get started? I can assist you with a care plan development and caregiver matching. Yes, I’d like to do that. What’s the next step? I can get you in touch with our Care Coordinator, Lisa Chen. Would you like her direct number? Yes, please. Her direct number is +13165559203, and she can help set up a consultation. Thank you! Do you also take insurance? Yes, we can help with insurance authorization as well. That’s good to know. Is there anything else I should prepare? It would be helpful to have your mother’s medical information ready for the consultation. Got it. Thank you for your help! You’re welcome! Feel free to reach out if you have any more questions. I will. Have a great day! You too! Bye now!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, I was wondering about your pet grooming services. Can you provide some information?",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry, but we don’t offer pet grooming services.",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I thought you might. What do you actually provide?",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We specialize in home healthcare services like personal care assistance, skilled nursing, and physical therapy.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That makes sense. I’m actually looking for help with my elderly mother.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "We can definitely assist with that. What specific services are you interested in?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "She needs help with mobility and maybe some companionship.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our personal care assistance is great for mobility help, and we also offer companion care.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "What are the prices for those services?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Personal care assistance is $28 to $35 per hour, and companion care is $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds reasonable. Are those services ongoing or just one-time?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "They can be scheduled on a recurring basis to fit your needs.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That’s great! How do I get started?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can assist you with a care plan development and caregiver matching.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I’d like to do that. What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can get you in touch with our Care Coordinator, Lisa Chen. Would you like her direct number?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Her direct number is +13165559203, and she can help set up a consultation.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you! Do you also take insurance?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, we can help with insurance authorization as well.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That’s good to know. Is there anything else I should prepare?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It would be helpful to have your mother’s medical information ready for the consultation.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Got it. Thank you for your help!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! Feel free to reach out if you have any more questions.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too! Bye now!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-5e142e212afb4155b5dbe5a6",
+  "revision": "",
+  "status": "success"
+}
