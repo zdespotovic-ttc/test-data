@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2937ecbe57a546fa8070981a",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666153-aed31ace",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2937ecbe57a546fa8070981a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 130,
+      "duration_ms": 130000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "2937ecbe57a546fa8070981a",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2937ecbe57a546fa8070981a",
+      "media_name": "05fdd211cdde4fd2861f8ae68394fc24.mp3",
+      "scenario": "A new customer is disputing a charge for a replacement part, which they claim should have been covered by warranty. Category: Billing. Flags: billing_dispute. Customer type: new_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 130.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. This is William Chen. I'm calling about a charge I see on my recent bill. Hi, William! I hope you're doing well. What charge are you referring to? It's for a replacement part that I thought should be covered under warranty. I understand your concern. Let me look into that for you. Can you give me the details of the charge? Sure, it was for about $120 for a knee brace that I was told would be covered. I see. I'll need to check our records. When was the knee brace provided to you? It was about three weeks ago, right after my surgery. Okay, let me pull up your account and see what we have on file regarding the warranty. Thank you, I just want to clear this up. Absolutely, William. Just a moment while I gather that information. (pause) It looks like the knee brace was indeed part of our equipment rental service, but the warranty claim may not have been filed correctly. So, you're saying I'm responsible for this charge? I understand it feels frustrating. We need to check with the supplier about the warranty status. Can you do that? I really don't want to pay for something that should be covered. Yes, I will follow up on that today. Additionally, I’ll send you an email with the details once I have them. That sounds good, but what if it isn’t resolved? If it’s not resolved, we can discuss the next steps, possibly adjusting the charges. Great, thank you! Also, I’d like to add some more personal care assistance hours for this week if possible. Sure! How many additional hours do you need? I think I’ll need about five more hours, mainly for help with daily activities. Noted. I’ll arrange that for you and confirm the schedule. Thanks, Margaret. I appreciate your help with all of this! You’re welcome, William! I’ll update you shortly regarding the billing issue and the extra care hours. Sounds perfect. Have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is William Chen. I'm calling about a charge I see on my recent bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, William! I hope you're doing well. What charge are you referring to?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's for a replacement part that I thought should be covered under warranty.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me look into that for you. Can you give me the details of the charge?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, it was for about $120 for a knee brace that I was told would be covered.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see. I'll need to check our records. When was the knee brace provided to you?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It was about three weeks ago, right after my surgery.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Okay, let me pull up your account and see what we have on file regarding the warranty.",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, I just want to clear this up.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, William. Just a moment while I gather that information.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "(pause) It looks like the knee brace was indeed part of our equipment rental service, but the warranty claim may not have been filed correctly.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 60,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "So, you're saying I'm responsible for this charge?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I understand it feels frustrating. We need to check with the supplier about the warranty status.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Can you do that? I really don't want to pay for something that should be covered.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Yes, I will follow up on that today. Additionally, I’ll send you an email with the details once I have them.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That sounds good, but what if it isn’t resolved?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "If it’s not resolved, we can discuss the next steps, possibly adjusting the charges.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Great, thank you! Also, I’d like to add some more personal care assistance hours for this week if possible.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Sure! How many additional hours do you need?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I think I’ll need about five more hours, mainly for help with daily activities.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Noted. I’ll arrange that for you and confirm the schedule.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thanks, Margaret. I appreciate your help with all of this!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re welcome, William! I’ll update you shortly regarding the billing issue and the extra care hours.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Sounds perfect. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2937ecbe57a546fa8070981a",
+  "revision": "",
+  "status": "success"
+}
