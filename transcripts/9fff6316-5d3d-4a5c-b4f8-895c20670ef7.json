@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2c67a0ee7143486f946046b5",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666240-d55e7920",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2c67a0ee7143486f946046b5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 143,
+      "duration_ms": 143000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "2c67a0ee7143486f946046b5",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2c67a0ee7143486f946046b5",
+      "media_name": "67c33fd18f724238b35fc71454f1b49a.mp3",
+      "scenario": "A prospect urgently needs information on emergency repair services following a storm-induced roof leak. Category: Urgent Request. Flags: urgent_request. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 143.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Betty Lou Smith. I'm in a bit of a situation. Hi, Betty! I'm sorry to hear that. What’s going on? We had a storm last night and now I've got a leak in my roof. It's getting worse! Oh no, that sounds urgent. Are you safe at home? Yes, I'm okay, but I need help figuring this out. I understand. While we don't provide emergency repair services, I can suggest some local contractors. That would be great. I just don't know who to call. Let me quickly get some information together for you. What’s your address? It's 2847 North Ridge Road, Wichita, KS. Thank you, Betty. I’ll find some reliable contractors in your area. I appreciate it. I also need to know if I can get assistance with my fall prevention here. Yes, we can help with that! Are you looking for ongoing support? Yes, I’d like to have someone come regularly, especially after this incident. We can set that up for you. Would you prefer a specific schedule? Yes, I prefer consistency with the same caregiver. Noted. I can coordinate that for you. Do you have a preferred day for visits? Tuesdays and Thursdays work best for me. Perfect! I’ll work on that and get back to you shortly. Thank you, Margaret. I really need this support. Of course! Just to confirm, I’ll find contractors for your roof and arrange caregiver support. Yes, please do! Let’s also discuss your current fall prevention plan. Would you like to upgrade any services? I might, especially with the recent falls. I can help you with that during my follow-up. Let’s make sure you’re fully covered. Sounds good! I’ll call you back by the end of the day with updates. Thank you again, Margaret! You’re welcome, Betty! Take care and stay safe. I will. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Betty Lou Smith. I'm in a bit of a situation.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Betty! I'm sorry to hear that. What’s going on?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "We had a storm last night and now I've got a leak in my roof. It's getting worse!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no, that sounds urgent. Are you safe at home?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I'm okay, but I need help figuring this out.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. While we don't provide emergency repair services, I can suggest some local contractors.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That would be great. I just don't know who to call.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me quickly get some information together for you. What’s your address?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It's 2847 North Ridge Road, Wichita, KS.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you, Betty. I’ll find some reliable contractors in your area.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate it. I also need to know if I can get assistance with my fall prevention here.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we can help with that! Are you looking for ongoing support?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I’d like to have someone come regularly, especially after this incident.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can set that up for you. Would you prefer a specific schedule?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I prefer consistency with the same caregiver.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Noted. I can coordinate that for you. Do you have a preferred day for visits?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Tuesdays and Thursdays work best for me.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll work on that and get back to you shortly.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I really need this support.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course! Just to confirm, I’ll find contractors for your roof and arrange caregiver support.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please do!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Let’s also discuss your current fall prevention plan. Would you like to upgrade any services?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I might, especially with the recent falls.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "I can help you with that during my follow-up. Let’s make sure you’re fully covered.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds good!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I’ll call you back by the end of the day with updates.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you again, Margaret!",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 132,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re welcome, Betty! Take care and stay safe.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I will. Bye!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2c67a0ee7143486f946046b5",
+  "revision": "",
+  "status": "success"
+}
