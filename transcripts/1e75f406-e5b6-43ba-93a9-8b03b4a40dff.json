@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-efb2e0f1e44a4b23a3d5e8ec",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728929-70713162",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-efb2e0f1e44a4b23a3d5e8ec",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 157,
+      "duration_ms": 157000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "efb2e0f1e44a4b23a3d5e8ec",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-efb2e0f1e44a4b23a3d5e8ec",
+      "media_name": "5625501cff8b444db8888ac90a9bc9f1.mp3",
+      "scenario": "A business owner contacts the company to get a quote for bulk order discounts. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 157.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. My name is Karen Lewis. I was referred by my husband’s cardiac surgeon's office. Nice to meet you, Karen! How can we assist you? Well, my husband needs post-operative care after his cardiac surgery next month. Of course, I can help with that. What specific services are you looking for? I’m looking for skilled nursing care and possibly some physical therapy as well. Could you give me a quote? Absolutely! Our skilled nursing care is priced between $95 to $125 per visit, depending on the services required. Okay, and how about physical therapy? I think he might need that too. The physical therapy sessions are between $110 and $140 for each appointment. They usually last about 45 to 60 minutes. Great! Do you offer any discounts for bulk orders? Yes, we do. For clients scheduling multiple sessions in advance, we can offer a discount of 10% off the total cost. That sounds helpful. How do we proceed with scheduling these? I can help you set up a plan now. We'll need to discuss how many sessions you'd like to schedule. Let’s start with two skilled nursing visits and two physical therapy visits for now. Perfect! That would give you a base cost of around $1,340 before the discount. And the discount would take off about $134, right? Exactly! The total would be approximately $1,206. Okay, and what if we need to adjust the schedule later? That’s no problem at all. We can adjust the schedule as needed. Just give us a call. Alright, what’s the next step? I’ll need your husband’s name, and we can set up an intake appointment. I’ll also send over some documentation for you to review. His name is James Lewis. Thank you, Karen. I have you down. Do you have an email address for the documentation? Yes, it’s karenlewis@email.com. Got it! I’ll email you the details shortly. Thanks, Margaret. I appreciate your help! You’re welcome, Karen! If you have any questions, feel free to reach out. Will do. Have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Karen Lewis. I was referred by my husband’s cardiac surgeon's office.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Karen! How can we assist you?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my husband needs post-operative care after his cardiac surgery next month.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course, I can help with that. What specific services are you looking for?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I’m looking for skilled nursing care and possibly some physical therapy as well. Could you give me a quote?",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely! Our skilled nursing care is priced between $95 to $125 per visit, depending on the services required.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 38,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, and how about physical therapy? I think he might need that too.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "The physical therapy sessions are between $110 and $140 for each appointment. They usually last about 45 to 60 minutes.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Great! Do you offer any discounts for bulk orders?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, we do. For clients scheduling multiple sessions in advance, we can offer a discount of 10% off the total cost.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds helpful. How do we proceed with scheduling these?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can help you set up a plan now. We'll need to discuss how many sessions you'd like to schedule.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Let’s start with two skilled nursing visits and two physical therapy visits for now.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect! That would give you a base cost of around $1,340 before the discount.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 89,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "And the discount would take off about $134, right?",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Exactly! The total would be approximately $1,206.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, and what if we need to adjust the schedule later?",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "That’s no problem at all. We can adjust the schedule as needed. Just give us a call.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Alright, what’s the next step?",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll need your husband’s name, and we can set up an intake appointment. I’ll also send over some documentation for you to review.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 121,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "His name is James Lewis.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Karen. I have you down. Do you have an email address for the documentation?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, it’s karenlewis@email.com.",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 136,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Got it! I’ll email you the details shortly.",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thanks, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Karen! If you have any questions, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 149,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Will do. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 149,
+          "end_time": 155,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 157,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-efb2e0f1e44a4b23a3d5e8ec",
+  "revision": "",
+  "status": "success"
+}
