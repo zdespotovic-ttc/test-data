@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3c397d63a0414e9b8054c87a",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666386-de35aed0",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3c397d63a0414e9b8054c87a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 185,
+      "duration_ms": 185000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "3c397d63a0414e9b8054c87a",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3c397d63a0414e9b8054c87a",
+      "media_name": "52d3926646f543439f3b43b37096274a.mp3",
+      "scenario": "A returning customer is unhappy with the service they receive and is at risk of cancelling their contract if not resolved. Category: Service Complaint. Flags: quality_complaint, cancellation_request. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 185.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Betty Lou Smith. I’m calling about some concerns I have regarding my care. Hi Betty, I’m sorry to hear that. What seems to be the issue? Well, I've noticed that the caregivers have been inconsistent lately, and I feel like my needs aren’t being met. I understand how frustrating that can be. Can you tell me more about the specific issues? Yes, I had a different caregiver show up last time, and they weren't familiar with my fall prevention exercises. I’m really sorry to hear that, Betty. Consistency is important for your care. Exactly, and I feel like I’m not getting the same quality of service I had before. I completely understand. Let’s see what we can do to resolve this. If it doesn’t improve, I might have to cancel my contract. I appreciate your honesty, and I want to ensure you receive the care you deserve. Thank you, I’ve been relying on this service for my fall prevention for almost a year now. It’s essential for your safety. Would you like me to look into scheduling the same caregiver for you? Yes, please! Consistency makes a huge difference in my routine. I’ll make a note to assign the same caregiver moving forward and follow up with you after the next visit. That would be great. I’d really appreciate that. Is there anything else you’d like me to address? Well, actually... I was wondering if you offer any additional services, like companionship. Yes, we do offer Companion Care services, which include social interaction and light housekeeping. That sounds nice. How much does it cost? It ranges from $25 to $30 per hour. Would you be interested in that? I might consider it, especially for the days when I feel a bit lonely. I can send you more information on that after we resolve your current care concerns. Yes, that would be helpful. Thank you for understanding my situation. Of course, Betty! I’ll ensure we have the same caregiver scheduled and follow up with you next week. Thank you so much, Margaret. I really appreciate your help today. You’re very welcome, Betty. We’re here to support you. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I’m calling about some concerns I have regarding my care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Betty, I’m sorry to hear that. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I've noticed that the caregivers have been inconsistent lately, and I feel like my needs aren’t being met.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that can be. Can you tell me more about the specific issues?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I had a different caregiver show up last time, and they weren't familiar with my fall prevention exercises.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 38,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m really sorry to hear that, Betty. Consistency is important for your care.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 44,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Exactly, and I feel like I’m not getting the same quality of service I had before.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand. Let’s see what we can do to resolve this.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "If it doesn’t improve, I might have to cancel my contract.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I appreciate your honesty, and I want to ensure you receive the care you deserve.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you, I’ve been relying on this service for my fall prevention for almost a year now.",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "It’s essential for your safety. Would you like me to look into scheduling the same caregiver for you?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, please! Consistency makes a huge difference in my routine.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll make a note to assign the same caregiver moving forward and follow up with you after the next visit.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 96,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be great. I’d really appreciate that.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 103,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Is there anything else you’d like me to address?",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 109,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Well, actually... I was wondering if you offer any additional services, like companionship.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 114,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we do offer Companion Care services, which include social interaction and light housekeeping.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 122,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds nice. How much does it cost?",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 130,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It ranges from $25 to $30 per hour. Would you be interested in that?",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I might consider it, especially for the days when I feel a bit lonely.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 143,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I can send you more information on that after we resolve your current care concerns.",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 149,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, that would be helpful. Thank you for understanding my situation.",
+          "speaker": "remote party",
+          "start_time": 149,
+          "end_time": 155,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Of course, Betty! I’ll ensure we have the same caregiver scheduled and follow up with you next week.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 162,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 170,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re very welcome, Betty. We’re here to support you. Have a great day!",
+          "speaker": "local party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3c397d63a0414e9b8054c87a",
+  "revision": "",
+  "status": "success"
+}
