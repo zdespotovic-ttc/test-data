@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-678f75faf9e744c69748ab71",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728707-3d51b8ff",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-678f75faf9e744c69748ab71",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "678f75faf9e744c69748ab71",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-678f75faf9e744c69748ab71",
+      "media_name": "b101164577124e449c1266cf91c3d3ec.mp3",
+      "scenario": "A customer contacts the office to follow up on their last service request. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi Margaret, this is Helen Johnson. I'm calling to follow up on my last physical therapy session from last week. Hi Helen! It's great to hear from you. How are you feeling since your last visit? Well, I'm still experiencing some discomfort in my shoulder. I was hoping to discuss my progress further. I understand. It’s important to keep track of that. Have you noticed any particular activities that worsen the pain? Yes, lifting my arm has been quite painful, especially when reaching overhead. That can be frustrating. Let’s make sure to address that. I’ll note it down for your therapist. Thank you. I really appreciate that. No problem at all. Just to confirm, your therapist is Dr. James Rodriguez, correct? Yes, that's right. Alright, I’ll have him reach out to you before your next appointment to discuss this in detail. That sounds perfect. I also wanted to check if I could add some sessions next week. Absolutely! How many additional sessions were you thinking of? I was thinking maybe two more, if that’s possible. Yes, we can definitely arrange that. I’ll schedule those for you. Great! Thank you, Margaret. You're welcome, Helen. I’ll also send you a reminder about your current treatment plan. That would be helpful. I want to stay on track with my recovery. Of course! And just to confirm, would you prefer morning or afternoon sessions next week? Mornings would work best for me. Got it. I’ll schedule your two sessions for next week in the morning. Thank you so much, Margaret. I really appreciate your help. It’s my pleasure, Helen. Is there anything else I can assist you with today? No, that’s everything for now. I’ll look forward to hearing from Dr. Rodriguez. Perfect! I’ll make sure he gets in touch soon. Thank you for calling, and take care! Thank you, you too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I'm calling to follow up on my last physical therapy session from last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen! It's great to hear from you. How are you feeling since your last visit?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I'm still experiencing some discomfort in my shoulder. I was hoping to discuss my progress further.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. It’s important to keep track of that. Have you noticed any particular activities that worsen the pain?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, lifting my arm has been quite painful, especially when reaching overhead.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That can be frustrating. Let’s make sure to address that. I’ll note it down for your therapist.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 33,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you. I really appreciate that.",
+          "speaker": "remote party",
+          "start_time": 33,
+          "end_time": 37,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "No problem at all. Just to confirm, your therapist is Dr. James Rodriguez, correct?",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that's right.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Alright, I’ll have him reach out to you before your next appointment to discuss this in detail.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds perfect. I also wanted to check if I could add some sessions next week.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely! How many additional sessions were you thinking of?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 59,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I was thinking maybe two more, if that’s possible.",
+          "speaker": "remote party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we can definitely arrange that. I’ll schedule those for you.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Great! Thank you, Margaret.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You're welcome, Helen. I’ll also send you a reminder about your current treatment plan.",
+          "speaker": "local party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That would be helpful. I want to stay on track with my recovery.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course! And just to confirm, would you prefer morning or afternoon sessions next week?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Mornings would work best for me.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Got it. I’ll schedule your two sessions for next week in the morning.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It’s my pleasure, Helen. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s everything for now. I’ll look forward to hearing from Dr. Rodriguez.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Perfect! I’ll make sure he gets in touch soon. Thank you for calling, and take care!",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you, you too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-678f75faf9e744c69748ab71",
+  "revision": "",
+  "status": "success"
+}
