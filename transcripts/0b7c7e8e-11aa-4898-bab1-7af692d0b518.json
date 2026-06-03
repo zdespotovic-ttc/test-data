@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c925ead5d33945b191044cd0",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728845-e119913a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c925ead5d33945b191044cd0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "c925ead5d33945b191044cd0",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c925ead5d33945b191044cd0",
+      "media_name": "9c868efe803f4817aa441b278a236be6.mp3",
+      "scenario": "A potential client is interested in learning about the warranty terms for a product. Category: General Information. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, this is Rose Patterson. I have a question about your services. Of course, Rose! What would you like to know? I wanted to inquire about the warranty terms for your services. We don’t offer warranties, but we do focus on quality care. Could you clarify what you mean by warranty? I just want to ensure that the care provided is consistent, especially since my mother has Alzheimer's. I understand your concern, Rose. We strive for consistency in our caregivers, especially for clients with special needs. That’s great to hear. How do you ensure that the same caregivers are assigned regularly? Our Care Coordinator, Lisa, develops care plans that include familiar caregivers based on client preferences. That sounds reassuring. What if my mother needs additional services in the future? We can easily adjust the care plan as needed, and additional services are available. What types of additional services do you provide? We offer a range of services, including skilled nursing, physical therapy, and personal care assistance. Could you tell me about the pricing for those services? Sure! Personal Care Assistance is $28 to $35 per hour, while Skilled Nursing Care ranges from $95 to $125. That’s helpful, thank you. I’m particularly interested in skilled nursing for medication management. Our nurses can assist with medication management to ensure your mother stays on track. Is there a way to begin that service soon? Absolutely. I can schedule an assessment to discuss her needs and set up services. That would be great. What’s the next step? I’ll connect you with Lisa, our Care Coordinator. She can walk you through the assessment process. Perfect! I’d appreciate that. What’s the best time for Lisa to reach you? I’m free after 3 PM most days. Great! I’ll have her call you after 3 PM tomorrow. Thank you. I feel much better about this now. You’re welcome, Rose! If you have any other questions, don’t hesitate to reach out. I will. Thanks again for your help. Have a wonderful day, Rose! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Rose Patterson. I have a question about your services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Rose! What would you like to know?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I wanted to inquire about the warranty terms for your services.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We don’t offer warranties, but we do focus on quality care. Could you clarify what you mean by warranty?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I just want to ensure that the care provided is consistent, especially since my mother has Alzheimer's.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern, Rose. We strive for consistency in our caregivers, especially for clients with special needs.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That’s great to hear. How do you ensure that the same caregivers are assigned regularly?",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our Care Coordinator, Lisa, develops care plans that include familiar caregivers based on client preferences.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds reassuring. What if my mother needs additional services in the future?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can easily adjust the care plan as needed, and additional services are available.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "What types of additional services do you provide?",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We offer a range of services, including skilled nursing, physical therapy, and personal care assistance.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Could you tell me about the pricing for those services?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 71,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure! Personal Care Assistance is $28 to $35 per hour, while Skilled Nursing Care ranges from $95 to $125.",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 76,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That’s helpful, thank you. I’m particularly interested in skilled nursing for medication management.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Our nurses can assist with medication management to ensure your mother stays on track.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Is there a way to begin that service soon?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely. I can schedule an assessment to discuss her needs and set up services.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be great. What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll connect you with Lisa, our Care Coordinator. She can walk you through the assessment process.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect! I’d appreciate that.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "What’s the best time for Lisa to reach you?",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I’m free after 3 PM most days.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! I’ll have her call you after 3 PM tomorrow.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you. I feel much better about this now.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Rose! If you have any other questions, don’t hesitate to reach out.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will. Thanks again for your help.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Have a wonderful day, Rose!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 147,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c925ead5d33945b191044cd0",
+  "revision": "",
+  "status": "success"
+}
