@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-edfed8ee7cb446ad94cd15cb",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666177-4e8ba1ae",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-edfed8ee7cb446ad94cd15cb",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 157,
+      "duration_ms": 157000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "edfed8ee7cb446ad94cd15cb",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-edfed8ee7cb446ad94cd15cb",
+      "media_name": "ff71c74d68c54312b940fa74b66ea165.mp3",
+      "scenario": "A returning customer questions a service fee on their bill, arguing it was listed as complimentary in the agreement. Category: Billing. Flags: billing_dispute. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 157.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is Charles Thompson. I'm calling about a fee on my last bill. Hello, Charles! I hope you're doing well. Can you tell me more about the fee you're questioning? Yes, I noticed a charge for medication management, but my agreement stated that it would be complimentary. I see. Let me take a look at your account and see what we have here. One moment, please. Sure, take your time. I just want to clarify why I'm being charged for something that was supposed to be free. Thank you for your patience, Charles. I see you are indeed enrolled in a program where medication management was included. That's what I thought. I’ve been a client for five months, and I don’t want to deal with unexpected charges. Absolutely, I understand your concern. I’ll make sure we correct that charge. Thanks, I appreciate it. Are there any other fees I should be aware of? Right now, I don't see any other discrepancies, but I can send you a detailed statement via email for your review. That would be great. Please send it to my email on file. Of course, I’ll do that today. Is there anything else you’d like to discuss? Actually, yes. I might need additional personal care assistance for a few days next week. We can certainly arrange that. How many hours a day are you looking for assistance? Probably about 4 hours a day. I want to ensure I'm healing properly. I can have a personal care assistant scheduled for you. Would you prefer a male caregiver? Yes, if possible. That’s what I prefer. Noted. I’ll make a note for a male caregiver and finalize the schedule. Perfect! And just to confirm, the hourly rate for personal care assistance is still $28 to $35? Yes, that’s correct. And I’ll ensure you receive the best service. Great, thank you. I really appreciate your help with this billing issue and scheduling as well. No problem at all, Charles! I’ll follow up with that email and confirm the schedule by tomorrow. Sounds good. Thanks again, Margaret. You’re welcome, Charles! Have a great day. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I'm calling about a fee on my last bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hello, Charles! I hope you're doing well. Can you tell me more about the fee you're questioning?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed a charge for medication management, but my agreement stated that it would be complimentary.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. Let me take a look at your account and see what we have here. One moment, please.",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time. I just want to clarify why I'm being charged for something that was supposed to be free.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Charles. I see you are indeed enrolled in a program where medication management was included.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 43,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That's what I thought. I’ve been a client for five months, and I don’t want to deal with unexpected charges.",
+          "speaker": "remote party",
+          "start_time": 43,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I understand your concern. I’ll make sure we correct that charge.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thanks, I appreciate it. Are there any other fees I should be aware of?",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Right now, I don't see any other discrepancies, but I can send you a detailed statement via email for your review.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great. Please send it to my email on file.",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Of course, I’ll do that today. Is there anything else you’d like to discuss?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Actually, yes. I might need additional personal care assistance for a few days next week.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can certainly arrange that. How many hours a day are you looking for assistance?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 94,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Probably about 4 hours a day. I want to ensure I'm healing properly.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I can have a personal care assistant scheduled for you. Would you prefer a male caregiver?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 106,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, if possible. That’s what I prefer.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Noted. I’ll make a note for a male caregiver and finalize the schedule.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect! And just to confirm, the hourly rate for personal care assistance is still $28 to $35?",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, that’s correct. And I’ll ensure you receive the best service.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Great, thank you. I really appreciate your help with this billing issue and scheduling as well.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 133,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "No problem at all, Charles! I’ll follow up with that email and confirm the schedule by tomorrow.",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 140,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. Thanks again, Margaret.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Charles! Have a great day.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 157,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-edfed8ee7cb446ad94cd15cb",
+  "revision": "",
+  "status": "success"
+}
