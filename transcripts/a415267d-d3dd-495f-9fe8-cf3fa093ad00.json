@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e952c92c68634a3ead335bf0",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947665960-74869d8e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e952c92c68634a3ead335bf0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "e952c92c68634a3ead335bf0",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e952c92c68634a3ead335bf0",
+      "media_name": "160cbf2a451e40ec9d4e1df57869b72e.mp3",
+      "scenario": "A prospect calls to express their disappointment with the consultation they received, feeling it was rushed and lacked detail. Category: Service Complaint. Flags: quality_complaint. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Edward Martinez. I wanted to discuss the consultation I had recently. Of course, Edward. I'm here to help. What concerns do you have about the consultation? Well, I felt it was really rushed. I expected more detail about the services available for my wife’s care. I’m sorry to hear that, Edward. Can you tell me which services you were specifically interested in? I wanted to know more about the Dementia and Alzheimer's Care options, but the consultation didn’t cover much. I understand. That’s an important service. We can certainly go over the details together now if you’d like. Yes, please. I’d like to know how the caregivers are trained for that type of care. Our caregivers receive specialized training for cognitive impairments, focusing on safety and communication. That’s good to know, but I still feel like I need more information. It just seemed like we rushed through it. I apologize for that experience, Edward. Would you like me to set up a follow-up appointment for a more in-depth consultation? Yes, I think that would help. How about this Friday? I’m available from 7:00 AM to 7:00 PM. What time works best for you? Let’s do 10:00 AM. Also, I’d like to know more about scheduling respite care for my wife. Absolutely, I can include that information as well in our follow-up. That sounds great. I’ll make sure to prepare some detailed information on both services. Thank you, Margaret. I appreciate your help with this. You’re welcome, Edward. I’m here to ensure you get the care you need. Just to confirm, that’s Friday at 10:00 AM for a follow-up? Yes, that’s correct. I’ll send a reminder call the day before. Perfect. I’ll be looking forward to it. Thank you for calling, Edward. If you have any other questions, feel free to reach out. Will do. Have a good day, Margaret. You too, Edward. Take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I wanted to discuss the consultation I had recently.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Edward. I'm here to help. What concerns do you have about the consultation?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I felt it was really rushed. I expected more detail about the services available for my wife’s care.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that, Edward. Can you tell me which services you were specifically interested in?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I wanted to know more about the Dementia and Alzheimer's Care options, but the consultation didn’t cover much.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. That’s an important service. We can certainly go over the details together now if you’d like.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please. I’d like to know how the caregivers are trained for that type of care.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our caregivers receive specialized training for cognitive impairments, focusing on safety and communication.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s good to know, but I still feel like I need more information. It just seemed like we rushed through it.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I apologize for that experience, Edward. Would you like me to set up a follow-up appointment for a more in-depth consultation?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, I think that would help.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "How about this Friday? I’m available from 7:00 AM to 7:00 PM. What time works best for you?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Let’s do 10:00 AM. Also, I’d like to know more about scheduling respite care for my wife.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, I can include that information as well in our follow-up.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds great.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll make sure to prepare some detailed information on both services.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome, Edward. I’m here to ensure you get the care you need.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Just to confirm, that’s Friday at 10:00 AM for a follow-up?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, that’s correct. I’ll send a reminder call the day before.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Perfect. I’ll be looking forward to it.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for calling, Edward. If you have any other questions, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Will do. Have a good day, Margaret.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You too, Edward. Take care!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e952c92c68634a3ead335bf0",
+  "revision": "",
+  "status": "success"
+}
