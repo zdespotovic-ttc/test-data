@@ -1,0 +1,349 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-09da1a0ee8e14c6382f073e0",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666191-cb6f99c3",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-09da1a0ee8e14c6382f073e0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "09da1a0ee8e14c6382f073e0",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-09da1a0ee8e14c6382f073e0",
+      "media_name": "bdaab085015e43f09b8fa75eba27d4b2.mp3",
+      "scenario": "A VIP customer calls regarding a billing discrepancy, noticing a charge for an additional service they never received. Category: Billing. Flags: billing_dispute. Customer type: vip."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Helen Johnson. I hope you’re doing well. Hi Helen! I'm doing well, thank you. How about you? I'm good, thanks. I wanted to discuss a billing issue I noticed. Of course! I’d be happy to help. What seems to be the problem? I received my latest statement and there’s a charge for a service I never received. It’s really concerning. I understand how that could be frustrating. Let’s look into it. Great, thank you. The charge is listed for additional physical therapy sessions. Okay, let me pull up your account and check the details. One moment please. Sure, take your time. I just want to make sure I’m not being charged for something I didn’t ask for. I completely understand. I see here that you have been receiving regular therapy sessions. Yes, that’s right. I had my last session about a week ago. It seems there's a charge for an extra session that was scheduled but not completed. But I didn’t schedule any extra sessions! I see that there might have been a miscommunication with scheduling. I apologize for that. Thank you. I just want to make sure I’m only paying for what I receive. Absolutely, I can ensure that. Would you like me to remove that charge? Yes, please do. That would be great. I will take care of that right now. Additionally, would you like to schedule any follow-up sessions? I think I could use another session next week. Perfect! Do you have a specific day in mind? Maybe Wednesday? I usually have more flexibility then. Let me check our availability for Wednesday. One moment, please. Sure, I appreciate you helping me with this. We have openings on Wednesday at 10 AM or 2 PM. Which works best for you? Let’s go with 10 AM, please. Great! I’ll get that scheduled for you. Thank you. And about the billing discrepancy? I’ll make sure that charge is removed, and you’ll receive an updated statement shortly. Perfect, thank you for your help. You’re welcome, Helen! Is there anything else I can assist you with today? No, that’s it for now. I really appreciate it. My pleasure. If you need anything else, don’t hesitate to call. Will do! Have a great day, Margaret. You too, Helen! Take care. Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I hope you’re doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen! I'm doing well, thank you. How about you?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I'm good, thanks. I wanted to discuss a billing issue I noticed.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Of course! I’d be happy to help. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I received my latest statement and there’s a charge for a service I never received. It’s really concerning.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how that could be frustrating. Let’s look into it.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great, thank you. The charge is listed for additional physical therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Okay, let me pull up your account and check the details. One moment please.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 39,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure, take your time. I just want to make sure I’m not being charged for something I didn’t ask for.",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand. I see here that you have been receiving regular therapy sessions.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that’s right. I had my last session about a week ago.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "It seems there's a charge for an extra session that was scheduled but not completed.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 60,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "But I didn’t schedule any extra sessions!",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I see that there might have been a miscommunication with scheduling. I apologize for that.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. I just want to make sure I’m only paying for what I receive.",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, I can ensure that. Would you like me to remove that charge?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please do. That would be great.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 83,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I will take care of that right now. Additionally, would you like to schedule any follow-up sessions?",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I think I could use another session next week.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! Do you have a specific day in mind?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Maybe Wednesday? I usually have more flexibility then.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Let me check our availability for Wednesday. One moment, please.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sure, I appreciate you helping me with this.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 115,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "We have openings on Wednesday at 10 AM or 2 PM. Which works best for you?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 121,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Let’s go with 10 AM, please.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Great! I’ll get that scheduled for you.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 129,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you. And about the billing discrepancy?",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 134,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "I’ll make sure that charge is removed, and you’ll receive an updated statement shortly.",
+          "speaker": "local party",
+          "start_time": 134,
+          "end_time": 138,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Perfect, thank you for your help.",
+          "speaker": "remote party",
+          "start_time": 138,
+          "end_time": 141,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "You’re welcome, Helen! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 141,
+          "end_time": 145,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "No, that’s it for now. I really appreciate it.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "My pleasure. If you need anything else, don’t hesitate to call.",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "Will do! Have a great day, Margaret.",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 159,
+          "channel": "right",
+          "id": 33
+        },
+        {
+          "text": "You too, Helen! Take care.",
+          "speaker": "local party",
+          "start_time": 159,
+          "end_time": 163,
+          "channel": "left",
+          "id": 34
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 163,
+          "end_time": 167,
+          "channel": "right",
+          "id": 35
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 167,
+          "end_time": 170,
+          "channel": "left",
+          "id": 36
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-09da1a0ee8e14c6382f073e0",
+  "revision": "",
+  "status": "success"
+}
