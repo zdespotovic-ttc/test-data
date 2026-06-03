@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d78ecf4aff31471e9c24577f",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666218-e004776e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d78ecf4aff31471e9c24577f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 163,
+      "duration_ms": 163000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "d78ecf4aff31471e9c24577f",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d78ecf4aff31471e9c24577f",
+      "media_name": "3ef46893fab94eaab82467eae555528c.mp3",
+      "scenario": "A new customer urgently requests help as their internet service has unexpectedly gone down, affecting remote work. Category: Urgent Request. Flags: urgent_request. Customer type: new_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 163.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi, Margaret. My name is Patricia Wilson, and I was referred by Dr. Anderson. I need urgent help for my mother. Of course, Patricia. Can you tell me a bit more about your mother's situation? She has an upcoming hip replacement, and we’ll need post-surgery care immediately after. I'm worried I won’t be able to manage everything on my own. I completely understand your concern. Post-surgery care is crucial. Yes, and with the internet down at home, I’m struggling to get everything organized. I’m sorry to hear that. We can definitely help with post-surgery care. What services do you offer for that? We provide specialized post-surgery recovery care, which includes monitoring, assistance with daily activities, and medication management. The cost ranges from $85 to $110 for 1 to 3 hours. That sounds great, but I need someone reliable, especially given the situation. Absolutely, we prioritize finding the right caregiver for your needs. Can you help coordinate everything? I’m feeling a bit overwhelmed. Yes, that’s what we’re here for! We can develop a care plan tailored for your mother. Thank you! What’s the next step? I’ll need to schedule an intake call with our Care Coordinator, Lisa Chen, to gather more details. That would be perfect. Can we do it today? Let me check her availability. One moment, please. Sure, I appreciate it. Lisa has an opening at 3 PM today. Does that work for you? Yes, that works! Great! I’ll schedule that. You’ll get a call from her at 3 PM. Thank you so much, Margaret. I feel a bit more at ease now. You're welcome, Patricia! We’re here to support you and your mother. I also want to make sure she gets medication management. Absolutely, we can include that in the care plan as well. Perfect! Is there anything else I need to do? Just be ready for Lisa's call. We’ll take care of the rest from our side. Thank you again! I really appreciate your help. It's my pleasure, Patricia. Have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Patricia Wilson, and I was referred by Dr. Anderson. I need urgent help for my mother.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Patricia. Can you tell me a bit more about your mother's situation?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "She has an upcoming hip replacement, and we’ll need post-surgery care immediately after. I'm worried I won’t be able to manage everything on my own.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand your concern. Post-surgery care is crucial.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, and with the internet down at home, I’m struggling to get everything organized.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I’m sorry to hear that. We can definitely help with post-surgery care.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 39,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "What services do you offer for that?",
+          "speaker": "remote party",
+          "start_time": 39,
+          "end_time": 44,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We provide specialized post-surgery recovery care, which includes monitoring, assistance with daily activities, and medication management. The cost ranges from $85 to $110 for 1 to 3 hours.",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 57,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds great, but I need someone reliable, especially given the situation.",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, we prioritize finding the right caregiver for your needs.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Can you help coordinate everything? I’m feeling a bit overwhelmed.",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 73,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, that’s what we’re here for! We can develop a care plan tailored for your mother.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 83,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I’ll need to schedule an intake call with our Care Coordinator, Lisa Chen, to gather more details.",
+          "speaker": "local party",
+          "start_time": 83,
+          "end_time": 91,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be perfect. Can we do it today?",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 97,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check her availability. One moment, please.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 101,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sure, I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 107,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Lisa has an opening at 3 PM today. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that works!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll schedule that. You’ll get a call from her at 3 PM.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you so much, Margaret. I feel a bit more at ease now.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 126,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Patricia! We’re here to support you and your mother.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 131,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I also want to make sure she gets medication management.",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 136,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, we can include that in the care plan as well.",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect! Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Just be ready for Lisa's call. We’ll take care of the rest from our side.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 151,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thank you again! I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 151,
+          "end_time": 156,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "It's my pleasure, Patricia. Have a great day!",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 159,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 159,
+          "end_time": 161,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 161,
+          "end_time": 163,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d78ecf4aff31471e9c24577f",
+  "revision": "",
+  "status": "success"
+}
