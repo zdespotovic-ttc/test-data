@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-26e1851b65ed461f8028fa9b",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666131-3f3d67a9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-26e1851b65ed461f8028fa9b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 159,
+      "duration_ms": 159000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "26e1851b65ed461f8028fa9b",
+      "caller_id_number": "+13165557923",
+      "caller_id_name": "Michael Brown",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-26e1851b65ed461f8028fa9b",
+      "media_name": "f000716336894916bda55e81564db265.mp3",
+      "scenario": "A returning customer disputes a monthly service charge, believing it was supposed to be waived under their current plan. Category: Billing. Flags: billing_dispute. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 159.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. This is Michael Brown. I'm calling about a billing issue for my father’s care. Hi, Michael! I’m glad you reached out. Can you tell me more about the issue? Yes, I noticed a charge on the latest invoice that I thought was supposed to be waived under his current plan. I understand your concern. Let me pull up your father’s account quickly. Thanks, I appreciate it. He’s been using your services for a while now, and I thought we had a clear understanding about this billing. It’s important to us that you feel confident in our services. Just a moment while I check that information. Okay, I see here that your father is enrolled in our diabetes management and wound care program. Can you tell me which charge seems incorrect? It’s the service from last month. The invoice shows a skilled nursing charge, but I thought that was waived. I’ll look into that specific charge for you. Sometimes there are additional fees for services provided that fall outside of regular coverage. I really thought this was covered. My father’s been on a limited income lately, and every dollar counts. Absolutely, I understand how crucial this is. Let’s ensure we get it sorted out for you. I’ll review the terms of his plan and see if we can clarify the charge. That would be great. I just want to make sure we’re not being overcharged, especially since he needs regular care. I completely agree. Your father deserves the best care without unexpected billing surprises. I’ll follow up with our billing department and get back to you within 48 hours with answers. Thank you, Margaret. I appreciate you taking the time to resolve this. Of course, Michael. Also, while I have you on the line, would you be interested in additional services like medication management? I might consider it, especially if it helps with his overall care. Great! I can have our care coordinator, Lisa, reach out to discuss options. Sounds good. I’d like to know more about that. Perfect! I’ll make sure she contacts you after we resolve the billing issue. Thank you so much for your help, Margaret. You're welcome! We’re here for you and your father. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Michael Brown. I'm calling about a billing issue for my father’s care.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Michael! I’m glad you reached out. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed a charge on the latest invoice that I thought was supposed to be waived under his current plan.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your father’s account quickly.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thanks, I appreciate it. He’s been using your services for a while now, and I thought we had a clear understanding about this billing.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "It’s important to us that you feel confident in our services. Just a moment while I check that information.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see here that your father is enrolled in our diabetes management and wound care program. Can you tell me which charge seems incorrect?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "It’s the service from last month. The invoice shows a skilled nursing charge, but I thought that was waived.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I’ll look into that specific charge for you. Sometimes there are additional fees for services provided that fall outside of regular coverage.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 65,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I really thought this was covered. My father’s been on a limited income lately, and every dollar counts.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 73,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Absolutely, I understand how crucial this is. Let’s ensure we get it sorted out for you.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "I’ll review the terms of his plan and see if we can clarify the charge.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 84,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be great. I just want to make sure we’re not being overcharged, especially since he needs regular care.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I completely agree. Your father deserves the best care without unexpected billing surprises.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 97,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I’ll follow up with our billing department and get back to you within 48 hours with answers.",
+          "speaker": "local party",
+          "start_time": 97,
+          "end_time": 103,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate you taking the time to resolve this.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 110,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Of course, Michael. Also, while I have you on the line, would you be interested in additional services like medication management?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 117,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "I might consider it, especially if it helps with his overall care.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 125,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Great! I can have our care coordinator, Lisa, reach out to discuss options.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Sounds good. I’d like to know more about that.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Perfect! I’ll make sure she contacts you after we resolve the billing issue.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 142,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you so much for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 147,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You're welcome! We’re here for you and your father. Have a great day!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 152,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 152,
+          "end_time": 156,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 156,
+          "end_time": 159,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557923",
+    "ooma_remote_name": "Michael Brown",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-26e1851b65ed461f8028fa9b",
+  "revision": "",
+  "status": "success"
+}
