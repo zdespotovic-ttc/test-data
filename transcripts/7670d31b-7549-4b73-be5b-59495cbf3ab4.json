@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-7491ef116bbc4d45b4c2751f",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666046-b7cc5305",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-7491ef116bbc4d45b4c2751f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "7491ef116bbc4d45b4c2751f",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-7491ef116bbc4d45b4c2751f",
+      "media_name": "00d824bcdd9b4741abb49b0b418e3fee.mp3",
+      "scenario": "A new customer reports dissatisfaction with the painting service due to noticeable streaks on the walls. Category: Service Complaint. Flags: quality_complaint. Customer type: new_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you today? Hi, this is Frank Miller. I need to report an issue regarding the painting service I recently used. I'm sorry to hear that, Frank. Can you tell me what the issue is? Sure, there are noticeable streaks on the walls after the paint job. It looks really unprofessional. That sounds frustrating. When did the painting take place? It was done just last week. I expected a better finish, especially for the price I paid. I understand your concern. We strive for quality, and I apologize for the oversight. Thanks, but I need to know what can be done to fix this. I can arrange for a team to come out and assess the streaks. Would you be available for a visit this week? Yes, I'm available on Thursday afternoon. Great, I’ll schedule that for you. What time would be best? How about 2 PM? Perfect, I'll book that for Thursday at 2 PM. Also, what about the cost of the touch-up? Touch-ups are typically covered under our service guarantee, so there shouldn’t be any additional charges. That's good to hear! I appreciate that. You're welcome! Is there anything else you'd like to address today? Actually, I was wondering if you offer any transportation services. Yes, we do. Our transportation services range from $45 to $65 per trip. That could be useful. I need rides to my endocrinologist monthly. We can definitely assist with that. I’ll make a note for follow-up after your painting touch-up. Sounds good, thank you! You're welcome, Frank. We'll be in touch after your appointment. I appreciate your help. Have a great day! Thank you, you too! Goodbye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, this is Frank Miller. I need to report an issue regarding the painting service I recently used.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Frank. Can you tell me what the issue is?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, there are noticeable streaks on the walls after the paint job. It looks really unprofessional.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "That sounds frustrating. When did the painting take place?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was done just last week. I expected a better finish, especially for the price I paid.",
+          "speaker": "remote party",
+          "start_time": 26,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. We strive for quality, and I apologize for the oversight.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thanks, but I need to know what can be done to fix this.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I can arrange for a team to come out and assess the streaks. Would you be available for a visit this week?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I'm available on Thursday afternoon.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great, I’ll schedule that for you. What time would be best?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 53,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "How about 2 PM?",
+          "speaker": "remote party",
+          "start_time": 53,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect, I'll book that for Thursday at 2 PM.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Also, what about the cost of the touch-up?",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Touch-ups are typically covered under our service guarantee, so there shouldn’t be any additional charges.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 71,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That's good to hear! I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You're welcome! Is there anything else you'd like to address today?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 79,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Actually, I was wondering if you offer any transportation services.",
+          "speaker": "remote party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we do. Our transportation services range from $45 to $65 per trip.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That could be useful. I need rides to my endocrinologist monthly.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We can definitely assist with that. I’ll make a note for follow-up after your painting touch-up.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good, thank you!",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 106,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Frank. We'll be in touch after your appointment.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate your help. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you, you too! Goodbye.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 120,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-7491ef116bbc4d45b4c2751f",
+  "revision": "",
+  "status": "success"
+}
