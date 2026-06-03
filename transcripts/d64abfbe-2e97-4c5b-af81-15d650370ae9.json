@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-47feeddec1c44a61a54649e0",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728988-42cc65cc",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-47feeddec1c44a61a54649e0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "47feeddec1c44a61a54649e0",
+      "caller_id_number": "+13165556789",
+      "caller_id_name": "Mary O'Connor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-47feeddec1c44a61a54649e0",
+      "media_name": "254f37353fec44369c99fb258e9d80cd.mp3",
+      "scenario": "A small business owner calls for a quote on cybersecurity services for their company. Category: Quote Request. Outcome: quote_provided."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is Mary O'Connor. I hope you're doing well! Hi Mary! I'm doing well, thank you. How can I assist you today? I wanted to discuss my IV antibiotic therapy. I’m feeling a bit anxious after yesterday’s visit. I completely understand, Mary. It’s normal to feel that way. How can I help reassure you? I just need to know what the next steps are and if there’s anything I should be prepared for. After yesterday’s visit, we’ll continue with the IV therapy as scheduled. We can also review any specific concerns you have. That sounds good. What’s the schedule for my next appointment? Your next appointment is set for this Thursday at 10 AM. Does that still work for you? Yes, that works perfectly. Great! Also, I wanted to check if you’d be interested in having a caregiver stay with you during your therapy sessions? That might help. What does that service include? It includes companionship, assistance with your therapy, and reassurance throughout the process. What would the cost be for that service? The cost for companion care is $25 to $30 per hour. Okay, that seems reasonable. Can we schedule that for the same day? Absolutely, I can arrange for a caregiver to be there during your therapy on Thursday. Perfect! I appreciate that, Margaret. You’re welcome, Mary. Just to confirm, I’ll schedule a caregiver for your IV therapy on Thursday at 10 AM. Yes, please. Thank you for taking the time to explain everything! It’s my pleasure. Is there anything else you would like to discuss today? No, that covers everything for now. Alright, I’ll send you an email confirmation with all the details shortly. Sounds good! Thank you again, Margaret. Thank you, Mary! Have a great day, and we’ll see you on Thursday! You too! Goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Mary O'Connor. I hope you're doing well!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Mary! I'm doing well, thank you. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I wanted to discuss my IV antibiotic therapy. I’m feeling a bit anxious after yesterday’s visit.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand, Mary. It’s normal to feel that way. How can I help reassure you?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I just need to know what the next steps are and if there’s anything I should be prepared for.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "After yesterday’s visit, we’ll continue with the IV therapy as scheduled. We can also review any specific concerns you have.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 38,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds good. What’s the schedule for my next appointment?",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Your next appointment is set for this Thursday at 10 AM. Does that still work for you?",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that works perfectly.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great! Also, I wanted to check if you’d be interested in having a caregiver stay with you during your therapy sessions?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That might help. What does that service include?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "It includes companionship, assistance with your therapy, and reassurance throughout the process.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 68,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "What would the cost be for that service?",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The cost for companion care is $25 to $30 per hour.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, that seems reasonable. Can we schedule that for the same day?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, I can arrange for a caregiver to be there during your therapy on Thursday.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect! I appreciate that, Margaret.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re welcome, Mary. Just to confirm, I’ll schedule a caregiver for your IV therapy on Thursday at 10 AM.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please. Thank you for taking the time to explain everything!",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It’s my pleasure. Is there anything else you would like to discuss today?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that covers everything for now.",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 114,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Alright, I’ll send you an email confirmation with all the details shortly.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good! Thank you again, Margaret.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 126,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Mary! Have a great day, and we’ll see you on Thursday!",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556789",
+    "ooma_remote_name": "Mary O'Connor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-47feeddec1c44a61a54649e0",
+  "revision": "",
+  "status": "success"
+}
