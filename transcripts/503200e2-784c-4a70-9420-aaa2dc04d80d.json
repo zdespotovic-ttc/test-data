@@ -1,0 +1,293 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3fcd69ecef3d43eaa8b1195d",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728486-c9164ef2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3fcd69ecef3d43eaa8b1195d",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 162,
+      "duration_ms": 162000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "3fcd69ecef3d43eaa8b1195d",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3fcd69ecef3d43eaa8b1195d",
+      "media_name": "b2980c5b8adb4b05adfc31ad40b81efe.mp3",
+      "scenario": "A customer contacts the wellness center to schedule a massage session. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 162.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you? Hi, Margaret. My name is Karen Lewis, and I'm calling because my husband needs post-operative care after his cardiac surgery next month. Hi, Karen! I'd be happy to help you with that. Can you tell me when the surgery is scheduled? It's on the 15th of next month. We’ll need someone to assist him afterward. Got it. We can provide post-surgery recovery care. How long do you expect he will need assistance? We're thinking about 2 to 3 hours a day for maybe a week or so. That sounds reasonable. Our post-surgery recovery care is priced between $85 and $110 per session. Okay, that makes sense. Can you tell me what services are included? Absolutely! It includes medication management, wound care, and assistance with daily activities as he recovers. That sounds great. Will we have the same caregiver each time? Yes, we aim to match you with a consistent caregiver to build trust and familiarity. Wonderful! How do we go about scheduling those sessions? I can schedule those now. Would you prefer morning or afternoon sessions? Morning would be better for us, around 10 AM. Perfect! How about we set it up for 10 AM starting on the 16th? That works, yes. How long can we continue those sessions if needed? We can continue as long as necessary. We’ll reassess after the first week. Great! And do you take insurance? Yes, we do take certain insurances. I can have our Care Coordinator, Lisa, check your coverage. That would be helpful, thank you. I’ll connect Lisa with you after we finalize your appointment. Sounds good! So to recap, we have scheduled post-surgery care for your husband starting on the 16th at 10 AM. Yes, with about 2 to 3 hours each day. Correct! And I’ll have Lisa reach out about insurance coverage. Thank you so much, Margaret. You’ve been very helpful! You’re welcome, Karen! If you have any more questions, feel free to call back. I will, thank you again! Have a great day, Karen! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Karen Lewis, and I'm calling because my husband needs post-operative care after his cardiac surgery next month.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Karen! I'd be happy to help you with that. Can you tell me when the surgery is scheduled?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's on the 15th of next month. We’ll need someone to assist him afterward.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Got it. We can provide post-surgery recovery care. How long do you expect he will need assistance?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "We're thinking about 2 to 3 hours a day for maybe a week or so.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That sounds reasonable. Our post-surgery recovery care is priced between $85 and $110 per session.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that makes sense. Can you tell me what services are included?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely! It includes medication management, wound care, and assistance with daily activities as he recovers.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That sounds great. Will we have the same caregiver each time?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Yes, we aim to match you with a consistent caregiver to build trust and familiarity.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 64,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Wonderful! How do we go about scheduling those sessions?",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can schedule those now. Would you prefer morning or afternoon sessions?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 76,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Morning would be better for us, around 10 AM.",
+          "speaker": "remote party",
+          "start_time": 76,
+          "end_time": 82,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect! How about we set it up for 10 AM starting on the 16th?",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That works, yes. How long can we continue those sessions if needed?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can continue as long as necessary. We’ll reassess after the first week.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great! And do you take insurance?",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 104,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Yes, we do take certain insurances. I can have our Care Coordinator, Lisa, check your coverage.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be helpful, thank you.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll connect Lisa with you after we finalize your appointment.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "So to recap, we have scheduled post-surgery care for your husband starting on the 16th at 10 AM.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, with about 2 to 3 hours each day.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Correct! And I’ll have Lisa reach out about insurance coverage.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Thank you so much, Margaret. You’ve been very helpful!",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Karen! If you have any more questions, feel free to call back.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "I will, thank you again!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Have a great day, Karen!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 162,
+          "channel": "right",
+          "id": 29
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3fcd69ecef3d43eaa8b1195d",
+  "revision": "",
+  "status": "success"
+}
