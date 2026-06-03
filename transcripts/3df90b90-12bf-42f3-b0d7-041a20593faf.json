@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2cb5f3a5d9cc432fb79c69fa",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947665913-093c32df",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2cb5f3a5d9cc432fb79c69fa",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 180,
+      "duration_ms": 180000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "2cb5f3a5d9cc432fb79c69fa",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2cb5f3a5d9cc432fb79c69fa",
+      "media_name": "3bd1fc60d2344d57a13efab8faa67c19.mp3",
+      "scenario": "A VIP customer reaches out to complain about the recent landscaping service, mentioning uneven grass cuts and missed areas. Category: Service Complaint. Flags: quality_complaint. Customer type: vip."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 180.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret, this is Eleanor Watson. I'm calling about some issues we've been having recently. Hi, Eleanor! It's good to hear from you. What seems to be the problem? Well, I had some concerns about the physical therapy and nursing care my mother has been receiving. I’m sorry to hear that. Can you please provide me with more details about the concerns? There have been missed sessions and the last physical therapist didn’t seem to follow the care plan as expected. I understand how important that is, especially during her recovery. When was the last session? It was just three days ago, and there were some exercises she didn’t do that were crucial for her progress. Thank you for sharing that. I’ll make sure to look into this right away. Do you know the name of the therapist who visited? Yes, it was Dr. James Rodriguez. He was supposed to focus on her mobility training. Okay, I’ll definitely follow up with Dr. Rodriguez about this. Would you like me to arrange for a different therapist for her next session? That might be a good idea. I just want to ensure she gets the best care possible. Absolutely, Eleanor. Your mother’s recovery is our priority. I’ll make that change for her next session. Thank you, Margaret. I also wanted to check on her skilled nursing care. Is it possible to add more frequent visits? Yes, we can definitely arrange that. Would you like to increase her visits to daily for the next week? Yes, let's do that. I think it would really help her feel supported during this time. I’ll take care of that right away. Just to confirm, we’ll increase her skilled nursing visits to daily. Yes, please. And can you also follow up with her current nurse about the missed exercises? Of course, I'll check in with the nurse immediately and ensure everything is on track. Thank you, Margaret. I really appreciate your help with this. You’re welcome, Eleanor! I’ll send you an email with the updates and the new schedule. Sounds great. I look forward to hearing from you. Is there anything else I can assist you with today? No, that’s all for now. Thank you again for your prompt attention. Absolutely, Eleanor. Have a great day, and we’ll be in touch soon! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Eleanor Watson. I'm calling about some issues we've been having recently.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Eleanor! It's good to hear from you. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I had some concerns about the physical therapy and nursing care my mother has been receiving.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Can you please provide me with more details about the concerns?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "There have been missed sessions and the last physical therapist didn’t seem to follow the care plan as expected.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 38,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how important that is, especially during her recovery. When was the last session?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 44,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It was just three days ago, and there were some exercises she didn’t do that were crucial for her progress.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for sharing that. I’ll make sure to look into this right away. Do you know the name of the therapist who visited?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 58,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, it was Dr. James Rodriguez. He was supposed to focus on her mobility training.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Okay, I’ll definitely follow up with Dr. Rodriguez about this. Would you like me to arrange for a different therapist for her next session?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 73,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That might be a good idea. I just want to ensure she gets the best care possible.",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, Eleanor. Your mother’s recovery is our priority. I’ll make that change for her next session.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you, Margaret. I also wanted to check on her skilled nursing care. Is it possible to add more frequent visits?",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, we can definitely arrange that. Would you like to increase her visits to daily for the next week?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 103,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, let's do that. I think it would really help her feel supported during this time.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 110,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’ll take care of that right away. Just to confirm, we’ll increase her skilled nursing visits to daily.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 117,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. And can you also follow up with her current nurse about the missed exercises?",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 124,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, I'll check in with the nurse immediately and ensure everything is on track.",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 129,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 136,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Eleanor! I’ll send you an email with the updates and the new schedule.",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 144,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds great. I look forward to hearing from you.",
+          "speaker": "remote party",
+          "start_time": 144,
+          "end_time": 152,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 152,
+          "end_time": 159,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s all for now. Thank you again for your prompt attention.",
+          "speaker": "remote party",
+          "start_time": 159,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Absolutely, Eleanor. Have a great day, and we’ll be in touch soon!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2cb5f3a5d9cc432fb79c69fa",
+  "revision": "",
+  "status": "success"
+}
