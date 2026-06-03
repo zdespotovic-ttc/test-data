@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-0ccd161a6f95428a8c0b9dd0",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728545-29d6b235",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-0ccd161a6f95428a8c0b9dd0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "0ccd161a6f95428a8c0b9dd0",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-0ccd161a6f95428a8c0b9dd0",
+      "media_name": "309b755490b942218f0ca501a8343112.mp3",
+      "scenario": "The medical office is contacted to arrange a follow-up appointment after a recent diagnosis. Category: Appointment Scheduling. Outcome: appointment_booked."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi Margaret, this is Agnes Rodriguez. I’m calling to arrange a follow-up appointment after my recent diagnosis. Hi Agnes, it’s great to hear from you. I can definitely help you with that. Thank you! I just want to make sure I get the right care set up, especially since I’ve been feeling a bit overwhelmed. I completely understand. Let’s get this taken care of for you. Can you tell me what specific follow-up you need? I think I need to see a nurse for medication management and maybe some help with my diabetes. Absolutely, we can arrange skilled nursing care for that. When would be a good time for your appointment? How about Tuesday morning? I usually prefer mornings when my daughter isn’t visiting. Tuesday morning works! Would 9 AM work for you? Yes, that would be perfect. Great! I’ll book you for skilled nursing care then. Just to confirm, that will be $95 to $125 for the visit. That’s fine. I can handle that. Wonderful! I’ll also make a note to remind the nurse about your diabetes management needs. I appreciate that. I just want to feel more on top of everything. Of course, Agnes. After your appointment, would you also be interested in discussing companion care? Companion care? I thought I was already set with that. You are, but if you’re feeling overwhelmed, we can discuss increasing those hours. Oh, I see. I might be open to that. Great! I’ll have the nurse follow up about that after your visit on Tuesday. Thank you. That would be helpful. Is there anything else you need help with today, Agnes? No, that’s all for now. Just looking forward to the appointment. Perfect! So just to confirm, you’re all set for Tuesday at 9 AM. Yes, thank you so much, Margaret. You’re welcome, Agnes! If you have any questions before then, don’t hesitate to call. I will, thanks! Have a great day, Agnes! You too! Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I’m calling to arrange a follow-up appointment after my recent diagnosis.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Agnes, it’s great to hear from you. I can definitely help you with that.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Thank you! I just want to make sure I get the right care set up, especially since I’ve been feeling a bit overwhelmed.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I completely understand. Let’s get this taken care of for you. Can you tell me what specific follow-up you need?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I think I need to see a nurse for medication management and maybe some help with my diabetes.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, we can arrange skilled nursing care for that. When would be a good time for your appointment?",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "How about Tuesday morning? I usually prefer mornings when my daughter isn’t visiting.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Tuesday morning works! Would 9 AM work for you?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be perfect.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great! I’ll book you for skilled nursing care then. Just to confirm, that will be $95 to $125 for the visit.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That’s fine. I can handle that.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Wonderful! I’ll also make a note to remind the nurse about your diabetes management needs.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I appreciate that. I just want to feel more on top of everything.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, Agnes. After your appointment, would you also be interested in discussing companion care?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Companion care? I thought I was already set with that.",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You are, but if you’re feeling overwhelmed, we can discuss increasing those hours.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Oh, I see. I might be open to that.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll have the nurse follow up about that after your visit on Tuesday.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you. That would be helpful.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Is there anything else you need help with today, Agnes?",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 117,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s all for now. Just looking forward to the appointment.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! So just to confirm, you’re all set for Tuesday at 9 AM.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Yes, thank you so much, Margaret.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 133,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Agnes! If you have any questions before then, don’t hesitate to call.",
+          "speaker": "local party",
+          "start_time": 133,
+          "end_time": 137,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will, thanks!",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 140,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Have a great day, Agnes!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 143,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too! Goodbye.",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 147,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-0ccd161a6f95428a8c0b9dd0",
+  "revision": "",
+  "status": "success"
+}
