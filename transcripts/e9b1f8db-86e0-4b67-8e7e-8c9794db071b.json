@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c8c682781905468daa252564",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728586-dbf991c2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c8c682781905468daa252564",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "c8c682781905468daa252564",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c8c682781905468daa252564",
+      "media_name": "b612293b460a40749d6172a9402dc2f5.mp3",
+      "scenario": "A prospect calls inquiring about the cost of a membership at the local sports club. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Charles Thompson. I’m calling to inquire about the cost of membership at the local sports club. Charles, I think you might have the wrong number. We provide home healthcare services. Oh, I see! I thought I was calling the sports club. My apologies! No problem at all! I’m here to help. Are you looking for more information about our services? Yes, actually. I’m interested in some ongoing care options. Great! Can you tell me what specific services you’re looking for? I need more wound care since my last surgery two days ago. We can certainly help with that. Our skilled nursing care for wound management ranges from $95 to $125 per visit. That’s within my budget. How long do the visits usually last? Each visit typically lasts about 1 to 2 hours, depending on the complexity of care. I see. And can I request a male nurse since I prefer that? Absolutely, we can accommodate that request for you. Perfect! What’s the process for scheduling these visits? You'll need to work with our Care Coordinator, Lisa Chen, to set up a care plan. And how do I contact her? You can reach Lisa directly at +13165559203, extension 203. Great, I’ll do that. What about the progress reports for my VA? We provide detailed progress reports and can send them to the VA directly if you need us to. That would be extremely helpful. Thank you! You’re welcome! Would you like me to follow up with you after your first appointment? Yes, please. That would be great. Alright, I’ll set a reminder to check in with you after your visit. Thank you so much, Margaret. I really appreciate your help! It’s my pleasure, Charles. If you have any further questions, feel free to call us anytime. I will. Have a great day! You too, take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I’m calling to inquire about the cost of membership at the local sports club.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Charles, I think you might have the wrong number. We provide home healthcare services.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see! I thought I was calling the sports club. My apologies!",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "No problem at all! I’m here to help. Are you looking for more information about our services?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, actually. I’m interested in some ongoing care options.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great! Can you tell me what specific services you’re looking for?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I need more wound care since my last surgery two days ago.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 34,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We can certainly help with that. Our skilled nursing care for wound management ranges from $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s within my budget. How long do the visits usually last?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Each visit typically lasts about 1 to 2 hours, depending on the complexity of care.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I see. And can I request a male nurse since I prefer that?",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, we can accommodate that request for you.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 57,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Perfect! What’s the process for scheduling these visits?",
+          "speaker": "remote party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You'll need to work with our Care Coordinator, Lisa Chen, to set up a care plan.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "And how do I contact her?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You can reach Lisa directly at +13165559203, extension 203.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great, I’ll do that. What about the progress reports for my VA?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We provide detailed progress reports and can send them to the VA directly if you need us to.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would be extremely helpful. Thank you!",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome! Would you like me to follow up with you after your first appointment?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please. That would be great.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Alright, I’ll set a reminder to check in with you after your visit.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "It’s my pleasure, Charles. If you have any further questions, feel free to call us anytime.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You too, take care!",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 123,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c8c682781905468daa252564",
+  "revision": "",
+  "status": "success"
+}
