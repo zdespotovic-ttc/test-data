@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-1810fbba6af64f45ae01da56",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728722-e5934d2f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-1810fbba6af64f45ae01da56",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "1810fbba6af64f45ae01da56",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-1810fbba6af64f45ae01da56",
+      "media_name": "61e1d797c6dc4c5a9a77038e46cf868b.mp3",
+      "scenario": "The clinic receives a call from a client checking on the status of a prescription refill. Category: Follow-up."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Rose Patterson. I'm calling to check on the status of my mom's prescription refill. Hi Rose! I hope you're doing well. Let me pull up your mom's information. One moment, please. (pause) Okay, I see your mother receives her medications through us. Her last refill was processed yesterday. Oh, great! So, it should be delivered soon then? Yes, it is scheduled for delivery tomorrow morning. That's such a relief! I know how important it is that she has her medications on time. Absolutely, we want to ensure that everything is on track for her care. Also, I wanted to ask if we could have the same caregiver assigned for her companion care? Of course! Consistency is key for her comfort. Do you have someone specific in mind? Yes, we’ve been really pleased with Julie. She’s been wonderful with my mom. Great to hear! I’ll make a note to ensure Julie continues with her care. Thank you! Also, I was wondering about setting up some extra hours for the weekend? We can definitely discuss that! Would you prefer personal assistance or companion care for those additional hours? I think companion care would be best. My mom enjoys that social interaction. Perfect! Our rates for companion care are $25 to $30 per hour. How many additional hours are you thinking about? Maybe four hours, on Saturday and Sunday? That would come to a total of $200 to $240 for the weekend. Would you like me to reserve those hours? Yes, please! That sounds good. Great! I’ll go ahead and schedule that. I’ll send you a confirmation email as soon as it’s done. Thank you so much for your help today, Margaret. You’re very welcome, Rose! Is there anything else I can assist you with? No, that’s everything for now. I appreciate it! Happy to help! Have a wonderful day, Rose. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I'm calling to check on the status of my mom's prescription refill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Rose! I hope you're doing well. Let me pull up your mom's information. One moment, please.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "(pause) Okay, I see your mother receives her medications through us. Her last refill was processed yesterday.",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "left",
+          "id": 3
+        },
+        {
+          "text": "Oh, great! So, it should be delivered soon then?",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 4
+        },
+        {
+          "text": "Yes, it is scheduled for delivery tomorrow morning.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "That's such a relief! I know how important it is that she has her medications on time.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Absolutely, we want to ensure that everything is on track for her care.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Also, I wanted to ask if we could have the same caregiver assigned for her companion care?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Of course! Consistency is key for her comfort. Do you have someone specific in mind?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Yes, we’ve been really pleased with Julie. She’s been wonderful with my mom.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Great to hear! I’ll make a note to ensure Julie continues with her care.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Thank you! Also, I was wondering about setting up some extra hours for the weekend?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "We can definitely discuss that! Would you prefer personal assistance or companion care for those additional hours?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I think companion care would be best. My mom enjoys that social interaction.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Perfect! Our rates for companion care are $25 to $30 per hour. How many additional hours are you thinking about?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Maybe four hours, on Saturday and Sunday?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "That would come to a total of $200 to $240 for the weekend. Would you like me to reserve those hours?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, please! That sounds good.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Great! I’ll go ahead and schedule that. I’ll send you a confirmation email as soon as it’s done.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you so much for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re very welcome, Rose! Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "No, that’s everything for now. I appreciate it!",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Happy to help! Have a wonderful day, Rose.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-1810fbba6af64f45ae01da56",
+  "revision": "",
+  "status": "success"
+}
