@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e4e7ecd9ad2447048dd3482b",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947665926-b1585ecc",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e4e7ecd9ad2447048dd3482b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 158,
+      "duration_ms": 158000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "e4e7ecd9ad2447048dd3482b",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e4e7ecd9ad2447048dd3482b",
+      "media_name": "0f4b2f6ec86e4a8d8da5e53ae4bde0b6.mp3",
+      "scenario": "A prospect calls to complain about poor customer service they experienced during a previous inquiry, leading to dissatisfaction with the company's responsiveness. Category: Service Complaint. Flags: quality_complaint. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 158.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Susan Garcia. I was referred by my father's pulmonologist, but I'm concerned about some poor service I experienced when I inquired earlier. I'm really sorry to hear that, Susan. Can you tell me more about what happened? Yes, I called a few days ago to ask about respiratory care for my father, who has COPD, and I felt like my questions weren’t taken seriously. No one followed up with me. I sincerely apologize for that experience. We strive for high-quality service, and I appreciate you bringing this to my attention. Thank you, but it’s frustrating. I just want to ensure my father gets the respiratory care he needs. Absolutely, I understand your concern. Let’s get you the assistance you need right away. I’d appreciate that. I need to know if you can provide breathing treatments and what that would entail. We can certainly arrange for skilled nursing care, which includes administering breathing treatments and monitoring his condition. How does that work? Are there specific times, and what are the costs involved? Our skilled nursing care ranges from $95 to $125 for a visit, which typically lasts 1 to 2 hours. We can schedule it based on your father's needs. That sounds reasonable. Can I expect a nurse to visit regularly? Yes, we work with clients on a recurring basis, depending on their requirements. Great, I’d really like to get started as soon as possible. I can assist with setting up an initial assessment to develop a care plan. Would you like me to arrange that? Yes, please! That would be very helpful. Perfect. Can I get your father's details and the best time for our nurse to visit? His name is John Garcia, and he’s available in the afternoons after 2 PM. Thank you, Susan. I’ll set that up. Would you also like information on medication management for him? Yes, that would be good to know, especially since he has several prescriptions. I’ll include that in the care plan. I’m really sorry for the previous inconvenience, and we’ll make sure you’re taken care of this time. Thank you, Margaret. I appreciate your help today. You’re welcome! I’ll follow up with you after the assessment to ensure everything is on track. Sounds good. Thank you again! Thank you for your understanding, Susan. Have a great day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Susan Garcia. I was referred by my father's pulmonologist, but I'm concerned about some poor service I experienced when I inquired earlier.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm really sorry to hear that, Susan. Can you tell me more about what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I called a few days ago to ask about respiratory care for my father, who has COPD, and I felt like my questions weren’t taken seriously. No one followed up with me.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I sincerely apologize for that experience. We strive for high-quality service, and I appreciate you bringing this to my attention.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you, but it’s frustrating. I just want to ensure my father gets the respiratory care he needs.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I understand your concern. Let’s get you the assistance you need right away.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I’d appreciate that. I need to know if you can provide breathing treatments and what that would entail.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "We can certainly arrange for skilled nursing care, which includes administering breathing treatments and monitoring his condition.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "How does that work? Are there specific times, and what are the costs involved?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Our skilled nursing care ranges from $95 to $125 for a visit, which typically lasts 1 to 2 hours. We can schedule it based on your father's needs.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds reasonable. Can I expect a nurse to visit regularly?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, we work with clients on a recurring basis, depending on their requirements.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great, I’d really like to get started as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I can assist with setting up an initial assessment to develop a care plan. Would you like me to arrange that?",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please! That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Perfect. Can I get your father's details and the best time for our nurse to visit?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "His name is John Garcia, and he’s available in the afternoons after 2 PM.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 118,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Susan. I’ll set that up. Would you also like information on medication management for him?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, that would be good to know, especially since he has several prescriptions.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’ll include that in the care plan. I’m really sorry for the previous inconvenience, and we’ll make sure you’re taken care of this time.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! I’ll follow up with you after the assessment to ensure everything is on track.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Thank you for your understanding, Susan. Have a great day!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 158,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e4e7ecd9ad2447048dd3482b",
+  "revision": "",
+  "status": "success"
+}
