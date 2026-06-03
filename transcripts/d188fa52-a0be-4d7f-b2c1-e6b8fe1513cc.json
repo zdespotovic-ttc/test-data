@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4d605758c88140e68bd4b856",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666251-3aa802c4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4d605758c88140e68bd4b856",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "4d605758c88140e68bd4b856",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4d605758c88140e68bd4b856",
+      "media_name": "43fd091d7d5e4116bd47851a8fa34565.mp3",
+      "scenario": "A returning customer requests an urgent appointment for their vehicle as it broke down on the highway. Category: Urgent Request. Flags: urgent_request. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Betty Lou Smith. I need urgent help; my car broke down on the highway, and I can't get home. Oh no, I'm so sorry to hear that, Betty! Are you safe? Do you need any immediate assistance? Yes, I’m okay for now, but I really need to get home. I was hoping to arrange for someone to pick me up. I understand. We can help with transportation services. Would that work for you? Yes, please! I need to get back home as soon as possible. Alright, let me check our availability for transportation services right away. We have transportation services available for $45 to $65 per trip. When would you like us to send someone? As soon as possible, please! I really need to get back. I’ll arrange for a ride immediately. Can you confirm your pickup location? I’m at the rest area by mile marker 23 on Highway 54. Got it! I’ll send someone there right away. And how long do you think you’ll need the ride for? Just to my home, it shouldn’t take long. Great! I’ll also check if we have a caregiver available for you at home once you arrive. Would you like that? Yes, I think I’ll need some help with mobility once I’m back. I can schedule a personal care assistant for you. They can help with mobility and any other needs. That would be fantastic. What are the rates for that? Personal care assistance is priced at $28 to $35 per hour. We can set that up immediately for you. Okay, let’s do that, please. I really appreciate your help, Margaret. No problem at all, Betty! I’ll arrange both the ride and the caregiver. I’ll follow up with you shortly to confirm the caregiver's arrival time after you get home. Thank you so much. I feel much better knowing you’re helping me. You’re very welcome! Stay safe, and I’ll talk to you soon. Talk soon, thanks again! Goodbye, Betty! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I need urgent help; my car broke down on the highway, and I can't get home.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, I'm so sorry to hear that, Betty! Are you safe? Do you need any immediate assistance?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I’m okay for now, but I really need to get home. I was hoping to arrange for someone to pick me up.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 23,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. We can help with transportation services. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 29,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, please! I need to get back home as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 29,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Alright, let me check our availability for transportation services right away.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "We have transportation services available for $45 to $65 per trip. When would you like us to send someone?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "As soon as possible, please! I really need to get back.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I’ll arrange for a ride immediately. Can you confirm your pickup location?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 62,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "I’m at the rest area by mile marker 23 on Highway 54.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 65,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Got it! I’ll send someone there right away. And how long do you think you’ll need the ride for?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Just to my home, it shouldn’t take long.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Great! I’ll also check if we have a caregiver available for you at home once you arrive. Would you like that?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Yes, I think I’ll need some help with mobility once I’m back.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I can schedule a personal care assistant for you. They can help with mobility and any other needs.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That would be fantastic. What are the rates for that?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Personal care assistance is priced at $28 to $35 per hour. We can set that up immediately for you.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Okay, let’s do that, please. I really appreciate your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 109,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "No problem at all, Betty! I’ll arrange both the ride and the caregiver.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "I’ll follow up with you shortly to confirm the caregiver's arrival time after you get home.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you so much. I feel much better knowing you’re helping me.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re very welcome! Stay safe, and I’ll talk to you soon.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Talk soon, thanks again!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye, Betty!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4d605758c88140e68bd4b856",
+  "revision": "",
+  "status": "success"
+}
