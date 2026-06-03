@@ -1,0 +1,333 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-a75ddc1cfbcb4ba1923b1f6a",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728885-b3d94f8b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-a75ddc1cfbcb4ba1923b1f6a",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 197,
+      "duration_ms": 197000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "a75ddc1cfbcb4ba1923b1f6a",
+      "caller_id_number": "+13165557642",
+      "caller_id_name": "Eleanor Watson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-a75ddc1cfbcb4ba1923b1f6a",
+      "media_name": "242695fb4d7e4fc598d9543f1c700558.mp3",
+      "scenario": "Someone contacts customer service to ask about delivery times for online orders. Category: General Information. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 197.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Eleanor Watson. I'm calling about the delivery times for online orders. Hi Eleanor! It’s nice to hear from you. Could you clarify which orders you're referring to? I mean the supplies I ordered for my post-stroke recovery care. Ah, got it! Let me check that for you. Can you hold on for just a moment? Of course, take your time. Thank you for waiting, Eleanor. I see that your supplies were shipped yesterday and should arrive within 3 to 5 business days. That sounds good. I just want to make sure I have everything ready for my next therapy session. Absolutely, it's important to be prepared. Is there anything specific you're waiting for? Yes, I ordered some resistance bands and a few other items for my physical therapy. Those items should definitely help with your recovery. I hope so! I’m really committed to my recovery. That’s great to hear, Eleanor! Your dedication is commendable. Thank you! And is there someone I can talk to about scheduling my next physical therapy session? Yes, I can connect you with Dr. Rodriguez, our Physical Therapist. Perfect. Can you give me his direct number? Sure, his number is +13165559215, and he works Monday through Friday. Great, I’ll reach out to him. Would you like me to schedule a session for you, or do you prefer to contact him directly? I think I’ll call him directly. That way I can get a time that suits me best. That sounds like a plan! If you need help with that, just let me know. I will, thanks! Also, do you have any updates on my skilled nursing care? Yes, I can check on that for you. Let me just pull up your file quickly. Thank you! I appreciate your help. Looks like Margaret will be visiting you for your medication management next week. I can confirm the exact day and time if you’d like. Yes, please! I want to make sure I am available. How about I send you a confirmation once I check her schedule? That sounds perfect. Great! And don’t forget, we also offer a service for medication organization if you’re interested. I might look into that. I’ll ask Margaret when she comes next. Absolutely, Eleanor! Is there anything else I can help you with today? No, that will be all. Thank you for your assistance, Margaret! You’re welcome, Eleanor! Have a great day and take care! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Eleanor Watson. I'm calling about the delivery times for online orders.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Eleanor! It’s nice to hear from you. Could you clarify which orders you're referring to?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I mean the supplies I ordered for my post-stroke recovery care.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Ah, got it! Let me check that for you. Can you hold on for just a moment?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Of course, take your time.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for waiting, Eleanor. I see that your supplies were shipped yesterday and should arrive within 3 to 5 business days.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 46,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds good. I just want to make sure I have everything ready for my next therapy session.",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 51,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, it's important to be prepared. Is there anything specific you're waiting for?",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, I ordered some resistance bands and a few other items for my physical therapy.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Those items should definitely help with your recovery.",
+          "speaker": "local party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I hope so! I’m really committed to my recovery.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "That’s great to hear, Eleanor! Your dedication is commendable.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! And is there someone I can talk to about scheduling my next physical therapy session?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Yes, I can connect you with Dr. Rodriguez, our Physical Therapist.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Perfect. Can you give me his direct number?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure, his number is +13165559215, and he works Monday through Friday.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 91,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Great, I’ll reach out to him.",
+          "speaker": "remote party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Would you like me to schedule a session for you, or do you prefer to contact him directly?",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 101,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "I think I’ll call him directly. That way I can get a time that suits me best.",
+          "speaker": "remote party",
+          "start_time": 101,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "That sounds like a plan! If you need help with that, just let me know.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I will, thanks! Also, do you have any updates on my skilled nursing care?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, I can check on that for you. Let me just pull up your file quickly.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 119,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 119,
+          "end_time": 130,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Looks like Margaret will be visiting you for your medication management next week. I can confirm the exact day and time if you’d like.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 150,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, please! I want to make sure I am available.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "How about I send you a confirmation once I check her schedule?",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 162,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "That sounds perfect.",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 166,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Great! And don’t forget, we also offer a service for medication organization if you’re interested.",
+          "speaker": "local party",
+          "start_time": 166,
+          "end_time": 171,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "I might look into that. I’ll ask Margaret when she comes next.",
+          "speaker": "remote party",
+          "start_time": 171,
+          "end_time": 175,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Absolutely, Eleanor! Is there anything else I can help you with today?",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 181,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "No, that will be all. Thank you for your assistance, Margaret!",
+          "speaker": "remote party",
+          "start_time": 181,
+          "end_time": 185,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "You’re welcome, Eleanor! Have a great day and take care!",
+          "speaker": "local party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "right",
+          "id": 33
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 195,
+          "end_time": 197,
+          "channel": "left",
+          "id": 34
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557642",
+    "ooma_remote_name": "Eleanor Watson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-a75ddc1cfbcb4ba1923b1f6a",
+  "revision": "",
+  "status": "success"
+}
