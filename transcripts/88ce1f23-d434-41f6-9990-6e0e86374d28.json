@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-02T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6266cf0403844dedbb4474b7",
+    "created": 1780383600,
+    "modified": 1780383600
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947666302-b87b6449",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6266cf0403844dedbb4474b7",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 144,
+      "duration_ms": 144000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947602800,
+      "call_id": "6266cf0403844dedbb4474b7",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6266cf0403844dedbb4474b7",
+      "media_name": "0af318a0ca3e407e8737c87e871b084b.mp3",
+      "scenario": "A returning customer calls to cancel their subscription due to recent dissatisfaction with service quality. Category: Cancellation. Flags: cancellation_request. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 144.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Helen Johnson. I'm calling to discuss my service. Hi Helen! It's good to hear from you. What seems to be the issue? Well, I think I need to cancel my services. I’ve been quite dissatisfied lately. I’m really sorry to hear that. Could you please share what specific issues you’ve been facing? The physical therapy sessions have been inconsistent. I feel like I’m not making progress anymore. I understand how frustrating that can be, especially after your surgery. When was your last session? It was just about a week ago, but I didn’t feel like I got the attention I needed. I apologize for that experience, Helen. That’s definitely not our standard. I expected better, especially considering my history with the agency. I completely understand, and I appreciate your loyalty. Would you be willing to discuss this further? I’m not sure, but I guess if it could improve my care, I’d be open to it. Thank you for that. I can arrange for Dr. Rodriguez to call you directly to discuss your therapy plan. Would that be okay? Yes, that might help. But I’m still leaning towards cancellation. Let’s do this: I’ll have him reach out, and if you’re not satisfied after that, we can proceed with the cancellation. Okay, that sounds fair. I really just want to see some improvement. Absolutely. And just to confirm, I have your number as +13165552580, correct? That’s right. Great! I’ll make sure Dr. Rodriguez contacts you by the end of the week. Thank you, Margaret. I really appreciate your attention to this. Of course! Also, if you’d consider it, we have companion care services that might help with your overall well-being. I’ll think about it, but my priority is really the physical therapy right now. That’s completely understandable, Helen. Your health is the priority. Thank you for understanding. I look forward to Dr. Rodriguez’s call. You’re welcome! Have a great day, and we’ll touch base soon. You too, goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I'm calling to discuss my service.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen! It's good to hear from you. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I think I need to cancel my services. I’ve been quite dissatisfied lately.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m really sorry to hear that. Could you please share what specific issues you’ve been facing?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The physical therapy sessions have been inconsistent. I feel like I’m not making progress anymore.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how frustrating that can be, especially after your surgery. When was your last session?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It was just about a week ago, but I didn’t feel like I got the attention I needed.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I apologize for that experience, Helen. That’s definitely not our standard.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I expected better, especially considering my history with the agency.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand, and I appreciate your loyalty. Would you be willing to discuss this further?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I’m not sure, but I guess if it could improve my care, I’d be open to it.",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you for that. I can arrange for Dr. Rodriguez to call you directly to discuss your therapy plan. Would that be okay?",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that might help. But I’m still leaning towards cancellation.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Let’s do this: I’ll have him reach out, and if you’re not satisfied after that, we can proceed with the cancellation.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, that sounds fair. I really just want to see some improvement.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely. And just to confirm, I have your number as +13165552580, correct?",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That’s right.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 96,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll make sure Dr. Rodriguez contacts you by the end of the week.",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your attention to this.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Of course! Also, if you’d consider it, we have companion care services that might help with your overall well-being.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 113,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I’ll think about it, but my priority is really the physical therapy right now.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "That’s completely understandable, Helen. Your health is the priority.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you for understanding. I look forward to Dr. Rodriguez’s call.",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 130,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! Have a great day, and we’ll touch base soon.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6266cf0403844dedbb4474b7",
+  "revision": "",
+  "status": "success"
+}
