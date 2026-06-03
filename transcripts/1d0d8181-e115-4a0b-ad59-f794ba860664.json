@@ -1,0 +1,245 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-03T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-adc5bc68203047bc8d46c2b3",
+    "created": 1780470000,
+    "modified": 1780470000
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947728675-e29f413f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-adc5bc68203047bc8d46c2b3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947689200,
+      "call_id": "adc5bc68203047bc8d46c2b3",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-adc5bc68203047bc8d46c2b3",
+      "media_name": "c6e7e6f95fea45ee8a8ed2dc6341d509.mp3",
+      "scenario": "A prospect calls to get a price estimate for a new HVAC installation. Category: New Inquiry. Outcome: quote_provided. Customer type: prospect."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Harold Gonzalez. I’m calling about getting an estimate for a new HVAC installation. I think you may have the wrong number; we provide home healthcare services, not HVAC installations. Oh, I see. I apologize for that! I actually meant to ask about my nursing care schedule. No problem at all, Harold! Let’s talk about your nursing care. How can I help you today? I wanted to check on the schedule for my next vital sign check. It’s been a week since the last one. Sure, let me pull up your information... Okay, I see here you've been with us for about six months now. Yes, with my COPD and cardiac monitoring, I need to keep this regular. Absolutely, it's very important. Would you like for us to set that up for later this week? Yes, that would be great. Can it be sometime around 3 PM? Let me check... Yes, we have availability at 3 PM on Thursday. Does that work for you? Yes, that sounds perfect. Thank you! Great! I'll schedule that for you. Just to confirm, your wife will be present during the visit, correct? Yes, she prefers to be there when the nurse comes. Noted! Also, we can provide Spanish-speaking caregivers if that would help. That would be excellent. Please ensure the nurse speaks Spanish. We’ll make a note of that. Any other concerns or questions while I have you on the line? No, I think that covers everything. Just looking forward to the visit. Perfect! I’ll send you a confirmation email with the details. Thank you so much, Margaret. I appreciate your help! My pleasure, Harold! If you need anything else, don’t hesitate to call us back at +13165559200. Definitely will. Have a great day! You too, Harold! Take care. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I’m calling about getting an estimate for a new HVAC installation.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I think you may have the wrong number; we provide home healthcare services, not HVAC installations.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Oh, I see. I apologize for that! I actually meant to ask about my nursing care schedule.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "No problem at all, Harold! Let’s talk about your nursing care. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I wanted to check on the schedule for my next vital sign check. It’s been a week since the last one.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Sure, let me pull up your information... Okay, I see here you've been with us for about six months now.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, with my COPD and cardiac monitoring, I need to keep this regular.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, it's very important. Would you like for us to set that up for later this week?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would be great. Can it be sometime around 3 PM?",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check... Yes, we have availability at 3 PM on Thursday. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that sounds perfect. Thank you!",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! I'll schedule that for you. Just to confirm, your wife will be present during the visit, correct?",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, she prefers to be there when the nurse comes.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Noted! Also, we can provide Spanish-speaking caregivers if that would help.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be excellent. Please ensure the nurse speaks Spanish.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We’ll make a note of that. Any other concerns or questions while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "No, I think that covers everything. Just looking forward to the visit.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll send you a confirmation email with the details.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you so much, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "My pleasure, Harold! If you need anything else, don’t hesitate to call us back at +13165559200.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Definitely will. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You too, Harold! Take care.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-adc5bc68203047bc8d46c2b3",
+  "revision": "",
+  "status": "success"
+}
