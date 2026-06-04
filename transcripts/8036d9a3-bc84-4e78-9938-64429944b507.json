@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3dd8b956de614ef2a6ea01e0",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947830540-3d4743b7",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3dd8b956de614ef2a6ea01e0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 225,
+      "duration_ms": 225000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "3dd8b956de614ef2a6ea01e0",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3dd8b956de614ef2a6ea01e0",
+      "media_name": "29d99c989ebd41c1aa4b1608e4ee0588.mp3",
+      "scenario": "A returning customer is upset about a recurring charge that they were assured would be removed. Category: Billing. Flags: billing_dispute. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 225.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Harold Gonzalez. I’m calling about a recurring charge on my account that I thought would be removed. I’m sorry to hear that, Harold. Let me pull up your account. Can you hold for just a moment? Sure, no problem. Thank you for waiting. I see here that you have been charged for the last two months for a service that was supposed to be discontinued. Is that correct? Yes, I was assured during my last call that the charges would stop. This is really frustrating. I understand your frustration, Harold, and I apologize for the inconvenience. Let me check why that didn’t happen. I appreciate that. I just want to get this resolved. It looks like there was a miscommunication in our billing department. I’ll escalate this immediately to ensure it gets corrected. Thank you. How long will it take to fix this? Normally, it should be resolved within 3 to 5 business days. I will follow up with you personally to confirm once it’s done. That sounds good. And what about the charges that have already been billed? We can definitely look into issuing a refund for those charges, but I’ll need to confirm the amounts with our finance team as well. Okay, I’d really appreciate that. It’s important for me to keep track of this since I have COPD and need frequent care. Absolutely, I understand. You’ve been a valued client for six months, and we want to make sure you’re taken care of properly. Thank you, Margaret. Oh, and I also wanted to ask if we could schedule a nurse visit for next week. Sure! Would you prefer to keep the same schedule? I see your last visit was just a week ago. Yes, if possible, I’d like to keep the nurse visits on the same days. And please, I prefer Spanish-speaking caregivers as well. Of course, I’ll note that. I will ensure a Spanish-speaking nurse is assigned for your visits. Thanks, that’d be great. To confirm, you'll follow up on the billing issue, and we’ll schedule the nurse visit for next week? Yes, I’ll handle both. Expect my call within the next few days regarding the billing, and I’ll finalize your appointment by the end of today. Thank you, Margaret. I appreciate your help. You’re welcome, Harold! We’re here for you. Have a great day. You too. Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I’m calling about a recurring charge on my account that I thought would be removed.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Harold. Let me pull up your account. Can you hold for just a moment?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, no problem.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you for waiting. I see here that you have been charged for the last two months for a service that was supposed to be discontinued. Is that correct?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 35,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I was assured during my last call that the charges would stop. This is really frustrating.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your frustration, Harold, and I apologize for the inconvenience. Let me check why that didn’t happen.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that. I just want to get this resolved.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "It looks like there was a miscommunication in our billing department. I’ll escalate this immediately to ensure it gets corrected.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 70,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you. How long will it take to fix this?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 80,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Normally, it should be resolved within 3 to 5 business days. I will follow up with you personally to confirm once it’s done.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good. And what about the charges that have already been billed?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can definitely look into issuing a refund for those charges, but I’ll need to confirm the amounts with our finance team as well.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, I’d really appreciate that. It’s important for me to keep track of this since I have COPD and need frequent care.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, I understand. You’ve been a valued client for six months, and we want to make sure you’re taken care of properly.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you, Margaret. Oh, and I also wanted to ask if we could schedule a nurse visit for next week.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 145,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure! Would you prefer to keep the same schedule? I see your last visit was just a week ago.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 155,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, if possible, I’d like to keep the nurse visits on the same days. And please, I prefer Spanish-speaking caregivers as well.",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 165,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, I’ll note that. I will ensure a Spanish-speaking nurse is assigned for your visits.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 175,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thanks, that’d be great. To confirm, you'll follow up on the billing issue, and we’ll schedule the nurse visit for next week?",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 190,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, I’ll handle both. Expect my call within the next few days regarding the billing, and I’ll finalize your appointment by the end of today.",
+          "speaker": "local party",
+          "start_time": 190,
+          "end_time": 200,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 200,
+          "end_time": 210,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Harold! We’re here for you. Have a great day.",
+          "speaker": "local party",
+          "start_time": 210,
+          "end_time": 215,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 215,
+          "end_time": 220,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 220,
+          "end_time": 225,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3dd8b956de614ef2a6ea01e0",
+  "revision": "",
+  "status": "success"
+}
