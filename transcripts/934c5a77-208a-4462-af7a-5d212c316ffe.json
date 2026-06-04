@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-214aeab6089d48d1a29b4c35",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818210-a9627990",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-214aeab6089d48d1a29b4c35",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "214aeab6089d48d1a29b4c35",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-214aeab6089d48d1a29b4c35",
+      "media_name": "2505dff92b5e45e4b347a86d54f433d2.mp3",
+      "scenario": "A business urgently requires emergency cleaning services after a water leak in their office. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, this is Charles Thompson. I have a bit of an emergency situation. Oh no, I’m sorry to hear that, Charles. What’s going on? There’s been a water leak in my office, and it’s causing a mess. I need urgent cleaning services. I understand, that sounds very serious. Let me get some details from you. Yes, please. I need it done as soon as possible, the water is spreading. Can you tell me the address of your office? It’s at 123 Main Street, Wichita, KS. Thank you. And how extensive is the damage? It’s mainly on the carpet and some furniture. I’m worried it could damage my electronics too. I see. We can definitely arrange for a cleaning crew to come out today. That would be great. How long will that take? Typically, our cleaning team can be there within the hour. We will assess the situation on-site. Wonderful. What’s the cost for this urgent cleaning service? Our emergency cleaning services typically range from $150 to $300 depending on the extent of the work required. Alright, I understand. Can you send me an estimate once the team arrives? Absolutely, we will provide a detailed estimate after assessing the damage. Thank you, I appreciate your quick response. Of course, Charles. Is there anything else we can assist you with while we’re at it? Actually, yes. I could use some help with arranging for personal care assistance for my recovery. We can help you with that. When would you need the personal care services to start? Probably next week, I’ll need help with daily activities post-surgery. Let’s make sure to coordinate that with our Care Coordinator, Lisa. Sounds good, thank you. You’re welcome! I’ll have Lisa reach out to you after the cleaning crew has gone through. Perfect. Thanks again, Margaret! No problem at all, Charles. We’ll be in touch shortly! Bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I have a bit of an emergency situation.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, I’m sorry to hear that, Charles. What’s going on?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "There’s been a water leak in my office, and it’s causing a mess. I need urgent cleaning services.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, that sounds very serious. Let me get some details from you.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, please. I need it done as soon as possible, the water is spreading.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Can you tell me the address of your office?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It’s at 123 Main Street, Wichita, KS.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 38,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you. And how extensive is the damage?",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 41,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It’s mainly on the carpet and some furniture. I’m worried it could damage my electronics too.",
+          "speaker": "remote party",
+          "start_time": 41,
+          "end_time": 48,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I see. We can definitely arrange for a cleaning crew to come out today.",
+          "speaker": "local party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great. How long will that take?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Typically, our cleaning team can be there within the hour. We will assess the situation on-site.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Wonderful. What’s the cost for this urgent cleaning service?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Our emergency cleaning services typically range from $150 to $300 depending on the extent of the work required.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Alright, I understand. Can you send me an estimate once the team arrives?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, we will provide a detailed estimate after assessing the damage.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, I appreciate your quick response.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, Charles. Is there anything else we can assist you with while we’re at it?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 94,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Actually, yes. I could use some help with arranging for personal care assistance for my recovery.",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 100,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We can help you with that. When would you need the personal care services to start?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Probably next week, I’ll need help with daily activities post-surgery.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Let’s make sure to coordinate that with our Care Coordinator, Lisa.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good, thank you.",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 117,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! I’ll have Lisa reach out to you after the cleaning crew has gone through.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 122,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect. Thanks again, Margaret!",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 127,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "No problem at all, Charles. We’ll be in touch shortly!",
+          "speaker": "local party",
+          "start_time": 127,
+          "end_time": 130,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-214aeab6089d48d1a29b4c35",
+  "revision": "",
+  "status": "success"
+}
