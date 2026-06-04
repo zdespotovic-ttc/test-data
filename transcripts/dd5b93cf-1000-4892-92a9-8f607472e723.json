@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-f9ae28ad4bc24f65a93206cd",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818260-24ccccc0",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-f9ae28ad4bc24f65a93206cd",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "f9ae28ad4bc24f65a93206cd",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-f9ae28ad4bc24f65a93206cd",
+      "media_name": "9cf83335fd9d47b09175bbf3c74205ea.mp3",
+      "scenario": "A client desperately seeks electrical support to restore power after an outage. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today? Hi Margaret, this is Harold Gonzalez. I'm really worried right now; we lost power at home, and my wife needs her oxygen machine! Oh no, Harold! I'm sorry to hear that. How long has the power been out? It's been over an hour now! I'm trying to figure out what to do for her. I understand your urgency. Have you contacted your power company for an estimated restoration time? Yes, but they say it could take several hours. I don’t know if we can wait that long! Let's see how we can help. Do you have a backup power source, like a generator? No, we don’t have one. I really need immediate support! Okay, I can arrange for one of our caregivers to come help you with your wife's needs. That would be great, but I prefer a Spanish-speaking caregiver if possible. Absolutely, I can arrange that for you. When would you like them to arrive? As soon as possible! My wife can't go without oxygen for much longer. I will prioritize this request. Let me check who’s available right now. Thank you! I really appreciate your help. It’s really stressful for us. I understand, Harold. I have a caregiver available who can be there in about 30 minutes. That’s perfect! What should I do in the meantime? Please try to keep your wife calm and comfortable until they arrive. We’ll do our best. Can you also bring some supplies, like a portable oxygen tank? I’ll make sure the caregiver brings one with them. Thank you so much. Is there any cost for this urgent visit? Yes, since this is an urgent request, it will be billed as a Personal Care Assistance visit at $28 to $35 per hour. That’s reasonable. I just want my wife to be safe. I completely understand, Harold. I'll follow up to ensure everything goes smoothly after the caregiver arrives. Thank you! I really appreciate your responsiveness during this crisis. You're welcome! I'll be in touch shortly after the caregiver is on site. Sounds good. I’ll be waiting for them. Take care, Harold, and we’ll talk soon. Thanks again, Margaret. Goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I'm really worried right now; we lost power at home, and my wife needs her oxygen machine!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, Harold! I'm sorry to hear that. How long has the power been out?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "It's been over an hour now! I'm trying to figure out what to do for her.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your urgency. Have you contacted your power company for an estimated restoration time?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, but they say it could take several hours. I don’t know if we can wait that long!",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let's see how we can help. Do you have a backup power source, like a generator?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "No, we don’t have one. I really need immediate support!",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Okay, I can arrange for one of our caregivers to come help you with your wife's needs.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great, but I prefer a Spanish-speaking caregiver if possible.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I can arrange that for you. When would you like them to arrive?",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "As soon as possible! My wife can't go without oxygen for much longer.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I will prioritize this request. Let me check who’s available right now.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you! I really appreciate your help. It’s really stressful for us.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I understand, Harold. I have a caregiver available who can be there in about 30 minutes.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That’s perfect! What should I do in the meantime?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Please try to keep your wife calm and comfortable until they arrive.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "We’ll do our best. Can you also bring some supplies, like a portable oxygen tank?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll make sure the caregiver brings one with them.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you so much. Is there any cost for this urgent visit?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Yes, since this is an urgent request, it will be billed as a Personal Care Assistance visit at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That’s reasonable. I just want my wife to be safe.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I completely understand, Harold. I'll follow up to ensure everything goes smoothly after the caregiver arrives.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you! I really appreciate your responsiveness during this crisis.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You're welcome! I'll be in touch shortly after the caregiver is on site.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds good. I’ll be waiting for them.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Take care, Harold, and we’ll talk soon.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Thanks again, Margaret. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-f9ae28ad4bc24f65a93206cd",
+  "revision": "",
+  "status": "success"
+}
