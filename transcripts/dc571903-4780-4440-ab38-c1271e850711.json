@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-60ebbdcbdb0847f78bdf6238",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947830418-89f7a1a8",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-60ebbdcbdb0847f78bdf6238",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 132,
+      "duration_ms": 132000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "60ebbdcbdb0847f78bdf6238",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-60ebbdcbdb0847f78bdf6238",
+      "media_name": "6c31aced24844a7bb6b93111b5e69962.mp3",
+      "scenario": "A long-time client reports that their subscription service has been inconsistent and below expectations. Category: Service Complaint. Flags: quality_complaint. Customer type: vip."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 132.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Harold Gonzalez. I’m calling about some issues with my care service lately. Hi Harold, I’m sorry to hear that. Can you tell me more about the issues you’re experiencing? Well, the nursing visits have been inconsistent. My wife and I are quite concerned as I need frequent vital sign checks. I understand, Harold. Consistency is crucial, especially after your recent visits. When did you first notice this issue? It started about two weeks ago. Some days, we get a nurse, and other days we don’t. It’s been really stressful. I completely understand how that could be stressful. I’ll look into this right away. Thank you, Margaret. It’s important for me to have my wife present during the visits, too. I noted that, Harold. We always want to accommodate your preferences. I appreciate that, but it feels like the quality of care has slipped lately. I’m deeply sorry to hear that. Let me assure you, we value your feedback and commitment to our services. Thank you. I just want to make sure I’m getting the care I need, especially with my COPD and cardiac monitoring. Absolutely, your health is our top priority. I’ll investigate these inconsistencies right away. Okay, great. I just want to be sure I’m being taken care of properly. Of course, I’ll also check if we can assign a dedicated nurse who speaks Spanish, as you prefer. That would be really helpful. Thank you! You’re welcome, Harold. In the meantime, would you be interested in exploring additional services, like our skilled nursing care? Maybe, but I really just want consistency in the current service. Understood. I’ll follow up with you about that once I have more information. Sounds good, I appreciate your help. No problem at all. I want to ensure you receive the best care. Thank you, Margaret. I’ll be waiting for your call. I’ll reach out by the end of the day with an update. Thank you again. Goodbye! Goodbye, Harold!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Harold Gonzalez. I’m calling about some issues with my care service lately.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Harold, I’m sorry to hear that. Can you tell me more about the issues you’re experiencing?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the nursing visits have been inconsistent. My wife and I are quite concerned as I need frequent vital sign checks.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, Harold. Consistency is crucial, especially after your recent visits. When did you first notice this issue?",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It started about two weeks ago. Some days, we get a nurse, and other days we don’t. It’s been really stressful.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand how that could be stressful. I’ll look into this right away.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you, Margaret. It’s important for me to have my wife present during the visits, too.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 46,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I noted that, Harold. We always want to accommodate your preferences.",
+          "speaker": "local party",
+          "start_time": 46,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that, but it feels like the quality of care has slipped lately.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 56,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’m deeply sorry to hear that. Let me assure you, we value your feedback and commitment to our services.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Thank you. I just want to make sure I’m getting the care I need, especially with my COPD and cardiac monitoring.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, your health is our top priority. I’ll investigate these inconsistencies right away.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Okay, great. I just want to be sure I’m being taken care of properly.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, I’ll also check if we can assign a dedicated nurse who speaks Spanish, as you prefer.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That would be really helpful. Thank you!",
+          "speaker": "remote party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome, Harold. In the meantime, would you be interested in exploring additional services, like our skilled nursing care?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Maybe, but I really just want consistency in the current service.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Understood. I’ll follow up with you about that once I have more information.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 107,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sounds good, I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 107,
+          "end_time": 112,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "No problem at all. I want to ensure you receive the best care.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I’ll be waiting for your call.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "I’ll reach out by the end of the day with an update.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you again. Goodbye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye, Harold!",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 132,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-60ebbdcbdb0847f78bdf6238",
+  "revision": "",
+  "status": "success"
+}
