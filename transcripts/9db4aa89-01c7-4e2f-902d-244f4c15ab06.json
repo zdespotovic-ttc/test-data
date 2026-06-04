@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c45d47a118d548a29f1b2ba0",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818050-b1c5fb20",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c45d47a118d548a29f1b2ba0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "c45d47a118d548a29f1b2ba0",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c45d47a118d548a29f1b2ba0",
+      "media_name": "d9884e196052474e8e4a3ad891d25570.mp3",
+      "scenario": "A customer reports a billing discrepancy for the last month's gardening services. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi Margaret, my name is Patricia Wilson. I'm calling because I have a billing discrepancy regarding my mother's services. I'm sorry to hear that, Patricia. Can you please provide me with more details about the discrepancy? Yes, I noticed that we were charged for gardening services last month, which we didn’t request at all. I see. That does sound concerning. Let me pull up your account. Can I have your phone number, please? Sure, it’s +13165558471. Thank you, Patricia. One moment while I check your account. [pause] Alright, I see the charge for gardening services here. Could you remind me what services you did request? We only requested post-surgery care for my mother after her hip replacement. Got it. It looks like there was a mix-up in our billing system. I apologize for the inconvenience. Thank you, I appreciate that. How will this be resolved? I can initiate a refund for the gardening services right away. It should be processed within 3-5 business days. That sounds good. Will I receive a confirmation once it’s processed? Yes, you will receive an email confirmation once the refund has been initiated. Great. I’d also like to discuss the post-surgery care for my mother. Of course! We offer specialized post-surgery recovery care. Would you like me to go over the details and pricing? Yes, please. Our post-surgery recovery care starts at $85 and goes up to $110 for 1-3 hours of specialized care. That sounds reasonable. Can we schedule that for the day after her surgery? Absolutely! Can you provide me with the surgery date? It’s on November 15th, so I would need care on the 16th. Perfect! I will schedule care for your mother on November 16th. Thank you, Margaret. Will a caregiver be assigned ahead of time? Yes, I’ll ensure that our Care Coordinator, Lisa, reaches out to confirm the caregiver. Thank you so much for your help. My pleasure, Patricia! Is there anything else I can assist you with today? No, that’s it for now. I appreciate your assistance. You’re welcome! Thank you for choosing CareFirst Home Health. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Patricia Wilson. I'm calling because I have a billing discrepancy regarding my mother's services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Patricia. Can you please provide me with more details about the discrepancy?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed that we were charged for gardening services last month, which we didn’t request at all.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I see. That does sound concerning. Let me pull up your account. Can I have your phone number, please?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, it’s +13165558471.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you, Patricia. One moment while I check your account. [pause] Alright, I see the charge for gardening services here. Could you remind me what services you did request?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "We only requested post-surgery care for my mother after her hip replacement.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Got it. It looks like there was a mix-up in our billing system. I apologize for the inconvenience.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, I appreciate that. How will this be resolved?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can initiate a refund for the gardening services right away. It should be processed within 3-5 business days.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good. Will I receive a confirmation once it’s processed?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, you will receive an email confirmation once the refund has been initiated.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great. I’d also like to discuss the post-surgery care for my mother.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course! We offer specialized post-surgery recovery care. Would you like me to go over the details and pricing?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, please.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Our post-surgery recovery care starts at $85 and goes up to $110 for 1-3 hours of specialized care.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds reasonable. Can we schedule that for the day after her surgery?",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Absolutely! Can you provide me with the surgery date?",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "It’s on November 15th, so I would need care on the 16th.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I will schedule care for your mother on November 16th.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. Will a caregiver be assigned ahead of time?",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Yes, I’ll ensure that our Care Coordinator, Lisa, reaches out to confirm the caregiver.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you so much for your help.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "My pleasure, Patricia! Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "No, that’s it for now. I appreciate your assistance.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Thank you for choosing CareFirst Home Health. Have a great day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c45d47a118d548a29f1b2ba0",
+  "revision": "",
+  "status": "success"
+}
