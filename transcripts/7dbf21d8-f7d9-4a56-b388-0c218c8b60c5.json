@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-faf25037304e4b2ebb492a18",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818244-ead2e6ed",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-faf25037304e4b2ebb492a18",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "faf25037304e4b2ebb492a18",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-faf25037304e4b2ebb492a18",
+      "media_name": "bf664c38a3344fe1a64f97445fbe97d9.mp3",
+      "scenario": "A tenant requests immediate assistance with a locked-out situation in their apartment. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you? Hi, my name is Susan Garcia, and I'm really in a bind right now. I'm sorry to hear that, Susan. What seems to be the problem? I’m locked out of my apartment, and I can't get in! My father is inside, and he has COPD. Oh no, that's urgent! Is he okay? Does he need immediate assistance? Yes, I’m worried he might have trouble breathing without his inhaler. I can't get in! I understand your concern. Are there any neighbors or a family member nearby who can help? No, everyone’s at work, and I’m really panicking here. Let’s see how we can assist you. I can send a caregiver to help with your father. That would be great! How soon can someone get there? We can have a personal care assistant on-site within the hour. Does that work for you? Yes, please, that would help so much! Can I have your address, please, so I can dispatch someone quickly? Yes, it’s 123 Maple Street, Apartment 4B. Thank you. I’ll have someone there as soon as possible. What kind of services will the caregiver provide? Our caregiver can monitor your father's breathing, assist with his medication, and ensure he remains calm. That’s exactly what he needs. How much will this cost? Our personal care assistance is priced at $28 to $35 per hour. Okay, that’s reasonable. I just want to make sure he’s okay! I completely understand. I’ll stay on the line until the caregiver arrives if you’d like. Yes, please, I would really appreciate that. Also, after this, we can discuss ongoing support for your father's COPD management, if you’re interested. That sounds helpful, definitely! I want to ensure he gets the best care. Great! I’ll connect you with our Care Coordinator, Lisa, after the caregiver arrives. Perfect, thank you so much for your help! You’re welcome, Susan. Just hold tight, and we’ll have someone there shortly. Okay, I’m waiting. Thank you again! No problem! I’ll keep you updated.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, my name is Susan Garcia, and I'm really in a bind right now.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Susan. What seems to be the problem?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m locked out of my apartment, and I can't get in! My father is inside, and he has COPD.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no, that's urgent! Is he okay? Does he need immediate assistance?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I’m worried he might have trouble breathing without his inhaler. I can't get in!",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand your concern. Are there any neighbors or a family member nearby who can help?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "No, everyone’s at work, and I’m really panicking here.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let’s see how we can assist you. I can send a caregiver to help with your father.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great! How soon can someone get there?",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We can have a personal care assistant on-site within the hour. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 44,
+          "end_time": 49,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please, that would help so much!",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Can I have your address, please, so I can dispatch someone quickly?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, it’s 123 Maple Street, Apartment 4B.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 63,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you. I’ll have someone there as soon as possible.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "What kind of services will the caregiver provide?",
+          "speaker": "remote party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Our caregiver can monitor your father's breathing, assist with his medication, and ensure he remains calm.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That’s exactly what he needs. How much will this cost?",
+          "speaker": "remote party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our personal care assistance is priced at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, that’s reasonable. I just want to make sure he’s okay!",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I completely understand. I’ll stay on the line until the caregiver arrives if you’d like.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please, I would really appreciate that.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 103,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Also, after this, we can discuss ongoing support for your father's COPD management, if you’re interested.",
+          "speaker": "local party",
+          "start_time": 103,
+          "end_time": 108,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "That sounds helpful, definitely! I want to ensure he gets the best care.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Great! I’ll connect you with our Care Coordinator, Lisa, after the caregiver arrives.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect, thank you so much for your help!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome, Susan. Just hold tight, and we’ll have someone there shortly.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Okay, I’m waiting. Thank you again!",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "No problem! I’ll keep you updated.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-faf25037304e4b2ebb492a18",
+  "revision": "",
+  "status": "success"
+}
