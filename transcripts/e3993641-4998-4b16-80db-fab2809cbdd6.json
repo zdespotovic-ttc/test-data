@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-73dc3875109b4985bec03a8b",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947830526-d96d3e8b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-73dc3875109b4985bec03a8b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 180,
+      "duration_ms": 180000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "73dc3875109b4985bec03a8b",
+      "caller_id_number": "+13165556203",
+      "caller_id_name": "David Anderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-73dc3875109b4985bec03a8b",
+      "media_name": "0ca928318e414627af473d5a40e140cc.mp3",
+      "scenario": "A client calls to contest a billing error that resulted in an unexpected charge for a canceled service. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 180.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is David Anderson. I’m calling about a billing issue I noticed on my account. I’m sorry to hear that, David. Can you please provide me with more details about the billing issue? Sure, I received a charge for a service that was supposed to be canceled. It’s a bit unexpected, and I’d like to understand what happened. I understand your concern. Let me pull up your account to see the details. One moment, please. Alright, I see that there was a charge for skilled nursing care scheduled for last week. It looks like it wasn’t properly canceled in our system. Yes, that’s exactly right. We had to cancel it due to my wife’s condition. I’m really sorry about that, David. I can see how that would be frustrating. It really is. We were counting on not being billed for that service. Can you help me get this sorted out? Absolutely, I’ll initiate a refund for that charge right now. It usually takes about 5-7 business days to process. Thank you, I appreciate that. Is there anything I need to do on my end? No, not at this time. I’ll take care of everything. Great. I also wanted to ask about services for my wife. She’s recovering from a stroke and needs physical therapy and nursing care. We can certainly help with that. Dr. James Rodriguez is our physical therapist, and we also have skilled nursing services available. What’s the pricing for those services? Physical therapy is priced between $110 and $140 per session, and skilled nursing care ranges from $95 to $125 per visit. That sounds reasonable. Can I schedule both services for her? Yes, I can assist you with that. Would you like to speak with our Care Coordinator, Lisa Chen, for scheduling? Yes, that would be helpful. Alright, I’ll transfer you to her after we finish here. Is there anything else I can do for you today? No, that covers it. Thank you for your help, Margaret. You’re welcome, David! I’ll initiate the refund and transfer your call to Lisa now. Thank you! You’re welcome! Have a great day! You too, bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is David Anderson. I’m calling about a billing issue I noticed on my account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, David. Can you please provide me with more details about the billing issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, I received a charge for a service that was supposed to be canceled. It’s a bit unexpected, and I’d like to understand what happened.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me pull up your account to see the details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Alright, I see that there was a charge for skilled nursing care scheduled for last week. It looks like it wasn’t properly canceled in our system.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "Yes, that’s exactly right. We had to cancel it due to my wife’s condition.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "I’m really sorry about that, David. I can see how that would be frustrating.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "It really is. We were counting on not being billed for that service. Can you help me get this sorted out?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Absolutely, I’ll initiate a refund for that charge right now. It usually takes about 5-7 business days to process.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thank you, I appreciate that. Is there anything I need to do on my end?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "No, not at this time. I’ll take care of everything.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Great. I also wanted to ask about services for my wife. She’s recovering from a stroke and needs physical therapy and nursing care.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "We can certainly help with that. Dr. James Rodriguez is our physical therapist, and we also have skilled nursing services available.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "What’s the pricing for those services?",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Physical therapy is priced between $110 and $140 per session, and skilled nursing care ranges from $95 to $125 per visit.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That sounds reasonable. Can I schedule both services for her?",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 130,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Yes, I can assist you with that. Would you like to speak with our Care Coordinator, Lisa Chen, for scheduling?",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Alright, I’ll transfer you to her after we finish here. Is there anything else I can do for you today?",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 150,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "No, that covers it. Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "You’re welcome, David! I’ll initiate the refund and transfer your call to Lisa now.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You’re welcome! Have a great day!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165556203",
+    "ooma_remote_name": "David Anderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-73dc3875109b4985bec03a8b",
+  "revision": "",
+  "status": "success"
+}
