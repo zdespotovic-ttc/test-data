@@ -1,0 +1,341 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6d435cb88d024c4ca5718d57",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818170-3c9a181a",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6d435cb88d024c4ca5718d57",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 154,
+      "duration_ms": 154000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "6d435cb88d024c4ca5718d57",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6d435cb88d024c4ca5718d57",
+      "media_name": "186376f5c2ab47dbba18f48944606f1d.mp3",
+      "scenario": "A customer urgently calls regarding a burst pipe that needs immediate repair to prevent flooding. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 154.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret, this is Edward Martinez. I need urgent help! Hi, Edward. I'm here to help. What's going on? There's a burst pipe in my kitchen, and water is starting to flood the floor! Oh no! That sounds serious. Have you called a plumber yet? No, I haven't had the chance. I thought I'd call you first since I need someone to watch my wife. I understand. Let me check our availability for respite care immediately. Thank you. I really need to get this fixed before it gets worse. Just to confirm, how long do you think you'll need the caregiver? Probably a few hours, depending on how long the repairs take. Okay, I’ll arrange for one of our personal care assistants to come by. That would be great! My wife needs someone to assist her while I deal with this. Let me get Lisa Chen, our Care Coordinator, on the line to handle that for you. I appreciate it. I just can't leave her alone right now. Of course, Edward. I'm transferring you to Lisa now. (transferring call) Lisa, can you assist Edward with arranging respite care? He has an urgent situation with a burst pipe and needs immediate support for his wife. (to Edward) I have Lisa on the line now. She's going to help you. Hi, Lisa. Thanks for picking up. Hi, Edward! I understand you need some urgent assistance. How can I help? I need someone to stay with my wife while I deal with a flooding issue. Absolutely, let’s get that set up for you right away. What time do you need help? As soon as possible, please. We can send a caregiver to you within the hour. That sounds perfect, thank you. I'll also check on our skilled nursing services for future needs if you're interested. Yes, that could be helpful too, especially for ongoing care. Great! I’ll follow up with you once we have the caregiver in place. Thank you so much, Lisa. I really appreciate your help. It’s my pleasure, Edward. We’re here for you. I’ll call you back shortly with the caregiver’s arrival time. Thank you! I'll get on the phone with a plumber now. Sounds good. Talk to you soon! Bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret, this is Edward Martinez. I need urgent help!",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Edward. I'm here to help. What's going on?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "There's a burst pipe in my kitchen, and water is starting to flood the floor!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no! That sounds serious. Have you called a plumber yet?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "No, I haven't had the chance. I thought I'd call you first since I need someone to watch my wife.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 26,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand. Let me check our availability for respite care immediately.",
+          "speaker": "local party",
+          "start_time": 26,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you. I really need to get this fixed before it gets worse.",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Just to confirm, how long do you think you'll need the caregiver?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Probably a few hours, depending on how long the repairs take.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Okay, I’ll arrange for one of our personal care assistants to come by.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great! My wife needs someone to assist her while I deal with this.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me get Lisa Chen, our Care Coordinator, on the line to handle that for you.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I appreciate it. I just can't leave her alone right now.",
+          "speaker": "remote party",
+          "start_time": 59,
+          "end_time": 64,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, Edward. I'm transferring you to Lisa now.",
+          "speaker": "local party",
+          "start_time": 64,
+          "end_time": 68,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "(transferring call)",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Lisa, can you assist Edward with arranging respite care?",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "He has an urgent situation with a burst pipe and needs immediate support for his wife.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "(to Edward) I have Lisa on the line now. She's going to help you.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Hi, Lisa. Thanks for picking up.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 88,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Hi, Edward! I understand you need some urgent assistance. How can I help?",
+          "speaker": "local party",
+          "start_time": 88,
+          "end_time": 92,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "I need someone to stay with my wife while I deal with a flooding issue.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 96,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Absolutely, let’s get that set up for you right away. What time do you need help?",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 100,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "As soon as possible, please.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "We can send a caregiver to you within the hour.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "That sounds perfect, thank you.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 112,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I'll also check on our skilled nursing services for future needs if you're interested.",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 116,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "Yes, that could be helpful too, especially for ongoing care.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Great! I’ll follow up with you once we have the caregiver in place.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you so much, Lisa. I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "It’s my pleasure, Edward. We’re here for you.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "I’ll call you back shortly with the caregiver’s arrival time.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 139,
+          "channel": "left",
+          "id": 31
+        },
+        {
+          "text": "Thank you! I'll get on the phone with a plumber now.",
+          "speaker": "remote party",
+          "start_time": 139,
+          "end_time": 143,
+          "channel": "right",
+          "id": 32
+        },
+        {
+          "text": "Sounds good. Talk to you soon!",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 147,
+          "channel": "left",
+          "id": 33
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "right",
+          "id": 34
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "left",
+          "id": 35
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6d435cb88d024c4ca5718d57",
+  "revision": "",
+  "status": "success"
+}
