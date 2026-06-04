@@ -1,0 +1,309 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2216cd406f8d49a38aec628f",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947830555-dea501ce",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2216cd406f8d49a38aec628f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 178,
+      "duration_ms": 178000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "2216cd406f8d49a38aec628f",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2216cd406f8d49a38aec628f",
+      "media_name": "78683ce5691d4d259aed1d590076357b.mp3",
+      "scenario": "A new customer calls to dispute their first bill, claiming discrepancies in the charges listed. Category: Billing. Flags: billing_dispute. Customer type: new_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 178.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Helen Johnson. I'm calling about a billing issue I have. Hi Helen! I'm sorry to hear that. Could you explain the issue you're experiencing? Yes, I received my first bill, and there are some discrepancies I'm concerned about. I understand how important this is. Can you tell me what specific charges you’re disputing? Sure, there are charges for physical therapy that seem higher than what I expected. I see. Our physical therapy services range from $110 to $140 per session. What amount is listed on your bill? It shows $150 for the last session, and I thought it was supposed to be within that range. Let me check your file quickly to see what might have caused that discrepancy. Thank you, I appreciate it. I don’t want to overpay, especially since I’m on a tight budget. Absolutely, I completely understand. One moment please while I pull up your information. Okay, I see your last session was indeed billed at $150. It appears there was an additional charge for an extended session due to extra time spent. I wasn’t aware of that. Can you explain why it was extended? Of course. Your therapist noted that additional time was necessary for your recovery progress during that session. I see, but I would have liked to be informed about the extended time beforehand. That’s a valid concern, Helen. I’ll make sure to address this with our team. Thank you. I just want to avoid surprises in the future. I completely understand. Would you like me to adjust your bill to reflect the standard session rate? Yes, that would be great. I appreciate your help with this. No problem, I’ll initiate that adjustment right away. Thank you, Margaret. Is there anything else I should be aware of? Just to let you know, we also offer additional services like medication management. That could be helpful. Can you tell me more about those? Sure! Medication management is $65 to $80 and includes reminders and supervision. I might be interested in that. Great! I can connect you with our care coordinator, Lisa Chen, if you'd like. Yes, please do that. I’ll set that up. Is there anything else you need help with today? No, that’s everything. Thank you so much for your assistance! You’re very welcome, Helen! Have a wonderful day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I'm calling about a billing issue I have.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen! I'm sorry to hear that. Could you explain the issue you're experiencing?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I received my first bill, and there are some discrepancies I'm concerned about.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how important this is. Can you tell me what specific charges you’re disputing?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, there are charges for physical therapy that seem higher than what I expected.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I see. Our physical therapy services range from $110 to $140 per session. What amount is listed on your bill?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It shows $150 for the last session, and I thought it was supposed to be within that range.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check your file quickly to see what might have caused that discrepancy.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, I appreciate it. I don’t want to overpay, especially since I’m on a tight budget.",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 58,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I completely understand. One moment please while I pull up your information.",
+          "speaker": "local party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, I see your last session was indeed billed at $150. It appears there was an additional charge for an extended session due to extra time spent.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 80,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "I wasn’t aware of that. Can you explain why it was extended?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 86,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Of course. Your therapist noted that additional time was necessary for your recovery progress during that session.",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 93,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I see, but I would have liked to be informed about the extended time beforehand.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 98,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "That’s a valid concern, Helen. I’ll make sure to address this with our team.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Thank you. I just want to avoid surprises in the future.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I completely understand. Would you like me to adjust your bill to reflect the standard session rate?",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Yes, that would be great. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "No problem, I’ll initiate that adjustment right away.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 121,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Thank you, Margaret. Is there anything else I should be aware of?",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Just to let you know, we also offer additional services like medication management.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 131,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That could be helpful. Can you tell me more about those?",
+          "speaker": "remote party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Sure! Medication management is $65 to $80 and includes reminders and supervision.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 142,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "I might be interested in that.",
+          "speaker": "remote party",
+          "start_time": 142,
+          "end_time": 147,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Great! I can connect you with our care coordinator, Lisa Chen, if you'd like.",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 153,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Yes, please do that.",
+          "speaker": "remote party",
+          "start_time": 153,
+          "end_time": 157,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "I’ll set that up. Is there anything else you need help with today?",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 162,
+          "channel": "left",
+          "id": 27
+        },
+        {
+          "text": "No, that’s everything. Thank you so much for your assistance!",
+          "speaker": "remote party",
+          "start_time": 162,
+          "end_time": 167,
+          "channel": "right",
+          "id": 28
+        },
+        {
+          "text": "You’re very welcome, Helen! Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 167,
+          "end_time": 171,
+          "channel": "left",
+          "id": 29
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 171,
+          "end_time": 175,
+          "channel": "right",
+          "id": 30
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 175,
+          "end_time": 178,
+          "channel": "left",
+          "id": 31
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2216cd406f8d49a38aec628f",
+  "revision": "",
+  "status": "success"
+}
