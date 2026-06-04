@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-4c08001d332f4d558ebae09c",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818448-5c2382ba",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-4c08001d332f4d558ebae09c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 170,
+      "duration_ms": 170000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "4c08001d332f4d558ebae09c",
+      "caller_id_number": "+13165554817",
+      "caller_id_name": "Jennifer Taylor",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-4c08001d332f4d558ebae09c",
+      "media_name": "baa482578af4480db7ea4bde11683056.mp3",
+      "scenario": "A returning customer calls to stop their HVAC maintenance services due to perceived inefficiencies. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 170.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today? Hi Margaret, my name is Jennifer Taylor. I’m calling because I need to stop the companion care services for my grandmother. I’m sorry to hear that, Jennifer. Can I ask what prompted your decision to cancel? Well, I feel like there have been some inefficiencies, and my grandmother hasn’t been getting the help she needs with her daily activities. I understand how important it is for your grandmother to receive proper care. Can you share more about the specific issues you've encountered? Sure, the caregivers have been showing up late, and sometimes they're not following the care plan we discussed. It’s really frustrating. I sincerely apologize for that experience. We strive for high-quality care, and I appreciate your feedback. Would you like me to investigate this further? Yes, I think that would be helpful. I just want to make sure she’s taken care of. Thank you for your patience, Jennifer. I can look into the caregiver schedules and the care plan details. Can I have your grandmother's name for reference? Her name is Evelyn Taylor. Thank you, Evelyn. Would you also like to discuss the possibility of adjusting her care plan instead of canceling entirely? That might be worth considering, especially if we can ensure better care. What options do you have? We can assign a different caregiver or even a supervisor to ensure that her needs are met effectively. Would you be open to that? Yes, I’d like to hear more about that option. Great! I’ll set up a meeting with our Care Coordinator, Lisa Chen. She can help develop a tailored care plan for Evelyn. That sounds good. When can we schedule this meeting? Lisa is available tomorrow afternoon. Would that work for you? Yes, that works. Perfect! I’ll arrange that and follow up with you to confirm the time. Thank you, I really appreciate your help. It’s my pleasure, Jennifer. Is there anything else I can assist you with today? No, that’s all for now. Thanks again! You’re welcome! Have a great day, and we’ll be in touch soon. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Jennifer Taylor. I’m calling because I need to stop the companion care services for my grandmother.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Jennifer. Can I ask what prompted your decision to cancel?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I feel like there have been some inefficiencies, and my grandmother hasn’t been getting the help she needs with her daily activities.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 23,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how important it is for your grandmother to receive proper care. Can you share more about the specific issues you've encountered?",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, the caregivers have been showing up late, and sometimes they're not following the care plan we discussed. It’s really frustrating.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I sincerely apologize for that experience. We strive for high-quality care, and I appreciate your feedback. Would you like me to investigate this further?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 48,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, I think that would be helpful. I just want to make sure she’s taken care of.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for your patience, Jennifer. I can look into the caregiver schedules and the care plan details. Can I have your grandmother's name for reference?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 63,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Her name is Evelyn Taylor.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 70,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Thank you, Evelyn. Would you also like to discuss the possibility of adjusting her care plan instead of canceling entirely?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That might be worth considering, especially if we can ensure better care. What options do you have?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "We can assign a different caregiver or even a supervisor to ensure that her needs are met effectively. Would you be open to that?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 95,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, I’d like to hear more about that option.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll set up a meeting with our Care Coordinator, Lisa Chen. She can help develop a tailored care plan for Evelyn.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That sounds good. When can we schedule this meeting?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 118,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Lisa is available tomorrow afternoon. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 125,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that works.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Perfect! I’ll arrange that and follow up with you to confirm the time.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, I really appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 142,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It’s my pleasure, Jennifer. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 150,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, that’s all for now. Thanks again!",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! Have a great day, and we’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554817",
+    "ooma_remote_name": "Jennifer Taylor",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-4c08001d332f4d558ebae09c",
+  "revision": "",
+  "status": "success"
+}
