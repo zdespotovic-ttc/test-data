@@ -1,0 +1,317 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-3e4f1e74e07643c0a862a1c4",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947830612-03303865",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-3e4f1e74e07643c0a862a1c4",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 190,
+      "duration_ms": 190000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "3e4f1e74e07643c0a862a1c4",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-3e4f1e74e07643c0a862a1c4",
+      "media_name": "f73feb8374f44bd18b453188469f5873.mp3",
+      "scenario": "A returning customer urgently requests an update on their repair service status, as it is time-sensitive. Category: Urgent Request. Flags: urgent_request. Customer type: returning_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 190.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Karen Lewis. I'm calling because my husband needs post-operative care after his cardiac surgery next month. Hi Karen! Thanks for reaching out. We can definitely help with that. Great! I wanted to know what services you offer for post-operative care. We provide Post-Surgery Recovery Care, which includes specialized support for clients recovering from surgical procedures. How much does that cost? The price ranges from $85 to $110 for 1 to 3 hours of care. Okay, that sounds reasonable. Can we schedule that? Yes, we can set that up. When is the surgery scheduled for? It’s on November 10th. I’d like to have someone start on the 11th. Perfect. I’ll note that for the 11th. How many hours do you think you’ll need? I think we’ll need 3 hours that day to help him settle in. Great, I’ll schedule that for you. Would you also be interested in Medication Management? Yes, that would be helpful. What’s the cost for that? It’s $65 to $80 for 30 to 45 minutes of service. Let’s add that too, please. Absolutely! So we have 3 hours of Post-Surgery Recovery Care and Medication Management. Yes, that sounds perfect. How do I finalize this? I’ll need some information to create the care plan and confirm your insurance coverage, if applicable. Sure, I can provide that. What details do you need? Just his full name, date of birth, and insurance details if you have them. His name is John Lewis, and he was born on March 15, 1955. Thank you, Karen. I’ll also need the insurance details, if possible. I don’t have it on me right now, but I can email it later today. That works! Please send it to our Care Coordinator, Lisa Chen, at the email I’ll provide. Perfect, thank you. You’re welcome! I’ll send you a confirmation of the scheduled services. What’s the follow-up number in case I have questions? You can reach us at +13165559200. Thank you, Margaret. I appreciate your help! My pleasure, Karen! We look forward to assisting you and your husband. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Karen Lewis. I'm calling because my husband needs post-operative care after his cardiac surgery next month.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Karen! Thanks for reaching out. We can definitely help with that.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Great! I wanted to know what services you offer for post-operative care.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We provide Post-Surgery Recovery Care, which includes specialized support for clients recovering from surgical procedures.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "How much does that cost?",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "The price ranges from $85 to $110 for 1 to 3 hours of care.",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, that sounds reasonable. Can we schedule that?",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Yes, we can set that up. When is the surgery scheduled for?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "It’s on November 10th. I’d like to have someone start on the 11th.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Perfect. I’ll note that for the 11th. How many hours do you think you’ll need?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I think we’ll need 3 hours that day to help him settle in.",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 68,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great, I’ll schedule that for you. Would you also be interested in Medication Management?",
+          "speaker": "local party",
+          "start_time": 68,
+          "end_time": 74,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be helpful. What’s the cost for that?",
+          "speaker": "remote party",
+          "start_time": 74,
+          "end_time": 79,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "It’s $65 to $80 for 30 to 45 minutes of service.",
+          "speaker": "local party",
+          "start_time": 79,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Let’s add that too, please.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! So we have 3 hours of Post-Surgery Recovery Care and Medication Management.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, that sounds perfect. How do I finalize this?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I’ll need some information to create the care plan and confirm your insurance coverage, if applicable.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 109,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sure, I can provide that. What details do you need?",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Just his full name, date of birth, and insurance details if you have them.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 124,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "His name is John Lewis, and he was born on March 15, 1955.",
+          "speaker": "remote party",
+          "start_time": 124,
+          "end_time": 130,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Karen. I’ll also need the insurance details, if possible.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 136,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I don’t have it on me right now, but I can email it later today.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 144,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "That works! Please send it to our Care Coordinator, Lisa Chen, at the email I’ll provide.",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 149,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Perfect, thank you.",
+          "speaker": "remote party",
+          "start_time": 149,
+          "end_time": 154,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! I’ll send you a confirmation of the scheduled services.",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 160,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "What’s the follow-up number in case I have questions?",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 167,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You can reach us at +13165559200.",
+          "speaker": "local party",
+          "start_time": 167,
+          "end_time": 172,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help!",
+          "speaker": "remote party",
+          "start_time": 172,
+          "end_time": 177,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "My pleasure, Karen! We look forward to assisting you and your husband. Have a great day!",
+          "speaker": "local party",
+          "start_time": 177,
+          "end_time": 183,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 183,
+          "end_time": 187,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 187,
+          "end_time": 190,
+          "channel": "left",
+          "id": 32
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-3e4f1e74e07643c0a862a1c4",
+  "revision": "",
+  "status": "success"
+}
