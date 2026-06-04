@@ -1,0 +1,221 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-6491c34e11d74aa8b01336a9",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947830474-d9806caa",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-6491c34e11d74aa8b01336a9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 140,
+      "duration_ms": 140000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "6491c34e11d74aa8b01336a9",
+      "caller_id_number": "+13165551234",
+      "caller_id_name": "Agnes Rodriguez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-6491c34e11d74aa8b01336a9",
+      "media_name": "e6cf6675628240b78a7430b19fa0607e.mp3",
+      "scenario": "A customer contacts support to complain about the poor customer service they received during their last interaction. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 140.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Agnes Rodriguez. I’m calling regarding a concern I have about the service I received during my last visit. I’m sorry to hear that, Agnes. Could you please tell me a bit more about what happened? Well, I had a personal care assistant come yesterday, and I felt they weren’t as attentive as usual. It seemed like they were rushing through the activities. I apologize for your experience. That sounds frustrating. That's certainly not the level of care we aim to provide. Yes, it was really disappointing. I usually look forward to my visits, and this one left me feeling neglected. I completely understand, Agnes. We value your feedback, and I’d like to address this issue immediately. Can you tell me the name of the caregiver who visited? I believe her name was Karen. She’s been with your agency for a while. Thank you for that information. I’ll be sure to follow up with her about this. I appreciate that, Margaret. I just want to make sure I’m getting the care that I need. Absolutely, Agnes. Your well-being is our priority. I’ll also have our Care Coordinator, Lisa, reach out to you to discuss your care plan. That sounds good. I’d like to ensure we’re on the same page moving forward. Definitely. Additionally, if you ever feel that you need a different caregiver, please let us know. We can always arrange a change. I didn’t know that! That’s good to hear. I just want someone who understands my needs. Of course, I’ll make a note of that. Lastly, we do offer companionship activities, like gardening, if you're interested in scheduling a dedicated session. Oh, I’d love that! Gardening always lifts my spirits. Great! I’ll have Lisa discuss that with you too. Is there anything else I can help with today? No, that’s all for now. Thank you for your help, Margaret. You’re very welcome, Agnes. I’ll ensure these concerns are addressed promptly. Have a wonderful day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Agnes Rodriguez. I’m calling regarding a concern I have about the service I received during my last visit.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Agnes. Could you please tell me a bit more about what happened?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I had a personal care assistant come yesterday, and I felt they weren’t as attentive as usual. It seemed like they were rushing through the activities.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for your experience. That sounds frustrating. That's certainly not the level of care we aim to provide.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it was really disappointing. I usually look forward to my visits, and this one left me feeling neglected.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand, Agnes. We value your feedback, and I’d like to address this issue immediately. Can you tell me the name of the caregiver who visited?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I believe her name was Karen. She’s been with your agency for a while.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for that information. I’ll be sure to follow up with her about this.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that, Margaret. I just want to make sure I’m getting the care that I need.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, Agnes. Your well-being is our priority. I’ll also have our Care Coordinator, Lisa, reach out to you to discuss your care plan.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good. I’d like to ensure we’re on the same page moving forward.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Definitely. Additionally, if you ever feel that you need a different caregiver, please let us know. We can always arrange a change.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I didn’t know that! That’s good to hear. I just want someone who understands my needs.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, I’ll make a note of that. Lastly, we do offer companionship activities, like gardening, if you're interested in scheduling a dedicated session.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Oh, I’d love that! Gardening always lifts my spirits.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Great! I’ll have Lisa discuss that with you too. Is there anything else I can help with today?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 120,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "No, that’s all for now. Thank you for your help, Margaret.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You’re very welcome, Agnes. I’ll ensure these concerns are addressed promptly. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 20
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165551234",
+    "ooma_remote_name": "Agnes Rodriguez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-6491c34e11d74aa8b01336a9",
+  "revision": "",
+  "status": "success"
+}
