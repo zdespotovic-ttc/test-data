@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ee06ba35625a42fd93e2de88",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818274-1d0644d9",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ee06ba35625a42fd93e2de88",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 124,
+      "duration_ms": 124000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "ee06ba35625a42fd93e2de88",
+      "caller_id_number": "+13165558471",
+      "caller_id_name": "Patricia Wilson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ee06ba35625a42fd93e2de88",
+      "media_name": "093e1e547f6b49da83b09d40d1b31302.mp3",
+      "scenario": "A homeowner urgently needs plumbing services after discovering a severe leak. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 124.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Patricia Wilson. I was referred by Dr. Anderson regarding my mother. Hello, Patricia! It's great to hear from you. What kind of services are you looking for? My mother needs post-surgery care after her hip replacement. I’m worried about her recovery. I understand your concern. We can definitely help with that. When is her surgery scheduled? It’s on Friday next week. I’d like to have someone ready to assist her afterward. Perfect, we can set up post-surgery recovery care, which includes specialized assistance. That sounds good. Can you tell me more about what that entails? Of course! Our post-surgery recovery care costs between $85 to $110 per visit for 1 to 3 hours, depending on the level of care needed. That’s reasonable. What kind of support does the caregiver provide during those visits? The caregiver will assist with mobility, medication management, and any personal hygiene needs, plus ensure her comfort as she recovers. Excellent! I want to ensure she has the best care possible. Absolutely, Patricia. We prioritize quality care for all our clients. Thank you. How quickly can we get started after her surgery? We can schedule a caregiver for the day after her surgery to help with the transition home. That’s great! I’ll need to make sure her insurance covers this. We can assist with the insurance authorization process. Would you like me to connect you with Lisa, our Care Coordinator? Yes, please! That would be very helpful. Let me transfer you to her. She can explain the insurance details and next steps. Thank you so much for your help today, Margaret. You’re welcome, Patricia! I’ll connect you now. (pausing briefly) Just a moment, please. (after a short pause) You’re now connected with Lisa Chen. Hi Lisa, I'm Patricia Wilson. I need help with my mother’s post-surgery care. Hi Patricia! I’m here to assist you with that. Let’s go over the details.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Patricia Wilson. I was referred by Dr. Anderson regarding my mother.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hello, Patricia! It's great to hear from you. What kind of services are you looking for?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "My mother needs post-surgery care after her hip replacement. I’m worried about her recovery.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. We can definitely help with that. When is her surgery scheduled?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s on Friday next week. I’d like to have someone ready to assist her afterward.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Perfect, we can set up post-surgery recovery care, which includes specialized assistance.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 31,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds good. Can you tell me more about what that entails?",
+          "speaker": "remote party",
+          "start_time": 31,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course! Our post-surgery recovery care costs between $85 to $110 per visit for 1 to 3 hours, depending on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 46,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That’s reasonable. What kind of support does the caregiver provide during those visits?",
+          "speaker": "remote party",
+          "start_time": 46,
+          "end_time": 51,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "The caregiver will assist with mobility, medication management, and any personal hygiene needs, plus ensure her comfort as she recovers.",
+          "speaker": "local party",
+          "start_time": 51,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Excellent! I want to ensure she has the best care possible.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, Patricia. We prioritize quality care for all our clients.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you. How quickly can we get started after her surgery?",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We can schedule a caregiver for the day after her surgery to help with the transition home.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "That’s great! I’ll need to make sure her insurance covers this.",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 86,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can assist with the insurance authorization process. Would you like me to connect you with Lisa, our Care Coordinator?",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please! That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Let me transfer you to her. She can explain the insurance details and next steps.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you so much for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 102,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Patricia! I’ll connect you now.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "(pausing briefly) Just a moment, please.",
+          "speaker": "local party",
+          "start_time": 106,
+          "end_time": 110,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "(after a short pause) You’re now connected with Lisa Chen.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Hi Lisa, I'm Patricia Wilson. I need help with my mother’s post-surgery care.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 120,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Hi Patricia! I’m here to assist you with that. Let’s go over the details.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 124,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558471",
+    "ooma_remote_name": "Patricia Wilson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ee06ba35625a42fd93e2de88",
+  "revision": "",
+  "status": "success"
+}
