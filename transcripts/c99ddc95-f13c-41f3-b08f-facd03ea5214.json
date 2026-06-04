@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-73a17751eead48d5a21d0208",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818105-fc0da94c",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-73a17751eead48d5a21d0208",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 155,
+      "duration_ms": 155000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "73a17751eead48d5a21d0208",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-73a17751eead48d5a21d0208",
+      "media_name": "438f70cb66ea4ae295e89b4cd51fee03.mp3",
+      "scenario": "A customer questions why their bill includes fees for services not rendered and seeks a refund. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 155.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi, Margaret. My name is Mark Johnson. I have a billing concern regarding my recent statement. I’m sorry to hear that, Mark. Could you please provide some details about the issue? Yes, I noticed some charges for services that were not rendered, and I’d like to understand why that happened. I understand your frustration. Let me pull up your account to review the charges. One moment, please. Sure, take your time. I just want to make sure I'm not being overcharged for services we didn’t receive. Thank you for your patience, Mark. I see here that there were some miscommunications regarding the billing for transportation services. Yes, that’s correct. We didn’t use those transportation services last month. I apologize for that oversight. I’ll make a note to reverse those charges for you. I really appreciate that. Can you tell me how soon I can expect the refund? The refund should process within 7-10 business days. You’ll receive a confirmation email once it’s done. That sounds good. Thank you. And just to clarify, I’d like to make sure this doesn't happen again. Absolutely, Mark. I’ll take steps to ensure our billing team updates their records regarding your account. That would be great. I also wanted to inquire about your medication management services for my elderly parents. We offer a medication management service that includes reminders, organization, and administration supervision. What’s the pricing for that? It’s priced between $65 to $80 for a session lasting 30-45 minutes. That sounds reasonable. My parents really need assistance with that, along with transportation to appointments. We can definitely help with both services. Would you like me to schedule a consultation? Yes, I think that would be helpful. Great! I can set that up for you. Can you provide the best time for our care coordinator to reach you? How about tomorrow afternoon? Perfect, I’ll have Lisa Chen, our Care Coordinator, contact you tomorrow afternoon. Thank you, Margaret. I appreciate your help today. You’re welcome, Mark. Thank you for your understanding, and have a great day! You too, goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Mark Johnson. I have a billing concern regarding my recent statement.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Mark. Could you please provide some details about the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I noticed some charges for services that were not rendered, and I’d like to understand why that happened.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your frustration. Let me pull up your account to review the charges. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time. I just want to make sure I'm not being overcharged for services we didn’t receive.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 38,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Mark. I see here that there were some miscommunications regarding the billing for transportation services.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, that’s correct. We didn’t use those transportation services last month.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I apologize for that oversight. I’ll make a note to reverse those charges for you.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I really appreciate that. Can you tell me how soon I can expect the refund?",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "The refund should process within 7-10 business days. You’ll receive a confirmation email once it’s done.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 71,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good. Thank you. And just to clarify, I’d like to make sure this doesn't happen again.",
+          "speaker": "remote party",
+          "start_time": 71,
+          "end_time": 78,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, Mark. I’ll take steps to ensure our billing team updates their records regarding your account.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 84,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That would be great. I also wanted to inquire about your medication management services for my elderly parents.",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "We offer a medication management service that includes reminders, organization, and administration supervision.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 97,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "What’s the pricing for that?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "It’s priced between $65 to $80 for a session lasting 30-45 minutes.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds reasonable. My parents really need assistance with that, along with transportation to appointments.",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 112,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can definitely help with both services. Would you like me to schedule a consultation?",
+          "speaker": "local party",
+          "start_time": 112,
+          "end_time": 118,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, I think that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 124,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I can set that up for you. Can you provide the best time for our care coordinator to reach you?",
+          "speaker": "local party",
+          "start_time": 124,
+          "end_time": 130,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "How about tomorrow afternoon?",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect, I’ll have Lisa Chen, our Care Coordinator, contact you tomorrow afternoon.",
+          "speaker": "local party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Mark. Thank you for your understanding, and have a great day!",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 154,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 155,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-73a17751eead48d5a21d0208",
+  "revision": "",
+  "status": "success"
+}
