@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c340732502e247ebae825368",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818075-16d0cc1e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c340732502e247ebae825368",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 123,
+      "duration_ms": 123000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "c340732502e247ebae825368",
+      "caller_id_number": "+13165553457",
+      "caller_id_name": "Harold Gonzalez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c340732502e247ebae825368",
+      "media_name": "7010919487db4abbac0e3d26e5c14a89.mp3",
+      "scenario": "A homeowner is frustrated about overcharges in their utility bill and seeks immediate clarification. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 123.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Harold Gonzalez. I’m calling about some discrepancies in my utility bill. Oh, I see. I'm sorry to hear that. Can you tell me more about the issue? Well, I noticed I was charged more than usual this month, and it's really frustrating. I understand how that can be concerning. Can you provide me with the details of the charges? Yes, I was charged an extra $50, and I can't figure out why. My usage hasn’t changed. That does sound unusual. Have you contacted your utility provider for clarification? Not yet, but I feel like I need immediate answers. I recommend calling them to dispute the charges. Do you need help with what to say? Yes, that would help! I want to make sure I cover all my bases. You can start by stating that you noticed an unexpected increase and ask for a detailed breakdown. Okay, that sounds good. What if they say something I don't agree with? If you're still not satisfied, ask to speak to a supervisor. They often have more authority to resolve disputes. Great advice, thank you. I just want to resolve this quickly. Of course, Harold. Just so you know, we can also assist with any health-related issues if they arise. Right. I appreciate that. Speaking of health, can I schedule a nursing visit? Absolutely! When would you like us to come by for your vital sign checks? Can we aim for this Friday? I’d like my wife to be there when the nurse comes. Sure! I’ll arrange for a bilingual nurse to ensure effective communication with both of you. Perfect! Thank you for accommodating my request. No problem at all. I’ll confirm the appointment for this Friday and follow up with the details. Sounds good. Is there anything else I need to do? Just keep an eye on your utility bill in case of further discrepancies. I will. Thanks for your help, Margaret. I really appreciate it! You’re welcome, Harold! Don’t hesitate to call back if you have more questions. I will, thanks again! Have a great day!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Harold Gonzalez. I’m calling about some discrepancies in my utility bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 9,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh, I see. I'm sorry to hear that. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 9,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed I was charged more than usual this month, and it's really frustrating.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 17,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how that can be concerning. Can you provide me with the details of the charges?",
+          "speaker": "local party",
+          "start_time": 17,
+          "end_time": 21,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I was charged an extra $50, and I can't figure out why. My usage hasn’t changed.",
+          "speaker": "remote party",
+          "start_time": 21,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That does sound unusual. Have you contacted your utility provider for clarification?",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Not yet, but I feel like I need immediate answers.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I recommend calling them to dispute the charges. Do you need help with what to say?",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, that would help! I want to make sure I cover all my bases.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "You can start by stating that you noticed an unexpected increase and ask for a detailed breakdown.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Okay, that sounds good. What if they say something I don't agree with?",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "If you're still not satisfied, ask to speak to a supervisor. They often have more authority to resolve disputes.",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 58,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Great advice, thank you. I just want to resolve this quickly.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 62,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, Harold. Just so you know, we can also assist with any health-related issues if they arise.",
+          "speaker": "local party",
+          "start_time": 62,
+          "end_time": 66,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Right. I appreciate that. Speaking of health, can I schedule a nursing visit?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 71,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely! When would you like us to come by for your vital sign checks?",
+          "speaker": "local party",
+          "start_time": 71,
+          "end_time": 75,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Can we aim for this Friday? I’d like my wife to be there when the nurse comes.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Sure! I’ll arrange for a bilingual nurse to ensure effective communication with both of you.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect! Thank you for accommodating my request.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "No problem at all. I’ll confirm the appointment for this Friday and follow up with the details.",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 97,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Sounds good. Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 97,
+          "end_time": 102,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Just keep an eye on your utility bill in case of further discrepancies.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 106,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I will. Thanks for your help, Margaret. I really appreciate it!",
+          "speaker": "remote party",
+          "start_time": 106,
+          "end_time": 111,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Harold! Don’t hesitate to call back if you have more questions.",
+          "speaker": "local party",
+          "start_time": 111,
+          "end_time": 115,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I will, thanks again!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 119,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Have a great day!",
+          "speaker": "local party",
+          "start_time": 119,
+          "end_time": 123,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553457",
+    "ooma_remote_name": "Harold Gonzalez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c340732502e247ebae825368",
+  "revision": "",
+  "status": "success"
+}
