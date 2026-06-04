@@ -1,0 +1,229 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c16d4fd2f5314fcc9ae997cf",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818329-fee8e333",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c16d4fd2f5314fcc9ae997cf",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 120,
+      "duration_ms": 120000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "c16d4fd2f5314fcc9ae997cf",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c16d4fd2f5314fcc9ae997cf",
+      "media_name": "fef5f5fee5ff41b7bacb9c777f27bc59.mp3",
+      "scenario": "A customer calls to cancel their pest control service, citing dissatisfaction with results. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 120.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How may I assist you today? Hi, Margaret. My name is Karen Lewis, and I was referred by my husband's cardiac surgeon's office. Nice to meet you, Karen! How can we help with your husband’s care? Well, my husband needs post-operative care after his surgery next month. Absolutely, we can assist with that. Can you provide me with some details about his needs? He’ll need help with medication management and some basic personal care after he comes home. Great, we can definitely help with that. We offer post-surgery recovery care starting at $85 to $110 for 1-3 hours. That sounds good. I also wanted to ask about skilled nursing services for medication management. Our skilled nursing care ranges from $95 to $125 for 1-2 hours, which includes medication management and health monitoring. Thanks, I appreciate that. What would the next steps be to get started? I can schedule a care coordinator to discuss your husband's care plan and match you with a caregiver. Would you like me to set that up? Yes, please! That would be very helpful. Perfect! I’ll have Lisa Chen, our Care Coordinator, reach out to you. Can I get your preferred contact number? Sure, it’s +13165552147. Thank you, Karen. I’ll have Lisa contact you within the next 24 hours to discuss further. Sounds good. Is there anything else I should know? Just that we also provide transportation services if you need help getting to medical appointments. Oh, that would be useful! How much is that? Our transportation services are priced between $45 and $65 per trip. Great, I’ll keep that in mind. Thank you for your help today! You're welcome, Karen! We’re here to support you and your husband. Have a great day! You too, bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How may I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Karen Lewis, and I was referred by my husband's cardiac surgeon's office.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Nice to meet you, Karen! How can we help with your husband’s care?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, my husband needs post-operative care after his surgery next month.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can assist with that. Can you provide me with some details about his needs?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "He’ll need help with medication management and some basic personal care after he comes home.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Great, we can definitely help with that. We offer post-surgery recovery care starting at $85 to $110 for 1-3 hours.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "That sounds good. I also wanted to ask about skilled nursing services for medication management.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 43,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Our skilled nursing care ranges from $95 to $125 for 1-2 hours, which includes medication management and health monitoring.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 49,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thanks, I appreciate that. What would the next steps be to get started?",
+          "speaker": "remote party",
+          "start_time": 49,
+          "end_time": 54,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can schedule a care coordinator to discuss your husband's care plan and match you with a caregiver. Would you like me to set that up?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, please! That would be very helpful.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Perfect! I’ll have Lisa Chen, our Care Coordinator, reach out to you. Can I get your preferred contact number?",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Sure, it’s +13165552147.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Thank you, Karen. I’ll have Lisa contact you within the next 24 hours to discuss further.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 82,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds good. Is there anything else I should know?",
+          "speaker": "remote party",
+          "start_time": 82,
+          "end_time": 89,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Just that we also provide transportation services if you need help getting to medical appointments.",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Oh, that would be useful! How much is that?",
+          "speaker": "remote party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Our transportation services are priced between $45 and $65 per trip.",
+          "speaker": "local party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Great, I’ll keep that in mind. Thank you for your help today!",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 109,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You're welcome, Karen! We’re here to support you and your husband. Have a great day!",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 114,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 114,
+          "end_time": 120,
+          "channel": "right",
+          "id": 21
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c16d4fd2f5314fcc9ae997cf",
+  "revision": "",
+  "status": "success"
+}
