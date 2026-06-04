@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-298dac2b7589412cac07f1d3",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818153-9cc3ff13",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-298dac2b7589412cac07f1d3",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 173,
+      "duration_ms": 173000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "298dac2b7589412cac07f1d3",
+      "caller_id_number": "+13165558135",
+      "caller_id_name": "Betty Lou Smith",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-298dac2b7589412cac07f1d3",
+      "media_name": "b35846303c9d4d07b0a22b95e81e9197.mp3",
+      "scenario": "A customer demands a review of the incorrect charges applied to their account for housekeeping. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 173.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Betty Lou Smith. I’m calling about some incorrect charges I noticed on my account. I’m sorry to hear that, Betty. Could you please provide me with more details about those charges? Yes, there are charges for housekeeping services that I never requested. I understand. Let me look into your account and see what I can find regarding those charges. Thank you. I’ve been a client for ten months now for fall prevention and mobility assistance, so I’m surprised to see these extra fees. I appreciate your patience, Betty. I’m pulling up your account right now. Just one moment, please. It appears there was a billing error that applied housekeeping charges to your account for this month. I apologize for the mistake. I really need those charges removed. I didn’t receive any housekeeping services. Absolutely, we’ll correct that. I’ll ensure that those charges are reversed. Thank you. How long will that take to process? It usually takes 3 to 5 business days for billing adjustments to reflect in your account. That sounds reasonable. I appreciate you handling it. Of course! Is there anything else on your mind today? Well, since I have you, I’ve been considering increasing my personal care assistance hours. That’s a great idea, Betty! We offer personal care assistance at $28 to $35 per hour. I’d like to increase my hours from 10 to 20 per week. What would that look like? Let me calculate that for you. At an average of $32 per hour, that would be around $640 a month. That sounds manageable. Can we arrange that? Yes, I can have Lisa, our Care Coordinator, reach out to finalize the schedule with you. Perfect! I’d like to ensure I have consistent caregivers as well. I’ll make a note to discuss that with Lisa as well. Thank you so much, Margaret. I really appreciate your help today. You're welcome, Betty! I’ll ensure everything is taken care of, and Lisa will call you shortly. Thank you, I look forward to hearing from her. Have a great day! You too, Betty! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Betty Lou Smith. I’m calling about some incorrect charges I noticed on my account.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Betty. Could you please provide me with more details about those charges?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, there are charges for housekeeping services that I never requested.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Let me look into your account and see what I can find regarding those charges.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thank you. I’ve been a client for ten months now for fall prevention and mobility assistance, so I’m surprised to see these extra fees.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 38,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I appreciate your patience, Betty. I’m pulling up your account right now. Just one moment, please.",
+          "speaker": "local party",
+          "start_time": 38,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It appears there was a billing error that applied housekeeping charges to your account for this month. I apologize for the mistake.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 55,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I really need those charges removed. I didn’t receive any housekeeping services.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 63,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Absolutely, we’ll correct that. I’ll ensure that those charges are reversed.",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 66,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Thank you. How long will that take to process?",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "It usually takes 3 to 5 business days for billing adjustments to reflect in your account.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That sounds reasonable. I appreciate you handling it.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 89,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Of course! Is there anything else on your mind today?",
+          "speaker": "local party",
+          "start_time": 89,
+          "end_time": 95,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Well, since I have you, I’ve been considering increasing my personal care assistance hours.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 104,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "That’s a great idea, Betty! We offer personal care assistance at $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I’d like to increase my hours from 10 to 20 per week. What would that look like?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 117,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Let me calculate that for you. At an average of $32 per hour, that would be around $640 a month.",
+          "speaker": "local party",
+          "start_time": 117,
+          "end_time": 126,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That sounds manageable. Can we arrange that?",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Yes, I can have Lisa, our Care Coordinator, reach out to finalize the schedule with you.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I’d like to ensure I have consistent caregivers as well.",
+          "speaker": "remote party",
+          "start_time": 137,
+          "end_time": 143,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I’ll make a note to discuss that with Lisa as well.",
+          "speaker": "local party",
+          "start_time": 143,
+          "end_time": 150,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you so much, Margaret. I really appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "You're welcome, Betty! I’ll ensure everything is taken care of, and Lisa will call you shortly.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 161,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you, I look forward to hearing from her. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 161,
+          "end_time": 168,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You too, Betty! Take care.",
+          "speaker": "local party",
+          "start_time": 168,
+          "end_time": 173,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558135",
+    "ooma_remote_name": "Betty Lou Smith",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-298dac2b7589412cac07f1d3",
+  "revision": "",
+  "status": "success"
+}
