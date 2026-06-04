@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e586c4a08c9745bf93291bae",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818367-5f2f6890",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e586c4a08c9745bf93291bae",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 148,
+      "duration_ms": 148000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "e586c4a08c9745bf93291bae",
+      "caller_id_number": "+13165557890",
+      "caller_id_name": "Charles Thompson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e586c4a08c9745bf93291bae",
+      "media_name": "9ccfb453c2e147dd8372f4cd4c2f9659.mp3",
+      "scenario": "A tenant calls to terminate their housekeeping service, stating they can no longer afford it. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 148.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Charles Thompson. I’m calling about my housekeeping service. Hi Charles! It’s great to hear from you. What can I do for you regarding the housekeeping service? Well, I’m afraid I need to cancel it. I just can’t afford it anymore. I understand, Charles. I’m really sorry to hear that. Can you share what led to this decision? It’s mainly due to my medical expenses from the surgery. Things have been tight, and I need to cut costs. That makes sense, and your health comes first. Do you mind if I ask how we can improve your experience? Honestly, it’s just about the cost. I’ve appreciated the service, but I just can’t manage it right now. I completely understand, Charles. Would you be open to discussing some alternatives or reduced services? I’m not sure. What do you mean by reduced services? We could offer a less frequent cleaning schedule or a package that includes fewer hours per week. That might be worth considering. What are the costs for those options? For a less frequent cleaning, we could adjust it to every other week at a rate of $45 per visit, instead of weekly. That does sound better, but I still need to think about it. Of course, take your time. Your comfort is the priority here. Thanks, Margaret. I just don’t want to feel pressured. Absolutely, Charles. I’ll note your cancellation request for the housekeeping service. Okay, thank you. I appreciate your understanding. You're welcome. If I could ask, would you like to keep your personal care assistance? Yes, I definitely want to keep that. It’s been really helpful. Great! I’ll make sure that service remains intact. Thank you for that. Is there anything else I can assist you with today? No, that’s all. I’ll think about the reduced housekeeping service. Sounds good, Charles. Just give us a call back whenever you’re ready. Will do. Thanks again, Margaret. Thank you for calling, Charles. Have a great day! You too, bye. Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Charles Thompson. I’m calling about my housekeeping service.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Charles! It’s great to hear from you. What can I do for you regarding the housekeeping service?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’m afraid I need to cancel it. I just can’t afford it anymore.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand, Charles. I’m really sorry to hear that. Can you share what led to this decision?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s mainly due to my medical expenses from the surgery. Things have been tight, and I need to cut costs.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That makes sense, and your health comes first. Do you mind if I ask how we can improve your experience?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Honestly, it’s just about the cost. I’ve appreciated the service, but I just can’t manage it right now.",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand, Charles. Would you be open to discussing some alternatives or reduced services?",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I’m not sure. What do you mean by reduced services?",
+          "speaker": "remote party",
+          "start_time": 47,
+          "end_time": 53,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "We could offer a less frequent cleaning schedule or a package that includes fewer hours per week.",
+          "speaker": "local party",
+          "start_time": 53,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That might be worth considering. What are the costs for those options?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "For a less frequent cleaning, we could adjust it to every other week at a rate of $45 per visit, instead of weekly.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 73,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That does sound better, but I still need to think about it.",
+          "speaker": "remote party",
+          "start_time": 73,
+          "end_time": 77,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course, take your time. Your comfort is the priority here.",
+          "speaker": "local party",
+          "start_time": 77,
+          "end_time": 81,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thanks, Margaret. I just don’t want to feel pressured.",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Absolutely, Charles. I’ll note your cancellation request for the housekeeping service.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 93,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, thank you. I appreciate your understanding.",
+          "speaker": "remote party",
+          "start_time": 93,
+          "end_time": 98,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "You're welcome. If I could ask, would you like to keep your personal care assistance?",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 102,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, I definitely want to keep that. It’s been really helpful.",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Great! I’ll make sure that service remains intact.",
+          "speaker": "local party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you for that.",
+          "speaker": "remote party",
+          "start_time": 113,
+          "end_time": 118,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 118,
+          "end_time": 122,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s all. I’ll think about the reduced housekeeping service.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 126,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Sounds good, Charles. Just give us a call back whenever you’re ready.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Will do. Thanks again, Margaret.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 136,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for calling, Charles. Have a great day!",
+          "speaker": "local party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 144,
+          "end_time": 148,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165557890",
+    "ooma_remote_name": "Charles Thompson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e586c4a08c9745bf93291bae",
+  "revision": "",
+  "status": "success"
+}
