@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-fd41108bba7f47ef98c18af9",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947830583-442101e2",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-fd41108bba7f47ef98c18af9",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "fd41108bba7f47ef98c18af9",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-fd41108bba7f47ef98c18af9",
+      "media_name": "3685cf28e3f94af1a6fd263922c3ea80.mp3",
+      "scenario": "A customer urgently calls to expedite the delivery of a critical order needed for an event. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Frank Miller. I need help with an urgent request. Hi Frank! I remember you. What’s the urgent request? I need to expedite the delivery of my wound care supplies. They’re critical for my event this weekend. I understand. Let me check on that for you. When is the event? It’s on Saturday, and I’m running out of supplies. Alright, let me pull up your account and see what we can do. Thank you! I really need this sorted out quickly. Of course, Frank. Your last visit was yesterday, right? Yes, and I was hoping to keep the same nurse for continuity. I’ll make a note of that. Let me just check our inventory for your supplies. It looks like we have enough supplies to fulfill your request. That’s a relief! Can you ensure they arrive by Friday? Yes, I can expedite shipping for you. That will be done. Great! And while I have you, can I arrange for transportation to my endocrinologist next week? Absolutely, we can set that up. Do you know the date and time? It’s next Wednesday at 10 AM. Got it. I’ll have that arranged for you as well. Thank you, Margaret. That’s a big help. You’re welcome! I’ll confirm the transportation details by the end of the day. Perfect! I really appreciate your quick response. No problem, Frank. I’ll also check if you need any additional supplies for your diabetes management. That sounds good. I might need more test strips. I will include that in the follow-up. Is there anything else you need? No, that’s everything for now. Thank you! Thank you for calling, Frank. We’ll take care of everything and keep you updated. Thanks, Margaret! Talk to you soon. Talk soon, Frank! Take care.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Frank Miller. I need help with an urgent request.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Frank! I remember you. What’s the urgent request?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 10,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I need to expedite the delivery of my wound care supplies. They’re critical for my event this weekend.",
+          "speaker": "remote party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand. Let me check on that for you. When is the event?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s on Saturday, and I’m running out of supplies.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Alright, let me pull up your account and see what we can do.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you! I really need this sorted out quickly.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course, Frank. Your last visit was yesterday, right?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, and I was hoping to keep the same nurse for continuity.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I’ll make a note of that. Let me just check our inventory for your supplies.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It looks like we have enough supplies to fulfill your request.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "That’s a relief! Can you ensure they arrive by Friday?",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "Yes, I can expedite shipping for you. That will be done.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "Great! And while I have you, can I arrange for transportation to my endocrinologist next week?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Absolutely, we can set that up. Do you know the date and time?",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "It’s next Wednesday at 10 AM.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Got it. I’ll have that arranged for you as well.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Thank you, Margaret. That’s a big help.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You’re welcome! I’ll confirm the transportation details by the end of the day.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I really appreciate your quick response.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "No problem, Frank. I’ll also check if you need any additional supplies for your diabetes management.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "That sounds good. I might need more test strips.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I will include that in the follow-up. Is there anything else you need?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "No, that’s everything for now. Thank you!",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Thank you for calling, Frank. We’ll take care of everything and keep you updated.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Thanks, Margaret! Talk to you soon.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "Talk soon, Frank! Take care.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-fd41108bba7f47ef98c18af9",
+  "revision": "",
+  "status": "success"
+}
