@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-aa86b0f88480425b896ea69f",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818348-0ed55d9d",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-aa86b0f88480425b896ea69f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 145,
+      "duration_ms": 145000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "aa86b0f88480425b896ea69f",
+      "caller_id_number": "+13165558734",
+      "caller_id_name": "Dorothy Henderson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-aa86b0f88480425b896ea69f",
+      "media_name": "0df1d9db47974e07a566c9cf605de118.mp3",
+      "scenario": "A client requests to cancel their contract for home security services after a billing issue. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 145.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Dorothy Henderson. I need to discuss my home health service contract. Hi Dorothy! It’s great to hear from you. What would you like to discuss about your contract? Well, I’m actually thinking of canceling it due to a billing issue I encountered. I’m sorry to hear that. Can you tell me more about the billing issue? Yes, I was charged twice this month for the personal care services. It really threw me off. I understand how frustrating that can be. Let me pull up your account to look into this. One moment, please. Okay, I see here that you were indeed charged twice for the last billing cycle. I apologize for this error. Would you like me to correct this before we discuss the cancellation? Yes, I’d appreciate that. But I still feel uncertain about continuing the service. Of course, I completely understand. Let’s first fix the billing. We can issue a refund for the extra charge. That would be helpful, thank you. Is there anything else I can assist you with that might help in your decision to stay with us? I’ve been happy with the service overall, but I just need to feel secure about the billing. I understand. We can set up automated billing notifications to keep you updated on any charges. That sounds like a good idea. Great! I’ll make a note to set that up. I guess I’m still considering cancellation, though. That's fair, Dorothy. Can I ask if there’s anything we could do differently to meet your needs better? Well, I prefer morning visits and I’d like to ensure I always have female caregivers. I can assure you those preferences will always be honored. Would you be open to a follow-up call next week to see how the changes affect your experience? Yes, I think that would be helpful. Wonderful! I’ll have our Care Coordinator, Lisa, reach out to you on Monday. Okay, that sounds good. Thank you for your understanding, Dorothy. I’ll also process the refund right away. Thanks, Margaret. I appreciate your help. You’re welcome! If you have any other questions, feel free to reach out. I will, thank you. Have a great day! You too! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Dorothy Henderson. I need to discuss my home health service contract.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Dorothy! It’s great to hear from you. What would you like to discuss about your contract?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’m actually thinking of canceling it due to a billing issue I encountered.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 15,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Can you tell me more about the billing issue?",
+          "speaker": "local party",
+          "start_time": 15,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, I was charged twice this month for the personal care services. It really threw me off.",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand how frustrating that can be. Let me pull up your account to look into this. One moment, please.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see here that you were indeed charged twice for the last billing cycle. I apologize for this error. Would you like me to correct this before we discuss the cancellation?",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 45,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Yes, I’d appreciate that. But I still feel uncertain about continuing the service.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Of course, I completely understand. Let’s first fix the billing. We can issue a refund for the extra charge.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "That would be helpful, thank you.",
+          "speaker": "remote party",
+          "start_time": 54,
+          "end_time": 59,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "Is there anything else I can assist you with that might help in your decision to stay with us?",
+          "speaker": "local party",
+          "start_time": 59,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "I’ve been happy with the service overall, but I just need to feel secure about the billing.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I understand. We can set up automated billing notifications to keep you updated on any charges.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "That sounds like a good idea.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Great! I’ll make a note to set that up.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "I guess I’m still considering cancellation, though.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "That's fair, Dorothy. Can I ask if there’s anything we could do differently to meet your needs better?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Well, I prefer morning visits and I’d like to ensure I always have female caregivers.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "I can assure you those preferences will always be honored. Would you be open to a follow-up call next week to see how the changes affect your experience?",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, I think that would be helpful.",
+          "speaker": "remote party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Wonderful! I’ll have our Care Coordinator, Lisa, reach out to you on Monday.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Okay, that sounds good.",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for your understanding, Dorothy. I’ll also process the refund right away.",
+          "speaker": "local party",
+          "start_time": 120,
+          "end_time": 125,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thanks, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 130,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "You’re welcome! If you have any other questions, feel free to reach out.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 135,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "I will, thank you. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 26
+        },
+        {
+          "text": "You too! Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165558734",
+    "ooma_remote_name": "Dorothy Henderson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-aa86b0f88480425b896ea69f",
+  "revision": "",
+  "status": "success"
+}
