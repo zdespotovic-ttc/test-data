@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-179fe93585304cf19959ccd5",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947817938-3f061b2b",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-179fe93585304cf19959ccd5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "179fe93585304cf19959ccd5",
+      "caller_id_number": "+13165554321",
+      "caller_id_name": "William Chen",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-179fe93585304cf19959ccd5",
+      "media_name": "dc95c7af0b6f41e3b7572d429f6ee2b0.mp3",
+      "scenario": "An irate client argues that the HVAC maintenance was poorly executed and requests an urgent inspection. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is William Chen. I’m really frustrated right now. I’m sorry to hear that, William. What seems to be the issue? The HVAC maintenance you scheduled last week was poorly executed. I can’t believe it! I understand your concern. Can you tell me more about what went wrong? It’s still too hot in here! The air conditioning doesn’t seem to be working at all. I apologize for the inconvenience. This is definitely not the standard we aim for. I need someone to come out and inspect it urgently! Absolutely, I can arrange for an urgent inspection. When would you be available? Anytime today or tomorrow, just get someone here! It’s unbearable. Let me check the schedule for you. One moment, please. It looks like we can have a technician out to you tomorrow between 10 and 12. Does that work? Yes, that works. But what about my other concerns? I’m here to help, William. What other concerns do you have? I’m also not very happy with the physical therapy sessions. They’re not what I expected. I’m sorry to hear that. Would you like to discuss this with Dr. Rodriguez? Yes, I think that would be necessary. I want to ensure my recovery is on track. I can arrange for Dr. Rodriguez to give you a call later today. That would be great. Please make sure he understands my concerns. Absolutely. I’ll inform him. Is there anything else I can assist you with? No, just make sure the HVAC inspection is prioritized. I will ensure it is prioritized, and I’ll confirm the appointment via text. Thank you, Margaret. I appreciate your help. Thank you for your patience, William. Have a good day. You too. Goodbye. Goodbye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is William Chen. I’m really frustrated right now.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, William. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "The HVAC maintenance you scheduled last week was poorly executed. I can’t believe it!",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Can you tell me more about what went wrong?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s still too hot in here! The air conditioning doesn’t seem to be working at all.",
+          "speaker": "remote party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I apologize for the inconvenience. This is definitely not the standard we aim for.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I need someone to come out and inspect it urgently!",
+          "speaker": "remote party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, I can arrange for an urgent inspection. When would you be available?",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Anytime today or tomorrow, just get someone here! It’s unbearable.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Let me check the schedule for you. One moment, please.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It looks like we can have a technician out to you tomorrow between 10 and 12. Does that work?",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 65,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, that works. But what about my other concerns?",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "I’m here to help, William. What other concerns do you have?",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I’m also not very happy with the physical therapy sessions. They’re not what I expected.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "I’m sorry to hear that. Would you like to discuss this with Dr. Rodriguez?",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 89,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Yes, I think that would be necessary. I want to ensure my recovery is on track.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "I can arrange for Dr. Rodriguez to give you a call later today.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That would be great. Please make sure he understands my concerns.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Absolutely. I’ll inform him. Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "No, just make sure the HVAC inspection is prioritized.",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 114,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "I will ensure it is prioritized, and I’ll confirm the appointment via text.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 119,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 119,
+          "end_time": 125,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "Thank you for your patience, William. Have a good day.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 128,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too. Goodbye.",
+          "speaker": "remote party",
+          "start_time": 128,
+          "end_time": 131,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye.",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165554321",
+    "ooma_remote_name": "William Chen",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-179fe93585304cf19959ccd5",
+  "revision": "",
+  "status": "success"
+}
