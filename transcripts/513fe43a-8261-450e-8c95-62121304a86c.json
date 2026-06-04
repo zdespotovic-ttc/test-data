@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-8c4e7633d5d44d9c9c61a4ec",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947830512-291b607f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-8c4e7633d5d44d9c9c61a4ec",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 185,
+      "duration_ms": 185000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "8c4e7633d5d44d9c9c61a4ec",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-8c4e7633d5d44d9c9c61a4ec",
+      "media_name": "3899aa3f4c37414e9a430bce16c563ef.mp3",
+      "scenario": "A customer disputes a charge on their bill, claiming that they were overcharged for services not rendered. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 185.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I assist you today? Hi Margaret, this is Rose Patterson. I'm calling about a charge on my last bill that I believe is incorrect. I’m sorry to hear that, Rose. Let’s take a look at your account. Can I have a moment? Sure, take your time. Thank you. I see here that you've been with us for 18 months, receiving companion care and personal assistance daily. Can you tell me which specific charge you're disputing? Yes, it’s the charge for personal care assistance on the last bill. It shows I was charged for six hours, but I only received three. I understand, Rose. Let me check the details for the date in question. Thank you. My son usually manages this for me, and he was the one who noticed the discrepancy. Of course, let’s see what happened. The records show that the caregiver was scheduled for six hours, but I’ll confirm the actual hours worked. I appreciate that. My son has been keeping track, and we’re quite sure it was only three hours. I completely understand. If it turns out you were overcharged, we can certainly adjust that on your bill. That would be a relief. I just want to make sure everything is accurate. Absolutely, accuracy is essential. I will also ensure your son is updated on any changes. Would you like to provide his contact number? Yes, it’s +13165559801. He’ll want to know if we resolve this. Great, thank you for that. I’ll reach out to him once I have clarity on the billing issue. Sounds good. Is there anything else I need to do? No, just give me some time to investigate this. I’ll check the caregiver's report for that day as well. Okay, thank you. Also, if you could check if we’re due for a new caregiver soon, I’d appreciate it. Of course, I can put in a note to coordinate that with your son too. Thank you, Margaret. I really appreciate your help with this. It's my pleasure, Rose. I’ll follow up once I have all the information. Thank you, I’ll look forward to hearing from you. You’re welcome! Have a great day, Rose. You too, bye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Rose Patterson. I'm calling about a charge on my last bill that I believe is incorrect.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I’m sorry to hear that, Rose. Let’s take a look at your account. Can I have a moment?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Thank you. I see here that you've been with us for 18 months, receiving companion care and personal assistance daily. Can you tell me which specific charge you're disputing?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Yes, it’s the charge for personal care assistance on the last bill. It shows I was charged for six hours, but I only received three.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 40,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I understand, Rose. Let me check the details for the date in question.",
+          "speaker": "local party",
+          "start_time": 40,
+          "end_time": 44,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Thank you. My son usually manages this for me, and he was the one who noticed the discrepancy.",
+          "speaker": "remote party",
+          "start_time": 44,
+          "end_time": 56,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course, let’s see what happened. The records show that the caregiver was scheduled for six hours, but I’ll confirm the actual hours worked.",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 65,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that. My son has been keeping track, and we’re quite sure it was only three hours.",
+          "speaker": "remote party",
+          "start_time": 65,
+          "end_time": 75,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand. If it turns out you were overcharged, we can certainly adjust that on your bill.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 85,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be a relief. I just want to make sure everything is accurate.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 91,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, accuracy is essential. I will also ensure your son is updated on any changes. Would you like to provide his contact number?",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 100,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, it’s +13165559801. He’ll want to know if we resolve this.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 107,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great, thank you for that. I’ll reach out to him once I have clarity on the billing issue.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 115,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sounds good. Is there anything else I need to do?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "No, just give me some time to investigate this. I’ll check the caregiver's report for that day as well.",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Okay, thank you. Also, if you could check if we’re due for a new caregiver soon, I’d appreciate it.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 145,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course, I can put in a note to coordinate that with your son too.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 154,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. I really appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 154,
+          "end_time": 162,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "It's my pleasure, Rose. I’ll follow up once I have all the information.",
+          "speaker": "local party",
+          "start_time": 162,
+          "end_time": 168,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, I’ll look forward to hearing from you.",
+          "speaker": "remote party",
+          "start_time": 168,
+          "end_time": 172,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! Have a great day, Rose.",
+          "speaker": "local party",
+          "start_time": 172,
+          "end_time": 176,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, bye.",
+          "speaker": "remote party",
+          "start_time": 176,
+          "end_time": 181,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 181,
+          "end_time": 185,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-8c4e7633d5d44d9c9c61a4ec",
+  "revision": "",
+  "status": "success"
+}
