@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-d2a1c67c0cd5413b9f394008",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818402-6a1fa438",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-d2a1c67c0cd5413b9f394008",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 118,
+      "duration_ms": 118000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "d2a1c67c0cd5413b9f394008",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-d2a1c67c0cd5413b9f394008",
+      "media_name": "32ea8b8f97a6448a8e9e22d23bac91b2.mp3",
+      "scenario": "A homeowner requests to cancel their plumbing maintenance plan, preferring to handle issues independently. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 118.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, my name is Mark Johnson. I’m looking for some help for my elderly parents. Hi Mark, it’s great to hear from you. What specific assistance are you looking for? Well, they need help with medication management and transportation to appointments. We can definitely assist with that. Let me tell you about our services. For medication management, we offer a service that includes reminders and supervision, priced at $65 to $80. That sounds good, but can I ask if there are any additional fees for transportation? Yes, we charge between $45 and $65 per trip for transportation services. Okay, that’s helpful. I think my parents would benefit from both of those services. Great! Would you like to set up a consultation to discuss the care plan further? Actually, I have a concern. I was told by a friend that they might want to handle their own care. I understand. It's common for families to want to be more independent. Have they expressed a desire to cancel their current support? Yes, they mentioned they prefer to manage things by themselves for now. That’s completely their choice. We can certainly pause services if they wish. I think they’d appreciate that. Can you explain how to proceed with the cancellation? Simply provide us with a written notice, and we’ll handle the cancellation smoothly. Got it. Is there anything else I need to know? Well, if they ever need our services again, we’re just a call away. Okay, I’ll let them know. Thanks for your help today! You're welcome, Mark! Just to confirm, would you like me to follow up in a week? Yes, that would be great. Maybe check in if they’ve changed their minds. Absolutely, I’ll set a reminder for that. Thank you, Margaret. I appreciate your understanding. My pleasure, Mark! Have a wonderful day. You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Mark Johnson. I’m looking for some help for my elderly parents.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Mark, it’s great to hear from you. What specific assistance are you looking for?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 14,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, they need help with medication management and transportation to appointments.",
+          "speaker": "remote party",
+          "start_time": 14,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "We can definitely assist with that. Let me tell you about our services.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 23,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "For medication management, we offer a service that includes reminders and supervision, priced at $65 to $80.",
+          "speaker": "local party",
+          "start_time": 23,
+          "end_time": 30,
+          "channel": "left",
+          "id": 5
+        },
+        {
+          "text": "That sounds good, but can I ask if there are any additional fees for transportation?",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 6
+        },
+        {
+          "text": "Yes, we charge between $45 and $65 per trip for transportation services.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "Okay, that’s helpful. I think my parents would benefit from both of those services.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "Great! Would you like to set up a consultation to discuss the care plan further?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "Actually, I have a concern. I was told by a friend that they might want to handle their own care.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 54,
+          "channel": "right",
+          "id": 10
+        },
+        {
+          "text": "I understand. It's common for families to want to be more independent. Have they expressed a desire to cancel their current support?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "left",
+          "id": 11
+        },
+        {
+          "text": "Yes, they mentioned they prefer to manage things by themselves for now.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 12
+        },
+        {
+          "text": "That’s completely their choice. We can certainly pause services if they wish.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 69,
+          "channel": "left",
+          "id": 13
+        },
+        {
+          "text": "I think they’d appreciate that. Can you explain how to proceed with the cancellation?",
+          "speaker": "remote party",
+          "start_time": 69,
+          "end_time": 73,
+          "channel": "right",
+          "id": 14
+        },
+        {
+          "text": "Simply provide us with a written notice, and we’ll handle the cancellation smoothly.",
+          "speaker": "local party",
+          "start_time": 73,
+          "end_time": 78,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "Got it. Is there anything else I need to know?",
+          "speaker": "remote party",
+          "start_time": 78,
+          "end_time": 82,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Well, if they ever need our services again, we’re just a call away.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "Okay, I’ll let them know. Thanks for your help today!",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 92,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "You're welcome, Mark! Just to confirm, would you like me to follow up in a week?",
+          "speaker": "local party",
+          "start_time": 92,
+          "end_time": 95,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "Yes, that would be great. Maybe check in if they’ve changed their minds.",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Absolutely, I’ll set a reminder for that.",
+          "speaker": "local party",
+          "start_time": 100,
+          "end_time": 103,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your understanding.",
+          "speaker": "remote party",
+          "start_time": 103,
+          "end_time": 107,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "My pleasure, Mark! Have a wonderful day.",
+          "speaker": "local party",
+          "start_time": 107,
+          "end_time": 110,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 118,
+          "channel": "left",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-d2a1c67c0cd5413b9f394008",
+  "revision": "",
+  "status": "success"
+}
