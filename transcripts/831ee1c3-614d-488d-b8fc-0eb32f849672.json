@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-c02730d1d2eb4b24ab86e41e",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947817991-aa538c27",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-c02730d1d2eb4b24ab86e41e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "c02730d1d2eb4b24ab86e41e",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-c02730d1d2eb4b24ab86e41e",
+      "media_name": "61b706edd0b340aa92acbea1ca6ffaeb.mp3",
+      "scenario": "An unhappy customer calls to cancel their contract following repeated issues with cleaning services. Category: Service Complaint. Flags: quality_complaint, cancellation_risk."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi, Margaret. This is Susan Garcia. I need to talk about our services. Of course, Susan. What seems to be the issue? Well, I’m really unhappy with the cleaning services. They’ve been inconsistent and not up to standard. I’m sorry to hear that. Can you tell me more about the specific issues you’ve experienced? The last few visits have left my father’s place dirty; they missed spots and didn’t clean properly. It’s just really frustrating. I completely understand how that would be frustrating. We strive for high-quality service. Exactly. I’m thinking I might need to cancel our contract if this keeps happening. I certainly don’t want you to feel that way. Let’s see if we can resolve this for you. I hope so. I really want to keep the other care services, just not the cleaning. I can help with that. Would you like to share the specific cleaning dates where the issues occurred? Yes, it was last Wednesday and then again on Saturday. Both times they missed several areas. Thank you for that information, Susan. I’ll note those dates for immediate follow-up. I appreciate that. I just want to make sure my father is comfortable and taken care of. That’s our priority, and I’ll ensure we address these cleaning concerns with the team. Okay, but if it doesn’t improve, I really will have to consider canceling. I understand, and I’d hate to lose you as a client. Can we set up a meeting to discuss your options? Sure, that sounds reasonable. I’d like to know what my options are if this continues. Great. I can also arrange for a supervisor to check in on your father's care to ensure everything meets your expectations. That would help a lot. When can they come by? How about having someone visit this Friday? I can arrange that when I follow up with you. Friday works. I’ll be available. Perfect, I’ll confirm that and ensure the cleaning team receives additional training. Thank you, Margaret. I appreciate your help with this. You’re welcome, Susan. I’ll follow up with you on Friday after the visit. Sounds good. Talk to you then. Thank you for your patience, and have a great day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Susan Garcia. I need to talk about our services.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Of course, Susan. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I’m really unhappy with the cleaning services. They’ve been inconsistent and not up to standard.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I’m sorry to hear that. Can you tell me more about the specific issues you’ve experienced?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The last few visits have left my father’s place dirty; they missed spots and didn’t clean properly. It’s just really frustrating.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand how that would be frustrating. We strive for high-quality service.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Exactly. I’m thinking I might need to cancel our contract if this keeps happening.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I certainly don’t want you to feel that way. Let’s see if we can resolve this for you.",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I hope so. I really want to keep the other care services, just not the cleaning.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 57,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I can help with that. Would you like to share the specific cleaning dates where the issues occurred?",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 62,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, it was last Wednesday and then again on Saturday. Both times they missed several areas.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 70,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you for that information, Susan. I’ll note those dates for immediate follow-up.",
+          "speaker": "local party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I appreciate that. I just want to make sure my father is comfortable and taken care of.",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 81,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "That’s our priority, and I’ll ensure we address these cleaning concerns with the team.",
+          "speaker": "local party",
+          "start_time": 81,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, but if it doesn’t improve, I really will have to consider canceling.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 94,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I understand, and I’d hate to lose you as a client. Can we set up a meeting to discuss your options?",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 98,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sure, that sounds reasonable. I’d like to know what my options are if this continues.",
+          "speaker": "remote party",
+          "start_time": 98,
+          "end_time": 105,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great. I can also arrange for a supervisor to check in on your father's care to ensure everything meets your expectations.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 111,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That would help a lot. When can they come by?",
+          "speaker": "remote party",
+          "start_time": 111,
+          "end_time": 116,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "How about having someone visit this Friday? I can arrange that when I follow up with you.",
+          "speaker": "local party",
+          "start_time": 116,
+          "end_time": 122,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Friday works. I’ll be available.",
+          "speaker": "remote party",
+          "start_time": 122,
+          "end_time": 129,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect, I’ll confirm that and ensure the cleaning team receives additional training.",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 138,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, Susan. I’ll follow up with you on Friday after the visit.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 143,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds good. Talk to you then.",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 149,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for your patience, and have a great day!",
+          "speaker": "local party",
+          "start_time": 149,
+          "end_time": 152,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 152,
+          "end_time": 154,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 154,
+          "end_time": 160,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-c02730d1d2eb4b24ab86e41e",
+  "revision": "",
+  "status": "success"
+}
