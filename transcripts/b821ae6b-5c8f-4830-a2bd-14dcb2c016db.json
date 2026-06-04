@@ -1,0 +1,261 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-81241e1dbcbe47379e78c805",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947830638-e1a72856",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-81241e1dbcbe47379e78c805",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 175,
+      "duration_ms": 175000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "81241e1dbcbe47379e78c805",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-81241e1dbcbe47379e78c805",
+      "media_name": "dd69ea84c1bd4974a69bfd1203d868a1.mp3",
+      "scenario": "A customer complains about ongoing quality issues and mentions potential cancellation if not resolved. Category: Service Complaint. Flags: quality_complaint, cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 175.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, my name is Susan Garcia. I'm calling about my father. He's been receiving care for his COPD, but I've been having some ongoing issues with the service. I'm sorry to hear that, Susan. Can you tell me a bit more about the issues you're facing? Well, the respiratory care has been inconsistent. Sometimes, the caregivers arrive late or don’t follow through with his breathing treatments as they should. I understand how concerning that must be. We definitely want to ensure your father's needs are met. Exactly. If these issues continue, I may have to look for another agency, and I really don't want to do that. I appreciate your honesty, Susan. Let’s work together to resolve this. Can you provide me with specifics about when these inconsistencies have occurred? Of course. Last week, the caregiver was late three times, and on two occasions, the breathing treatments were missed completely. Thank you for that information. I will take immediate steps to address this. I really hope so. My father relies on this care, and it's been frustrating to deal with. I completely understand. Would you like me to set up a meeting with our Client Services Manager, Angela, to discuss this further? Yes, that sounds good. I’d like to understand what steps can be taken to improve the situation. Great! I’ll schedule that meeting for you. Can I have your preferred times? Anytime in the afternoon works for me, preferably after 2 PM. Perfect, I’ll make sure to arrange that. Additionally, would you like to explore more comprehensive care options for your father? Sure, what do you have in mind? We offer skilled nursing care, which includes medication management and health monitoring, and that may be beneficial given his condition. That sounds like it could help. What would the cost be for that? It ranges from $95 to $125 for a 1-2 hour visit. Would you like me to include that in our discussion during the meeting? Yes, please. I think that could be really helpful. Absolutely. I will summarize our discussion and ensure Angela is fully informed. Thank you, Margaret. I appreciate your help and hope we can get this all sorted out soon. Thank you for your patience, Susan. I’ll follow up with you after the meeting. Sounds good. Talk to you soon. Have a great day! Goodbye. Bye.",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, my name is Susan Garcia. I'm calling about my father. He's been receiving care for his COPD, but I've been having some ongoing issues with the service.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Susan. Can you tell me a bit more about the issues you're facing?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the respiratory care has been inconsistent. Sometimes, the caregivers arrive late or don’t follow through with his breathing treatments as they should.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how concerning that must be. We definitely want to ensure your father's needs are met.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Exactly. If these issues continue, I may have to look for another agency, and I really don't want to do that.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I appreciate your honesty, Susan. Let’s work together to resolve this. Can you provide me with specifics about when these inconsistencies have occurred?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Of course. Last week, the caregiver was late three times, and on two occasions, the breathing treatments were missed completely.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for that information. I will take immediate steps to address this.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I really hope so. My father relies on this care, and it's been frustrating to deal with.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I completely understand. Would you like me to set up a meeting with our Client Services Manager, Angela, to discuss this further?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that sounds good. I’d like to understand what steps can be taken to improve the situation.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great! I’ll schedule that meeting for you. Can I have your preferred times?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Anytime in the afternoon works for me, preferably after 2 PM.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect, I’ll make sure to arrange that. Additionally, would you like to explore more comprehensive care options for your father?",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Sure, what do you have in mind?",
+          "speaker": "remote party",
+          "start_time": 95,
+          "end_time": 105,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We offer skilled nursing care, which includes medication management and health monitoring, and that may be beneficial given his condition.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds like it could help. What would the cost be for that?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "It ranges from $95 to $125 for a 1-2 hour visit. Would you like me to include that in our discussion during the meeting?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 135,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please. I think that could be really helpful.",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely. I will summarize our discussion and ensure Angela is fully informed.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help and hope we can get this all sorted out soon.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 155,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you for your patience, Susan. I’ll follow up with you after the meeting.",
+          "speaker": "local party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Sounds good. Talk to you soon.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Have a great day! Goodbye.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Bye.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 175,
+          "channel": "right",
+          "id": 25
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-81241e1dbcbe47379e78c805",
+  "revision": "",
+  "status": "success"
+}
