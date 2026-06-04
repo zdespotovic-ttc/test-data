@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-409ce0b2cfd942aab1e08492",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818140-15353404",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-409ce0b2cfd942aab1e08492",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "409ce0b2cfd942aab1e08492",
+      "caller_id_number": "+13165552891",
+      "caller_id_name": "Frank Miller",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-409ce0b2cfd942aab1e08492",
+      "media_name": "a6fa937940dd467a9f2ca3e2d17c0565.mp3",
+      "scenario": "A client calls to resolve a billing error related to a recent service upgrade. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today? Hi, Margaret. This is Frank Miller. I'm calling about a billing issue I noticed after my last visit. Hi, Frank! I'm glad you called. Can you tell me more about the billing issue? Yes, I received a charge for a service upgrade that I wasn’t aware of. It seems incorrect. I understand your concern. Let me look up your account details. One moment, please. Sure, take your time. Thank you for your patience. I see here that a charge for additional wound care management was added to your last invoice. Yes, but I didn’t request any upgrade. I’ve been receiving the same services for two years. I see. Let me clarify that with our billing department. It may have been an error. I’d appreciate that. I really want to get this sorted out as soon as possible. Absolutely, Frank. I’ll get back to you with an update. Can I confirm your best contact number? Yes, it’s the same as before, +13165552891. Great, thank you. I’ll reach out once I have more information. Also, I wanted to discuss my upcoming transportation to the endocrinologist. Can we arrange that? Of course! We can schedule that for you. What day is your appointment? It’s next Wednesday at 10 AM. Let me check our availability for that time. One moment, please. Sure, no problem. We have a caregiver available to provide transportation at that time. Shall I book it for you? Yes, please do. Perfect! I’ll confirm that booking along with your billing update. That sounds good, Margaret. Thanks for your help today. You’re welcome, Frank! Is there anything else I can assist you with? No, that’s everything for now. Alright, I’ll follow up with you soon. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. This is Frank Miller. I'm calling about a billing issue I noticed after my last visit.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Frank! I'm glad you called. Can you tell me more about the billing issue?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I received a charge for a service upgrade that I wasn’t aware of. It seems incorrect.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me look up your account details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 35,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience. I see here that a charge for additional wound care management was added to your last invoice.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, but I didn’t request any upgrade. I’ve been receiving the same services for two years.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 50,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I see. Let me clarify that with our billing department. It may have been an error.",
+          "speaker": "local party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I’d appreciate that. I really want to get this sorted out as soon as possible.",
+          "speaker": "remote party",
+          "start_time": 55,
+          "end_time": 63,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, Frank. I’ll get back to you with an update. Can I confirm your best contact number?",
+          "speaker": "local party",
+          "start_time": 63,
+          "end_time": 68,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, it’s the same as before, +13165552891.",
+          "speaker": "remote party",
+          "start_time": 68,
+          "end_time": 72,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Great, thank you. I’ll reach out once I have more information.",
+          "speaker": "local party",
+          "start_time": 72,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Also, I wanted to discuss my upcoming transportation to the endocrinologist. Can we arrange that?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Of course! We can schedule that for you. What day is your appointment?",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 87,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "It’s next Wednesday at 10 AM.",
+          "speaker": "remote party",
+          "start_time": 87,
+          "end_time": 95,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Let me check our availability for that time. One moment, please.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Sure, no problem.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 110,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We have a caregiver available to provide transportation at that time. Shall I book it for you?",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 118,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Yes, please do.",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 121,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Perfect! I’ll confirm that booking along with your billing update.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That sounds good, Margaret. Thanks for your help today.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 131,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome, Frank! Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 136,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "No, that’s everything for now.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Alright, I’ll follow up with you soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 144,
+          "end_time": 146,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 146,
+          "end_time": 150,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552891",
+    "ooma_remote_name": "Frank Miller",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-409ce0b2cfd942aab1e08492",
+  "revision": "",
+  "status": "success"
+}
