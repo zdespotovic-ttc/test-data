@@ -1,0 +1,277 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-aed43c8c966b45f4a1222a8e",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947830439-9c864890",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-aed43c8c966b45f4a1222a8e",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "aed43c8c966b45f4a1222a8e",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-aed43c8c966b45f4a1222a8e",
+      "media_name": "ba5441dfdcdb42a3ab5b6c2a7e09e59b.mp3",
+      "scenario": "An unsatisfied first-time buyer calls to complain about the shoddy craftsmanship of a recently acquired item. Category: Service Complaint. Flags: quality_complaint. Customer type: new_customer."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is George Williams. I'm calling about a service issue. Hi George, I'm sorry to hear that. Can you tell me more about the issue? Well, I had a care visit last week for my cardiac monitoring, and I was really disappointed with the quality of service. I apologize for that, George. Can you specify what aspects were unsatisfactory? The nurse seemed rushed and didn’t check my vitals thoroughly. I expected more attention after my surgery. I completely understand your concern, and I’m sorry for the experience you had. It just felt like I wasn’t a priority, and I need more assurance with my recovery. I appreciate your feedback, George. I will definitely address this with our nursing team. Thank you, but I really want to ensure this doesn’t happen again. Absolutely, I’ll ensure we improve our service. Would you prefer to have a follow-up visit with a different nurse? Yes, that would be great. I want someone who can pay close attention. I can arrange that. Would you like me to set this up for next week? Yes, next week works for me. Perfect. I’ll make a note to schedule a nurse who specializes in cardiac care. Thank you. I’d appreciate that. Is there anything else you'd like to discuss regarding your care? Actually, I’m considering some personal care assistance for daily activities. We can definitely help with that. Our Personal Care Assistance is $28 to $35 per hour. That sounds reasonable. I’d like more information on how that works. I can connect you with our Care Coordinator, Lisa Chen, who can help develop a plan for you. That’d be helpful. Great! I’ll have her reach out to you after our call. Thank you, Margaret. I hope this will resolve my concerns. You’re welcome, George. I’m committed to making sure you receive the best care possible. I appreciate that. Thank you for bringing this to my attention. Have a good day! You too, goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I'm calling about a service issue.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George, I'm sorry to hear that. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I had a care visit last week for my cardiac monitoring, and I was really disappointed with the quality of service.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 19,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for that, George. Can you specify what aspects were unsatisfactory?",
+          "speaker": "local party",
+          "start_time": 19,
+          "end_time": 24,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "The nurse seemed rushed and didn’t check my vitals thoroughly. I expected more attention after my surgery.",
+          "speaker": "remote party",
+          "start_time": 24,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "I completely understand your concern, and I’m sorry for the experience you had.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 37,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "It just felt like I wasn’t a priority, and I need more assurance with my recovery.",
+          "speaker": "remote party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I appreciate your feedback, George. I will definitely address this with our nursing team.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Thank you, but I really want to ensure this doesn’t happen again.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 54,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I’ll ensure we improve our service. Would you prefer to have a follow-up visit with a different nurse?",
+          "speaker": "local party",
+          "start_time": 54,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be great. I want someone who can pay close attention.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can arrange that. Would you like me to set this up for next week?",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, next week works for me.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Perfect. I’ll make a note to schedule a nurse who specializes in cardiac care.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 81,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Thank you. I’d appreciate that.",
+          "speaker": "remote party",
+          "start_time": 81,
+          "end_time": 86,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Is there anything else you'd like to discuss regarding your care?",
+          "speaker": "local party",
+          "start_time": 86,
+          "end_time": 92,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Actually, I’m considering some personal care assistance for daily activities.",
+          "speaker": "remote party",
+          "start_time": 92,
+          "end_time": 98,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "We can definitely help with that. Our Personal Care Assistance is $28 to $35 per hour.",
+          "speaker": "local party",
+          "start_time": 98,
+          "end_time": 104,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds reasonable. I’d like more information on how that works.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 110,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I can connect you with our Care Coordinator, Lisa Chen, who can help develop a plan for you.",
+          "speaker": "local party",
+          "start_time": 110,
+          "end_time": 116,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "That’d be helpful.",
+          "speaker": "remote party",
+          "start_time": 116,
+          "end_time": 121,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Great! I’ll have her reach out to you after our call.",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I hope this will resolve my concerns.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 131,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome, George. I’m committed to making sure you receive the best care possible.",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 136,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 136,
+          "end_time": 142,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for bringing this to my attention. Have a good day!",
+          "speaker": "local party",
+          "start_time": 142,
+          "end_time": 146,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 146,
+          "end_time": 150,
+          "channel": "right",
+          "id": 27
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-aed43c8c966b45f4a1222a8e",
+  "revision": "",
+  "status": "success"
+}
