@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-ae2bfbaa83c04ea28138a16b",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818297-71556d2e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-ae2bfbaa83c04ea28138a16b",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 135,
+      "duration_ms": 135000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "ae2bfbaa83c04ea28138a16b",
+      "caller_id_number": "+13165559876",
+      "caller_id_name": "Rose Patterson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-ae2bfbaa83c04ea28138a16b",
+      "media_name": "41c9dcfddd504c559d2eb5eb0e785c9a.mp3",
+      "scenario": "A customer calls for urgent carpet cleaning services after spilling red wine. Category: Urgent Request. Flags: urgent_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 135.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, it’s Rose Patterson. I have an urgent situation—I spilled red wine on the carpet while helping my mother with her dinner. Oh no, I'm sorry to hear that, Rose! I can imagine that must be stressful. Yes, it is! The stains are really bad, and I need help ASAP before it sets in. I understand completely. Unfortunately, we don't provide cleaning services. However, I can recommend a local carpet cleaning service if that helps. That would be great, thank you. But I also want to make sure my mother is comfortable while this is happening. Absolutely, I can help with that. Would you like to schedule a caregiver for her while the cleaning is done? Yes, please! I need someone familiar who can keep her company. Let me check our schedule. We have a caregiver available who has been with your mother before. Would you like me to book them? Yes, please do. That would be perfect. Great! I’ll book the caregiver for two hours starting at 5 PM. Sounds good. Is that caregiver familiar with her Alzheimer’s needs? Yes, they’re experienced with dementia and Alzheimer’s care, so they’ll be a great fit. Thank you so much, Margaret. What will the cost be for the caregiver? The personal care assistance is priced at $28 to $35 per hour, depending on the level of care needed. Okay, that’s manageable. I appreciate your help with this. You’re welcome, Rose! I’ll send a confirmation with the details once I finalize the booking. Perfect! And could you also send me that carpet cleaning service info? Of course! I’ll include that in the email along with the caregiver details. Thank you, Margaret. You’ve been a lifesaver today! I’m glad to help, Rose! Is there anything else I can assist you with? No, just the confirmation will be great. Thank you! You’re welcome! Expect the confirmation shortly, and take care! Bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, it’s Rose Patterson. I have an urgent situation—I spilled red wine on the carpet while helping my mother with her dinner.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Oh no, I'm sorry to hear that, Rose! I can imagine that must be stressful.",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, it is! The stains are really bad, and I need help ASAP before it sets in.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand completely. Unfortunately, we don't provide cleaning services. However, I can recommend a local carpet cleaning service if that helps.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "That would be great, thank you. But I also want to make sure my mother is comfortable while this is happening.",
+          "speaker": "remote party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I can help with that. Would you like to schedule a caregiver for her while the cleaning is done?",
+          "speaker": "local party",
+          "start_time": 34,
+          "end_time": 40,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, please! I need someone familiar who can keep her company.",
+          "speaker": "remote party",
+          "start_time": 40,
+          "end_time": 45,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Let me check our schedule. We have a caregiver available who has been with your mother before. Would you like me to book them?",
+          "speaker": "local party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Yes, please do. That would be perfect.",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 57,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Great! I’ll book the caregiver for two hours starting at 5 PM.",
+          "speaker": "local party",
+          "start_time": 57,
+          "end_time": 64,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Sounds good. Is that caregiver familiar with her Alzheimer’s needs?",
+          "speaker": "remote party",
+          "start_time": 64,
+          "end_time": 69,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, they’re experienced with dementia and Alzheimer’s care, so they’ll be a great fit.",
+          "speaker": "local party",
+          "start_time": 69,
+          "end_time": 75,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you so much, Margaret. What will the cost be for the caregiver?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "The personal care assistance is priced at $28 to $35 per hour, depending on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Okay, that’s manageable. I appreciate your help with this.",
+          "speaker": "remote party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "You’re welcome, Rose! I’ll send a confirmation with the details once I finalize the booking.",
+          "speaker": "local party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Perfect! And could you also send me that carpet cleaning service info?",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course! I’ll include that in the email along with the caregiver details.",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 108,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Thank you, Margaret. You’ve been a lifesaver today!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 114,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I’m glad to help, Rose! Is there anything else I can assist you with?",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 118,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "No, just the confirmation will be great. Thank you!",
+          "speaker": "remote party",
+          "start_time": 118,
+          "end_time": 123,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You’re welcome! Expect the confirmation shortly, and take care!",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 129,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Bye!",
+          "speaker": "remote party",
+          "start_time": 129,
+          "end_time": 132,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 135,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165559876",
+    "ooma_remote_name": "Rose Patterson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-ae2bfbaa83c04ea28138a16b",
+  "revision": "",
+  "status": "success"
+}
