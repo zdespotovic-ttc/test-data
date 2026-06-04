@@ -1,0 +1,333 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-04T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-8ac31c9d2c4d4832a6e8c04f",
+    "created": 1780556400,
+    "modified": 1780556400
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63947818386-c9c9aea4",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-8ac31c9d2c4d4832a6e8c04f",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 150,
+      "duration_ms": 150000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63947775600,
+      "call_id": "8ac31c9d2c4d4832a6e8c04f",
+      "caller_id_number": "+13165555832",
+      "caller_id_name": "Mark Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-8ac31c9d2c4d4832a6e8c04f",
+      "media_name": "724f2492002146a7aa05f77d228a70ef.mp3",
+      "scenario": "A customer decides to cancel their lawn maintenance service due to repeated scheduling conflicts. Category: Cancellation. Flags: cancellation_request."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 150.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi, Margaret. My name is Mark Johnson, and I'm looking for some help for my elderly parents. Hi, Mark! I’d be happy to assist you with that. What kind of help do your parents need? They need assistance with medication management and transportation to their appointments. Absolutely, we can help with both of those services. Our medication management is priced at $65 to $80, depending on the specifics. Okay, that sounds reasonable. What about the transportation services? Our transportation services are available for $45 to $65 per trip, depending on the distance. Great! I think that could work for us. But I do have a concern… Of course, what’s on your mind? I’ve been hearing that services sometimes get rescheduled. I want to make sure my parents won’t have issues like that. I understand your concerns, Mark. We strive for timely and consistent service, but I can look into that for you. That would be great. I really want to avoid any scheduling conflicts. Absolutely. We can create a care plan that prioritizes their needs. That sounds good. One more thing… Sure, go ahead. I also need to cancel my lawn maintenance service due to repeated scheduling conflicts. I’m sorry to hear that. Would you like me to assist with that cancellation process? Yes, please. It’s been quite frustrating. I completely understand. I’ll need to take down some details to process that for you. Sure, what do you need? Can I have your account number and the reason for cancellation? My account number is 123456, and the reason is repeated scheduling conflicts. Thank you, Mark. I’ll process that cancellation for you right after this call. I appreciate that. No problem! Once we finalize the cancellation, let’s focus on your parents’ needs. Yes, definitely. What’s the next step? I’d like to set up an initial consultation to evaluate their specific requirements. That sounds great. When can we schedule that? I can schedule you for this week. How does Thursday at 10 AM look? Thursday works for me. Perfect! I’ll send you a confirmation email with all the details. Thank you, Margaret. I appreciate your help today. You’re welcome, Mark! If you have any other questions, just give us a call. Will do. Have a great day! You too, Mark. Take care!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 2,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi, Margaret. My name is Mark Johnson, and I'm looking for some help for my elderly parents.",
+          "speaker": "remote party",
+          "start_time": 2,
+          "end_time": 7,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Mark! I’d be happy to assist you with that. What kind of help do your parents need?",
+          "speaker": "local party",
+          "start_time": 7,
+          "end_time": 11,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "They need assistance with medication management and transportation to their appointments.",
+          "speaker": "remote party",
+          "start_time": 11,
+          "end_time": 16,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Absolutely, we can help with both of those services. Our medication management is priced at $65 to $80, depending on the specifics.",
+          "speaker": "local party",
+          "start_time": 16,
+          "end_time": 20,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Okay, that sounds reasonable. What about the transportation services?",
+          "speaker": "remote party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Our transportation services are available for $45 to $65 per trip, depending on the distance.",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Great! I think that could work for us. But I do have a concern…",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Of course, what’s on your mind?",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 38,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I’ve been hearing that services sometimes get rescheduled. I want to make sure my parents won’t have issues like that.",
+          "speaker": "remote party",
+          "start_time": 38,
+          "end_time": 43,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand your concerns, Mark. We strive for timely and consistent service, but I can look into that for you.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That would be great. I really want to avoid any scheduling conflicts.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 52,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely. We can create a care plan that prioritizes their needs.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "That sounds good. One more thing…",
+          "speaker": "remote party",
+          "start_time": 56,
+          "end_time": 60,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Sure, go ahead.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 63,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I also need to cancel my lawn maintenance service due to repeated scheduling conflicts.",
+          "speaker": "remote party",
+          "start_time": 63,
+          "end_time": 67,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "I’m sorry to hear that. Would you like me to assist with that cancellation process?",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 72,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. It’s been quite frustrating.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 76,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "I completely understand. I’ll need to take down some details to process that for you.",
+          "speaker": "local party",
+          "start_time": 76,
+          "end_time": 80,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Sure, what do you need?",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Can I have your account number and the reason for cancellation?",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "My account number is 123456, and the reason is repeated scheduling conflicts.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Thank you, Mark. I’ll process that cancellation for you right after this call.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 100,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "I appreciate that.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 104,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "No problem! Once we finalize the cancellation, let’s focus on your parents’ needs.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Yes, definitely. What’s the next step?",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "I’d like to set up an initial consultation to evaluate their specific requirements.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "That sounds great. When can we schedule that?",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "I can schedule you for this week. How does Thursday at 10 AM look?",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 126,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "Thursday works for me.",
+          "speaker": "remote party",
+          "start_time": 126,
+          "end_time": 130,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Perfect! I’ll send you a confirmation email with all the details.",
+          "speaker": "local party",
+          "start_time": 130,
+          "end_time": 134,
+          "channel": "left",
+          "id": 30
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 134,
+          "end_time": 139,
+          "channel": "right",
+          "id": 31
+        },
+        {
+          "text": "You’re welcome, Mark! If you have any other questions, just give us a call.",
+          "speaker": "local party",
+          "start_time": 139,
+          "end_time": 143,
+          "channel": "left",
+          "id": 32
+        },
+        {
+          "text": "Will do. Have a great day!",
+          "speaker": "remote party",
+          "start_time": 143,
+          "end_time": 147,
+          "channel": "right",
+          "id": 33
+        },
+        {
+          "text": "You too, Mark. Take care!",
+          "speaker": "local party",
+          "start_time": 147,
+          "end_time": 150,
+          "channel": "left",
+          "id": 34
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555832",
+    "ooma_remote_name": "Mark Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-8ac31c9d2c4d4832a6e8c04f",
+  "revision": "",
+  "status": "success"
+}
