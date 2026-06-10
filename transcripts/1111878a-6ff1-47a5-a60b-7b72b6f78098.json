@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-10T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2546bdd036b64948ac50c6f0",
+    "created": 1781074800,
+    "modified": 1781074800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63948340197-9bf3c48f",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2546bdd036b64948ac50c6f0",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 131,
+      "duration_ms": 131000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63948294000,
+      "call_id": "2546bdd036b64948ac50c6f0",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2546bdd036b64948ac50c6f0",
+      "media_name": "fba242b50a2a414eaf4544a52a36a90d.mp3",
+      "scenario": "A VIP client is upset because the lawn maintenance service was not performed to the expected standard. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 131.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you? Hi Margaret, this is Helen Johnson. I’m calling about an issue with my lawn maintenance service. Hi Helen, I’m so sorry to hear that. Can you tell me more about the issue? Well, the lawn wasn’t cut properly this week, and it looks quite unkempt. It’s really disappointing. I understand how frustrating that must be. When did the service last take place? It was supposed to be done last Tuesday, but the quality was not up to standard. Thank you for that information, Helen. I’ll make sure to address this right away. I appreciate that, but I really expected better service. Absolutely, and your expectations are valid. I will speak with our maintenance team about this matter. I hope they can rectify it quickly. It’s important for my home’s appearance. Of course, I can definitely understand that. Would you like me to schedule a re-service for you? Yes, that would be great. Can we do it by the end of the week? Let me check availability. We can send someone out on Friday. Does that work for you? Yes, that works perfectly. Thank you! You’re welcome! I’ll note that down. Also, is there anything else you need help with today? Actually, I was wondering if you have any updates on my physical therapy sessions. Yes, I can help with that. Would you like to continue with Dr. Rodriguez? Yes, I’d like to keep my sessions with him. Great! I’ll go ahead and schedule you for next week. Perfect, thank you. You’re welcome, Helen! Just to confirm, your therapy will be on Tuesday and the lawn maintenance on Friday. Yes, that’s correct. I appreciate your help today. It’s my pleasure. I’ll make sure to follow up on the lawn quality as well. Thank you, I hope to see better results! You will, Helen. We’re committed to providing the best service possible. I really appreciate that, Margaret. Thank you for your understanding. Have a great rest of your day! You too, bye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking, how can I help you?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I’m calling about an issue with my lawn maintenance service.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Helen, I’m so sorry to hear that. Can you tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the lawn wasn’t cut properly this week, and it looks quite unkempt. It’s really disappointing.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand how frustrating that must be. When did the service last take place?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It was supposed to be done last Tuesday, but the quality was not up to standard.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for that information, Helen. I’ll make sure to address this right away.",
+          "speaker": "local party",
+          "start_time": 27,
+          "end_time": 32,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "I appreciate that, but I really expected better service.",
+          "speaker": "remote party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Absolutely, and your expectations are valid. I will speak with our maintenance team about this matter.",
+          "speaker": "local party",
+          "start_time": 36,
+          "end_time": 42,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I hope they can rectify it quickly. It’s important for my home’s appearance.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 47,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Of course, I can definitely understand that. Would you like me to schedule a re-service for you?",
+          "speaker": "local party",
+          "start_time": 47,
+          "end_time": 52,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "Yes, that would be great. Can we do it by the end of the week?",
+          "speaker": "remote party",
+          "start_time": 52,
+          "end_time": 56,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Let me check availability. We can send someone out on Friday. Does that work for you?",
+          "speaker": "local party",
+          "start_time": 56,
+          "end_time": 61,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that works perfectly. Thank you!",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 65,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "You’re welcome! I’ll note that down. Also, is there anything else you need help with today?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, I was wondering if you have any updates on my physical therapy sessions.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Yes, I can help with that. Would you like to continue with Dr. Rodriguez?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, I’d like to keep my sessions with him.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 84,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Great! I’ll go ahead and schedule you for next week.",
+          "speaker": "local party",
+          "start_time": 84,
+          "end_time": 89,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Perfect, thank you.",
+          "speaker": "remote party",
+          "start_time": 89,
+          "end_time": 94,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "You’re welcome, Helen! Just to confirm, your therapy will be on Tuesday and the lawn maintenance on Friday.",
+          "speaker": "local party",
+          "start_time": 94,
+          "end_time": 99,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that’s correct. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 104,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "It’s my pleasure. I’ll make sure to follow up on the lawn quality as well.",
+          "speaker": "local party",
+          "start_time": 104,
+          "end_time": 108,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, I hope to see better results!",
+          "speaker": "remote party",
+          "start_time": 108,
+          "end_time": 113,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You will, Helen. We’re committed to providing the best service possible.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 117,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "I really appreciate that, Margaret.",
+          "speaker": "remote party",
+          "start_time": 117,
+          "end_time": 121,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Thank you for your understanding. Have a great rest of your day!",
+          "speaker": "local party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 129,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 129,
+          "end_time": 131,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2546bdd036b64948ac50c6f0",
+  "revision": "",
+  "status": "success"
+}
