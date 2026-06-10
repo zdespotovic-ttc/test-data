@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-10T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-dcadbe0d9aaf4b69995db61c",
+    "created": 1781074800,
+    "modified": 1781074800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63948340247-530e93a0",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-dcadbe0d9aaf4b69995db61c",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 160,
+      "duration_ms": 160000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63948294000,
+      "call_id": "dcadbe0d9aaf4b69995db61c",
+      "caller_id_number": "+13165552580",
+      "caller_id_name": "Helen Johnson",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-dcadbe0d9aaf4b69995db61c",
+      "media_name": "db7d9ecda8fb4ae5a823a5c62f4cf517.mp3",
+      "scenario": "A returning customer reports that the plumbing repair did not resolve the issue as promised. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 160.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Helen Johnson. I hope you're doing well. Hi, Helen! I’m doing well, thank you. How can I help you today? I’m calling because I have an issue with the plumbing repair service. It didn't resolve the issue like I was promised. I'm sorry to hear that, Helen. Can you tell me more about the problem? Well, I still have water leaking in the bathroom, and it’s just as bad as before. I thought it would be fixed. That's definitely frustrating. I understand why you're concerned. Yes, it’s really inconvenient, especially since I’m still recovering from my shoulder surgery. I totally get that. We want to make sure you’re comfortable at home. Let me gather some details. Sure, I’ve already provided all the information before. I was hoping it would be resolved after the last visit. I understand. Can you confirm the date of the last service visit for the plumbing? It was last Thursday. The technician assured me it was fixed. Thank you for that. I’ll follow up with our maintenance team about the technician's notes. I’d appreciate that. I just don’t want to deal with this anymore. Absolutely, Helen. I’ll escalate this issue and ensure we have someone look at it again. Will I have to pay for another visit? No, since the issue was not resolved, we will handle this at no additional cost to you. Thank you, I really appreciate that. Of course! I also wanted to check in on your physical therapy. How has that been going? It's been going well, but I think I might need additional sessions soon. We can absolutely arrange that. Would you like me to set up a meeting with Dr. Rodriguez? Yes, that would be great. Perfect. I’ll make sure to include that when I follow up on the plumbing issue. Thank you, Margaret. It’s nice to know you’re handling this. No problem at all, Helen. I’ll call you back once I have updates on both matters. Sounds good. Thank you again for your help! You’re welcome! Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Helen Johnson. I hope you're doing well.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi, Helen! I’m doing well, thank you. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 13,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "I’m calling because I have an issue with the plumbing repair service. It didn't resolve the issue like I was promised.",
+          "speaker": "remote party",
+          "start_time": 13,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I'm sorry to hear that, Helen. Can you tell me more about the problem?",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Well, I still have water leaking in the bathroom, and it’s just as bad as before. I thought it would be fixed.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 32,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "That's definitely frustrating. I understand why you're concerned.",
+          "speaker": "local party",
+          "start_time": 32,
+          "end_time": 36,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Yes, it’s really inconvenient, especially since I’m still recovering from my shoulder surgery.",
+          "speaker": "remote party",
+          "start_time": 36,
+          "end_time": 43,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I totally get that. We want to make sure you’re comfortable at home. Let me gather some details.",
+          "speaker": "local party",
+          "start_time": 43,
+          "end_time": 48,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Sure, I’ve already provided all the information before. I was hoping it would be resolved after the last visit.",
+          "speaker": "remote party",
+          "start_time": 48,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I understand. Can you confirm the date of the last service visit for the plumbing?",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 61,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "It was last Thursday. The technician assured me it was fixed.",
+          "speaker": "remote party",
+          "start_time": 61,
+          "end_time": 66,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Thank you for that. I’ll follow up with our maintenance team about the technician's notes.",
+          "speaker": "local party",
+          "start_time": 66,
+          "end_time": 72,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I’d appreciate that. I just don’t want to deal with this anymore.",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 78,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Absolutely, Helen. I’ll escalate this issue and ensure we have someone look at it again.",
+          "speaker": "local party",
+          "start_time": 78,
+          "end_time": 84,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Will I have to pay for another visit?",
+          "speaker": "remote party",
+          "start_time": 84,
+          "end_time": 91,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "No, since the issue was not resolved, we will handle this at no additional cost to you.",
+          "speaker": "local party",
+          "start_time": 91,
+          "end_time": 96,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Thank you, I really appreciate that.",
+          "speaker": "remote party",
+          "start_time": 96,
+          "end_time": 102,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Of course! I also wanted to check in on your physical therapy. How has that been going?",
+          "speaker": "local party",
+          "start_time": 102,
+          "end_time": 109,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "It's been going well, but I think I might need additional sessions soon.",
+          "speaker": "remote party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "We can absolutely arrange that. Would you like me to set up a meeting with Dr. Rodriguez?",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 120,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, that would be great.",
+          "speaker": "remote party",
+          "start_time": 120,
+          "end_time": 126,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect. I’ll make sure to include that when I follow up on the plumbing issue.",
+          "speaker": "local party",
+          "start_time": 126,
+          "end_time": 132,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. It’s nice to know you’re handling this.",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 140,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "No problem at all, Helen. I’ll call you back once I have updates on both matters.",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Sounds good. Thank you again for your help!",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 151,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "You’re welcome! Have a great day!",
+          "speaker": "local party",
+          "start_time": 151,
+          "end_time": 155,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 157,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 157,
+          "end_time": 160,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552580",
+    "ooma_remote_name": "Helen Johnson",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-dcadbe0d9aaf4b69995db61c",
+  "revision": "",
+  "status": "success"
+}
