@@ -1,0 +1,253 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-10T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-425941bd0bb44eb0b4d08ba6",
+    "created": 1781074800,
+    "modified": 1781074800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63948340296-cd43b610",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-425941bd0bb44eb0b4d08ba6",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 165,
+      "duration_ms": 165000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63948294000,
+      "call_id": "425941bd0bb44eb0b4d08ba6",
+      "caller_id_number": "+13165553749",
+      "caller_id_name": "Susan Garcia",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-425941bd0bb44eb0b4d08ba6",
+      "media_name": "adab3579f98047739f59976a57ea9289.mp3",
+      "scenario": "A customer calls about an unexpected charge on their bill, disputing that they never agreed to the service. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 165.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is Susan Garcia. I'm calling because I noticed an unexpected charge on my father's bill. I'm sorry to hear that, Susan. Can you provide me with a bit more detail about the charge? Yes, there’s a service charge for respiratory care that I don’t recall agreeing to. I understand your concern. Let me check your father's account for those details. One moment, please. Sure, take your time. I just want to make sure we’re only paying for the services we agreed upon. Thank you for your patience, Susan. It appears there was a charge for respiratory therapy sessions. Was your father receiving those services? No, he wasn't. He has COPD, but we specifically requested only breathing treatments at home. I see. It sounds like there may have been a misunderstanding about the services provided. I can help resolve this. That would be great. I'm really concerned about the charge. Absolutely, I’ll initiate a review of this bill and ensure you’re not charged for services you didn’t consent to. I appreciate that. When can I expect to hear back? I should have an update within 48 hours. I’ll follow up with you directly on your phone number, +13165553749. Thank you. That sounds good. Additionally, if your father needs ongoing respiratory care, we can help set that up properly moving forward. Yes, I’d like to know more about that. What would that entail? We can provide regular breathing treatments and monitor his condition with our skilled nursing team. That sounds helpful. What are the costs associated with that service? The skilled nursing care for respiratory therapy is between $95 and $125 per visit, typically lasting 1-2 hours. Okay, I’ll think about it. I just want to make sure everything is clear first. Absolutely, I’ll sort out the current billing issue first, and we can discuss ongoing services after. Thank you, Margaret. I appreciate your help today. You're welcome, Susan. I’ll be in touch soon. Have a great day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Susan Garcia. I'm calling because I noticed an unexpected charge on my father's bill.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "I'm sorry to hear that, Susan. Can you provide me with a bit more detail about the charge?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, there’s a service charge for respiratory care that I don’t recall agreeing to.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 22,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Let me check your father's account for those details. One moment, please.",
+          "speaker": "local party",
+          "start_time": 22,
+          "end_time": 27,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Sure, take your time. I just want to make sure we’re only paying for the services we agreed upon.",
+          "speaker": "remote party",
+          "start_time": 27,
+          "end_time": 37,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for your patience, Susan. It appears there was a charge for respiratory therapy sessions. Was your father receiving those services?",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 45,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "No, he wasn't. He has COPD, but we specifically requested only breathing treatments at home.",
+          "speaker": "remote party",
+          "start_time": 45,
+          "end_time": 52,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I see. It sounds like there may have been a misunderstanding about the services provided. I can help resolve this.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 62,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "That would be great. I'm really concerned about the charge.",
+          "speaker": "remote party",
+          "start_time": 62,
+          "end_time": 67,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, I’ll initiate a review of this bill and ensure you’re not charged for services you didn’t consent to.",
+          "speaker": "local party",
+          "start_time": 67,
+          "end_time": 75,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I appreciate that. When can I expect to hear back?",
+          "speaker": "remote party",
+          "start_time": 75,
+          "end_time": 82,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I should have an update within 48 hours. I’ll follow up with you directly on your phone number, +13165553749.",
+          "speaker": "local party",
+          "start_time": 82,
+          "end_time": 90,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Thank you. That sounds good.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Additionally, if your father needs ongoing respiratory care, we can help set that up properly moving forward.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 102,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Yes, I’d like to know more about that. What would that entail?",
+          "speaker": "remote party",
+          "start_time": 102,
+          "end_time": 109,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "We can provide regular breathing treatments and monitor his condition with our skilled nursing team.",
+          "speaker": "local party",
+          "start_time": 109,
+          "end_time": 115,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "That sounds helpful. What are the costs associated with that service?",
+          "speaker": "remote party",
+          "start_time": 115,
+          "end_time": 122,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "The skilled nursing care for respiratory therapy is between $95 and $125 per visit, typically lasting 1-2 hours.",
+          "speaker": "local party",
+          "start_time": 122,
+          "end_time": 130,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "Okay, I’ll think about it. I just want to make sure everything is clear first.",
+          "speaker": "remote party",
+          "start_time": 130,
+          "end_time": 138,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "Absolutely, I’ll sort out the current billing issue first, and we can discuss ongoing services after.",
+          "speaker": "local party",
+          "start_time": 138,
+          "end_time": 144,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help today.",
+          "speaker": "remote party",
+          "start_time": 144,
+          "end_time": 150,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "You're welcome, Susan. I’ll be in touch soon. Have a great day!",
+          "speaker": "local party",
+          "start_time": 150,
+          "end_time": 155,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 155,
+          "end_time": 160,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "left",
+          "id": 24
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553749",
+    "ooma_remote_name": "Susan Garcia",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-425941bd0bb44eb0b4d08ba6",
+  "revision": "",
+  "status": "success"
+}
