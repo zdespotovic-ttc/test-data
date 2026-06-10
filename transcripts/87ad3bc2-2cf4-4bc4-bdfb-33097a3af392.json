@@ -1,0 +1,269 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-10T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-2951135eb8a64616a3566399",
+    "created": 1781074800,
+    "modified": 1781074800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63948340181-ca464a5e",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-2951135eb8a64616a3566399",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 176,
+      "duration_ms": 176000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63948294000,
+      "call_id": "2951135eb8a64616a3566399",
+      "caller_id_number": "+13165553690",
+      "caller_id_name": "Edward Martinez",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-2951135eb8a64616a3566399",
+      "media_name": "4e7350e3bd274200ad7a83dfe65fadef.mp3",
+      "scenario": "A returning customer complains that the paint job done a week ago has started to peel off. Category: Service Complaint. Flags: quality_complaint."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 176.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today? Hi Margaret, this is Edward Martinez. I'm calling about a concern with the respite care services we had last week. Hi Edward, I remember you. I hope you and your wife are doing well. What's the issue you’re facing? Well, the caregiver we had last week was great, but I noticed some paint in our living room is peeling off since the care visit. Oh no, I’m really sorry to hear that. Can you tell me when exactly you noticed the peeling? I saw it just a couple of days after the caregiver left, so it’s been about five days now. Thank you for that information. It’s important for us to document this. Did the caregiver do any activities that might have caused it? Not that I’m aware of. They mainly focused on helping me with daily activities. I just don’t understand why it would start peeling now. I completely understand your frustration, Edward. We take quality seriously. I’ll make sure to escalate this to our management team. I appreciate that, but I also need to know how you’ll address the damage. Absolutely, we will look into it. I can arrange for someone to assess the situation and discuss possible repairs. That sounds good. What’s the timeline on that? I can have someone reach out to schedule an assessment by the end of the week. Would that work for you? Yes, that would be fine. Great! I’ll also follow up to ensure you’re satisfied with the resolution. Is there anything else I can assist you with today? Actually, I was wondering if you could provide more regular respite care sessions for my wife. She needs more breaks. Certainly! We can arrange more regular visits. Let me take your preferences so we can start scheduling those. Yes, please. She usually needs care on Tuesdays and Thursdays. Got it. Would you like to schedule two hours of care on those days? That works for me. What would the cost be? For personal care assistance, it’s $28 to $35 per hour. Would you like me to proceed with that? Yes, let’s go ahead and set that up. Perfect! I’ll finalize those details and send you a confirmation. Thank you for your patience, Edward. Thank you, Margaret. I appreciate your help. You’re welcome! Have a great day, and we’ll be in touch soon. You too, goodbye. Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Edward Martinez. I'm calling about a concern with the respite care services we had last week.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 10,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Edward, I remember you. I hope you and your wife are doing well. What's the issue you’re facing?",
+          "speaker": "local party",
+          "start_time": 10,
+          "end_time": 15,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, the caregiver we had last week was great, but I noticed some paint in our living room is peeling off since the care visit.",
+          "speaker": "remote party",
+          "start_time": 15,
+          "end_time": 25,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "Oh no, I’m really sorry to hear that. Can you tell me when exactly you noticed the peeling?",
+          "speaker": "local party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "I saw it just a couple of days after the caregiver left, so it’s been about five days now.",
+          "speaker": "remote party",
+          "start_time": 30,
+          "end_time": 37,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Thank you for that information. It’s important for us to document this. Did the caregiver do any activities that might have caused it?",
+          "speaker": "local party",
+          "start_time": 37,
+          "end_time": 42,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Not that I’m aware of. They mainly focused on helping me with daily activities. I just don’t understand why it would start peeling now.",
+          "speaker": "remote party",
+          "start_time": 42,
+          "end_time": 52,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "I completely understand your frustration, Edward. We take quality seriously. I’ll make sure to escalate this to our management team.",
+          "speaker": "local party",
+          "start_time": 52,
+          "end_time": 58,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "I appreciate that, but I also need to know how you’ll address the damage.",
+          "speaker": "remote party",
+          "start_time": 58,
+          "end_time": 65,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "Absolutely, we will look into it. I can arrange for someone to assess the situation and discuss possible repairs.",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 72,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "That sounds good. What’s the timeline on that?",
+          "speaker": "remote party",
+          "start_time": 72,
+          "end_time": 80,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "I can have someone reach out to schedule an assessment by the end of the week. Would that work for you?",
+          "speaker": "local party",
+          "start_time": 80,
+          "end_time": 90,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "Yes, that would be fine.",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 96,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Great! I’ll also follow up to ensure you’re satisfied with the resolution. Is there anything else I can assist you with today?",
+          "speaker": "local party",
+          "start_time": 96,
+          "end_time": 104,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Actually, I was wondering if you could provide more regular respite care sessions for my wife. She needs more breaks.",
+          "speaker": "remote party",
+          "start_time": 104,
+          "end_time": 113,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Certainly! We can arrange more regular visits. Let me take your preferences so we can start scheduling those.",
+          "speaker": "local party",
+          "start_time": 113,
+          "end_time": 121,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "Yes, please. She usually needs care on Tuesdays and Thursdays.",
+          "speaker": "remote party",
+          "start_time": 121,
+          "end_time": 125,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "Got it. Would you like to schedule two hours of care on those days?",
+          "speaker": "local party",
+          "start_time": 125,
+          "end_time": 132,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That works for me. What would the cost be?",
+          "speaker": "remote party",
+          "start_time": 132,
+          "end_time": 137,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "For personal care assistance, it’s $28 to $35 per hour. Would you like me to proceed with that?",
+          "speaker": "local party",
+          "start_time": 137,
+          "end_time": 145,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, let’s go ahead and set that up.",
+          "speaker": "remote party",
+          "start_time": 145,
+          "end_time": 151,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Perfect! I’ll finalize those details and send you a confirmation. Thank you for your patience, Edward.",
+          "speaker": "local party",
+          "start_time": 151,
+          "end_time": 160,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you, Margaret. I appreciate your help.",
+          "speaker": "remote party",
+          "start_time": 160,
+          "end_time": 165,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! Have a great day, and we’ll be in touch soon.",
+          "speaker": "local party",
+          "start_time": 165,
+          "end_time": 170,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "You too, goodbye.",
+          "speaker": "remote party",
+          "start_time": 170,
+          "end_time": 173,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 173,
+          "end_time": 176,
+          "channel": "left",
+          "id": 26
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165553690",
+    "ooma_remote_name": "Edward Martinez",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-2951135eb8a64616a3566399",
+  "revision": "",
+  "status": "success"
+}
