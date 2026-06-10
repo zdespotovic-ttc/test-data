@@ -1,0 +1,301 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-10T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-240eecb91bf24028ac13f673",
+    "created": 1781074800,
+    "modified": 1781074800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63948340341-58b040ef",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-240eecb91bf24028ac13f673",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 195,
+      "duration_ms": 195000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63948294000,
+      "call_id": "240eecb91bf24028ac13f673",
+      "caller_id_number": "+13165555678",
+      "caller_id_name": "George Williams",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-240eecb91bf24028ac13f673",
+      "media_name": "269748d4d642469fae5841beb90dd5e0.mp3",
+      "scenario": "A loyal subscriber disputes a recent price hike that was not communicated beforehand. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 195.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today? Hi Margaret, this is George Williams. I’m calling about a billing issue. Hi George! It's great to hear from you. What seems to be the issue? Well, I noticed there was a price increase on my last bill, and I wasn’t informed about it beforehand. I apologize for that, George. Let me pull up your account to see what happened. Thanks, I appreciate it. I've been a loyal client for seven months, and I expect transparency. Absolutely, I understand your concern. Just one moment while I check your billing details. Okay, I see that we did adjust our rates recently, but I can confirm that you should have received a notification about it. I didn’t receive anything, and I would’ve appreciated a heads-up. I completely understand, and I’m really sorry for any inconvenience this has caused. The increase applies to the Cardiac Care Monitoring service, which is now $80-$100 per session. I see. But I was paying $70 before, and now it's a pretty significant hike. Yes, I understand that. It’s a tough situation, and we try to keep our pricing competitive while ensuring quality services. I just wish I had been informed about it beforehand. I count on these services. I completely get that, George. We value your loyalty, and I want to ensure you’re satisfied. I can flag your account for this feedback and discuss it with our billing department. That would be great. I’d also like to know if there are any options available to mitigate this increase. Absolutely, we sometimes offer package deals for ongoing services, which could save you some money. That sounds good. Can you tell me more about those options? Sure, we could look at a bundled service plan for your cardiac monitoring, which could lower your per-visit cost. That sounds promising. I’d like to explore that further. Let me note that down. I can have our Care Coordinator, Lisa Chen, reach out to you to go over the details. Perfect, I’d appreciate that. I’ll make sure Lisa contacts you within the next couple of days. Thank you, Margaret. I just want to make sure I’m getting good value for what I need. I completely understand, George. Your satisfaction is very important to us. Is there anything else you’d like to discuss while I have you on the line? No, that covers it. Thanks for your help today. You’re very welcome! Thank you for your patience, George. Have a great day! You too, bye! Bye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret speaking. How can I assist you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is George Williams. I’m calling about a billing issue.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi George! It's great to hear from you. What seems to be the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Well, I noticed there was a price increase on my last bill, and I wasn’t informed about it beforehand.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 20,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I apologize for that, George. Let me pull up your account to see what happened.",
+          "speaker": "local party",
+          "start_time": 20,
+          "end_time": 25,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "Thanks, I appreciate it. I've been a loyal client for seven months, and I expect transparency.",
+          "speaker": "remote party",
+          "start_time": 25,
+          "end_time": 30,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Absolutely, I understand your concern. Just one moment while I check your billing details.",
+          "speaker": "local party",
+          "start_time": 30,
+          "end_time": 35,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Okay, I see that we did adjust our rates recently, but I can confirm that you should have received a notification about it.",
+          "speaker": "local party",
+          "start_time": 35,
+          "end_time": 50,
+          "channel": "left",
+          "id": 7
+        },
+        {
+          "text": "I didn’t receive anything, and I would’ve appreciated a heads-up.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 8
+        },
+        {
+          "text": "I completely understand, and I’m really sorry for any inconvenience this has caused.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 9
+        },
+        {
+          "text": "The increase applies to the Cardiac Care Monitoring service, which is now $80-$100 per session.",
+          "speaker": "local party",
+          "start_time": 60,
+          "end_time": 66,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I see. But I was paying $70 before, and now it's a pretty significant hike.",
+          "speaker": "remote party",
+          "start_time": 66,
+          "end_time": 75,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Yes, I understand that. It’s a tough situation, and we try to keep our pricing competitive while ensuring quality services.",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "I just wish I had been informed about it beforehand. I count on these services.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 87,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "I completely get that, George. We value your loyalty, and I want to ensure you’re satisfied.",
+          "speaker": "local party",
+          "start_time": 87,
+          "end_time": 93,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "I can flag your account for this feedback and discuss it with our billing department.",
+          "speaker": "local party",
+          "start_time": 93,
+          "end_time": 100,
+          "channel": "left",
+          "id": 15
+        },
+        {
+          "text": "That would be great. I’d also like to know if there are any options available to mitigate this increase.",
+          "speaker": "remote party",
+          "start_time": 100,
+          "end_time": 105,
+          "channel": "right",
+          "id": 16
+        },
+        {
+          "text": "Absolutely, we sometimes offer package deals for ongoing services, which could save you some money.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 17
+        },
+        {
+          "text": "That sounds good. Can you tell me more about those options?",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 115,
+          "channel": "right",
+          "id": 18
+        },
+        {
+          "text": "Sure, we could look at a bundled service plan for your cardiac monitoring, which could lower your per-visit cost.",
+          "speaker": "local party",
+          "start_time": 115,
+          "end_time": 125,
+          "channel": "left",
+          "id": 19
+        },
+        {
+          "text": "That sounds promising. I’d like to explore that further.",
+          "speaker": "remote party",
+          "start_time": 125,
+          "end_time": 132,
+          "channel": "right",
+          "id": 20
+        },
+        {
+          "text": "Let me note that down. I can have our Care Coordinator, Lisa Chen, reach out to you to go over the details.",
+          "speaker": "local party",
+          "start_time": 132,
+          "end_time": 140,
+          "channel": "left",
+          "id": 21
+        },
+        {
+          "text": "Perfect, I’d appreciate that.",
+          "speaker": "remote party",
+          "start_time": 140,
+          "end_time": 145,
+          "channel": "right",
+          "id": 22
+        },
+        {
+          "text": "I’ll make sure Lisa contacts you within the next couple of days.",
+          "speaker": "local party",
+          "start_time": 145,
+          "end_time": 150,
+          "channel": "left",
+          "id": 23
+        },
+        {
+          "text": "Thank you, Margaret. I just want to make sure I’m getting good value for what I need.",
+          "speaker": "remote party",
+          "start_time": 150,
+          "end_time": 160,
+          "channel": "right",
+          "id": 24
+        },
+        {
+          "text": "I completely understand, George. Your satisfaction is very important to us.",
+          "speaker": "local party",
+          "start_time": 160,
+          "end_time": 167,
+          "channel": "left",
+          "id": 25
+        },
+        {
+          "text": "Is there anything else you’d like to discuss while I have you on the line?",
+          "speaker": "local party",
+          "start_time": 167,
+          "end_time": 175,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "No, that covers it. Thanks for your help today.",
+          "speaker": "remote party",
+          "start_time": 175,
+          "end_time": 180,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "You’re very welcome! Thank you for your patience, George. Have a great day!",
+          "speaker": "local party",
+          "start_time": 180,
+          "end_time": 185,
+          "channel": "left",
+          "id": 28
+        },
+        {
+          "text": "You too, bye!",
+          "speaker": "remote party",
+          "start_time": 185,
+          "end_time": 190,
+          "channel": "right",
+          "id": 29
+        },
+        {
+          "text": "Bye!",
+          "speaker": "local party",
+          "start_time": 190,
+          "end_time": 195,
+          "channel": "left",
+          "id": 30
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165555678",
+    "ooma_remote_name": "George Williams",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-240eecb91bf24028ac13f673",
+  "revision": "",
+  "status": "success"
+}
