@@ -1,0 +1,285 @@
+{
+  "version": "5.3",
+  "tokens": {
+    "consumed": 0,
+    "remaining": 0
+  },
+  "timestamp": "2026-06-10T07:00:00Z",
+  "request_id": "",
+  "node": "",
+  "metadata": {
+    "id": "202603-e34edf8c60cc4c0bb41734e5",
+    "created": 1781074800,
+    "modified": 1781074800
+  },
+  "data": {
+    "reverse_left_right_channel": false,
+    "interaction_id": "63948340354-d94a29ad",
+    "ooma_unsolicited_call_recording": false,
+    "call_record_id": "202603-e34edf8c60cc4c0bb41734e5",
+    "metadata": {
+      "direction": "inbound",
+      "duration": 144,
+      "duration_ms": 144000,
+      "owner_id": "55b12039b3b13f8987f8fb0c22e6821e",
+      "start": 63948294000,
+      "call_id": "e34edf8c60cc4c0bb41734e5",
+      "caller_id_number": "+13165552147",
+      "caller_id_name": "Karen Lewis",
+      "callee_id_number": "+13165559200",
+      "cdr_id": "202603-e34edf8c60cc4c0bb41734e5",
+      "media_name": "b6af0f5fd6014e729185b81c7d408ebe.mp3",
+      "scenario": "A business owner calls about a discrepancy on their latest bill, alleging they were overcharged. Category: Billing. Flags: billing_dispute."
+    },
+    "transcription": {
+      "language": "en",
+      "duration": 144.0,
+      "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today? Hi Margaret, this is Karen Lewis. I’m calling about a billing issue. Hi Karen, I’m sorry to hear that. Could you please tell me more about the issue? Yes, I received the latest bill and it seems like I was overcharged for my husband's care. I understand your concern. Can you tell me the specific service you're referring to? It’s for the post-surgery recovery care. I thought it was supposed to be $85 to $110 per visit, but I was charged $125. Let me check that for you, one moment please. Sure, take your time. Thank you for your patience, Karen. I see that your husband received additional services during the last visit, which may explain the higher charge. Additional services? I wasn't informed about that. I apologize for any confusion. The caregiver documented extra time for monitoring and assistance. I see. Can I get a detailed breakdown of those services? Absolutely, I can send you a detailed invoice via email. What’s the best email address for you? It’s karen.lewis@email.com. Got it. I’ll send that out right away. Anything else you need? Well, actually, I wanted to inquire about ongoing care for him after he comes home. Sure! We offer ongoing personal care assistance and skilled nursing options. What’s the pricing for personal care assistance? The cost is between $28 and $35 per hour, depending on the level of care needed. That sounds reasonable. I might want to set that up for him. I can connect you with our Care Coordinator, Lisa Chen, who can assist with that. Yes, please. Let me take a note to have Lisa reach out to you. Thank you. I appreciate it. You’re welcome! I’ll also follow up with the billing details by email. Great, thank you for your help today, Margaret. My pleasure, Karen. Have a wonderful day! You too, goodbye! Goodbye!",
+      "summary": "",
+      "segments": [
+        {
+          "text": "Thank you for calling CareFirst Home Health, this is Margaret. How can I help you today?",
+          "speaker": "local party",
+          "start_time": 0,
+          "end_time": 3,
+          "channel": "left",
+          "id": 0
+        },
+        {
+          "text": "Hi Margaret, this is Karen Lewis. I’m calling about a billing issue.",
+          "speaker": "remote party",
+          "start_time": 3,
+          "end_time": 8,
+          "channel": "right",
+          "id": 1
+        },
+        {
+          "text": "Hi Karen, I’m sorry to hear that. Could you please tell me more about the issue?",
+          "speaker": "local party",
+          "start_time": 8,
+          "end_time": 12,
+          "channel": "left",
+          "id": 2
+        },
+        {
+          "text": "Yes, I received the latest bill and it seems like I was overcharged for my husband's care.",
+          "speaker": "remote party",
+          "start_time": 12,
+          "end_time": 18,
+          "channel": "right",
+          "id": 3
+        },
+        {
+          "text": "I understand your concern. Can you tell me the specific service you're referring to?",
+          "speaker": "local party",
+          "start_time": 18,
+          "end_time": 22,
+          "channel": "left",
+          "id": 4
+        },
+        {
+          "text": "It’s for the post-surgery recovery care. I thought it was supposed to be $85 to $110 per visit, but I was charged $125.",
+          "speaker": "remote party",
+          "start_time": 22,
+          "end_time": 28,
+          "channel": "right",
+          "id": 5
+        },
+        {
+          "text": "Let me check that for you, one moment please.",
+          "speaker": "local party",
+          "start_time": 28,
+          "end_time": 34,
+          "channel": "left",
+          "id": 6
+        },
+        {
+          "text": "Sure, take your time.",
+          "speaker": "remote party",
+          "start_time": 34,
+          "end_time": 42,
+          "channel": "right",
+          "id": 7
+        },
+        {
+          "text": "Thank you for your patience, Karen. I see that your husband received additional services during the last visit, which may explain the higher charge.",
+          "speaker": "local party",
+          "start_time": 42,
+          "end_time": 50,
+          "channel": "left",
+          "id": 8
+        },
+        {
+          "text": "Additional services? I wasn't informed about that.",
+          "speaker": "remote party",
+          "start_time": 50,
+          "end_time": 55,
+          "channel": "right",
+          "id": 9
+        },
+        {
+          "text": "I apologize for any confusion. The caregiver documented extra time for monitoring and assistance.",
+          "speaker": "local party",
+          "start_time": 55,
+          "end_time": 60,
+          "channel": "left",
+          "id": 10
+        },
+        {
+          "text": "I see. Can I get a detailed breakdown of those services?",
+          "speaker": "remote party",
+          "start_time": 60,
+          "end_time": 65,
+          "channel": "right",
+          "id": 11
+        },
+        {
+          "text": "Absolutely, I can send you a detailed invoice via email. What’s the best email address for you?",
+          "speaker": "local party",
+          "start_time": 65,
+          "end_time": 70,
+          "channel": "left",
+          "id": 12
+        },
+        {
+          "text": "It’s karen.lewis@email.com.",
+          "speaker": "remote party",
+          "start_time": 70,
+          "end_time": 75,
+          "channel": "right",
+          "id": 13
+        },
+        {
+          "text": "Got it. I’ll send that out right away. Anything else you need?",
+          "speaker": "local party",
+          "start_time": 75,
+          "end_time": 80,
+          "channel": "left",
+          "id": 14
+        },
+        {
+          "text": "Well, actually, I wanted to inquire about ongoing care for him after he comes home.",
+          "speaker": "remote party",
+          "start_time": 80,
+          "end_time": 85,
+          "channel": "right",
+          "id": 15
+        },
+        {
+          "text": "Sure! We offer ongoing personal care assistance and skilled nursing options.",
+          "speaker": "local party",
+          "start_time": 85,
+          "end_time": 90,
+          "channel": "left",
+          "id": 16
+        },
+        {
+          "text": "What’s the pricing for personal care assistance?",
+          "speaker": "remote party",
+          "start_time": 90,
+          "end_time": 95,
+          "channel": "right",
+          "id": 17
+        },
+        {
+          "text": "The cost is between $28 and $35 per hour, depending on the level of care needed.",
+          "speaker": "local party",
+          "start_time": 95,
+          "end_time": 99,
+          "channel": "left",
+          "id": 18
+        },
+        {
+          "text": "That sounds reasonable. I might want to set that up for him.",
+          "speaker": "remote party",
+          "start_time": 99,
+          "end_time": 105,
+          "channel": "right",
+          "id": 19
+        },
+        {
+          "text": "I can connect you with our Care Coordinator, Lisa Chen, who can assist with that.",
+          "speaker": "local party",
+          "start_time": 105,
+          "end_time": 110,
+          "channel": "left",
+          "id": 20
+        },
+        {
+          "text": "Yes, please.",
+          "speaker": "remote party",
+          "start_time": 110,
+          "end_time": 114,
+          "channel": "right",
+          "id": 21
+        },
+        {
+          "text": "Let me take a note to have Lisa reach out to you.",
+          "speaker": "local party",
+          "start_time": 114,
+          "end_time": 119,
+          "channel": "left",
+          "id": 22
+        },
+        {
+          "text": "Thank you. I appreciate it.",
+          "speaker": "remote party",
+          "start_time": 119,
+          "end_time": 123,
+          "channel": "right",
+          "id": 23
+        },
+        {
+          "text": "You’re welcome! I’ll also follow up with the billing details by email.",
+          "speaker": "local party",
+          "start_time": 123,
+          "end_time": 127,
+          "channel": "left",
+          "id": 24
+        },
+        {
+          "text": "Great, thank you for your help today, Margaret.",
+          "speaker": "remote party",
+          "start_time": 127,
+          "end_time": 131,
+          "channel": "right",
+          "id": 25
+        },
+        {
+          "text": "My pleasure, Karen. Have a wonderful day!",
+          "speaker": "local party",
+          "start_time": 131,
+          "end_time": 135,
+          "channel": "left",
+          "id": 26
+        },
+        {
+          "text": "You too, goodbye!",
+          "speaker": "remote party",
+          "start_time": 135,
+          "end_time": 140,
+          "channel": "right",
+          "id": 27
+        },
+        {
+          "text": "Goodbye!",
+          "speaker": "local party",
+          "start_time": 140,
+          "end_time": 144,
+          "channel": "left",
+          "id": 28
+        }
+      ]
+    },
+    "ooma_call_type": "incoming",
+    "ooma_local_name": "User Two",
+    "ooma_local_number": "+16502182859",
+    "ooma_remote_number": "+13165552147",
+    "ooma_remote_name": "Karen Lewis",
+    "ooma_ext": "1002",
+    "ooma_resolution_code": "Call Complete"
+  },
+  "id": "202603-e34edf8c60cc4c0bb41734e5",
+  "revision": "",
+  "status": "success"
+}
